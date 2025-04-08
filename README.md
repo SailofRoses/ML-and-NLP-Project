@@ -4,7 +4,7 @@ Welcome! This repository showcases a selection of my applied machine learning an
 
 ---
 
-## 📌 Natural Language Processing (RSM317)
+## 📌 Natural Language Processing 
 
 ### 🧠 Sentiment Analysis for Product Quality
 - Built a sentiment classifier using **Keras** with deep learning architecture for product reviews.
@@ -20,7 +20,7 @@ Welcome! This repository showcases a selection of my applied machine learning an
 
 ---
 
-## 📌 Machine Learning in Finance (RSM338)
+## 📌 Machine Learning in Finance 
 
 ### 📈 ML-Driven Portfolio Optimization
 - Replicated Ao, Li, and Zheng (2019) by constructing a **minimum-variance frontier** for 103 assets.
