@@ -1,0 +1,458 @@
+ 
+ 
+ 
+ 
+Page 1 of 8 
+We recognize and acknowledge that McMaster University meets and learns on the traditional territories of the Mississauga and Haudenosaunee nations, and 
+within the lands protected by the “Dish With One Spoon” wampum, an agreement amongst all allied Nations to peaceably share and care for the resources 
+around the Great Lakes. 
+ 
+MATH 2FM3 – Introduction to Mathematical Finance  
+2023 Spring Term 
+ Instructor: Xuwei Yang 
+|  
+E-mail: yangx212@mcmaster.ca 
+| 
+Office: HH 103E 
+Office Hours: Wed, 3:00 pm – 4:00 pm and/or by appointment (either in-person or virtually)  
+ 
+Lecture 
+Days and Times: Tuesday and Thursday, 7:00 pm – 10:00 pm  
+Dates: May 1, 2023 – June 16, 2023  
+Classroom: ETB 235  
+Tutorial 
+Days and Times: Not Available  
+Tutors and Office Hours: Not Available  
+Materials & Fees  
+Textbook: Mathematics of Investment and Credit, 7th edition, by Samuel A. Broverman, published by 
+Actex Publications. There is an accompanying solutions manual whose purchase is optional 
+Calculator: Only the standard Casio fx 991 MS or MS Plus calculator is permitted. 
+ 
+Course Website 
+Course materials and announcements will be posted on Avenue to Learn. Please check it regularly.  
+ 
+Course Description 
+Nominal and eﬀective rates of interest and discount, forces of interest and discount, compound interest, 
+annuities certain; amortization, sinking funds, bonds, security evaluation, determination of yields; rates of 
+return, duration, immunization, swaps.  
+Prerequisite(s): One of MATH-1A03, 1LS3, 1M03, 1N03, 1X03, 1Z04, 1ZA3, ARTSSCI 1D06 A/B, ISCI 1A24 
+A/B  
+ 
+Anti-requisite(s): MATH 2K03  
+ 
+ 
+ 
+ 
+ 
+Page 2 of 8 
+ 
+Course and Learning Objectives 
+Upon completion of this course, the student will be able to: 
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: interest rate, simple interest, 
+compound interest, accumulation function, future value, current value, present value, net present value, 
+discount factor, discount rate, convertible m-thly, nominal rate, eﬀective rate, inﬂation and real rate of 
+interest, force of interest, equation of value. 
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: annuity-immediate, annuity due, 
+perpetuity, payable m-thly or payable continuously, level payment annuity, arithmetic 
+increasing/decreasing annuity, geometric increasing/decreasing annuity, term of annuity.  
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: principal, interest, term of loan, 
+outstanding balance, ﬁnal payment (drop payment, balloon payment), amortization. 
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: price, book value, amortization 
+of premium, accumulation of discount, redemption value, par value/face value, yield rate, coupon, 
+coupon rate, term of bond, callable/non-callable.  
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: yield rate/rate of return, dollar-
+weighted rate of return, time-weighted rate of return, current value, duration (Macaulay and modiﬁed), 
+convexity (Macaulay and modiﬁed), portfolio, spot rate, forward rate, yield curve, stock price, stock 
+dividend. 
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: cash ﬂow matching, 
+immunization (including full immunization), Redington immunization. 
+• Deﬁne, calculate, and recognize the deﬁnitions of the following terms: swap rate, swap term. 
+• Deﬁne, calculate, and recognize the key concepts concerning the determinants of interest rates and the 
+components of interest. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 8 
+ 
+Course Overview and Assessment  
+Topics  
+Topics 
+Chapter (7th Edition) 
+Schedule 
+Introduction and Interest Rate 
+Measurement 
+1  
+Week 1 
+Valuation of Annuities 
+2 
+Week 1-2 
+Loan Repayment 
+3 
+Week 2-3 
+Bond Valuation 
+4 
+Week 4 
+Measuring the Rate of Return of 
+an Investment 
+5 
+Week 4-5 
+The Term Structure of Interest 
+Rates 
+6 
+Week 5-6 
+Cashflow Duration and 
+Immunization 
+7 
+Week 6-7 
+Interest Rate SWAPS 
+8 
+Week 7 
+ 
+Evaluation 
+Evaluation of the course consists of assignments, labs, midterm tests and a final exam:  
+• There will be 5 assignments to be completed during the term.  Assignments will be completed online 
+using the internal assignment system. Information about the assignments, including the link, will be 
+provided on the course website on Avenue. Closing dates are posted on the assignment system. No late 
+assignments will be accepted. 
+• There will be 5 labs to be completed during the term. Labs will focus on the use of Excel and VBA to 
+answer problems related to the course material. Labs will be completed online using the internal 
+assignment system. Information about the assignments, including the link, will be provided on the course 
+website. Closing dates are posted on the assignment system. No late assignments will be accepted.  
+ 
+ 
+ 
+ 
+ 
+Page 4 of 8 
+ 
+• There will be 2 midterms, each lasting 60 minutes. More information, including the topics covered, will 
+be announced in class. The tentative dates of the midterms are TBA.  
+• There will be a 2.5-hour final exam at the end of the term. It will cover all course material.  
+ 
+  Grade Component 
+ Weight 
+Final Examination 
+40% 
+Midterm Tests 1, 2 
+40% = 20% + 20% 
+Labs 
+ 10% 
+Assignments 
+ 10% 
+ 
+Virtual Course Delivery 
+It is required that all students attend the in-person lectures. The lectures will be video recorded for 
+students to review after class.  
+To follow and participate in virtual classes it is expected that you have reliable access to the following:  
+• A computer that meets performance requirements found here.  
+• An internet connection that is fast enough to stream video.  
+• Computer accessories that enable class participation, such as a microphone, speakers and 
+webcam when needed.  
+If you think that you will not be able to meet these requirements, please contact uts@mcmaster.ca as 
+soon as you can. Please visit the Technology Resources for Students page for detailed requirements. If 
+you use assistive technology or believe that our platforms might be a barrier to participating, please 
+contact Student Accessibility Services, sas@mcmaster.ca, for support.  
+Requests for Relief for Missed Academic Term Work  
+McMaster Student Absence Form (MSAF):  In the event of an absence for medical or other reasons, 
+students should review and follow the Academic Regulation in the Undergraduate Calendar “Requests for 
+Relief for Missed Academic Term Work”.  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 8 
+ 
+MSAF Course Specific Information  
+Absences for a longer duration or for other reasons must be reported to your Faculty/Program oﬃce, 
+with documentation, and relief from term work may not necessarily be granted. The percentages of the 
+missed work will be transferred to the ﬁnal examination. Please note that the MSAF may not be used for 
+term work worth 25% or more. In particular, note that the MSAF cannot be used for the ﬁnal 
+examination. Finally, please note that for assessments where an MSAF is used, the missed weight of the 
+assessment will be moved to the ﬁnal exam.  
+Academic Accommodation of Students with Disabilities  
+Students with disabilities who require academic accommodation must contact Student Accessibility 
+Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program 
+Coordinator. For further information, consult McMaster University’s Academic Accommodation of 
+Students with Disabilities  policy.  
+Academic Accommodation for Religious, Indigenous Or Spiritual Observances (Riso)  
+Students requiring academic accommodation based on religious, indigenous or spiritual observances 
+should follow the procedures set out in the RISO policy. Students should submit their request to their 
+Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need 
+for accommodation or to the Registrar's Office prior to their examinations. Students should also contact 
+their instructors as soon as possible to make alternative arrangements for classes, assignments, and tests. 
+Courses with An On-Line Element  
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn (A2L), LearnLink, web pages, capa, 
+Moodle, ThinkingCap, etc.). Students should be aware that, when they access the electronic components 
+of a course using these elements, private information such as first and last names, user names for the 
+McMaster e-mail accounts, and program affiliation may become apparent to all other students in the 
+same course. The available information is dependent on the technology used. Continuation in a course 
+that uses on-line elements will be deemed consent to this disclosure. If you have any questions or 
+concerns about such disclosure, please discuss this with the course instructor.  
+Online Proctoring  
+ 
+ 
+ 
+ 
+Page 6 of 8 
+Some courses may use online proctoring software for tests and exams. This software may require 
+students to turn on their video camera, present identification, monitor and record their computer 
+activities, and/or lock/restrict their browser or other applications/software during tests or exams. This 
+software may be required to be installed before the test/exam begins.   
+ 
+Academic Integrity  
+You are expected to exhibit honesty and use ethical behavior in all aspects of the learning process. 
+Academic credentials you earn are rooted in principles of honesty and academic integrity.  
+It is your responsibility to understand what constitutes academic dishonesty.  
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in unearned 
+academic credit or advantage. This behavior can result in serious consequences, e.g. the grade of zero on 
+an assignment, loss of credit with a notation on the transcript (notation reads: “Grade of F assigned for 
+academic dishonesty”), and/or suspension or expulsion from the university. For information on the 
+various types of academic dishonesty please refer to the Academic Integrity Policy, located at 
+https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/  
+ 
+The following illustrates only three forms of academic dishonesty:  
+• plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+obtained. 
+• improper collaboration in group work.  
+• copying or using unauthorized aids in tests and examinations.  
+Authenticity / Plagiarism Detection  
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and ownership of 
+student submitted work. For courses using such software, students will be expected to submit their work 
+electronically either directly to Turnitin.com or via an online learning platform (e.g. A2L, etc.) using 
+plagiarism detection (a service supported by Turnitin.com) so it can be checked for academic dishonesty. 
+ 
+Students who do not wish their work to be submitted through the plagiarism detection software must 
+inform the Instructor before the assignment is due. No penalty will be assigned to a student who does not 
+submit work to the plagiarism detection software. All submitted work is subject to normal verification 
+that standards of academic integrity have been upheld (e.g., on-line search, other software, etc.). For 
+ 
+ 
+ 
+ 
+Page 7 of 8 
+more details about McMaster’s use of Turnitin.com please go to the McMaster Office of Academic 
+Integrity’s webpage. 
+Conduct Expectations  
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, 
+respectful and dignified interactions within all our living, learning and working communities. These 
+expectations are described in the Code of Student Rights & Responsibilities (the “Code”). All students 
+share the responsibility of maintaining a positive environment for the academic and personal growth of 
+all McMaster community members, whether in person or online.  
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in effect in virtual 
+learning environments. The Code applies to any interactions that adversely affect, disrupt, or interfere 
+with reasonable participation in University activities. Student disruptions or behaviors that interfere with 
+university functions on online platforms (e.g. use of Avenue 2 Learn, WebEx or Zoom for delivery), will be 
+taken very seriously and will be investigated. Outcomes may include restriction or removal of the involved 
+students’ access to these platforms.  
+Copyright and Recording  
+Students are advised that lectures, demonstrations, performances, and any other course material 
+provided by an instructor include copyright protected works. The Copyright Act and copyright law protect 
+every original literary, dramatic, musical and artistic work, including lectures by University instructors. 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. Recording 
+may be done by either the instructor for the purpose of authorized distribution, or by a student for the 
+purpose of personal study. Students should be aware that their voice and/or image may be recorded by 
+others during the class. Please speak with the instructor if this is a concern for you.  
+Research Ethics - NA  
+Extreme Circumstances  
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labor disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, A2L and/or McMaster email.  
+ 
+ 
+Page 1 of 4 
+ 
+We recognize and acknowledge that McMaster University meets and learns on the traditional territories of the Mississauga and Haudenosaunee nations, and 
+within the lands protected by the “Dish With One Spoon” wampum, an agreement amongst all allied Nations to peaceably share and care for the resources 
+around the Great Lakes. 
+ 
+MATH 3FM3 – MATHEMATICS OF FINANCE 
+2023 Fall Term  
+Instructor: Dr. Anas Abdallah | E-mail: anasabdallah@mcmaster.ca | Office Hours: Monday 2:30pm-4:00pm (HH-408) 
+COURSE DESCRIPTION  
+This course introduces financial markets and derivatives and to the mathematics of finance. Major topics include: 
+Forwards and Options, Trading strategies, Parity and other option relationships, Binomial Option Pricing, Exotic 
+options, Stochastic processes and the lognormal property of stock prices, Black-Scholes formula. The material, 
+together with MATH-4FM3, will form the basis of the material needed for the Investment and Financial Markets 
+(IFM) exam of the Society of Actuaries and the Financial Economics exam (3F) of the Casualty Actuarial Society (CAS). 
+Prerequisite(s): One of ISCI 2A18 A/B, MATH 2X03; and STATS 2D03 
+COURSE AND LEARNING OBJECTIVES 
+This course introduces financial markets and derivatives and the mathematics of finance. Students will learn the 
+following topics: Forwards and Options, Trading strategies, Parity and other option relationships, Binomial Option 
+Pricing, Exotic options, Stochastic processes and the lognormal property of stock prices, Black-Scholes formula. 
+Lecture: 
+• 
+Days and time: Monday-Wednesday-Thursday: 5:30pm - 6:20pm 
+• 
+Format: in-person -- Go over the slides, fill in the blanks, solve the examples and exercises. 
+• 
+Room: BSB-B136 (Mon & Wed) and BSB-B135 (Thurs). 
+Tutorial: 
+• 
+Tutor: Gujie Fu fug3@mcmasteru365.onmicrosoft.com 
+• 
+Day and time: T01 – Wednesday 1:30pm to 2:20pm & T02 – Wednesday 9:30am to 10:20am 
+• 
+Room: HH-109 (T01) and HSC-1A4 (T02). 
+• 
+TA Office hours: right after each tutorial (with Gujie Fu) 
+ 
+MATERIALS & FEES  
+REQUIRED MATERIALS/ RESOURCES  
+Textbook:  
+• Derivatives Markets (Third Edition), 2013, by McDonald, R.L., Pearson Education, ISBN: 978-0-32154-308-0. 
+https://campusstore.mcmaster.ca/cgi-
+mcm/ws/txsub.pl?wsTERMG1=234&wsDEPTG1=MATH&wsCOURSEG1=3FM3&wsSECTIONG1=DAY%20C01&crit_cnt=1 
+Calculator:   Only the standard Casio fx 991 MS or MS Plus calculator is permitted. 
+ 
+Page 2 of 4 
+ 
+ 
+VIRTUAL COURSE DELIVERY 
+To follow and participate in virtual classes it is expected that you have reliable access to the following:  
+• 
+A computer that meets performance requirements found here.  
+• 
+An internet connection that is fast enough to stream video.  
+• 
+Computer accessories that enable class participation, such as a microphone, speakers and webcam when needed.  
+If you think that you will not be able to meet these requirements, please contact uts@mcmaster.ca as soon as you can. Please 
+visit the Technology Resources for Students page for detailed requirements. If you use assistive technology or believe that our 
+platforms might be a barrier to participating, please contact Student Accessibility Services, sas@mcmaster.ca, for support. 
+ 
+ 
+ 
+COURSE OVERVIEW AND ASSESSMENT   
+Final Exam: 
+A 2.5-hour duration in-person final exam, worth 45% of the final grade, will be administered by the registrar.  
+Mid-Term Tests: 
+• 
+Platform: Childsmath (in-person) 
+• 
+Tentative Dates: (during class time 5:30pm to 6:20pm) 
+o 
+Test #1 on Thursday, October 5, 2023 
+o 
+Test #2 on Wednesday, November 8, 2023 
+o 
+Test #3 on Wednesday, November 29, 2023 
+• 
+Room: TBD 
+• 
+Topic: More information will be announced in due course 
+Assignments: 
+• 
+There will be up to 5 assignments, to be uploaded and submitted on Avenue to Learn. 
+ 
+EVALUATION 
+ 
+                              Tentative Marking Scheme*: 
+ 
+       Assessment                                                         Weight 
+1. Final Exam 
+              45% 
+ 
+2. Three Midterms 
+              40%   
+ 
+3. Assignments 
+              15% 
+ 
+ 
+* Alternate Grading Scheme may be considered at the end of the term. Please note that this alternate 
+grading scheme may NOT be applied if you used an MSAF for a midterm (assignment), and we will only 
+use the grades of the midterms (assignments) that were completed. 
+ 
+Page 3 of 4 
+ 
+ 
+REQUESTS FOR RELIEF FOR MISSED ACADEMIC TERM WORK  
+McMaster Student Absence Form (MSAF):  In the event of an absence for medical or other reasons, students should review and 
+follow the Academic Regulation in the Undergraduate Calendar “Requests for Relief for Missed Academic Term Work”.  
+ACADEMIC ACCOMMODATION OF STUDENTS WITH DISABILITIES  
+Students with disabilities who require academic accommodation must contact Student Accessibility Services (SAS) at 905-525-
+9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program Coordinator. For further information, consult 
+McMaster University’s Academic Accommodation of Students with Disabilities  policy.  
+ACADEMIC ACCOMMODATION FOR RELIGIOUS, INDIGENOUS OR SPIRITUAL OBSERVANCES (RISO)  
+Students requiring academic accommodation based on religious, indigenous or spiritual observances should follow the 
+procedures set out in the RISO policy. Students should submit their request to their Faculty Office normally within 10 working 
+days of the beginning of term in which they anticipate a need for accommodation or to the Registrar's Office prior to their 
+examinations. Students should also contact their instructors as soon as possible to make alternative arrangements for classes, 
+assignments, and tests.  
+COURSES WITH AN ON-LINE ELEMENT  
+This course may use on-line elements (e.g. e-mail, Avenue to Learn (A2L), LearnLink, web pages, capa, Moodle, ThinkingCap, 
+etc.). Students should be aware that, when they access the electronic components of a course using these elements, private 
+information such as first and last names, user names for the McMaster e-mail accounts, and program affiliation may become 
+apparent to all other students in the same course. The available information is dependent on the technology used. Continuation 
+in a course that uses on-line elements will be deemed consent to this disclosure.   If you have any questions or concerns about 
+such disclosure, please discuss this with the course instructor.  
+ONLINE PROCTORING  
+This course may use online proctoring software for tests and exams. This software may require students to turn on their video 
+camera, present identification, monitor and record their computer activities, and/or lock/restrict their browser or other 
+applications/software during tests or exams. This software may be required to be installed before the test/exam begins.   
+ACADEMIC INTEGRITY  
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process. Academic 
+credentials you earn are rooted in principles of honesty and academic integrity.  
+It is your responsibility to understand what constitutes academic dishonesty.  
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in unearned academic 
+credit or advantage. This behaviour can result in serious consequences, e.g. the grade of zero on an assignment, loss 
+of credit with a notation on the transcript (notation reads: “Grade of F assigned for academic dishonesty”), and/or 
+suspension or expulsion from the university. For information on the various types of academic dishonesty please 
+refer to the Academic Integrity Policy, located at https://secretariat.mcmaster.ca/university-policies-procedures- 
+guidelines/  
+ 
+The following illustrates only three forms of academic dishonesty:  
+• 
+plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been obtained. 
+• 
+improper collaboration in group work.  
+• 
+copying or using unauthorized aids in tests and examinations.  
+ 
+ 
+Page 4 of 4 
+ 
+ 
+AUTHENTICITY / PLAGIARISM DETECTION  
+This course may use a web-based service (Turnitin.com) to reveal authenticity and ownership of student submitted 
+work. Students will be expected to submit their work electronically either directly to Turnitin.com or via Avenue to 
+Learn (A2L) plagiarism detection (a service supported by Turnitin.com) so it can be checked for academic dishonesty.  
+ 
+Students who do not wish to submit their work through A2L and/or Turnitin.com must still submit an electronic 
+and/or hardcopy to the instructor. No penalty will be assigned to a student who does not submit work to 
+Turnitin.com or A2L. All submitted work is subject to normal verification that standards of academic integrity have 
+been upheld (e.g., on-line search, other software, etc.). For more details about McMaster use of Turnitin.com please 
+go to http://www.mcmaster.ca/academicintegrity. 
+CONDUCT EXPECTATIONS  
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, respectful and 
+dignified interactions within all our living, learning and working communities. These expectations are described in 
+the Code of Student Rights & Responsibilities (the “Code”). All students share the responsibility of maintaining a 
+positive environment for the academic and personal growth of all McMaster community members, whether in 
+person or online.  
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in effect in virtual learning 
+environments. The Code applies to any interactions that adversely affect, disrupt, or interfere with reasonable 
+participation in University activities. Student disruptions or behaviours that interfere with university functions on 
+online platforms (e.g. use of Avenue 2 Learn, WebEx or Zoom for delivery), will be taken very seriously and will be 
+investigated. Outcomes may include restriction or removal of the involved students’ access to these platforms.  
+COPYRIGHT AND RECORDING  
+Students are advised that lectures, demonstrations, performances, and any other course material provided by an 
+instructor include copyright protected works. The Copyright Act and copyright law protect every original literary, 
+dramatic, musical and artistic work, including lectures by University instructors.  
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. Recording may be 
+done by either the instructor for the purpose of authorized distribution, or by a student for the purpose of personal 
+study. Students should be aware that their voice and/or image may be recorded by others during the class. Please 
+speak with the instructor if this is a concern for you.  
+RESEARCH ETHICS – NA 
+EXTREME CIRCUMSTANCES  
+The University reserves the right to change the dates and deadlines for any or all courses in extreme circumstances 
+(e.g., severe weather, labor disruptions, etc.). Changes will be communicated through regular McMaster 
+communication channels, such as McMaster Daily News, A2L and/or McMaster email.  

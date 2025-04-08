@@ -1,0 +1,236 @@
+Syllabus for the course Accounting
+Schools
+and
+Colleges
+school of accountancy
+Course
+Name
+accountancy
+for
+graduation
+3
+Course
+Type
+□
+Public
+General
+Courses
+☑
+Discipline-Based
+Courses
+□
+Specialized Courses □
+Specialized Elective Courses □
+Liberal
+Studies Elective Courses
+teacher
+teaching a
+class
+Wang Shufang Yue Yanfang Ding Ruiling Lian Qiuying Bai Yufang Zhao
+Xin Sun Lihong
+Chen Gang Yang Jinguan Xiao Tusheng Wang Lin Yang Jinjun
+Chapter 1: General Introduction 7.5 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understand: the meaning of accounting, the basic functions of accounting, the reporting
+objectives of accounting
+★★★Familiarize yourself with: basic accounting assumptions
+★★★★★Mastery: Elements of Accounting, Accounting Equations and Relationship to
+Financial Statements, Accruals
+Keynote content:
+Session1: Overview of Accounting 0.5 credit hour
+Introduces the meaning of accounting, the basic functions of accounting, and the reporting
+objectives of accounting; the emergence and development of accounting is not covered.
+Session1: Elements of Accounting, Accounting Equations and Basic Financial Statements 4
+credit hours
+Focuses on the elements of accounting, the accounting equation, and the elements of
+accounting; basic financial statements are skimmed.
+Session2: Fundamental Accounting Assumptions and Fundamentals of Accounting 1 credit
+hour
+Focus on basic accounting assumptions, accruals
+Session3: Accounting Information Quality Requirements 1 credit hour
+Focus on quality requirements for accounting information
+Section V. Accounting Measurement 0.5 credit hour
+Introduces the components of accounting measurement attributes, focusing on the
+principles of utilization.
+Section VI: Accounting Regulations and Ethics 0.5 credit hours
+Focuses on the system of accounting regulations and accounting ethics.
+Lecture format:
+e-Learning
+Chapter 2: Accounting Methods 7.5 credit hours
+Teaching objectives and requirements (by level of cognition)
+★
+Understand: the basic types of economic operations, the concepts and types of
+accounting documents and books of account, and understand the meaning of property
+inventories
+★★★
+Familiarize yourself with: the effect of types of economic operations on the
+accounting equation, the meaning of double-entry bookkeeping
+★★★★
+Mastery: the main elements of the debit and credit method of accounting,
+parallel registration of general ledger accounts and detailed ledger accounts
+Keynote content:
+Session1: Impact of types of economic operations on the accounting equation 1.5 credit
+hours
+Focus on the narrative.
+Session2: Accounts and Accounts 0.5 credit hours
+Introduces the concept and classification of accounting entries, the concept of accounts and
+their links and differences with accounting entries, the basic structure of accounts, and the
+classification of accounts (only the classification of accounts by economic content).
+Section3: Review of Double Entry Bookkeeping
+4 credit hours
+Focuses on the concept of double-entry bookkeeping, the elements of the debit and credit
+method of accounting, and the parallel registration of general ledger accounts and detail ledger
+accounts.
+Section4: Accounting Documents and Books 1 Credit Hour
+Focuses on the concepts and classification of accounting vouchers and briefly describes the
+methods of filling out bookkeeping vouchers; introduces the concepts and classification of books
+of account and the contents of reconciliations.
+Session5: Accounting procedures
+0.5 credit hours
+A brief introduction to the bookkeeping process gives students an overall understanding of
+the entire accounting cycle.
+Session6: property survey
+It is not told, and the relevant content is told in subsequent chapters.
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 3: Assets (I) 9 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: scope of assets, key elements of a cash management system
+★★★
+Familiarize yourself with the settlement of bank payments, the recognition
+conditions and classification of accounts receivable and inventory, and the contents and
+accounting methods of other monetary funds.
+★★★★★Mastery: Accounting for Money Funds, Accounts Receivable, and Inventories
+Keynote content:
+Session1: Currency Funds 2 credit hours
+Introduction to the main elements of the cash management system, bank payment and
+settlement methods; the contents of other monetary funds and accounting methods
+The focus will be on the methods of accounting for cash receipts, disbursements and
+inventories, the methods of accounting for bank deposits and the preparation of bank balance
+reconciliations.
+Session2: Receivables and Prepayments 4 credit hours
+Introduces accounting for prepayments and other receivables; focuses on accounting for
+accounts receivable, notes receivable, and the treatment of impaired receivables.
+Session3: Inventories 3 credit hours
+Introduction to the concept and characteristics of inventory, inventory recognition
+conditions and classification, focusing on the initial measurement of inventory (focusing on
+purchased inventory), inventory issued by the valuation method, accounting for raw materials
+(only according to the actual cost of accounting, not according to the cost of the plan) and
+inventory inventory accounting, and inventory of the end of the period measurement, a brief
+introduction to the accounting for provision for inventory write-downs. Packaging, low-value
+consumables, commissioned materials do not talk about
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 4: Assets (II) 6 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: concepts and characteristics of fixed assets
+★★★Familiarize yourself with: recognition conditions and classification of fixed assets
+★★★★★Mastery: accounting for fixed assets
+Keynote content:
+Session1: Fixed Assets 4 credit hours
+Introduction to the concept and characteristics of fixed assets, fixed assets recognition
+conditions and classification; focus on the initial measurement and accounting for purchased
+fixed assets, fixed assets depreciation scope, calculation methods and accounting methods,
+accounting for fixed assets inventory, and accounting for fixed assets disposal. Self-constructed
+fixed assets accounting, fixed assets impairment and fixed assets and accounting for subsequent
+expenditures are not spoken.
+Session2: Intangible and Other Assets 2 credit hours
+Introduces the concepts, characteristics and classification of intangible assets; focuses on
+accounting for self-developed intangible assets, amortization of intangible assets, and accounting
+for the disposal of intangible assets (sale, lease, and retirement), but does not talk about
+accounting for other assets.
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 5: Assets (3) 2 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: the concept and characteristics of investment
+★★★
+Familiarize yourself with: Characteristics and recognition conditions of
+held-for-trading securities/financial assets
+★★★★★Mastery: Accounting for held-for-trading securities/financial assets
+Keynote content:
+Session1: Overview of Investments
+Session2: held-for-trading securities/financial assets 2 credit hours
+Focus on accounting for held-for-trading securities/financial assets
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 6: Liabilities 5 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: the concept and characteristics of liabilities
+★★★Familiarize yourself with: the characteristics of each item of current liabilities and
+recognition conditions
+★★★★★Mastery: Accounting for current liabilities
+Keynote content:
+Session1: Current Liabilities 4 credit hours
+Introduces the concepts and characteristics of current liabilities, accounting for short-term
+borrowings, notes payable, accounts payable, accounts receivable in advance, focusing on
+accounting for employee compensation payable and accounting for value-added tax, (which
+focuses on accounting for general taxpayers), and does not talk about dividends payable,
+interest payable, accrued expenses, or contingent liabilities.
+Session2: Non-current liabilities 1 credit hour
+Long-term borrowing follows the textbook and the rest is not covered
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 7: Owners' Equity 2 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: the concept, content and characteristics of owners' equity
+★★★
+Familiarize yourself with: Characteristics of owner's equity and recognition
+conditions
+★★★★★Mastery: Accounting for Owners' Equity
+Keynote content:
+Session1: Overview of Ownership Interests 0.5 credit hours
+Introduces the concept and characteristics of owner's equity and the difference between
+owner's equity and liabilities.
+Session2: Paid-in Capital 1 credit hour
+Accounting for paid-in capital and changes in capital (increases and decreases in paid-in
+capital and stock issuance) for general businesses only, but not for the rest.
+Session3: Capital surplus 0.5 credit hour
+A brief introduction to the concept of capital surplus, its components and its accounting
+(capital premium only)
+Section 4 and section 5 are not covered.
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 8: Income, Expenses and Profits 7 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understand: the concepts and characteristics of income, expenses and profits
+★★★Familiarize yourself with: the characteristics of income, expenses and profits and
+the conditions for recognizing them
+★★★★★Mastery: Accounting for Revenue, Expenses and Profits
+Keynote content:
+Session1:Income 3 credit hours
+Introduces the concept and classification of revenue, focusing on the recognition of revenue
+from the sale of goods, accounting for revenue from the sale of goods (including general sales,
+cash discounts, sales discounts, accounting for sales returns), income from the sale of business,
+income from services and income from the alienation of the right to use assets will not be
+spoken.
+Session2: Costs 1 credit hour
+Briefly describe the classification of expenses, simple costing process, accounting for period
+expenses
+Session3: Profits 3 credit hours
+Introduces the basic concepts of the balance sheet liability approach to accounting for
+income taxes, focusing on adjusting accounting profits to taxable income and calculating taxes
+payable, the components of profit, accounting for non-operating income and expenses, the
+book-entry method of closing the current year's profit, and accounting for profit distributions.
+Lecture format:
+Face-to-face (classroom instruction)
+Chapter 9: Financial Statements 2 credit hours
+Teaching objectives and requirements (by level of cognition)
+★Understanding: concepts and components of financial reporting
+★★★
+Familiarize yourself with: the characteristics of the balance sheet and income
+statement
+★★★★★Mastery: Preparation of balance sheet and income statement
+Keynote content:
+Session1: Overview of Financial Reporting 0.5 credit hour
+Introduces the concepts and components of financial reporting.
+Session2: Balance Sheet 1 credit hour
+Introduces the concept, content and format of a balance sheet, with an emphasis on the
+method of preparation.
+Session3: Income Statement 0.5 credit hours
+Introduces the concept, content and format of the income statement and how it is
+prepared.
+The rest will not be covered.
+Lecture format:
+Face-to-face (classroom instruction)
+attachable sheet

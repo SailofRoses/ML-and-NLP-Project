@@ -1,0 +1,261 @@
+FIN2020: Foundation of Finance  
+Spring 2022  
+ 
+Instructor 
+Dr. Wen Chen 
+Email: wenchen@cuhk.edu.cn 
+Office Hours: Before Chinese New Year, Zoom meeting on Wed. 8:30am-9:30am 
+Beijing Time, or Induvial zoom meeting by appointment; After Chinese New Year, tbd 
+ 
+Venue:  
+Before Chinese New Year: Zoom virtual class  
+  Two Sessions: Tue. Thu. 8:30am-9:50am, 10:30am-11:50am Beijing Time 
+  The recordings of the sessions will be posted before 1pm every Tue and Thu 
+  Zoom link:  
+  https://cuhk-edu-cn.zoom.us/j/2316752884?pwd=ZTYrVlNmNitrYVNGcWI4dTZIUWlmUT09 
+  Meeting ID:  231 675 2884 
+  Passcode: 178759 
+After Chinese New Year: In person at ZHIX 109 
+  Three Sessions: Tue. Thu. 8:30am-9:50am, 10:30am-11:50am, 3:30pm-4:50pm Beijing   
+ 
+Teaching Assistants:  
+Jiahua Gong 
+Email: gongjiahua@cuhk.edu.cn 
+Office hours: tbd 
+ 
+Yizhou Hong 
+Email: hongyizhou@cuhk.edu.cn 
+Office hours: tbd 
+ 
+ 
+ 
+                              
+ 
+Course Description 
+Foundation of Finance is an introduction to the foundations of modern financial 
+economics. The focus throughout will be on the development and interpretation of 
+discrete-time models of asset pricing, and the valuation of risky cash flow. After 
+developing and studying the details of consumer decision-making under uncertainty, it 
+uses that general framework as a basis for understanding both equilibrium and no-
+arbitrage theories of securities pricing, including traditional models like the capital asset 
+pricing model (CAPM) and the arbitrage pricing theory (APT), newer Arrow-Debreu 
+theories, and the consumption capital asset pricing model (CCAPM) and, if time permits, 
+martingale pricing methods. The course is primarily theoretical.  However, I may discuss 
+some empirical puzzles in finance.  
+ 
+This course is intended for second year undergraduate students in finance and economics. 
+While there are no formal prerequisites for enrolling in this course, a working knowledge 
+of calculus, linear algebra, and probability plus statistics is especially useful. 
+ 
+The course grade will be based on the following: one midterm exam (30%); and a final 
+exam (40%). The midterm and final are in-class close-book exams. The midterm  will be 
+in late March or early April. The final will be in the third week of May. There is NO 
+option to transfer the midterm weight to final weight, except for medical or family 
+emergency (see Policy on Absence below). The material covered in each exam is up to 
+what we've learned by the time the exam is conducted. The last 30% of the grade is based 
+on grades of homework.  
+ 
+Homework will be assigned almost every week and will be due one week after the 
+assignment. Teaching assistants will go through the solution in the tutorial one week after 
+it is assigned. Students are encouraged to discuss the homework problems with other 
+students, but should work through all of the mathematics individually. Please submit 
+homework to Blackboard on time. NO score for homework tuned in after the deadline. If 
+you miss class on a day when a problem set is due, please scan your answers and email 
+them to TAs before the deadline. 
+ 
+The main textbooks corresponding to the suggested reading are given below. The 
+textbooks are NOT required. Some people find the textbooks helpful and some people do 
+not. Read the description below before you decide on whether you feel it would be worth 
+it for you to buy the textbooks: 
+ 
+(1) Intermediate Financial Theory by Jean-Pierre Danthine and John B. Donaldson, 
+2014 (Undergrad Level or above) 
+(2) Asset Pricing by John H. Cochrane, 2005 (Master Level or above) 
+(3) Asset Pricing and Portfolio Choice Theory by Kerry Back, 2010 (PhD Level) 
+ 
+Additional textbooks are also helpful: Theory of Financial Decision Making by J. 
+Ingersoll, 1987, and Foundations for financial economics by C. F. Huang and R. H. 
+Litzenberger, 1988. I will refer to these texts as (1) DD, (2) JC, (3) KB, JI, and HL, 
+respectively. 
+ 
+Below is a list of topics to be covered.  I reserve the right to change the syllabus 
+(modestly) as the course progresses. Under each topic I summarize relevant reading and 
+provide a number of classic references.  Students are required to read the textbook 
+readings marked with *.  Students who plan to apply for graduate programs in finance 
+and economics are encouraged to read the book materials without *. The topics without * 
+will not be included in the exams. Students who are serious about research and plan to 
+apply PhD programs should also read some additional articles without *. I will generally 
+provide lecture slides or notes summarizing key points made in class. 
+ 
+ 
+ 
+Course Materials 
+I will post lecture slides, some class readings, and homework assignments on 
+https://bb.cuhk.edu.cn. The lecture slides are based on Prof. Peter Ireland’s lecture notes. 
+Thus, the copyright of the slides belongs to Peter Ireland. Redistribution is permitted for 
+education and research purpose, so long as no charges are made. All copies must be 
+provided free of charge and must include the copyright notice. 
+ 
+ 
+Staying Up-to-Date  
+You are encouraged to follow financial and macroeconomic news in the Financial Times, 
+Wall Street Journal, The Economist, or VoxChina. If you encounter an interesting article 
+that you would like to share with the class, send me an email and I will post it on the 
+class website. 
+ 
+ 
+Honor Code 
+All students are expected to adhere to the University's Code of Academic Integrity, which 
+is designed to ensure that the principles of academic honesty and integrity are upheld.  
+The Smith School does not tolerate academic dishonesty.  All acts of academic 
+dishonesty will be dealt with in accordance with the provisions of this code.  Please visit 
+the following website for more information on the University's Code of Academic 
+Integrity: http://www.cuhk.edu.cn/departsite/ar/en/Academic.html 
+ 
+ 
+Policies on Absence and Late Withdrawal 
+Absences from class because of illness or important schedule conflicts are sometimes 
+inevitable and should be fine so long as they are isolated in number. If you can’t make it 
+to class on any given day, you can check the course webpage to see the slides you 
+missed.  
+ 
+Students who cannot take their midterm exams as scheduled because of documented 
+serious illness, or compelling unexpected circumstances may appeal for weight 
+transferring to final exams. Students who cannot take their final exams as scheduled 
+because of documented serious illness, or compelling unexpected circumstances may 
+appeal for make-up final exam. The following are examples that are not considered 
+compelling reasons to grant a weight transferring or a make-up exam: lack of preparation, 
+negligence, misinformation, or planned vacations and other events. 
+ 
+Please submit late withdrawal application before the midterm. Late withdrawals can only 
+be granted before the midterm. After midterm, no late withdrawal will be proved.  
+ 
+ 
+Special Needs 
+Any student with special needs should bring this to the attention of the instructor as soon 
+as possible, but not later than the second week of class. 
+ 
+ 
+ 
+ 
+Course Outline 
+ 
+A. Introduction (1.5 weeks) 
+1. Mathematical and Economic Foundation  
+2. Overview of Asset Pricing Theory  
+Readings:  
+• *DD chapter 1,2 
+• KB chapter 1. 
+• Machina, Mark, 1982, `Expected utility analysis without the independent axiom.’ 
+Econometrica 50, 277-323. 
+• Machina, Mark, `Choice under Uncertainty: Problems Solved and Unsolved' 
+Journal of Economic Perspectives, vol. 1, no. 1, Summer 1987, pp. 121-54 
+• Rabin, Matthew, `Risk Aversion and Expected-Utility Theory: A Calibration 
+Theorem' Econometrica, vol. 68, no. 5, September 2000, pp. 1281-92. 
+ 
+ 
+Spring Break: Happy Chinese New Year! 
+ 
+ 
+B. Decision-Making Under Uncertainty (2.5 weeks) 
+     3. Making Choices in Risky Situations 
+     4. Measuring Risk and Risk Aversion  
+Readings: 
+• *DD chapter 3,4 
+• J. Pratt, 1964, `Risk aversion in the small and in the large.’ Econometrica 32, 122-
+136. 
+• HL Chapter 2 
+• Ali, Mukhatar, `Stochastic Dominance and Portfolio Analysis’, Journal of 
+Financial Economics, 1975, Vol. 2, pp. 205-229. 
+• Rothschild, Michael, and Joseph Stiglitz, `Increasing Risk I: A Definition’, 
+Journal of Economic Theory, 1970, Vol 2, pp. 225-43. 
+• Levy, Haim, `The Definition of Risk: An Extension,’ Journal of Economic 
+Theory, 1977, Vol. 14, 232-34. 
+ 
+ 
+C. The Demand for Financial Assets (2.5 weeks) 
+     5. Risk Aversion and Investment Decisions 
+     6. Modern Portfolio Theory 
+Readings: 
+• *DD chapter 5,6 
+• JI chapter 2. 
+• New Palgrave, Finance, `Arbitrage?’, Macmillan Press, New York, 1987, pp. 57-
+71. 
+•  Ross, Stephen, 1978, `A Simple Approach to the Valuation of Risky Streams? 
+Journal of Business, 50, 453-75. 
+• Dybvig, Philip H; Ross, Stephen A, `Portfolio Efficient Sets?, Econometrica,    
+vol. 50, no. 6, November 1982, pp. 1525-46 
+• Fishburn, Peter, Burr Porter, `Optimal Portfolios with One Safe and One Risky 
+Asset: Effects of Change in the Rate of Return and Risk?, Management Science, 
+1976, Vol 22, p. 1064-73. 
+• Samuelson, Paul A., `General Proof that Diversification Pays?, Journal of 
+Financial and Quantitative Analysis, 1967, vol. 2, pp. 1-13. 
+ 
+ 
+ 
+D. Classic Asset Pricing Models (3 weeks) 
+     7. The Capital Asset Pricing Model 
+     8. Arbitrage Pricing Theory 
+Readings: 
+• *DD chapter 8,14 
+• KB Chapter 5,6 
+• Merton, R., 1972, `An analytical derivation of the efficient portfolio frontier.’ 
+Journal of Financial and Quantitative Analysis,7, 1851-1872.  
+• G. Chamberlain, 1982, `A characterization of the distributions that imply mean-
+variance Utility functions.’ Journal of Economic Theory 29, 185-201. 
+• Markowitz, Harry, “Portfolio Selection,” Journal of Finance 7:77-91, 1952. 
+• Ross, S., “Mutual Fund Separation in Financial Theory—the Separating 
+Distributions,” Journal of Economic Theory, 17:254-286, 1978. 
+• W. Sharpe, 1964, `Capital asset prices: A theory of capital market equilibrium 
+under conditions of risk.’ Journal of Finance 19, 425-442.  
+• JI chapter 7. 
+• Huberman, Gur, “A Simple Approach to Arbitrage Pricing Theory,” Journal of 
+Economic Theory 28:183-191, 1982. 
+• Chamberlain, Gary, “Funds, Factors, and Diversification in Arbitrage Pricing 
+Models,” Econometrica 51:1281-1304, 1983. 
+• S. Ross, 1976, `Arbitrage theory of capital asset pricing.’ Journal of Economic 
+Theory 13, 341-360. 
+ 
+Midterm in late March or early April 
+ 
+ 
+E. Arrow-Debreu Pricing (2.5 weeks) 
+  9. Arrow-Debreu Pricing: Equilibrium  
+10. Arrow-Debreu Pricing: No-Arbitrage 
+Readings: 
+• *DD Chapter 9,11 
+• KB Chapter 2,3 
+• Hirshleifer, J., `Investment decisions under uncertainty: Application of state-
+preference Approach.’ Quarterly Journal of Economics, May 1966, 252-277.  
+• Myers, S., 1968, `A time-state preference model of security valuation.’ Journal of 
+Financial and Quantitative Analysis, 1-33. 
+• Case, D., and J. Stiglitz, 1970, `The structure of investor preferences and asset 
+returns, and separability in portfolio allocation: A contribution to the pure theory 
+of mutual funds.’ Journal of Economic Theory 2, 122-160. 
+ 
+ 
+ 
+ 
+F. Extensions (2.5 weeks) 
+11.  Martingale Pricing 
+12.  The Consumption Capital Asset Pricing Model 
+Readings: 
+• *DD Chapter 10,12 
+• KB Chapter 4 
+• J. Lucas, Robert E. Asset pricing in an exchange economy. Econometrica, 46(6): 
+1429-1445, 1978. 
+• Rubinstein, M., 1976, `The valuation of uncertain income streams and the pricing 
+of options., Bell Journal of Economics 7, 407-425. 
+• Black, F. and M. Scholes, The pricing of options and corporate liabilities. Journal 
+of Political Economy, 81(3): 637-654, 1973. 
+• S. Ross, 1976, `Options and efficiency.’ Quarterly Journal of Economics 90, 75-
+89. 
+ 
+ 
+Final: one day in the week of May 15-20, 2021 
+ 
+      
+This schedule is tentative. Readings might be revised as we go through the material. 
+   
+ 
+ 

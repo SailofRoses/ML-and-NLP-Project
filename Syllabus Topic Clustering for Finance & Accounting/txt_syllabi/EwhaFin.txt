@@ -1,0 +1,305 @@
+1 
+ 
+ 
+Syllabus(2018-1) 
+ 
+Course Title 
+ Financial 
+Management 
+Course No. 
+22250 
+Department/Major 
+Business 
+Administration 
+Credit 
+3 
+Class Time/ 
+Classroom 
+Tue 6th(3:30~4:45), Thu 4th(12:30~1:45) / SHINSEGAE 209 
+Instructor 
+Name: Yoon-Kyung Yuh 
+Department: Business Administration 
+E-mail: yuhyk@ewha.ac.kr 
+Telephone: 3277-4076 
+Office Hours/ 
+Office Location 
+Tue 1:30~3:30, Thu 2:00~4:00 / SHINSEGAE 425 
+ 
+I. 
+Course Overview 
+This course lays the foundation for more advanced investment and corporate finance courses, and it will also 
+familiarize you with the financial markets through discussions of current events, articles, and trends. This course is 
+about how to efficiently raise funds necessary for business management and manage surplus funds. Main lecture 
+contents include financial accounting, working capital management, capital budgeting, cost of capital, capital 
+structure, and capital market theory. 
+ 
+None 
+ 
+ 
+Lecture 
+Discussion/Presentation 
+Experiment/Practicum 
+Field Study 
+Other 
+80 % 
+20 % 
+% 
+% 
+* explanation of course format): The lectures are centered around the professor's lectures, with a secondary discussion method 
+to help students understand. 
+ 
+This course serves as an introduction to business finance. 
+In line with the core learning traits, the objectives of this course are: 
+- 
+to introduce a framework, concepts, and tools for analyzing financial decisions based on fundamental 
+principles of modern financial theory. 
+- 
+to provide methods of financing and investing capital, with the emphasis on financial statements 
+and cash flow, discounted cash flow techniques, bond and stock valuation, capital budgeting and 
+investment decisions, cost of capital, and capital market theory. 
+ 
+1. Course Description 
+2. Prerequisites 
+3. Course Format 
+4. Course Objectives 
+5. Evaluation System 
+2 
+ 
+ 
+ 
+Midterm Exam 
+Final Exam 
+Quizzes 
+Presentation 
+Projects 
+Assignments 
+Participation 
+Other 
+25 % 
+25 % 
+40 % 
+% 
+% 
+% 
+10 % 
+% 
+* Explanation of evaluation system: Midterm and final exams are conducted 1 time each, and quizzes are conducted 4 times (10% per 
+session). Participation is detrimental to attendance. If you are absent from school for more than 1/3 of the total class time (3 hours per 
+week (3 hours)×15 weeks ÷3 = 15 hours (= 10 times), you will be treated as F (school rules). 
+II. Course Materials and Additional Readings 
+ 
+Ross, Westerfield, Jordan, Wong, R. and Wong, B. Essentials of Corporate Finance. Asia Global Edition, 
+McGraw-Hill. 2016. 
+ 
+ 
+ 
+ 
+ 
+III. Course Policies
+1.Required Materials 
+* No make-up tests, make-up quizzes, or make-up assignments. 
+* Attendance (participation) criteria: No points will be deducted for up to 2 absences, and 2 latecomings will be equivalent to 1 absence. 
+* In the case of (1) and (2) of the 'reasons and evidence' below,  the decision can be made after consulting with the professor in charge within 7 
+days of the occurrence of the reason. 
+In the cases of (3) and (4), if you are expected to miss more than 5 times due to the prospect of being employed during the semester 
+(prospective employment, participation in training/training/educational practice, etc.),  it is not recommended to take this class. 
+* Reasons and evidence for absenteeism (original submission, the reason for absence must be submitted in the first class after absence, 
+and will not be accepted thereafter) 
+(1) Illness: A medical certificate issued by the director of the university's affiliated hospital or the equivalent general hospital director 
+(2) Death of a lineal descendant: Certificate of family relationship and death certificate 
+(3) Participation in international competitions, training, training, educational practice, etc.: Proof of the name of the head of the host 
+organization 
+(1) Only official documentary evidence of the name of the head of the organization hosting the external official event is accepted. 
+(2) A request for class recognition cooperation (official letter) issued by an individual or department cannot be accepted as proof. 
+(4) In other cases where the Chancellor deems it necessary and approves it: Applicable supporting documents. 
+- When a student who is employed during the school period is required to go to work 
+- When a student who is employed during the period of enrollment participates in internships, corporate training, and education. 
+- When a prospective employee participates in activities (interviews, internships, etc.) that are essential for employment. 
+- When participating in an official event at the request of a public institution 
+- In the event that the university to which you belong deems it necessary and has obtained the permission of the president 
+ 
+2. Supplementary Materials 
+3. Optional Additional Readings 
+3 
+ 
+ 
+ 
+IV. Course Schedule 
+Week 
+Date 
+ Topics & Class Materials, Assignments 
+Week 1 
+March 6 (Tue) 
+Ch.01 Introduction to Financial Management 
+Thursday, March 8 
+Ch.01 Introduction to Financial Management 
+Week 2 
+March 13 (Tue) 
+Ch.02 Financial Statements, Taxes, and Cash Flow 
+Thursday, March 15 
+Ch.02 Financial Statements, Taxes, and Cash Flow 
+Week 3 
+March 20 (Tue) 
+Ch.02 Financial Statements, Taxes, and Cash Flow 
+Thursday, March 22 
+Ch.03 Working with Financial Statements 
+Week 4 
+Tuesday, March 27 
+Ch.03 Working with Financial Statements 
+Thursday, March 29 
+Ch.03 Working with Financial Statements, Quiz 1 (Ch.1~Ch.3) 
+Week 5 
+Tuesday, April 3 
+Ch.04 Introduction to Valuation 
+Thursday, April 5 
+Ch.04 Introduction to Valuation 
+Week 6 
+Tuesday, April 10 
+Ch.05 Discounted Cash Flow Valuation 
+Thursday, April 12 
+Ch.05 Discounted Cash Flow Valuation 
+Week 7 
+Tuesday, April 17 
+Ch.06 Interest Rates & Bond Valuation 
+Thursday, April 19 
+Ch.06 Interest Rates & Bond Valuation 
+Week 8 
+Tuesday, April 24 
+Ch.06 Interest Rates & Bond Valuation, Quiz 2 (Ch.4~Ch.6) 
+Thursday, April 26 
+Mid-term Exam (Ch.1~Ch.6) 
+Week 9 
+May 1 (Tue) 
+Ch.07 Equity Market & Stock Valuation 
+Thursday, May 3 
+Ch.07 Equity Market & Stock Valuation 
+Week 
+10 
+Tuesday, May 8 
+Ch.08 Net Present Value & Other Investment Criteria 
+Thursday, May 10 
+Ch.08 Net Present Value & Other Investment Criteria 
+Week 
+11 
+Tuesday, May 15 
+Ch.09 Making Capital Investment Decisions 
+Thursday, May 17 
+Ch.09 Making Capital Investment Decisions 
+Week 
+12 
+May 22 (Tue) 
+Public Holiday 
+Thursday, May 24 
+Ch.09 Making Capital Investment Decisions, Quiz 3 (Ch.7~Ch.9) 
+Week 
+13 
+Tuesday, May 29 
+Ch.10 Some Lessons from Capital Market History 
+Thursday, May 31 
+Ch.11 Risk & Return 
+Week 
+14 
+Tuesday, June 5 
+Ch.11 Risk & Return 
+Thursday, June 7 
+Ch.12 Cost of Capital 
+Week 
+15 
+Tuesday, June 12 
+Ch.12 Cost of Capital 
+Thursday, June 14 
+Ch.12 Cost of Capital, Quiz 4 (Ch.10~Ch.12) 
+Week 
+16 
+Tuesday, June 19 
+Final Exam (Ch.7~Ch.12) 
+March 6 (Tue) 
+4 
+ 
+ 
+* * In accordance with Article 57 of the Academic Regulations, students with disabilities may request teaching and learning support regarding attendance, lectures, 
+assignments, and examinations through a meeting with the professor in charge of the subject in the first week of the semester, and may receive support through 
+the professor in charge or the Disability Student Support Center. Examples of possible types of support for lectures, assignments, and assessments include: 
+ 
+- 실제 지원 내용은 강의 특성에 따라 달라질 수 있습니다. 
+* According to the University regulation section #57, students with disabilities can request for special accommodations related to attendance, lectures, 
+assignments, or tests by contacting the course professor at the beginning of semester. Based on the nature of the students’ request, students can receive 
+support for such accommodations from the course professor or from the Support Center for Students with Disabilities (SCSD). Please refer to the below 
+examples of the types of support available in the lectures, assignments, and evaluations. 
+- Actual support may vary depending on the course. 
+V. Special Accommodations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESB Mission: To generate and disseminate knowledge to advance the understanding, practice and 
+management of business while seeking to be a recognized leader in a high-quality business education. 
+⚫ To play a leading role in the development of ideas that shapes the world of business and management. 
+⚫  To prepare future women leaders of business, education and public services by delivering the quality 
+education. 
+ESB AoL Learning Goals and Traits: In addition to the course objectives listed below, students should 
+expect to develop the following by end of the course: 
+⚫ Learning Goal : Management Knowledge: Students will demonstrate that they have adequate business specific 
+knowledge and understanding. 
+AoL Trait # 6-1: Acquisition of adequate knowledge of basic business principles in Finance. 
+ESB Code of Ethics: To promote the growth of ethically responsible women leaders at ESB through adherence 
+to the highest standards of academic integrity and overall ethical conduct, and to develop a sense of individual 
+responsibility to maintain such standards. 
+⚫  Code of Ethics for Faculty: ESB faculty must teach students with good faith, maintain transparency in grading, and 
+faithfully conduct student counseling. 
+⚫  Code of Ethics for Students: ESB student is expected to represent her academic product honestly and fairly, 
+and to respect the individual rights of others. 
+ 
+The contents of this syllabus are not final—they may be updated. 
+ 
+Lecture-related 
+Assignment-related 
+Regarding Assessment 
+Visually impaired: Braille, enlarged data 
+provided 
+Hearing impairment: Placement of 
+ghostwriting assistant 
+ Retardation: Wheelchair accessible 
+classrooms 
+Provide, ghostwriter placement 
+Extension of submission date, 
+provision of alternative 
+assignments 
+Visual impairment: Braille, audio test papers 
+provided, test time extended, 
+ghostwriting assistant arranged 
+Hearing impairment: Oral examination is 
+conducted as a written assessment. 
+ Retardation disorder: Extension of test time, 
+placement of ghostwriting assistant 
+Lecture 
+Assignments 
+Evaluation 
+․ Visual impairment : braille, enlarged 
+reading materials 
+․ Hearing impairment : note-taking 
+assistant 
+․ Physical impairment : access to classroom, 
+note-taking assistant 
+Extra days for submission, 
+alternative assignments 
+․ Visual impairment : braille examination paper, 
+examination with voice support, longer examination 
+hours, note-taking assistant 
+․ Hearing impairment : written examination 
+instead of oral 
+․ Physical impairment : longer examination 
+hours, note-taking assistant 

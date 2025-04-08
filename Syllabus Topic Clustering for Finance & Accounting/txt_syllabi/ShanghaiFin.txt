@@ -1,0 +1,578 @@
+ 1 / 7 
+ 
+《金融学原理》课程教学大纲 
+课程基本信息（Course Information） 
+课程代码
+(Course Code) 
+ECON2509 
+*学时
+(Credit 
+Hours) 
+48 
+*学分
+（Credits） 
+3 
+*课程名称
+(Course Name) 
+（中文）金融学原理 
+（英文）Principles of Finance 
+课程类型 
+(Course Type) 
+专业基础课/必修课/学位课 
+授课对象
+（Target 
+Audience） 
+本科生 
+授课语言 
+(Language of 
+Instruction) 
+全中文 
+*开课院系
+（School） 
+安泰经济与管理学院 
+先修课程
+（Prerequisite） 
+微宏观经济学，概率统计等 
+后续课程
+(post) 
+公司金融，投资学，金融工程 
+*课程负责人
+（Instructor） 
+王松涛 
+课程网址
+(Course 
+Webpage) 
+Canvas 
+*课程简介 
+（中文）
+（Description） 
+（中文300-500 字，含课程性质、主要教学内容、课程教学目标等） 
+课程性质： 
+《金融学原理》是安泰经济与管理学院金融学专业的第一门专业基础课程。课程强调金融
+的功能和金融决策的基础理论。旨在帮助学生养成金融思维，掌握金融决策的要领，强化
+金融风险意识，激发金融学习兴趣，懂得金融特别是资本市场如何服务产业和企业发展。
+课程具有专业基础课、通识课属性，为学生进一步学习金融的高级课程打下基础。 
+教学内容与教学目标： 
+模块1：金融的功能 
+目标：了解什么是金融学和金融思维方式；了解金融市场、金融机构以及金融工具；了解
+财务报表的功能和分析方法。 
+模块2：货币的时间价值 
+目标：理解货币时间价值的含义及产生的原因；掌握货币时间价值的计算方法，包括理解
+ 2 / 7 
+ 
+年金的概念和年金的货币时间价值计算，熟悉EXCEL 中的金融函数并能够使用其进行相
+关的货币时间价值计算；了解企业的投资决策和家庭的生命周期储蓄计划决策。 
+模块3：价值评估原理与方法 
+目标：理解一价定律及其产生原因；能够运用折现现金流方法和可比指标方法对股票、债
+券和企业进行价值评估。 
+模块4：风险管理和资本资产定价 
+目标：掌握风险管理的基本原理；熟悉风险控制的工具如对冲，保险和多元化投资；掌握
+资本资产定价模型及其。 
+*课程简介 
+（英文）
+（Description） 
+"Principles of Finance" is the first course for the major of finance in Antai College of Economics 
+and Management. The course emphasizes the functions of finance and the fundamental theories 
+of finance. It aims to help students develop financial thinking, master the essentials of financial 
+decision-making, strengthen their awareness of financial risks control, stimulate their interest in 
+financial research, and understand how finance, especially the capital market, serves the 
+development of industries and enterprises. The course has the attributes of professional basic 
+courses and general courses, which lays the foundation for students to further study advanced 
+courses in finance. 
+Course content includes: 
+Module 1: Functions of Finance 
+Objectives: Understand what is finance and financial thinking; understand financial markets, 
+financial institutions and financial instruments; understand the function and analysis of financial 
+statements. 
+Module 2: Time Value of Money 
+Objectives: To understand the time value of money and its causes; to master the calculation method 
+of the time value of money, including understanding the concept of annuity and the calculation of 
+the time value of money of annuity, to be familiar with the financial functions in Execl and to be 
+able to use them to calculate the relevant time value of money; Understand business investment 
+decisions and household life cycle savings plan decisions. 
+Module 3: Principles and Methods of Valuation 
+Objectives: To master the basic principles of valuation: the law of one price; to be able to use the 
+discounted cash flow method and the method of comparable indicators to evaluate the value of 
+stocks, bonds and enterprises. 
+Module 4: Risk Management and Capital Asset Pricing Model 
+Objectives: To master the fundamentals of risk management; to be familiar with risk control tools 
+such as hedging, insurance and diversification; to master the capital asset pricing model and its 
+applications. 
+ 3 / 7 
+ 
+课程目标与内容（Course objectives and contents） 
+*课程目标 
+(Course Object) 
+培养目标1：充分了解应有的职业道德与社会责任 
+坚持用功能性视角、伦理性、社会责任性视角看待金融。打破西方金融范式，坚持用中国
+视角分析金融问题。（A1、A2、A3、A4、A5、D1、D2、D3、D4） 
+培养目标2：了解金融的功能和金融学的基础理论及其应用 
+了解金融工具、金融机构、金融市场，掌握等效年利率、连续复利、套期保值、期权、期
+货、保险、多元化投资等基本概念及其应用。（B1、B2、B4、 D1、D2、D3、D4） 
+掌握现金流分解技术、现金流折现技术、资产负债表、损益表、现金流量表、约当年金技
+术等方法。（B2、B3、C2、C3、C5） 
+掌握风险转移、投资组合，以及对于风险资产的定价方法。（B3、B4、B5） 
+培养目标3：具有分析和解决现实问题的能力 
+能够通过分析宏观经济背景、行业发展情况，通过上市公司财务报表分析公司财务是否健
+康。（A1、A2、A3、B4、B5、C5、 D1、D2） 
+培养目标4：具有沟通能力、团队合作与领导力，具有国际化视野 
+学生积极完成、参与课堂展示、讨论等教学任务，对具体问题进行分析，并提供建议。（A1、
+A2、C2、C3、C4、C5、 D1、D2） 
+毕业要求指标
+点与课程目标
+的对应关系 
+（选填，非必
+填项） 
+课程目标 
+毕业要求指标点 
+课程目标1 
+ 
+坚持用功能性视角、伦理性视角看待。打破西
+方金融范式，坚持用中国视角分析金融问题。
+（A1、A2、A3、A4、A5、D1、D2、D3、
+D4） 
+课程目标2 
+了解金融工具、金融机构、金融市场，掌握等
+效年利率、连续复利、套期保值、期权、期货
+等基本概念。（B1、B2、B4、D1、D2、D3、
+D4）掌握现金流分解技术、现金流折现技术、
+资产负债表、损益表、现金流量表、约当年金
+技术等方法。（B2、B3、C2、C3、C5）掌握风
+险转移、投资组合，以及对于风险资产的定价
+方法。（B3、B4、B5） 
+课程目标3 
+能够通过分析宏观经济背景、行业发展情况，通
+过上市公司财务报表分析公司财务是否健康。
+（A1、A2、A3、B4、B5、C5、 D1、D2） 
+ 4 / 7 
+ 
+课程目标4 
+学生积极完成、参与课堂展示、讨论等教学模
+块，对具体问题进行分析，并提供建议。
+（A1、A2、C2、C3、C4、C5、D1、D2） 
+*教学内容进度
+安排及对应课
+程目标 (Class 
+Schedule & 
+Requirements & 
+Course 
+Objectives) 
+章节 
+教学内容
+（要点） 
+教学目标 
+学时 
+教学形式 
+作业及考核
+要求 
+课程思政 
+融入点 
+对应课程
+目标 
+第一
+讲 
+金融学与
+金融决策 
+金融的定义
+金融决策的
+类别；金融
+决策的几个
+准则 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第一章课后
+练习 
+金融风险意
+识 
+1、4 
+第二
+讲 
+金融体系
+及其功能 
+金融工具、
+金融机构、
+金融市场，
+我国金融体
+系的特点 
+3 
+Canvas 课前
+/后在线学
+习,课堂讨
+论，要点讲
+解；课外分
+组学习我国
+资本市场产
+生与发展，
+专题形式 
+第二章课后
+练习 
+金融功能作
+用 
+1、4 
+第三
+讲 
+财务报表
+的功能和
+分析方法 
+资产负债
+表、损益
+表、现金流
+量表；财务
+比率分析方
+法 
+6 
+Canvas 课前
+/后在线学
+习,课堂讨
+论，要点讲
+解 
+第三章课后
+练习 
+财务诚信 
+2、4 
+第四
+讲 
+货币的时
+间价值 
+复利，年金
+与按揭贷款 
+3 
+观看慕课视
+频,课堂讨
+论，要点讲
+解 
+第四章课后
+练习 
+学习生活中
+的复利效应 
+2、4 
+第五
+讲 
+家庭金融
+决策 
+教育、退休
+计划等决策 
+3 
+Canvas 课前
+/后在线学
+习,课堂讨
+论，要点讲
+解 
+第五章课后
+练习 
+家庭风险控
+制 
+2、4 
+第六
+讲 
+企业金融
+决策 
+现金流及
+NPV 等投资
+决策方法 
+3 
+Canvas 课前
+/后在线学
+习,课堂讨
+论，要点讲
+解 
+ 
+第六章课后
+练习 
+企业风险控
+制 
+2、4 
+ 5 / 7 
+ 
+第七
+讲 
+估值原理 
+价值的定义
+一价定律 
+有效市场假
+说 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第七章课后
+练习 
+理性、严谨
+的金融思
+维、方法及
+技能。 
+2、4 
+第八
+讲 
+债券估值 
+债券概念 
+债券性质 
+债券估值 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第八章课后
+练习 
+逃废债 
+2、4 
+第九
+讲 
+普通股的
+价值评估 
+红利折现模
+型 
+市盈率讨论 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第九章课后
+练习 
+股票炒作，
+老鼠仓，内
+幕交易 
+2、3、4 
+第十
+讲 
+风险管理
+原理 
+风险的定义 
+风险决策初
+步 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第十章课后
+练习 
+清廉品格 
+2、4 
+第十
+一讲 
+管理风险
+的方法 
+对冲保险与
+多元化等主
+要三种方法 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第十一章课
+后练习 
+金融的功能 
+2、4 
+第十
+二讲 
+多元化投
+资 
+CML 资产
+组合机会与
+选择 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第十二章 
+课后练习 
+风险意识 
+2、4 
+第十
+三讲 
+资本资产
+定价 
+资本资产定
+价，贝塔系
+数，市场风
+险溢价，
+ETF 投资依
+据 
+3 
+Canvas 课前
+/后在线学
+习，课堂讨
+论，要点讲
+解 
+第十三章课
+后练习 
+主要矛盾与
+次要矛盾 
+２、４ 
+第十
+四讲 
+讨论课 
+资本市场研
+究讨论会 
+ 
+课堂研讨 
+挑选部分同
+学的报告 
+ 
+ 
+第十
+五/十
+六讲 
+展示课 
+大作业汇报
+及点评 
+3 
+Presentation 
+大作业报
+告，PPT 
+第13 周交
+稿 
+中国视角与
+价值。 
+1、2、
+3、4 
+ 6 / 7 
+ 
+注1：建议按照教学周周学时编排，以便自动生成教学日历。 
+注2：相应章节的课程思政融入点根据实际情况填写。 
+课程目标达成
+度评价 
+（选填，非必
+填项） 
+               课程目标    
+ 
+考核方式 
+平时作业 
+课程项目 
+期末考试  
+课程目标权
+重 
+课程目标
+达成度 
+CANVAS 签到 
+5 
+ 
+ 
+ 
+ 
+SPOC 讨论发帖 
+5 
+ 
+ 
+ 
+ 
+SPOC 布置的慕课任务 
+15 
+ 
+ 
+ 
+ 
+小组大作业 
+25 
+ 
+ 
+ 
+ 
+期末考试 
+50 
+ 
+ 
+ 
+ 
+*考核方式 
+(Grading) 
+说明： 
+（1） 
+canvas 签到5 分 
+（2） 
+SPOC 讨论发帖或回复5 分 
+（3） 
+SPOC 慕课： 15 分（观看视频，完成网上习题，个人完成） 
+（4） 
+小组作业：25 分。其中小组作业1： 15 分 （题目待定TBA，书面报告10 分，
+演讲5 分）；小组作业2：10 分（资本市场研究） 
+（5） 
+期末考试：50 分（年级统考） 
+*教材或参考资
+料 (Textbooks 
+& Other 
+Materials) 
+教材：《金融学》（第二版） Zvi Bodie,  Robert C. Merton, David L. Cleeton 著 中国人
+民大学出版社 
+其它（More） 无 
+备注（Notes） 
+小组大作业考核方式说明： 
+选题：第二周开始，第四周确定并报课代表 
+小组大作业1：选择一家上市公司进行财务分析，对比与可比公司财务特征的差异，评价
+目标公司财务健康与否，总结行业财务特点，占比15% 
+ 
+目标上市公司的行业范围：新能源，消费，医药，或科技股 
+ 
+至少3 人不超过5 人一组，自愿组队（不能跨班） 
+ 
+目标公司的主营业务、商业模式 
+ 
+公司财务数据分析，纵向比较+横向比较 
+ 
+总结公司财务特点，亮点，判断财务是否健康；总结公司所在行业财
+务的特点 
+ 
+提交时间：公司主营业务、商业模式阶段内容提交（第8 周，考核阶
+段完成情况，不打分），完整报告（第14 周，依据提交的报告打分）
+最终报告提交前可以约老师指导 
+ 
+制作PPT 用于期末展示，展示每组5 分钟（第15，16 周） 
+ 
+邀请组长参与PPT 展示打分，排序 
+ 7 / 7 
+ 
+ 
+小组大作业2：资本市场专题研究，小组选择一个中国资本市场发展的领域，对其产生、发
+展历程与现状、存在的问题、改革举措与成效进行研究，占比10% 
+ 
+至少2 人不超过3 人一组，自愿组队（不能跨班） 
+ 
+话题可以选择但不局限于以下领域：多层次股权市场，债券市场，衍
+生品市场，监管机构，上市公司（股权分置改革，信息披露制度，分
+红制度，再融资制度，公司治理），中介机构，机构投资者（证券投
+资基金，私募基金，年金，社保基金，保险资金），股票或债券的发
+行制度，并购重组，交易制度，资本市场开放，风险防控，监管体系，
+绿色金融，数字货币，我国资本市场的指数，指数基金投资，ESG 投
+资，绿色金融等等 
+ 
+3000~5000 字左右，不包含图表 
+ 
+字体宋体，小四，行距固定值20 
+ 
+通过对中国资本市场的专题研究了解我国资本市场发展、问题、
+改革举措与成效 
+ 
+制作PPT 用于期末展示，展示每组5 分钟，展示时间第14 周，
+如果想在第14 周之前展示的，可以和老师商量展示的时间。 
+期末考试 50% 
+ 
+年级统一出题考试，闭卷，2 小时，考察整个学期内容，具体时
+间地点另行通知，题型选择题40%，简答题30%，计算题30% 
+本学推荐期阅读书目： 
+《中国资本市场发展报告》canvas 上发布电子版 
+《资本市场三十年》 
+《八次危机》  
+《原则》 
+ 
+关注海富通交大安泰投教基地公众号 
+ 
+备注说明： 
+      1．带*内容为必填项。    
+   2．课程简介字数为300-500 字；课程大纲以表述清楚教学安排为宜，字数不限。 
+ 

@@ -1,0 +1,411 @@
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 1 
+FINC-UB9002L01,  
+Foundations of Finance 
+ 
+NYU London 
+ 
+Instructor Information 
+● Dr Dirk Nitzsche 
+● By arrangements - Monday and Wednesday, after 6pm.  Other times can also be 
+arranged.   
+Course Information 
+● 
+Mondays and Wednesdays, 16.45 to 18.00 
+○ 
+Bedford Square, Room TBC 
+● 
+Prerequisites: (1) STAT-UB 103 Statistics for Business Control and Regression/Forecasting 
+Models OR STAT-UB 1 Statistics for Business Control (4 credit) plus STAT-UB 3 
+Regression/Forecasting (2 credit) OR equivalent AND (2) one of the following: ECON-UB 1 
+Microeconomics OR ECON-UA 2 Economic Principles II, OR ECON-UA 5 Introduction to 
+Economic Analysis, AND (3) ACCT-UB 1 Principles of Financial Accounting AND (4) At least 
+Sophomore Standing. 
+ 
+Course Overview and Goals 
+The aim of this module is to introduce and to develop the basic concepts and tools used in modern 
+finance.  This module provides an introduction to financial markets and the different financial assets, 
+including equities, fixed income securities and derivatives.  It outlines different valuation models for 
+projects (or other physical investments), equities, fixed income securities, options and futures.  A key 
+focus of this module is the assessment of risk and return and the introduction of some ground breaking 
+finance theory, such as diversification and portfolio theory and the CAPM. 
+ 
+This course integrates Excel spreadsheet modeling and in particular the Excel optimizer Solver to 
+demonstrate some computer based application of some financial concepts introduced in this module.  
+It also focuses on current developments, such as the financial crises of 2007, the Euro crisis and 
+various other news stories. 
+Upon Completion of this Course, students will be able to: 
+● 
+Students should be able to understands and apply basic finance concepts used in business.  
+ 
+● 
+Students should be able to understand and assess current developments in finance and financial 
+markets. 
+● 
+Students have been exposed to jargon used in finance and gained the knowledge to make 
+better financial decisions.  
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 2 
+Course Requirements 
+Grading of Assignments 
+The grade for this course will be determined according to these assessment components: 
+Assignments/
+Activities 
+Description of Assignment 
+% of 
+Final 
+Grade 
+Due 
+Mid-term test 
+75 minutes mid-term test 
+25% 
+ 
+Excel project 
+Excel project – open book.  Practical application 
+of some of the theory studied 
+25% 
+ 
+Classic exam 
+2 hour closed book exam paper.   
+50% 
+ 
+ 
+Failure to submit or fulfill any required course component results in failure of the class 
+ 
+Grades 
+At NYU Stern, we strive to create courses that challenge students intellectually and that 
+meet the Stern standards of academic excellence. To ensure fairness and clarity of grading, 
+the Stern faculty have adopted a grading guideline for core courses with enrollments of more 
+than 25 students in which approximately 35% of students will receive an “A” or “A-“ grade. In 
+core classes of less than 25 students, the instructor is at liberty to give whatever grades they 
+think the students deserve, while maintaining rigorous academic standards. 
+ 
+Letter grades for the entire course will be assigned as follows: 
+Letter Grade 
+Percent 
+Description 
+A 
+Example: 93.5% and higher 
+Grade A:  Students needs 
+to show an outstanding 
+understanding of the 
+financial concepts and 
+theories introduced in this 
+course together with 
+applications.  Knowledge of 
+the limitations of the theory 
+and practical issues should 
+also be understood 
+B 
+Example: 82.5% - 87.49% 
+Grade B:  Students needs 
+to show a good 
+understanding of the 
+financial concepts and 
+theories (and its limitations) 
+introduced in this course 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 3 
+Letter Grade 
+Percent 
+Description 
+together with applications 
+and practical issues 
+C 
+Example: 72.5% - 77.49% 
+Grade C:  Students should 
+demonstrate a basic 
+understanding of different 
+financial instruments and 
+markets and its interaction 
+D 
+Example: 62.5% - 67.49 
+Grade D:  Limited 
+knowledge of financial 
+issues and concepts.  
+Finance is probably not for 
+this student 
+F 
+Example: 59.99% and lower 
+Grade F : Shows no 
+understanding of basic 
+concepts taught in this 
+module and no interest in 
+the subject.  Student is 
+advised not to pursue a 
+career in finance.work] 
+Course Materials 
+Required Textbooks & Materials 
+There is no required textbook for this course as the course material distributed to students is 
+quite substantial.   
+However, some students might find it useful to read the topics in a textbook again.  A very 
+easy textbook which covers most (if not all) of the topics in this course is the recommended 
+textbook used in New York.  It is however not necessary to have the latest edition of this 
+textbook as the changes from edition to edition are minimal.  Many other textbook cover the 
+same material and are also suitable.   
+● In New York Bodie, Z., Kane, A. and Marcus, A.J. ‘Essentials of Investments’, 
+McGraw-Hill is the main textbook. [Insert textbook or material name] 
+Optional Textbooks & Materials 
+● Bodie, Z., Kane, A. and Marcus, A.J. ‘Essentials of Investments’, McGraw-Hill (any 
+edition from the 5th edition would be sufficient, but if possible the latest edition would 
+be desirable) – main textbook also used in New York. 
+● Cuthbertson, K. and Nitzsche, D. (2008) ‘Investments’, J. Wiley, 2nd edition  
+Resources 
+● Access your course materials: NYU Classes (nyu.edu/its/classes) 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 4 
+● Databases, journal articles, and more: Bobst Library (library.nyu.edu) 
+● NYUL Library Collection: Senate House Library (catalogue.libraries.london.ac.uk) 
+● Assistance with strengthening your writing: NYU Writing Center 
+(nyu.mywconline.com) 
+● Obtain 24/7 technology assistance: IT Help Desk (nyu.edu/it/servicedesk) 
+ 
+Course Schedule 
+Session/Date 
+Topic 
+Reading 
+Assignment Due 
+Session 1: 
+Financial Markets, 
+Investors and the 
+Investment Process 
+See lecture notes 
+ 
+Session 2: 
+Financial Markets, 
+Investors and the 
+Investment Process 
+ 
+ 
+Session 3:  
+Valuation 
+Techniques 
+See lecture notes 
+ 
+Session 4:  
+Valuation 
+Techniques 
+ 
+ 
+Session 5:  
+Measuring Risk and 
+Return 
+See lecture notes 
+ 
+Session 6:  
+Measuring Risk and 
+Return 
+ 
+ 
+Session 7:  
+Equity Investments 
+See lecture notes 
+ 
+Session 8:   
+Equity Investments 
+ 
+ 
+Session 9: 
+Portfolio Theory 
+See lecture notes 
+ 
+Session 10: 
+Portfolio Theory 
+ 
+ 
+Session 11:   
+Mid Term Test 
+ 
+Mid-term test being 
+held during the 
+class.   
+Session 12:  
+Excel 
+Demonstration : 
+Calculating Risk, 
+Return and Portfolio 
+Theory 
+ 
+ 
+Session 13:  
+Asset Allocation 
+and International 
+Diversification 
+See lecture notes 
+ 
+Session 14: 
+Asset Allocation 
+and International 
+Diversification 
+ 
+ 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 5 
+Session/Date 
+Topic 
+Reading 
+Assignment Due 
+Session 15: 
+Capital Asset 
+Pricing Model 
+See lecture notes 
+ 
+Session 16:  
+Capital Asset 
+Pricing Model 
+ 
+ 
+Session 17:  
+Asset Management 
+and Performance 
+Measures 
+See lecture notes 
+ 
+Session 18: 
+Asset Management 
+and Performance 
+Measures 
+ 
+ 
+Session 19:  
+Fixed Income 
+Securities 1 
+See lecture notes 
+ 
+Session 20:  
+Fixed Income 
+Securities 1 
+ 
+ 
+Session 21: 
+Fixed Income 
+Securities 2 
+See lecture notes 
+ 
+Session 22:  
+Fixed Income 
+Securities 2 
+ 
+ 
+Session 23:  
+Introduction to 
+Derivatives 
+See lecture notes 
+ 
+Session 24: 
+Introduction to 
+Derivatives 
+Showing of a Video 
+explaining 
+derivatives, options, 
+and options pricing 
+ 
+Session 25: 
+Introduction to 
+Options  
+See lecture notes 
+ 
+Session 26:  
+Introduction to 
+Options 
+ 
+ 
+Session 27:  
+Introduction to 
+Futures 
+See lecture notes 
+ 
+Session 28  
+Introduction to 
+Futures 
+ 
+ 
+ 
+Closed Book Exam 
+ 
+Closed Book Exam 
+Co-Curricular Activities 
+• 
+None 
+Classroom Etiquette 
+ 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 6 
+NYUL Academic Policies 
+Attendance and Tardiness 
+• 
+Key information on NYU London’s absence policy, how to report absences, and what 
+kinds of absences can be excused can be found on our website 
+(http://www.nyu.edu/london/academics/attendance-policy.html) 
+Assignments, Plagiarism, and Late Work 
+• 
+You can find details on these topics and more on this section of our NYUL website  
+(https://www.nyu.edu/london/academics/academic-policies.html) and on the Policies 
+and Procedures section of the NYU website for students studying away at global 
+sites (https://www.nyu.edu/academics/studying-abroad/upperclassmen-semester-
+academic-year-study-away/academic-resources/policies-and-procedures.html).  
+Classroom Conduct  
+Academic communities exist to facilitate the process of acquiring and exchanging knowledge 
+and understanding, to enhance the personal and intellectual development of its members, 
+and to advance the interests of society. Essential to this mission is that all members of the 
+University Community are safe and free to engage in a civil process of teaching and learning 
+through their experiences both inside and outside the classroom. Accordingly, no student 
+should engage in any form of behaviour that interferes with the academic or educational 
+process, compromises the personal safety or well-being of another, or disrupts the 
+administration of University programs or services.  Please refer to the NYU Disruptive 
+Student Behavior Policy for examples of disruptive behavior and guidelines for response and 
+enforcement. 
+Disability Disclosure Statement 
+Academic accommodations are available for students with disabilities. Please contact the 
+Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for 
+further information. Students who are requesting academic accommodations are advised to 
+reach out to the Moses Center as early as possible in the semester for assistance. 
+ 
+Instructor Bio 
+Dirk Nitzsche affiliation with New York University in London goes back to 2001 when he started 
+teaching the module Foundations of Finance (previously known as Foundations of Financial Markets).  
+ 
+Currently he works for Cass Business School (City University, London) which he joined as a Senior 
+Lecturer in Finance in October 2004. Before joining Cass Business School he spent 6 years at the 
+Business School at Imperial College, London.  At Cass Business School, Dirk is also the Associate 
+Dean for International Relations. 
+ 
+After completing his Ph.D. in economics at the University of Newcastle, he worked in the Department 
+of Economics at the University of Newcastle between 1994 and 1997, before joining City University 
+Business School in 1997 and Imperial College in 1998.  Dirk has written numerous articles in refereed 
+journals and co-authored three textbooks in finance: Investment: Spot and Derivative Markets (2001), 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+ 
+SAMPLE SYLLABUS – SUBJECT TO CHANGE 
+Page 7 
+Financial Engineering: Derivatives and Risk Management (2001) and Quantitative Financial 
+Economics (2nd edition)(2004). In 2008 the second edition of the Investment textbook was published.  
+ 
+His research interests can broadly be described as asset pricing and efficiency of financial markets 
+and more recently he analyses the performance of unit trusts and hedge funds. His recent research 
+addressed the question whether the performance of mutual funds can be explained by luck or skill 
+and calculations about the False Discovery Rate of well performing mutual funds.  The new project 
+looks at aspects of persistence of mutual fund performance. 
+ 
+A list of publications and more information about the textbooks can be found on the home page   
+http://www.cass.city.ac.uk/experts/d.nitzsche 
+ 

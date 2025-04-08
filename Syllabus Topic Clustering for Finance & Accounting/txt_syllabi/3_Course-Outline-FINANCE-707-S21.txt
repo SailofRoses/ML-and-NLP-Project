@@ -1,0 +1,344 @@
+Finance 707 – Summer 2021 
+ 
+ 
+ 
+Finance 707 
+Financial Modelling 
+Summer 2021 Course Outline 
+ 
+Finance and Business Economics Area 
+DeGroote School of Business 
+McMaster University 
+ 
+COURSE OBJECTIVE 
+ 
+This course introduces the basics of financial modelling. This requires some understanding of 
+finance and a basic knowledge of MS Excel.  
+ 
+The course will examine the tools built into Excel and VBA and their use in financial 
+modeling, with an emphasis on documentation and industry-best practices. The models used 
+for this purpose include those covering financial statement forecasts, asset pricing, portfolio 
+management, risk management, and other finance problems.  
+ 
+INSTRUCTOR AND CONTACT INFORMATION 
+ 
+C01: Fri 08:30–11:20 
+CO2: Tue 19:00-22:00 
+Martin Butcher 
+Martin Butcher 
+Instructor 
+butchm1@mcmaster.ca 
+Instructor 
+butchm1@mcmaster.ca 
+ 
+ 
+ 
+ 
+Tel: (905) 403-8286 
+Tel: (905) 403-8286 
+Class Location: Virtual 
+Class Location: Virtual 
+ 
+ 
+COURSE ELEMENTS 
+  
+  
+  
+  
+Credit Value: 3 
+Leadership: No 
+IT skills: Yes 
+Global view: No 
+A2L: Yes 
+Ethics: No 
+Numeracy: Yes 
+Written skills: Yes 
+Participation: Yes 
+Innovation: Yes 
+Group work: Yes 
+Oral skills: No 
+Evidence-based: No 
+Experiential: No 
+Final Exam: Yes 
+Guest speaker(s): No 
+Finance 707 – Summer 2021:  Page 2 of 7 
+ 
+COURSE DESCRIPTION 
+ 
+Financial modelling involves the creation of tools that someone, other than the writer, can 
+use to answer “what if” questions in finance. The course will examine the tools built into MS 
+Excel and VBA and their use in financial modelling, with an emphasis on documentation and 
+industry best practices. The tools employed will include use of an introductory programming 
+language, and the integration of Excel with FinTech. 
+ 
+A working knowledge of MS Excel is assumed, but no prior experience with VBA is required. 
+ 
+LEARNING OUTCOMES 
+ 
+Upon successful completion of this course, students will be able to complete the following 
+key tasks: 
+ 
+➢ Identify the key finance and accounting terms and concepts used in financial models. 
+➢ Apply best practices and efficiency tools for general-purpose spreadsheet modeling. 
+➢ Determine the key input variables to a range of financial models. 
+➢ Integrate and link key financial statements and ratios into a financial model. 
+➢ Perform key sensitivity and scenario analyses under a range of assumptions. 
+➢ Learn to document and test a financial model. 
+➢ Learn to work with and use a range of external data with a spreadsheet model. 
+➢ Learn to program a financial model using Visual Basic for Applications (VBA) 
+ 
+COURSE MATERIALS AND READINGS 
+ 
+Course Materials are available on Avenue To Learn 
+ 
+Textbooks: 
+ 
+ 
+Benninga; Financial Modeling; Fourth Edition; The MIT Press, 2014. ISBN: 978-
+0262027281. Comprehensive finance-focused text, also useful in other finance courses  
+ 
+ 
+ Walkenbach; Excel 2016 Bible; First Edition; Wiley, 2015.  ISBN: 978-1119067511. 
+Traditional-style manual for Excel, helpful in gaining understanding of broader Excel usage  
+Finance 707 – Summer 2021:  Page 3 of 7 
+ 
+COURSE OVERVIEW AND ASSESSMENT 
+ 
+Individual learning in this course results from in-class discussions, problem solving, and lab 
+work. The balance of the individual learning results from lectures on specific topics, student 
+research, and a group project centred on a financial model.  
+ 
+Your final grade will be calculated as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COURSE DELIVERABLES 
+ 
+Weekly Engagement (20%) 
+10 weeks of asynchronous chat question and response at 2% per week. A detailed 
+grading rubric will be posted on Avenue to Learn in Week 01. 
+ 
+Test 1 (25%) – Week 6 
+On-line test on material covered in the first six weeks of the course. Details will be 
+posted on Avenue to Learn in Week 05. 
+ 
+Test 2 (25%) – Week 12 
+On-line test on material covered in the last six weeks of the course. Details will be 
+posted on Avenue to Learn in Week 11. 
+ 
+Group Project (30%) Innovation Project – Week 13 
+Group project details will be posted on Avenue to Learn in Week 03. 
+ 
+ 
+COMMUNICATION AND FEEDBACK 
+ 
+Students who wish to correspond with instructors or class mates directly via email, must 
+send messages that originate from their official McMaster University email account. This 
+protects the confidentiality and sensitivity of information as well as confirms the identity of 
+the student. Emails regarding course issues should NOT be sent to the Area Administrative 
+Assistants.   
+ 
+Weekly Engagement Questions
+20%
+Test 1:  (Week 6)
+25%
+Test 2: (Week 12)
+25%
+Group Project: (Week 13)
+30%
+TOTAL
+100%
+Finance 707 – Summer 2021:  Page 4 of 7 
+ 
+ACADEMIC INTEGRITY 
+ 
+You are expected to exhibit honesty and use ethical behavior in all aspects of the learning 
+process. Academic credentials you earn are rooted in principles of honesty and academic 
+integrity. It is your responsibility to understand what constitutes academic dishonesty 
+ 
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behavior can result in serious consequences, 
+e.g. the grade of zero on an assignment, loss of credit with a notation on the transcript 
+(notation reads: “Grade of F assigned for academic dishonesty”), and/or suspension or 
+expulsion from the university. 
+For information on the various types of academic dishonesty please refer to the Academic 
+Integrity Policy, located at https://secretariat.mcmaster.ca/university-policies-procedures- 
+guidelines/ 
+The following illustrates only three forms of academic dishonesty: 
+• plagiarism, e.g. the submission of work that is not one’s own or for which other credit 
+has been obtained. 
+• improper collaboration in group work. 
+• copying or using unauthorized aids in tests and examinations. 
+ 
+COURSES WITH AN ONLINE ELEMENT 
+ 
+Students should be aware that, when they access the electronic components of a course, 
+private information such as first and last names, user names for the McMaster e-mail 
+accounts, and program affiliation may become apparent to all other students in the same 
+course.  
+ 
+The available information is dependent on the technology used. Continuation in a course that 
+uses on-line elements will be deemed consent to this disclosure. If you have any questions 
+or concerns about such disclosure please discuss this with the course instructor. 
+ 
+CONDUCT EXPECTATIONS 
+As a McMaster student, you have the right to experience, and the responsibility to 
+demonstrate, respectful and dignified interactions within all of our living, learning and 
+working communities. These expectations are described in the Code of Student Rights & 
+Responsibilities (the “Code”). All students share the responsibility of maintaining a positive 
+environment for the academic and personal growth of all McMaster community members, 
+whether in person or online. 
+ 
+Finance 707 – Summer 2021:  Page 5 of 7 
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in 
+effect in virtual learning environments. The Code applies to any interactions that adversely 
+affect, disrupt, or interfere with reasonable participation in University activities. Student 
+disruptions or behavior’s that interfere with university functions on online platforms (e.g. use 
+of Avenue 2 Learn, WebEx or Zoom for delivery), will be taken very seriously and will be 
+investigated. Outcomes may include restriction or removal of the involved students’ access 
+to these platforms. 
+ 
+MISSED ACADEMIC WORK 
+ 
+Where students miss a regularly scheduled mid-term or class participation for legitimate 
+reasons as determined by the Student Experience – Academic (MBA) office, the weight for 
+that test/participation will be distributed across other evaluative components of the course at 
+the discretion of the instructor. Documentation explaining such an absence must be 
+provided to the Student Experience – Academic (MBA) office within five (5) working days 
+upon return to school. 
+ 
+ACADEMIC ACCOMMODATION OF STUDENTS WITH DISABILITIES 
+ 
+Students with disabilities who require academic accommodation must contact Student 
+Accessibility Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make 
+arrangements with a Program Coordinator. For further information, consult McMaster 
+University’s Academic Accommodation of Students with Disabilities policy. 
+ 
+ACADEMIC ACCOMMODATION FOR RELIGIOUS, INDIGENOUS  
+OR SPIRITUAL OBSERVANCES (RISO) 
+ 
+Students requiring academic accommodation based on religious, indigenous or spiritual 
+observances should follow the procedures set out in the RISO policy. Students should 
+submit their request to their Faculty Office normally within 10 working days of the 
+beginning of term in which they anticipate a need for accommodation or to the Registrar's 
+Office prior to their examinations. Students should also contact their instructors as soon as 
+possible to make alternative arrangements for classes, assignments, and tests. 
+ 
+COPYRIGHT AND RECORDING 
+ 
+Students are advised that lectures, demonstrations, performances, and any other course 
+material provided by an instructor include copyright protected works. The Copyright Act and 
+Finance 707 – Summer 2021:  Page 6 of 7 
+copyright law protect every original literary, dramatic, musical and artistic work, including 
+lectures by University instructors.  
+The recording of lectures, tutorials, or other methods of instruction may occur during a 
+course. Recording may be done by either the instructor for the purpose of authorized 
+distribution, or by a student for the purpose of personal study. Students should be aware 
+that their voice and/or image may be recorded by others during the class. Please speak with 
+the instructor if this is a concern for you. 
+POTENTIAL MODIFICATION TO THE COURSE 
+The instructor and university reserve the right to modify elements of the course during the 
+term. The university may change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labor disruptions, etc.). Changes will be communicated 
+through regular McMaster communication channels, such as McMaster Daily News, A2L 
+and/or McMaster email. 
+ACKNOWLEDGEMENT OF COURSE POLICIES 
+Your enrolment in Finance 707 will be considered to be an implicit acknowledgement of the 
+course policies outlined above, or of any other that may be announced during lecture 
+and/or on A2L. It is your responsibility to read this course outline, to familiarize 
+yourself with the course policies and to act accordingly.  
+Lack of awareness of the course policies cannot be invoked at any point during this course 
+for failure to meet them. It is your responsibility to ask for clarification on any policies that you 
+do not understand.  
+Finance 707 – Summer 2021:  Page 7 of 7 
+ 
+COURSE SCHEDULE 
+ 
+Finance 707 - Financial Modelling 
+Summer 2021 Course Schedule 
+ 
+Meeting 
+Week 
+of 
+Topics 
+Excel 
+1 
+May 03 
+Introduction Intro to Financial Modelling 
+ 
+2 
+May10 
+Financial Statement Modelling I 
+Forecasting financial statements using 
+spreadsheets 
+ 
+Excel functions / tools 
+3 
+May 17 
+Financial Statement Modelling II  
+Integrating financial statement worksheets, 
+completing valuations. 
+ 
+Excel functions / tools 
+4 
+May 24 
+Portfolio Modelling Investment portfolios, 
+betas, variances, performance 
+measurement 
+ 
+Data tables, arrays, pivot tables  
+Matrix operations 
+5 
+May 31 
+Forecasting and Optimization Macro 
+forecasting, optimization techniques, 
+predictive analytics 
+ 
+Solver, Analysis Toolkit, 
+Regression, Scenario analysis 
+6 
+Jun 07 
+TEST 1 
+7 
+Jun 14 
+Financial Software Integration Use with 
+Bloomberg and third-party software 
+ 
+Using Bloomberg Terminals 
+8 
+Jun 21 
+VBA / Programming I Intro to VBA / 
+programming 
+ 
+VBA, macros, custom functions 
+9 
+Jun 28 
+VBA / Programming II Working with custom 
+functions 
+VBA, advanced loops 
+10 
+Jul 05 
+VBA / Programming III Additional 
+programming 
+ 
+User interfaces, additional VBA 
+programming 
+11 
+Jul 12 
+FinTech Integration 
+ 
+12 
+Jul 19 
+TEST 2 
+ 
+13 
+Jul 26 
+GROUP PROJECT  
+ 
+ 

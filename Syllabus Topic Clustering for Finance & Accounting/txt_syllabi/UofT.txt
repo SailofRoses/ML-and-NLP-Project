@@ -1,0 +1,452 @@
+ 
+ 
+ECO 404 Fall 2023 Syllabus 
+1 
+UNIVERSITY OF TORONTO (STG) 
+DEPARTMENT OF ECONOMICS 
+ECO 404, TOPICS IN MANAGERIAL ECONOMICS, FALL 2023 
+WEDNESDAYS 1 – 4 PM IN BL 114 
+INSTRUCTOR: AJAZ HUSSAIN 
+ 
+COURSE DESCRIPTION 
+Applies quantitative economic methods to real world business-oriented cases. Sample topics include: new product design, 
+decision making under uncertainty, market segmentation and price discrimination, inventory analysis, game theoretic 
+analysis of price wars, financial portfolio design, and optimal pricing. Involves substantial modeling in Excel, regression 
+analysis, optimization methods, and financial reports. 
+ 
+LEARNING OBJECTIVES 
+Students who successfully complete ECO404 will be able to: 
+ 
+Able to analyze and articulate a structured “solution” to real life situations in business-economics cases (“experiential 
+learning”). 
+ 
+Gain proficiency in Econometric modelling, Monte-Carlo simulations, and Quantitative analysis. 
+ 
+INSTRUCTOR: Sayed “Ajaz” Hussain 
+Office: GE 178 (Max Gluskin House, 150 St. George Street) 
+E-mail (for personal-course related issues): Use your UofT e-mail account (student id# in subject) and e-mail 
+sayed.hussain@utoronto.ca (please ask case related questions 
+during case-discussion). 
+ 
+REQUIRED COURSE MATERIAL/TOOLS/PLATFORMS 
+ECO 404 Quercus: 
+ 
+Course Announcements and/or notifications 
+ 
+Submitting, grading, and detecting plagiarism in “memos” and “projects” (see course policies section) 
+Microsoft Office 365 ProPlus (especially Excel) and TechSmith Snagit 
+ 
+(Free) download from here.  
+ 
+Please install the following Excel add-ins: 
+o “Solver” and “Data Analysis” from “within” Excel 
+ 
+You must bring a laptop with Excel to every lecture. 
+ECO 404 Fall 2023 “Harvard Business School Case Packet” 
+ 
+Details TBA after first lecture based on students’ interests and preferences.  
+ 
+Some possible cases: 
+o [Game Theory: Strategic Pricing] Bitter Competition: The Holland Sweetener Co. vs. NutraSweet (A) [with spreadsheet 
+supplement] in conjunction with Bitter Competition: The Holland Sweetener Co. vs. NutraSweet (B) 
+o [Finance: Asset Management] Construct real-life portfolios consisting of a risk-free asset and a synthetic risky asset 
+consisting of stocks, corporate bonds, commodities, and ETFs/Mutual Funds.  
+o [Finance: Decision Making Under Uncertainty with Monte-Carlo Simulations] Gold Claim at Sturgeon Lake [with 
+spreadsheet supplement].  
+o [Finance: Credit Risk] Blackstone and the Sale of Citigroup's Loan Portfolio [with spreadsheet supplement]. 
+o [Marketing: Pricing, Segmentation] Tupelo Medical: Managing Price Erosion [with spreadsheet supplement]. 
+o [Finance: Mark-to-Market Valuation] Compass Maritime Services, LLC: Valuing Ships [with spreadsheet supplement]. 
+o [Finance: Mark-to-Model Valuation] Ocean Carriers [with spreadsheet supplement]. 
+o [Finance: LBO M&A Valuation]Valuation of AirThread Connections [with spreadsheet supplement] in conjunction with 
+Note on Cash Flow Valuation Methods: Comparison of WACC, FTE, CCF and APV Approaches 
+o [Environmental Economics: Hazardous Waste Synergies] Cook Composites and Polymers Co. [with spreadsheet supplement]. 
+o [Game Theory: Innovation] Race to Develop Human Insulin in conjunction with An R&D Race (pw announced in 
+class) 
+o [Marketing: Effectiveness of Ad Channels] Fueling Sales at EuroPet Data (with spreadsheet supplement) 
+o [Finance: Mining] Bidding for Antamina Copper-Zinc Mine accompanied by  
+ECO 404 Fall 2023 Syllabus 
+2 
+REQUIRED COURSE MATERIAL/TOOLS/PLATFORMS 
+o [Pricing: Hedonic Regressions] Sarah Gets a Diamond 
+o [Marketing: Measuring Price vs. In-Store Promotions] Two Varieties of Two Major Soda Brands Competing in Seven 
+Locations of a Supermarket Chain. 
+o [Finance: How to Hedge Risk on a Commodity Lacking Derivatives/Options Products] Milk and Money.  
+ 
+ 
+Cases will be randomly assigned one week in advance. For example, the case for the Week 3 class will be assigned in 
+Week 2. Students are expected to read cases/notes and familiarize themselves with the salient facts/issues of the case 
+prior to class, and discuss the assigned case/note/data in class.  
+ 
+MARKING SCHEME (SEE “COURSE POLICIES” SECTION) 
+(30% of overall grade) Project 1:  
+At the end of Week 5 lecture, each student will be randomly assigned one of the cases that was assigned/discussed in Week 
+2 through Week 5 classes and deliver the following items on the assigned case for Project 1 (a solo project, i.e. you cannot 
+collaborate with anyone else): 
+ 
+[75% of the Project 1 Mark] (Max) 10-page “business report” with a title page (does not count towards the 10-
+page limit), one-page executive summary (counts towards the 10-page limit). Report must be supplemented with a 
+technical appendix (no page limit on appendix) and an Excel file with the “analysis/model”. See “Paper Grading 
+Rubric” below. 
+ 
+[25% of the Project 1 Mark] (Max) 15-20 minute “online presentation”. Students must use “slides” and are 
+required to be “on video”. Optional: Students may solicit feedback from their peers to “improve” their presentation 
+(however, you cannot solicit feedback on the paper or Excel model). See “Presentation Grading Rubric” below. 
+ 
+“Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual 
+similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the 
+tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s 
+use of this tool are described on the Centre for Teaching Support & Innovation web site https://uoft.me/pdt-faq” 
+ 
+Due: 1:10 pm Week 7 class.  
+ 
+Penalty for late submission: 25% of the Project 1 grade for each day that the submission is late. Project to be 
+submitted through Quercus – details TBA. 
+(50% of overall grade) Project 2:  
+At the end of Week 12 lecture, each student will be randomly assigned one of the cases that was assigned/discussed in 
+Week 6 through Week 12 classes and deliver the following items on the assigned case for Project 2 (a solo project, i.e. you 
+cannot collaborate with anyone else): 
+ 
+[75% of the Project 2 Mark] (Max) 10-page “business report” with a title page (does not count towards the 10-
+page limit), one-page executive summary (counts towards the 10-page limit). Report must be supplemented with a 
+technical appendix (no page limit on appendix) and an Excel file with the “analysis/model”. See “Paper Grading 
+Rubric” below.  
+ 
+[25% of the Project 2 Mark] (Max) 15-20 minute “online presentation”. Students must use “slides” and are 
+required to be “on video”. Optional: Students may solicit feedback from their peers to “improve” their presentation 
+(however, you cannot solicit feedback on the paper or Excel model). See “Presentation Grading Rubric” below. 
+ 
+“Normally, students will be required to submit their course essays/projects to the University’s plagiarism detection tool for a review of 
+textual similarity and detection of possible plagiarism. In doing so, students will allow their essays/projects to be included as source 
+documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to 
+the University’s use of this tool are described on the Centre for Teaching Support & Innovation web site https://uoft.me/pdt-faq” 
+ 
+Due: 11 pm, two weeks after Week 12 class.  
+ 
+Penalty for late submission: 25% of the Project 2 grade for each day that the submission is late. Project to be 
+submitted through Quercus – details TBA. 
+(11% of overall grade) One-page summary memos: 
+ 
+For each of the eleven classes from Week 2 through Week 12, students are expected to read the assigned case prior 
+to class and submit a one-page memo summarizing the main issues of the assigned case (through Quercus) prior to 
+class (no later than 1:10 pm). For example: you must submit a memo summarizing the Week 2 case prior to the 
+Week 2 class. Each weekly memo is 1% of the course grade. 
+ 
+“Normally, students will be required to submit their memos to the University’s plagiarism detection tool for a review of textual similarity 
+and detection of possible plagiarism. In doing so, students will allow their memos to be included as source documents in the tool’s reference 
+ECO 404 Fall 2023 Syllabus 
+3 
+database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool 
+are described on the Centre for Teaching Support & Innovation web site https://uoft.me/pdt-faq” 
+ 
+Penalty for late submission: 100% of the memo grade if the memo is not submitted at the beginning of class.   
+(9% of overall grade) In-class participation:  
+ 
+For each of the eleven classes from Week 2 through Week 12, students are expected to read the assigned case prior 
+to class and actively participate in-class analysis/discussions/modeling. Participation grades will be released with the 
+“overall course grade” (i.e. after the last class).  
+ 
+Each of the 11 “In-class-participation” sessions is worth 1% of the course grade and the two lowest marks will be 
+dropped. 
+ 
+PAPER GRADING RUBRIC 
+  
+Excellent 
+Good 
+Fair 
+Problematic 
+Score: 
+3 
+2 
+1 
+0 
+Economic 
+Argument, 
+Concepts & 
+Evidence 
+Clearly stated argument & 
+concepts. 
+Economic reasoning is 
+sound and indicates 
+thorough understanding of 
+concepts discussed in class. 
+Fairly clear and convincing 
+argument. 
+Adequate use of economic 
+concepts.  Demonstrates 
+understanding of topics 
+discussed in class. 
+Argument is confusing or 
+contradictory. Weak 
+definition/application of 
+economic concepts. 
+Demonstrates some 
+understanding of topics 
+discussed in class. 
+No clear argument. 
+Confused or no use of 
+economic concepts. Poor 
+quality and little if any 
+displayed evidence of 
+understanding of topics 
+discussed in class. 
+Organization  
+& Flow 
+Each main point is written 
+in a separate paragraph, in a 
+logical order. Article closes 
+with a clear and convincing 
+call to action. 
+Each reason is written in 
+paragraphs, but not necessarily 
+separate. Closing gives a fairly 
+clear and convincing call to 
+action. 
+Reasons are not written in 
+distinct paragraphs. Closing gives 
+a call to action, although not well 
+supported. 
+Reasons are not written in 
+good paragraphs and have 
+questionable order. No 
+clear or convincing call to 
+action at close. 
+Writing, Clarity, 
+Conciseness, 
+Sentence 
+Structure, 
+Grammar, 
+Active 
+Voice, interest to 
+Reader 
+Easy to read, even for a 
+non-specialist. Writing 
+enhances understanding and 
+interest. Short, clear, 
+correctly structured 
+sentences with active voice 
+throughout. Minimal (if 
+any) errors. 
+Mostly easy to read. Mostly 
+short, clear, correctly structured 
+sentences with active voice. A 
+few minor errors. 
+Sentence/word level problems 
+get in the way of understanding, 
+distracting reader in places. Some 
+passive voice and/or jargon. 
+Significant sentence/word 
+level problems make it 
+difficult for reader to 
+understand argument. 
+Considerable passive voice 
+and/or jargon. 
+ 
+PRESENTATION GRADING RUBRIC 
+  
+Excellent 
+Good 
+Fair 
+Problematic 
+Score: 
+3 
+2 
+1 
+0 
+Case Analysis: 
+Arguments, 
+Evidence, 
+Understanding 
+Clearly identifies salient 
+issue[s] in case. Effective and 
+forceful arguments based on 
+solid economic and (if 
+applicable) econometric 
+analysis. Demonstrates sound 
+understanding of issues and 
+economic/econometric 
+concepts. Clear 
+recommendations and/or 
+findings. 
+Adequate identification of 
+salient issue[s] in case. 
+Somewhat effective arguments 
+based on adequate use of 
+economic and (if applicable) 
+econometric analysis. 
+Demonstrates adequate 
+understanding of issues and 
+economic/econometric 
+concepts. Adequate 
+recommendations and/or 
+findings. 
+Inadequate identification of 
+salient issue[s] in case. Poor 
+and/or invalid arguments 
+based on sparse use of 
+economic and (if applicable) 
+econometric analysis. 
+Demonstrates inadequate 
+and/or confused 
+understanding of issues and 
+economic/econometric 
+concepts. Inadequate 
+recommendations and/or 
+findings 
+Misidentifies salient issue[s] 
+in case. Incorrect arguments 
+which are not based on 
+economic and (if applicable) 
+econometric analysis. 
+Demonstrates little to no 
+understanding of issues and 
+economic/econometric 
+concepts. Lacks 
+recommendations and/or 
+findings 
+Organization & 
+Flow: Clarity, 
+Conciseness, 
+Structure, Flow, 
+Grammar, 
+Interest to 
+Audience 
+  
+Presentation has excellent 
+structure and flow. Slides are 
+properly formatted and titled, 
+and effectively and succinctly 
+convey information and/or 
+arguments. Data and 
+econometric analysis (if 
+applicable) presented clearly 
+and effectively. Clear, effective 
+tables, graphs, charts, etc. 
+Excellent backup slides for the 
+Q&A session effectively 
+demonstrating “behind the 
+scenes” analysis. Minimal (if 
+any) errors. 
+Presentation has less than 
+stellar structure and flow. 
+Some issues with formatting 
+and titles. Slides inadequately 
+convey information and/or 
+arguments. Inadequate 
+presentation of data and 
+econometric analysis (if 
+applicable). Ineffective use of 
+tables, graphs, charts, etc. 
+Backup slides inadequate for 
+Q&A session and ineffectively 
+demonstrating “behind the 
+scenes” analysis. A few minor 
+errors. 
+Presentation has poor 
+structure and flow. Major 
+issues with formatting and 
+titles. Slides fail to adequately 
+convey information and/or 
+arguments. Data and 
+econometric analysis (if 
+applicable) shoddily presented. 
+Poorly organized tables, 
+graphs, charts, etc. Backup 
+slides completely inadequate 
+for Q&A session and for 
+demonstrating “behind the 
+scenes” analysis. Many minor 
+errors. 
+Presentation lacks structure 
+and flow. Lots of major 
+issues with formatting and 
+titles. Slides do not convey 
+information and/or 
+argument. Data and 
+econometric analysis (if any) 
+poorly or not presented. 
+Poor, ineffective, use of 
+tables, graphs, charts, etc. No 
+backup slides for 
+demonstrating “behind the 
+scenes” analysis. Many major 
+errors. 
+ECO 404 Fall 2023 Syllabus 
+4 
+COURSE POLICIES 
+“Communications”: 
+ 
+Please check ECO404 Quercus announcements and your UofT E-mail daily. 
+ 
+Double check that:  
+o 
+Quercus settings are set to “receive notifications” 
+o 
+You have registered your UofT e-mail account on Quercus 
+o 
+You are not forwarding your UofT e-mails to an external e-mail account 
+ 
+Quercus “mail” is wonky. As such, please don’t send messages through Quercus “mail”. 
+ 
+Emails must be sent from your University email address and must include your student ID# in the subject field. For emails asking 
+for a reply, if we can answer briefly without explaining course content or revealing something of general interest, then we will reply 
+within three business days. 
+ 
+It is imperative that you inform us by e-mail asap of any changes to your name and/or e-mail address on file on ACORN and 
+Quercus. Penalty for administrative tasks stemming from violating this policy: 5% of your overall course grade. 
+ 
+ECO404 Quercus: submitting assessments for grading and/or detecting plagiarism: 
+ 
+“Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual similarity and 
+detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they 
+will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the Centre for Teaching 
+Support & Innovation web site https://uoft.me/pdt-faq” 
+ 
+“Accessibility Accommodations”: 
+ 
+The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario 
+Human Rights Code. This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible 
+learning environment that both meets the needs of students and preserves the essential academic requirements of the University’s 
+courses and programs. Students with diverse learning styles and needs are welcome in this course. If you have a disability that may 
+require accommodations, the first step is to contact Accessibility Services.  
+ 
+“Religious Accommodations”: 
+ 
+The University provides reasonable accommodation of the needs of students who observe religious holy days other than those 
+already accommodated by ordinary scheduling and statutory holidays. You have a responsibility to alert us in a timely fashion to 
+upcoming religious observances and anticipated absences that affect your ability to fully participate in this course. We will make 
+every reasonable effort to avoid scheduling compulsory activities at these times.  
+ 
+“Academic Integrity”: For anything that counts towards your course grade:  
+ 
+You may not receive assistance from another individual. This includes, but is in no way limited to, any online forum or other digital 
+communication as well as any tutoring or assistance service.  
+ 
+You may not give assistance to any individual enrolled in ECO404.  
+ 
+We will report all suspected cases of academic misconduct to the Department of Economics and Dean’s Office. The consequences 
+can be severe. Being unaware of the policies or what is considered unauthorized collaboration (e.g., plagiarism) is not a defense. If 
+you have questions or concerns about what constitutes appropriate academic behavior, please reach out to me. Please know that the 
+University expects you to seek out additional information on academic integrity from me or from other institutional resources. The 
+University’s Academic Integrity website is an excellent source of information. Further, it is a course requirement that you have read 
+University’s Code of Behavior on Academic Matters, especially section B which outlines what are considered academic offences. 
+ 
+“Requests for Remarking Projects”: 
+ 
+Remarking requests must be submitted after one week, but no later than two weeks, of the assessment returned to the student. 
+ 
+Requests will be accepted neither before nor after this window. 
+ 
+It is important that you clearly articulate why your response merits additional marks. We will re-read your entire assessment. Your 
+mark could go up, down, or remain unchanged. 
+ 
+A calculation error does not constitute a “remarking request”: contact the instructor in this case. 
+ 
+“Copyright Policy”: 
+ 
+ECO404 course materials are copyright protected and belong to the instructor, the University, and/or other sources depending on 
+the specific facts of each situation. Students may download course materials for their own academic use, and cannot copy, share, or 
+use them for any other purpose without the explicit permission of the instructor. 
+ 
+ 
+ 
+ 

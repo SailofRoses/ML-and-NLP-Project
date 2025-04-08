@@ -1,0 +1,306 @@
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 1 -
+COURSE INFORMATION 
+Division: Finance      
+Instructor: Joyce Guan        
+Email*:  joyce.guan@sauder.ubc.ca    
+Office:  HA 884A (please note office 
+hours are held in a different location)      
+Office Hours:  
+Wednesday     15:00 – 17:00  HA358
+Term/period:  2018 Winter, Term 2 
+Course duration: Jan 02 – Apr 04, 2019
+Section numbers: 201 and 202 
+Class meeting times and location:  
+Section 201: M W 11:30 – 13:00 HA037 
+Section 202: M W 13:00 – 14:30 HA037  
+Pre-requisite: COMM 298 
+ Website: https://canvas.ubc.ca/ 
+*(Please always include COMM370, section 201 or 202, and your NAME in the email subject 
+line. Please use this email for messaging and do not send emails from inside Canvas)
+COURSE DESCRIPTION 
+The purpose of this course is to provide working knowledge of key corporate finance decisions that 
+are important in the life of a corporation and, more generally, to help students acquire an 
+understanding of broad economic issues that are of wide applicability in many areas of corporate 
+finance. The course balances rigorous theoretical content and practical applications. You will gain 
+experience in applying empirical and theoretical tools through the class discussion of two cases, 
+as well as through your work on ungraded practice problem sets. Topics covered in the course 
+include financial analysis and planning, capital structure policy, capital budgeting, the treatment of 
+debt financing in capital budgeting, dividend policy, how corporations raise capital, and mergers 
+and acquisitions. 
+LEARNING OBJECTIVES 
+While the main goal of the course is to familiarize students with the fundamental concepts in 
+corporate finance, we will also emphasize these concepts’ practical applications. This will be done 
+through case studies, problem sets, and real-world examples. At the end of the course, students 
+will be able to: 
+•
+Implement financial analysis and planning
+•
+Estimate a project’s cash flows
+•
+Estimate a project’s cost of capital
+•
+Evaluate capital structure policy
+•
+Determine how debt financing affects capital budgeting
+•
+Evaluate payout policy
+•
+Describe how a company can raise capital
+•
+Identify key issues in mergers and acquisitions
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 2 -
+ASSESSMENT 
+SUMMARY 
+Midterm Exam 
+40% 
+Final Exam 
+60% 
+DETAILS 
+There will be a midterm exam worth 40% of your grade and a final exam worth 60% of your grade. 
+The evaluation weights listed above are non-negotiable and both exams will be closed book.  
+You are required to take both exams in order to obtain a passing grade. 
+The final exam is cumulative, but weighted more towards the material in the second half of the 
+term.  
+In order to pass the course, the student must achieve a minimum of 50% on the final exam and 
+achieve a weighted average on the combined midterm and final of at least 50%. 
+Please see the section POLICIES & PROCEDURES for additional important information. 
+COMM 370 midterm exam
+Time: Friday, Feb 8th 19:00 – 21:00
+Location: SWNG 221
+COURSE RESOURCES AND MATERIALS 
+Lecture Notes 
+Lecture notes will be posted on the Canvas course website before each lecture. The lecture 
+notes are important study materials. You should print and bring the notes with you to the 
+lectures. 
+Textbook 
+Corporate Finance, 2015 (7th Canadian Edition) by Ross, Westerfield, Jaffe and Roberts 
+(RWJR) is required. The textbook comes packaged with a MHE Connect code which provides 
+access to the e-text, online practice problems and adaptive learning software. Many students will 
+have used this textbook in the prior course, COMM 298. The RWJR textbook is available at the 
+bookstore for purchase. (Any edition available to you is fine).
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 3 -
+Cases 
+At least two cases will be covered in class during the term and are required reading.  The two 
+Harvard Business School cases, “Clarkson Lumber Company” and “Massey-Ferguson Ltd., 
+1980”, can be purchased directly from Ivey Publishing's website.  Instructions for purchasing the 
+cases are as follows: 
+Go to the Ivey Publishing website at www.iveycases.com 
+1.
+Log in to your existing account or click "Register" to create a new account and follow the
+prompts to complete the registration. If registering, choose the "Student User" role.
+2.
+Click on this link or copy into your
+browser: https://www.iveycases.com/CoursepackView.aspx?id=20176
+3.
+Click "Add to Cart".
+4.
+You may choose to order in either print or digital  format.
+o
+To order the material in digital format, check "digital download" and click "OK".
+o
+To order a printed copy for delivery, enter the print quantity required and click
+"OK". Please note that shipping charges will apply.
+5.
+Go to the Shopping Cart (located at the top of the page), click "Checkout", and complete
+the checkout process.
+6.
+When payment has been processed successfully, an Order Confirmation will be emailed
+to you immediately and you will see the Order Confirmation screen.
+o
+If you ordered digital copies: Click "Download your Digital Items" or go to "My
+Orders" to access the file.
+o
+If you ordered printed copies: Your order will be printed and shipped within 2 to 3
+business days.
+IMPORTANT: Access to downloadable files will expire 30 days from the order date, so be sure to 
+save a copy on your computer. The downloadable file is a PDF document that can be opened 
+using Adobe Reader. 
+This material is for your personal use only and is not to be shared or distributed in any 
+form. 
+This is an automated message - please do not reply to this email.  Contact your professor directly 
+or contact Ivey Publishing during business hours. 
+Ivey Publishing 
+Ivey Business School 
+Western University 
+e. cases@ivey.ca
+t. 519.661.3208 | tf. 800.649.6355
+www.iveycases.com
+Business Hours: 
+Monday to Thursday: 8:00am-4:30pm (ET) 
+Friday: 8:00am-4:00pm  
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 4 -
+WEEK # 
+DATE 
+CLASS TOPICS 
+READINGS 
+WEEK 0 
+Jan 02 
+Introduction to Corporate Finance 
+Chapter 1 
+WEEK 1 
+Jan 07 
+Financial Analysis and Planning 
+Chapters 2, 2B 
+Jan 09
+Financial Analysis and Planning 
+Chapters 2A 
+WEEK 2 
+Jan 14
+Financial Analysis and Planning 
+Chapters 3 
+Jan 16
+Financial Analysis and Planning 
+Chapters 27 
+WEEK 3 
+Jan 21
+Financial Analysis and Planning 
+Clarkson Lumber case 
+Jan 23
+Capital Budgeting: NPV 
+Chapter 8 
+WEEK 4 
+Jan 28
+Capital Budgeting: NPV 
+Chapter 8 
+Jan 30
+Capital Budgeting: NPV 
+Chapter 8 
+WEEK 5 
+Feb 04
+Feb 06 
+No Class 
+Feb 08
+Midterm 19:00 - 21:00 SWNG221  
+WEEK 6 
+Feb 11
+Capital Budgeting: WACC 
+Chapter 13 
+Feb 13
+Capital Budgeting: WACC 
+Chapter 13 
+WEEK 7 
+Feb 25
+Capital Structure: Basics
+Chapter 16 
+Feb 27
+Capital Structure: Basics
+Chapter 16 
+WEEK 8 
+Mar 04
+Capital Structure: Limits to Debt 
+Chapter 17, 31 
+Mar 06
+Capital Budgeting with Debt 
+Chapter 18 
+WEEK 9 
+Mar 11
+Capital Budgeting with Debt 
+Chapter 18 
+Mar 13
+Payout Policy 
+Chapter 19 
+WEEK 10 
+Mar 18
+Payout Policy
+Chapter 19
+Mar 20
+Capital Structure case 
+Massey-Ferguson case 
+WEEK 11 
+Mar 25
+Raising Capital 
+Chapters 20,21 
+Mar 27
+Raising Capital 
+Chapters 20,21 
+WEEK 12 
+Apr 01
+Mergers and acquisitions 
+Chapter 30 
+Apr 03
+Mergers and acquisitions 
+Chapter 30 
+EXAM 
+TBD 
+Final Exam
+Cumulative, weighted more towards the 
+material in the second half of the term.  
+Chapter 1, 2, 2A&B, 3, 27, 8 + Clarkson Lumber 
+Midterm Review
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 5 -
+TEACHING & LEARNING ACTIVITIES 
+The lecture notes available from Canvas course website are important reference material you 
+need to digest very carefully to do well in this course. You should print and bring the lecture notes 
+to class. These notes may contain blank spaces which you are responsible for completing in 
+class. 
+Practice problems are not graded but are essential for your understanding of the material. The 
+solutions will be posted on Canvas. I encourage you to solve the practice problems on your own 
+or in a small study group (even better). The LearnSmart quizzes in MHE Connect allow you to 
+test your basic knowledge of concepts and simple calculations after you have read a chapter or 
+while reading a chapter online.  
+The textbook, RWJR, provides a good discussion of most topics covered in class, many practical 
+examples, and practice questions. It should be used together with the detailed lecture notes 
+provided.  
+The case studies are required readings. To make the best out of these cases, you should read 
+them carefully before they are discussed in class and be ready to summarize them and express 
+your views.  
+I may provide additional readings, cases or supplementary material that I will make available 
+on Canvas course website. 
+Attend the lectures and come well-prepared to participate in class. Classes are more dynamic 
+and interesting when students express their views. Please feel free to ask questions or contribute 
+to our discussions at any time. I would also appreciate feedback about how to improve the course. 
+I suggest you prepare a printed name card and you place it in front of you during each lecture. 
+This will help me learn your names and will facilitate our communication in class. 
+Visit the course website regularly and check for important announcements. 
+COMM370:  CORPORATE FINANCE
+Course Outline 
+- 6 -
+COURSE AND INSTITUTIONAL POLICIES 
+1. If for any reason you miss an exam, you must contact the Undergraduate Office immediately and 
+provide them with the documentation necessary to justify your absence.
+2. If you miss the midterm (with a UGO-excused absence) you will, at the Instructor’s discretion, 
+either be given an opportunity to write an alternate midterm exam or will have the weight from the 
+midterm exam transferred to the final exam.
+3. If you know in advance that you are unable to write the midterm exam on the scheduled date or 
+time due to a valid reason (e.g., a UBC course conflict), you must email your course instructor at 
+least TWO weeks before the scheduled midterm exam and provide all necessary documentation.
+4. Only midterm exams written in INK will be eligible to be re-read. You may, of course, choose to 
+write an exam in pencil but, in doing so, you will release your right to request a re-read.
+5. If you wish to have your midterm exam re-read, you must submit your detailed request in writing 
+within five business days of the date the midterm exams were returned in class. If a request is 
+made, all questions on the exam may be re-evaluated and a new higher or lower grade may be 
+assigned.
+6. You must attend ONLY your registered section of COMM 370. Since the sections of the course 
+are full, attending at an alternative time will deprive another student of their seat.
+7. Note that different instructors teach different sections of COMM370 and that exams are NOT 
+COMMON to all sections of the course. Hence, you must attend classes with your designated 
+instructor.
+8. Please arrive to the classroom at the designated time to avoid disturbing the class after it has 
+begun.
+9. Do not use your cell phones or send/view text messages during class. For emergency situations, 
+please excuse yourself from the classroom.
+10.
+The responsible use of laptops is allowed only for class purposes, like taking notes or 
+as directed by the instructor, but not for checking email or surfing the web during class time.
+11.
+You are encouraged to ask questions and make comments during the lecture. 
+Comments should be addressed to the whole class and private discussion among students should 
+be avoided.
+12.
+Only non-graphing scientific and business calculators are allowed during the exams.
+13.
+Contacting your instructor during office hours is the preferred method of contact. Any 
+email to your instructor should include YOUR COURSE, YOUR SECTION and YOUR NAME in 
+the subject line. 
+14.
+The instructor reserves the right to make changes to this course syllabus.

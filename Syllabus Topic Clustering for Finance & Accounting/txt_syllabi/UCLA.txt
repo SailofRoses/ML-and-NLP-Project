@@ -1,0 +1,1246 @@
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 1 
+ 
+MANAGEMENT 160 
+Entrepreneurship and Venture Initiation 
+ 
+Fall 2021 
+ 
+Section 01: Mondays & Wednesdays, 2 PM PST - 3:15 PM PST, Public Affairs Building 1222 
+Section 02: Mondays & Wednesdays, 2 PM PST - 3:15 PM PST, Haines Hall 220 
+ 
+ 
+Instructors: 
+ 
+Nathan M. Wilson, Ph.D., M.B.A. <nathan.wilson@anderson.ucla.edu> 
+Office Hours: 
+ 
+TBD / by appointment 
+Teaching Assistants: Brayden Velk <braydenvelk@g.ucla.edu>   (Monday & Wednesday) 
+Verna Chang <vchang54@gmail.com > (Tuesday & Thursday) 
+ 
+ 
+Course Description 
+This course serves as a rigorous introduction to entrepreneurship and small business development from the 
+perspective of the entrepreneur. It is intended to be a self-contained course that introduces the concepts of 
+idea generation, market analysis, fundraising, legal corporate structures, and basic financial accounting for 
+entrepreneurial endeavors. Mastery of any individual subject area is beyond the scope of this class, but the 
+student will be expected to understand the basic concepts introduced and demonstrate the attained 
+knowledge through thoughtful comments and insightful questions in class, written in-class exams, and a 
+graded team presentation on a topic relating to entrepreneurship. By understanding the basic building 
+blocks of new venture initiation, students will be able to seek out additional resources (e.g. online materials, 
+guest lectures, etc.) that can supplement the material learned in the course. 
+ 
+While this course will focus extensively on the core fundamentals of building a business, the class will also 
+emphasize the inherent experiential nature of entrepreneurship. Successful entrepreneurial students must 
+always be learning from the collective small business and entrepreneurial experience available: from 
+distinguished guest lectures on campus to family barbeques or a conversation with the local barber shop 
+owner.  A two-fold approach will be adopted to expose students to the decisions faced by real life 
+entrepreneurs. First, guest lecturers will be invited to speak about their first-hand experience. The emphasis 
+of the guest lectures will be on small ventures, not mega-success stories like Bill Gates or Steve Jobs.  
+ 
+In addition to the guest lectures, Harvard Business School cases will be utilized to expose students to the real 
+decisions faced by entrepreneurs and introduce case-based learning. Case-based education is the dominant 
+learning mechanism utilized in top business schools around the world today to prepare the next generation 
+of business leaders. Cases are designed to present a snapshot in time when a business leader or leadership 
+team needed to make a critical decision. A case provides significant detail and the core information to be 
+considered by management when reaching a decision. These cases have been selected to highlight 
+entrepreneurial decisions including marketing a new energy drink (West Coast Chill in 2010), disruptive 
+innovation (Tesla in 2020), developing a new smartphone app (Discotech in 2020), fundraising for an early 
+stage startup (Crowdfunding: A Tale of Two Campaigns, 2014) and commercializing social robots (Jibo in 
+2015). 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 2 
+ 
+MGMT 160: Entrepreneurship and Venture Initiation 
+Course Schedule at a Glance 
+ 
+# 
+Date 
+Session Description 
+0 
+Sept. 23 
+TBD 
+1 
+Sept 27/28 
+Introduction to Entrepreneurship; Entrepreneurial Paths; Opportunity Recognition 
+• Course Reader: A Perspective on Entrepreneurship 
+2 
+Sept 29/30 
+Multimedia Case: West Coast Chill 
+3 
+Oct. 4/5 
+The Business Model Canvas; The Value Proposition Canvas; The Environment Map 
+• VPD: Intro (pp. xiv-xvii), Chapter 1 (pp. 6-49) 
+• BMG: pp. 1-49 
+4 
+Oct. 6/7 
+Understanding Customers; Hypothesis-Driven Entrepreneurship 
+• 
+VPD: Chapter 1 (pp. 50-63), Section 2.3 (pp. 104-119), Chapter 3 (pp. 178-253) 
+• 
+Simulation: The Food Truck Challenge 
+5 
+Oct. 11/12 
+Entrepreneurial Strategy 
+• 
+Course Reader: Introduction to Strategy 
+• 
+Course Reader: Blue Ocean Strategy: From Theory to Practice 
+6 
+Oct. 13/14 
+ Case: Tesla, Inc. 
+7 
+Oct. 18/19 
+Exam #1 
+8 
+Oct. 20/21 
+LTV & CAC & TAM & Beachhead Market  
+9 
+Oct. 25/26 
+Entrepreneurial Accounting 
+• Course Reader: Basic Accounting Concepts and Assumptions 
+• Course Reader: Overview of Financial Accounting 
+10 
+Oct. 27/28 
+In-Class Accounting Exercise 
+11 
+Nov. 1/2 
+Raising Capital: Introduction & Crowdfunding 
+• Course Reader: Financing Entrepreneurial Ventures 
+• Course Reader: Choose Wisely: Crowdfunding through the stages of the startup life 
+cycle 
+12 
+Nov. 3/4 
+Case: Crowdfunding: A Tale of Two Campaigns 
+13 
+Nov. 8/9 
+ 
+Raising Capital: Venture Capital 
+• Course Reader: Financing Entrepreneurial Ventures (cont.) 
+14 
+Nov. 10/11 
+Case: Jibo 
+15 
+Nov. 15/16 
+Exam #2 
+16 
+Nov. 17/18 
+Business Plans & Elevator Pitches 
+• Course Reader: Developing Business Plans and Pitching Opportunities 
+• Case: Discotech 
+17 
+Nov. 22/23 
+Legal Topics for Entrepreneurs 
+• Course Reader: The Protection of Intellectual Property in the United States  
+• Course Reader: Legal Forms of Organization 
+18 
+Nov. 24/25 
+Thanksgiving Holiday – No Class! 
+19 
+Nov. 29/30 
+Group Presentations 
+20 
+Dec. 1/2 
+Group Presentations (cont.) 
+ 
+July 27-30 
+Final Exam (Lec 01: Thr. Dec. 9 @ 11:30 AM, Lec 02: Tues. Dec. 7, 2021 @ 3 PM) 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 3 
+ 
+Classroom Matters 
+Class attendance and participation are critical to providing a rich learning environment for your colleagues 
+and critical for understanding the material presented.  Students are expected to read assigned material 
+BEFORE each class, and come to class prepared to have an intellectual conversation about the assigned 
+material. The instructor may rely on cold-calling and other techniques to foster a vibrant class discussion. 
+Please note that the quality of participation matters much more than the quantity of participation. That is, 
+high-quality participation means much more than merely talking a lot, it involves being articulate and 
+focused in your comments or questions. However, the idea of a classroom environment is to be a “protected 
+space” where students feel comfortable asking questions or expressing reasoned opinions. Any student 
+disrespecting or belittling their fellow classmate’s genuine learning efforts in class will have their class 
+participation grade significantly adversely impacted. 
+ 
+Class attendance will be taken by the TA during every class. Students are expected to attend the entire 
+lecture, and arriving late or leaving early may impact your class participation score.    
+ 
+Required Reading 
+• 
+Required Course Reading Pack: https://hbsp.harvard.edu/import/868621 
+• 
+Required Simulation Course Pack: https://hbsp.harvard.edu/import/868622 
+• 
+Alex Osterwalder, Yves Pigneur, Greg Bernarda, Alan Smith (2014).  Value Proposition Design.  
+Hoboken, New Jersey:  John Wiley & Sons.  This text is referred to as “VPD” below.  Purchase wherever 
+books are sold, e.g. on Amazon (~ $18 electronic, ~ $23 paperback): 
+o https://www.amazon.com/Value-Proposition-Design-Customers-
+Strategyzer/dp/1118968050  
+• 
+Alexander Osterwalder and Yves Pigneur (2010). Business Model Generation. ISBN-10: 8126533676, 
+ISBN-13: 978-0470876411.  This text is referred to as “BMG” below.   
+o Note: you can downloada free preview of the book from the author’s website which contains 
+ALL of the assigned reading material: 
+▪ 
+http://www.businessmodelgeneration.com/downloads/businessmodelgeneration_
+preview.pdf  
+• 
+Additional required readings may come from free online resources.  
+ 
+ 
+Course Requirements 
+Note Professor Wilson exclusively reserves the right to make case-by-case exceptions to the grading policies 
+below. Students should understand that approved exceptions are EXTREMELY RARE and nearly all such 
+requests will be denied by the instructors. Students must request exceptions to the policies below in writing 
+(e.g. email), and should understand that WRITTEN APPROVAL from the instructor must be explicitly 
+obtained or the request should be considered denied. 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 4 
+ 
+Grading Criteria 
+You will receive an individual grade in this course based on your performance throughout the course. The 
+grade will be determined as follows: 
+ 
+Components of Final Course Grade 
+Contribution to 
+Grade 
+(%) 
+Attendance & Class Discussion (individual) 
+20% 
+Study Guide Exercises (individual) 
+10% 
+Exam #1 (individual) 
+10% 
+Exam # 2 (individual)  
+              10% 
+Final Exam (individual) 
+30% 
+Individual Case Write-Up 
+2.5% 
+Group Case Write-Ups (team) 
+10% 
+Group Business Pitch Idea Approval (team) 
+2.5% 
+Group Final Presentation (team) 
+5.0% 
+TOTAL 
+100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+The final grades will be assigned based on a relative distribution. No more than 50% of the class will receive 
+a grade of “A-” or above.  A typical grade distribution is approximately 40-45% of the class in the “A range”, 
+approximately 40-45% of the class in the “B range”, and 10-20% other. 
+ 
+Note: It is anticipated that all team members will receive the same grade for the group assignments.  However, 
+individual students may have their grade lowered due to lack of contribution to the effort as determined by the 
+professor based on observation and peer-review team feedback. 
+ 
+Attendance and Class Participation 
+Since a significant part of learning takes place during class sessions, attendance, active case preparation and 
+class participation are all expected. If you miss more than TWO class sessions, your final grade will be 
+lowered. In particular, for each additional absence, you will lose 12.5% of the final class participation grade 
+(i.e. 5% reduction in your overall final grade). Missing more than fifteen minutes of any class may be 
+considered a half-absence, while missing more than one hour of class will be considered a full absence.  Please 
+consult the TA for additional information or clarification if needed.  Each student will be evaluated 
+individually.  Class participation will be graded on a relative distribution. 
+ 
+Please note, you should NOT take this class if you have any standing conflicts that would prevent you from 
+being in class.  No accommodation whatsoever will be made under any circumstances for students who 
+schedule other classes that partially or completely overlap with this course, either for their lecture 
+component or any course requirements outside (e.g. exams).  Unfortunately, no accommodations of any kind 
+will be made for students with internships, paid or unpaid, that prevent you from attending class.  In other 
+words, you should take MGMT 160 if you can actually attend the lectures live.  Classes start promptly at the 
+starting time so please plan your schedule where you have time to make it to class on time. 
+   
+Note: signing an attendance sheet for another student or having someone else sign in for you on an attendance 
+sheet is blatant academic dishonesty (e.g. see below for Academic Integrity).  There are no warnings and 
+students caught either having someone sign in for them or signing in for another student will lose between 50% 
+- 100% of their final participation grade in the course.  Students may also be referred to the Dean of Students 
+for further disciplinary action for academic dishonesty. 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 5 
+ 
+No Laptop/ No Cell-Phone/ No Electronic Devices Policy 
+During lecture, case discussion, or guest speakers, we will have a “no laptop & no cell phone” policy.  Students 
+are expected to pay attention during lecture and not be on social media or email or playing on their phones.  
+We will do several exercises throughout the quarter for which an individual laptop/tablet will be helpful.  
+The teacher will clearly indicate when it is appropriate to use your electronic devices.  At the sole discretion 
+of the professor, you may receive a warning the first time you access your electronic devices outside of the 
+appropriate time.  However, in general, each infraction of the no electronic devices policy will result in at 
+least a 25% reduction of your final class participation score.  Any behavior considered disruptive will result 
+in a 25% - 100% reduction of your final class participation score.   
+ 
+Final Exam 
+A 180 minute in-class, closed book, closed note, and closed computer (except for Respondus) comprehensive 
+final exam will cover all the material covered in the class. The final exam may consist of multiple-choice, short 
+answer, and essay questions. Students must take the final-exam using Respondus at the assigned time. No 
+make-up examinations will be allowed. 
+ 
+Exam #1 and Exam #2 
+A 120 minute in-class, closed book, closed note, and closed computer (except for Respondus) comprehensive 
+exams will cover all the material covered in the class (see Details Section). The exams may consist of multiple-
+choice, short answer, and essay questions. Students must take the exam using Respondus at the assigned 
+time. No make-up examinations will be allowed. 
+ 
+Startup Simulation 
+The class will play one interactive simulation during class as detailed later in the syllabus.  Active 
+participation will be necessary to receive full credit for the simulation.  Students must be present at the 
+assigned time for the simulation. No make-up simulations will be allowed.  In particular: 
+ 
+• 
+The Food Truck Challenge: will be counted towards the participation grade. Participation in the food 
+truck challenge may be graded on a relative distribution. 
+ 
+Note: To receive credit for the simulation, you MUST individually and personally purchase the simulation 
+course pack listed above under "Required Reading" from HBSP.  You positively cannot share simulations with 
+any other student.  Any student that hasn’t purchased the simulation course pack by 9 AM the day of the 
+simulation will receive an automatic zero.   
+ 
+Individual Case Write-Ups 
+Each individual case write-up will consist of a two page paper that applies the material learned in class and 
+applies critical reasoning skills to a business situation. Quantitative as well as qualitative analysis is expected. 
+The individual case write-ups will be graded on a relative distribution. 
+ 
+Group Case Write-Ups 
+Each group case write-up will typically consist of a three page paper that applies the material learned in class 
+and applies critical reasoning skills to a business situation. Quantitative as well as qualitative analysis is 
+expected. The group case write-ups will be graded on a relative distribution. 
+ 
+Study Guide Exercises 
+Each week study questions will be posted on CCLE for the weekly assigned reading.  Students must 
+individually complete the Study Guide Questions and upload their answers by the due date.  Students can 
+either upload a PDF of their typed notes OR very clean scan/images of their notes uploaded as a PDF. This 
+assignment will be graded on completion and the assignment being uploading on time.  This is an individual 
+assignment and students should not work in groups or in shared documents on the study questions! 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 6 
+ 
+Group Business Pitch Idea Approval 
+Each team must meet with Prof. Wilson during the designated week with at least three distinct business 
+ideas.  The team and Prof. Wilson with agree upon an idea for the final pre-feasibility business pitch group 
+presentation. This assignment will be graded on completion once an idea is approved. 
+ 
+Team Presentation 
+Early in the quarter, the class will be divided into approximately 5 person teams. Each team will work 
+together during the quarter to prepare a concise, PowerPoint presentation for the class representing a mini-
+feasibility study for an approved business idea.  Detailed instructions for the format and style of the 
+presentation and paper will be given during the quarter. In general, the presentation will be graded for 
+clarity, reasoning, and the intelligent use of supporting evidence. Most of the research will be conducted 
+online, and students will be expected to properly cite all resources used in preparing the presentation. To 
+receive credit for the team presentation, students must be present during the group presentation during the 
+assigned class time as given by the instructor. Students not present during the group presentation will be 
+automatically assigned a 0% for the group presentation.  The presentations will be graded on a relative 
+distribution. 
+ 
+Note: It is anticipated that all team members will receive the same grade for the group assignments and final 
+presentation.  However, individual students may have their grade lowered due to lack of contribution to the 
+effort as determined by the professor based on observation and peer-review team feedback. 
+ 
+Note:  Any student that elects the “Pass/No Pass” grading option for the course will not be assigned to a team 
+and will instead be required to write a twenty-page individual paper on a topic similar to the team assignments 
+as directed by the professor. 
+ 
+Academic Integrity 
+All students, without exception, must familiarize themselves with the academic integrity policies of UCLA as 
+detailed in the Student Conduct Code on the Office of the Dean of Students website:  
+ 
+http://www.deanofstudents.ucla.edu/Portals/16/Documents/UCLACodeOfConduct_Rev030416.pdf 
+ 
+In particular, we would like to emphasize the following excerpt from the “UCLA Student Conduct Code” PDF 
+found on the Dean’s website which includes, but is not limited to, the following forbidden behavior:  
+ 
+102.01a: Cheating 
+Cheating includes, but is not limited to, the use of unauthorized materials, information, or study 
+aids in any academic exercise; the alteration of any answers on a graded document before 
+submitting it for re-grading; or the failure to observe the expressed procedures or instructions 
+of an academic exercise (e.g., examination instructions regarding alternate seating or 
+conversation during an examination). 
+ 
+102.01b: Fabrication 
+Fabrication includes, but is not limited to, falsification or invention of any information or 
+citation in an academic exercise, including Fabrication or Falsification of Research. Fabrication 
+of Research is making up data or results and recording or reporting them. Falsification of 
+Research is manipulating research materials, equipment or processes, or changing or omitting 
+data or results such that the research is not accurately represented in the research record. 
+ 
+102.01c: Plagiarism 
+Plagiarism includes, but is not limited to, the use of another person’s work (including words, 
+ideas, designs, or data) without giving appropriate attribution or citation. This includes, but is 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 7 
+ 
+not limited to, representing, with or without the intent to deceive, part or all of an entire work 
+obtained by purchase or otherwise, as the Student’s original work; the omission of or failure to 
+acknowledge the true source of the work; or representing an altered but identifiable work of 
+another person or the Student’s own previous work as if it were the Student’s original or new 
+work.  Unless otherwise specified by the faculty member, all submissions, whether in draft or 
+final form, to meet course requirements (including a paper, project, exam, computer program, 
+oral presentation, or other work) must either be the Student’s own work, or must clearly 
+acknowledge the source. 
+ 
+102.01d: Multiple Submissions 
+Multiple submissions includes, but is not limited to, the resubmission in identical or similar form 
+by a student of any work which has been previously submitted for credit, whether at UCLA or 
+any other school, college, or university in one course to fulfill the requirements of a second 
+course, without the informed permission/consent of the instructor of the second course; or the 
+submission for credit of work submitted for credit, in identical or similar form, in concurrent 
+courses, without the permission/consent of the instructors of both courses. 
+ 
+102.01e: Facilitating Academic Dishonesty 
+Facilitating academic dishonesty includes, but is not limited to, knowingly helping another 
+student commit an act of academic dishonesty. 
+ 
+Regarding plagiarism, students must fully cite all materials (text, figures, etc.) utilized in creating deliverables 
+for this course.  All violations of the universities policies will be referred to the Dean of Students.  Ignorance 
+of the rules is no excuse!  By way of enrolling and attending this class, you are explicitly attesting to your 
+explicit knowledge and understanding of all of the policies included in the guide of Student Conduct Code 
+cited above.  
+ 
+Guest Speakers 
+Note: The specifics of the class sessions are subject to change based on the availability of speakers. 
+ 
+Session 
+Guest Speaker 
+TBD 
+TBD 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 8 
+ 
+Class Schedule 
+Note: The specifics of the class sessions are subject to change based on the availability of speakers. 
+ 
+Note: All assignments are DUE on the date listed! 
+ 
+Sessions 1:  Introduction to Entrepreneurship; Entrepreneurial Paths;  
+Opportunity Recognition 
+Learning 
+Objectives: 
+Introduction of faculty & TAs; Course overview; Overview of entrepreneurship; 
+What is entrepreneurship? What makes a successful entrepreneur? Can 
+entrepreneurship be taught? What is case-based learning? Can you be an 
+entrepreneur part-time? What does it mean to be a full-time entrepreneur? Can 
+you become an entrepreneur even if you don’t invent a brand-new product or 
+service?  Where do “good” ideas come from? What criteria should be used to 
+judge ideas?   What is a small business?  What is a high-growth venture? 
+Required Reading: 
+• 
+HBSP: A Perspective on Entrepreneurship, Howard H. Stevenson. 
+(NOTE: This article will tested on Exam #1, but it is not required that 
+you read the article before the first day of class!) 
+Optional Online 
+Resources: 
+• 
+Teaching Entrepreneurship 
+o https://youtu.be/8NBnoVrLFPU  
+• 
+Entrepreneurs Do Three Things 
+o https://youtu.be/M7VZIbeUrSU  
+• 
+ABC Nightline – IDEO Shopping Cart 
+o https://youtu.be/M66ZU2PCIcM  
+• 
+Stanford University’s Entrepreneurship Corner, Larry Page on 
+Enterpreneurship 
+o http://ecorner.stanford.edu/authorMaterialInfo.html?mid=10
+76 
+• 
+One View of Entrepreneurship 
+o https://youtu.be/GBuDGJ6totE  
+Assignment: 
+None. 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 9 
+ 
+ 
+Session 2: Case Discussion 
+Case Assignment 
+Due: 
+Multimedia Case: West Coast Chill, William A. Sahlman; Robert F. White; 
+Stephanie Puzio. 
+ 
+The timeframe of the case is fall 2010. 
+ 
+Individual single space, two to three page paper to answer the following 
+questions on the West Coast Chill case: 
+ 
+1. 
+How would you assess Mitchell’s performance and his journey with 
+respect to the self-chilling can opportunity? 
+2. 
+What do you think about the self-chilling can opportunity?  How did 
+Mitchell quantify demand?  What were the strengths/weaknesses of his 
+approach to quantifying demand for the self-chilling can? 
+3. 
+Discuss the decision to create and distribute the West Coast Chill energy 
+drink.  Was it a good idea? 
+4. 
+The case discusses several potential financing options Mitchell may 
+have.  How would you try and raise money if you were Mitchell and why? 
+ 
+Session 3: The Business Model Canvas; The Value Proposition Canvas; The Environment Map 
+Objectives: 
+What is a “business model canvas”?  Discuss the nine sections of the business 
+model canvas.  What is the value proposition canvas?  What are customer pains, 
+gains, and jobs?  What are pain relievers and gain creators? Who is a customer?  
+What is the environment map? 
+Required Reading: 
+• 
+VPD: Intro (pp. xiv-xvii), Chapter 1 (pp. 6-49) 
+• 
+BMG: pp. 1-49 
+Optional Online 
+Resources: 
+• 
+Business Model Canvas Explained (Kauffman Foundation & Strategyzer) 
+o https://youtu.be/wwShFsSFb-Y  
+• 
+Business Model Canvas (Strategyzer) 
+o https://youtu.be/QoAOzMTLP5s  
+• 
+Value Proposition Canvas (Strategyzer) 
+o https://youtu.be/ReM1uqmVfP0  
+Study Guide 
+Questions Due: 
+• 
+Business Model Generation Study Questions 
+• 
+Value Proposition Canvas & Design Study Questions 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 10 
+ 
+Session 4:  Understanding Customers; Hypothesis-Driven Entrepreneurship 
+Learning 
+Objectives: 
+How do you conduct interviews? What are customer discovery, customer 
+validation, customer creation, and company building? What is hypothesis-
+driven entrepreneurship?  What are the criteria for good hypotheses?  What do 
+we mean by build-measure-learn? 
+Required Reading: 
+• 
+VPD: Chapter 1 (pp. 50-63) 
+• 
+VPD: Section 2.3 (pp. 104-119) 
+• 
+VPD: Chapter 3 (pp. 178-253) 
+Optional Reading: 
+• 
+Talking to Humans: Success starts with understanding your customers 
+(free e-book for academia) (pp. 30-65) 
+• 
+HBSP: Why the Lean Start-Up Changes Everything, Steven G. Blank  
+(free download from http://www.steveblank.com) 
+• 
+Testing With Humans (free e-book for academia) 
+Optional Online 
+Resources: 
+• 
+How to Build a Startup (The Lean LaunchPad) 
+o https://www.udacity.com/course/ep245 
+• 
+Steve Blank’s blog 
+o http://steveblank.com 
+• 
+Eric Ries’ website 
+o http://theleanstartup.com  
+In Class Exercise: 
+Simulation: The Food Truck Challenge 
+ 
+Note: “The Food Truck Challenge” must be purchased at least the day before 
+class.  Only students who purchase the case can participate! 
+Study Guide 
+Questions Due: 
+• 
+A Perspective on Entrepreneurship Study Questions 
+• 
+Understanding Customers and Lean Startup Study Questions 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 11 
+ 
+Session 5: Entrepreneurial Strategy 
+Learning 
+Objectives: 
+The purpose of strategy is to create a competitive advantage that generates 
+superior, sustainable financial returns over the long run.  It is achieved by 
+answering two fundamental questions: Where should we compete?  How 
+should we compete?  Strategy is NOT tactics, execution, or a list of goals.  A firm 
+employs a series of tactics and executes following its strategy to achieve a set of 
+strategic objectives.  This session will introduce the fundamental concepts of 
+entrepreneurial strategy and the popular frameworks of Blue Ocean Strategy 
+and Porter’s Forces of Industry Analysis. 
+Required Reading: 
+• 
+HBSP: Strategy Reading: Industry Analysis, Ramon-Masanell.  
+• 
+California Management Review:  Blue Ocean Strategy: From Theory to 
+Practice, W. Chan Kim & Renee A. Mauborgne 
+(NOTE: These articles will be tested on the EXAM #2, not on the exam 
+today!) 
+Optional Online 
+Resources: 
+• 
+Interview with Michael Porter 
+o https://youtu.be/mYF2_FBCvXw  
+• 
+Blue Ocean Strategy lecture by Mauborgne 
+o https://youtu.be/zrGOBdVm-KE 
+• 
+Good Strategy / Bad Strategy lecture by Richard Rumelt 
+o https://youtu.be/UZrTl16hZdk 
+Study Guide 
+Questions Due: 
+• 
+Introduction to Strategy Study Questions 
+• 
+Blue Ocean Strategy Study Questions   
+ 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 12 
+ 
+ 
+Session 6: Tesla Case 
+Case Assignment 
+Due: 
+Case: Tesla, Inc., Frank T. Rothaermel, David R. King. 
+ 
+The timeframe of the case is January 2020. 
+ 
+Group two or three page paper to answer the following questions on the case: 
+ 
+1. Tesla is the most valuable car company in the world.  Its stock is up 
+almost 400% since January 1, 2020.  Is Tesla properly valued compared 
+to Toyota or GM?  Note: you should not need to do detailed calculations 
+or complex financial modeling to answer this question.  You can likely 
+answer this question with a combination of simple math and strategic 
+arguments.   
+2. The case discusses EV (electric vehicles), ICE (internal combustion 
+engine), and plugin hybrids (PHEV) models of cars.  ICE’s dominated the 
+20th century.  For the sake of this question, assume that someday in the 
+future 100% of cars sold will be EV’s.  If you were running GM or Toyota 
+back in the mid-2010’s, what strategy would you have pursued?  Would 
+it be different in 2020? Why or why not?   
+3. Given hindsight (i.e. you know “what happened”), discuss the strengths 
+and weaknesses of “Tesla’s Secrete Strategy (Part 1) (2006)”. 
+4. Assess “Tesla’s Secret Strategy (Part 2) (2016)”.  Discuss the strengths, 
+weaknesses, and risks of this strategy going forward. 
+ 
+ 
+ 
+Session 7: Exam #1 
+Assignment: 
+Prepare for Exam #1 for material covered from Sessions #1 - #6.  
+ 
+Session 8: LTV & CAC & TAM & Beachhead Market 
+Learning 
+Objectives: 
+What is Life Time Value (LTV)?  What is Customer Acquisition Cost (CAC)?  That 
+is Total Addressable Market?  What is a beachhead market? 
+Assignment 
+TBD 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 13 
+ 
+Session 9: Entrepreneurial Accounting 
+Learning 
+Objectives: 
+The objective of accounting is to provide information useful for users’ decision 
+making.  This lecture will introduce the underlying concepts and assumptions 
+of accounting and focus on financial accounting standards intended for 
+“external” users.  The three core financial statements (Balance Sheet, Income 
+Statement, and Cash Flow Statement) will be considered as well as the 
+difference between accrual accounting and cash-based accounting.  Topics of 
+particular interest to entrepreneurs such as pro-forma financial statements 
+will be discussed. 
+Required Reading: 
+• 
+HBSP: Basic Accounting Concepts and Assumptions 
+• 
+HBSP: Overview of Financial Accounting 
+Study Guide 
+Questions Due: 
+• 
+Basic Accounting Concepts and Assumptions Study Questions 
+• 
+Overview of Financial Accounting Study Questions 
+ 
+ 
+Session 10: In Class Accounting Exercise 
+Assignment 
+Details to follow. 
+ 
+Session 11: Raising Capital: Introduction & Crowdfunding 
+Learning 
+Objectives: 
+Raising capital for an early stage venture depends on multiple factors including 
+the size of the opportunity, the state of the venture, the business cycle, etc.   This 
+lecture will introduce investor types including friends & family, angel investors, 
+and venture capitalists.  Crowdfunding platforms and accelerators will also be 
+discussed. 
+Required Reading: 
+• 
+HBSP: Entrepreneurial Reading: Financing Entrepreneurial Ventures, 
+William R. Kerr, Ramana Nanda, James McQuade (Sections 1-2.7, 2.9-
+2.10, 3.2) 
+• 
+Choose Wisely: Crowdfunding through the stages of the startup life cycle, 
+Business Horizons (2017) 60, 179-188, Jeannette Paschen 
+Optional Online 
+Resources: 
+• 
+Own Your Venture Equity Simulator 
+o http://www.ownyourventure.com 
+• 
+A List of Top LA Accelerators and Incubators 
+o http://vator.tv/news/2013-05-17-a-list-of-top-la-accelerators-
+and-incubators 
+Study Guide 
+Questions Due: 
+• 
+Financing Entrepreneurial Ventures Study Questions (First Reading) 
+• 
+Crowdfunding Study Questions 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 14 
+ 
+ 
+Session 12: Crowdfunding Case 
+Case Assignment 
+Due: 
+Case: Crowdfunding: A Tale of Two Campaigns, Andrew Zacharakis, et. al. 
+ 
+The timeframe of the case is 2013 & 2014. 
+ 
+Group two or three page paper to answer the following questions on the case: 
+ 
+• 
+What could the twin sisters have done differently? 
+• 
+Should Hanson have targeted more than $10,000? 
+• 
+In both cases, were the financial results worth the effort? 
+• 
+What would you do differently if you were to run a crowdfunding 
+campaign? 
+ 
+Session 13: Raising Capital: Venture Capital 
+Learning 
+Objectives: 
+The first venture capital (VC) firm was launched in the United States in 1946 and the 
+modern structure of VC funds has been in place since the 1960s.  In this lecture, we 
+will do a deeper dive into the mechanics of venture capital and how VCs evaluate 
+potential investments. 
+Required 
+Reading: 
+• 
+HBSP: Entrepreneurial Reading: Financing Entrepreneurial Ventures, William 
+R. Kerr, Ramana Nanda, James McQuade (Sections 2.8, 3 & 4) 
+Optional Online 
+Resources: 
+• 
+Example of Excellent Five Minute Pitch (DEMO 2011): 
+o 
+https://youtu.be/6Ybbi6-eId0 
+• 
+SBA Small Business Plan Guidance 
+o 
+https://www.sba.gov/business-guide/plan-your-business/write-your-
+business-plan  
+Study Guide 
+Questions Due: 
+• 
+Financing Entrepreneurial Ventures Study Questions (Venture Capital) 
+ 
+Session 14: Jibo Case 
+Case Assignment 
+Due: 
+Case: Jibo 
+ 
+The timeframe of the case is February 2015. 
+ 
+Group three page paper to answer the following questions on the “Jibo” case: 
+ 
+1. 
+Discuss Jibo’s early seed funding strategy from 2009-2013.  What were 
+the influencers on the approach of Dr. Breazeal and Mr. Asher?  What 
+were the strengths and weaknesses of the founding team?  Would you 
+recommend any changes in the early stage funding approach at the time?  
+2. 
+Why did Jibo launch a crowdfunding campaign?  Why did they select 
+Indiegogo instead of Kickstarter? 
+3. 
+At the time of the case, Jibo has raised $25.4M in Series A financing.  How 
+has the approach and strategy of the company been influenced by the 
+funding? In other words, what are the strengths of weaknesses of raising 
+the significant Series A capital, in contrast, for example, to Pebble 
+Watch’s Kickstarter campaign? 
+4. 
+The time frame of this case is very recent.  The founders secured the first 
+investment for Jibo by January 2013.  If the team were raising their seed 
+money today, would there be any differences in approach? 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 15 
+ 
+Session 15: Exam #2 
+Assignment: 
+Prepare for Exam #2 for material covered from Sessions #8 - #14.  
+ 
+ 
+Session 16: Business Plans & Elevator Pitches 
+Objectives: 
+What does a business plan look like? What are the main sections of a business plan? 
+Is the Executive Summary really the most important part of a business plan? Who 
+needs a business plan?  How are they used? What is an elevator pitch? How do you 
+construct a good pitch? What are stock options and who gets them?  
+Required 
+Reading: 
+• 
+HBSP: Developing Business Plans and Pitching Opportunities, Lynda M. 
+Applegate & Carole Carlson 
+Optional Online 
+Resources: 
+• 
+Example of Excellent Five Minute Pitch (DEMO 2011): 
+o 
+https://youtu.be/6Ybbi6-eId0 
+• 
+SBA Small Business Plan Guidance 
+o 
+https://www.sba.gov/business-guide/plan-your-business/write-your-
+business-plan  
+Assignment: 
+Prepare for Exam #2 for material covered from Sessions #6 - #9.  No questions on 
+Business Plans & Elevator Pitches on Exam #2!  Note that Exam #2 is NOT 
+comprehensive but the final exam will be! 
+In Class Case 
+Assignment: 
+Discotech 
+ 
+The timeframe of the case is 2013. 
+ 
+To be done in class as a group and submitted by the end of class.  
+Study Guide 
+Questions Due: 
+Developing Business Plans and Pitching Opportunities Study Questions 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 16 
+ 
+Session 17: Legal Topics for Entrepreneurs 
+Objectives: 
+What is a patent? What is a trade-secret? What can I copyright? What is a 
+trademark?  A service mark? What is the structure of a venture capital firm?  What 
+is a term sheet?  Do I need a corporation? What is a sole-proprietorship? What is 
+a partnership? What is a corporation?  An S-corp? What is a LLC? How does a team 
+divide ownership? 
+Required Reading 
+• 
+HBSP: Legal Forms of Organization, Michael J. Roberts  
+• 
+HBSP: The Protection of Intellectual Property in the United States, Myra M. 
+Hart & Howard Zaharoff 
+Optional Online 
+Resources: 
+• 
+Legal Issues for Entrepreneurs - Formation and Founders Issues 
+o 
+http://www.fenwick.com/publications/pages/legal-issues-for-entrepreneurs-
+formation-and-founders-issues.aspx  
+• 
+Copyright Basics - Just Enough Copyright Law If You Are Not an Attorney or IP Expert 
+o 
+http://www.fenwick.com/publications/Pages/Copyright-Basics-Just-Enough-
+Copyright-Law-If-You-Are-Not-an-Attorney-or-IP-Expert.aspx 
+• 
+Trade Secrets Protection: A Primer and Desk Reference for Managers and In House 
+Counsel 
+o 
+http://www.fenwick.com/publications/Pages/Trade-Secrets-Protection-A-
+Primer-and-Desk-Reference-for-Managers-and-In-House-Counsel.aspx 
+• 
+Patent Protection for High Technology Companies 
+o 
+http://www.fenwick.com/publications/Pages/Patent-Protection-for-High-
+Technology-Companies.aspx 
+• 
+Trademarks for High Tech Companies 
+o 
+http://www.fenwick.com/FenwickDocuments/TM_Selection_for_HighTech.pdf  
+Assignment: 
+Prepare for Exam #2 for material covered from Sessions #6 - #9.  No questions on 
+Legal Topics for Entrepreneurs on Exam #2!  Note that Exam #2 is NOT 
+comprehensive but the final exam will be! 
+ 
+ 
+Study Guide 
+Questions Due: 
+• 
+Legal Forms of Organization Study Questions 
+• 
+The Protection of Intellectual Property in the United States Study 
+Questions  
+ 
+Session 18: Thanksgiving – NO CLASS! 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 17 
+ 
+ 
+ 
+Session 19 & 20: Team Presentations & Course Wrap Up 
+Objectives: 
+Each team will give a presentation with time for Q&A.   
+Required Reading: 
+None.  
+Optional Online 
+Resources: 
+• 
+Entrepreneur Magazine Resources on Presentations 
+o https://www.entrepreneur.com/topic/presentations  
+o https://youtu.be/Mv2ZIPUR0fw  
+• 
+Create an Effective Presentation Video (General Tips) 
+o https://hbr.org/2011/03/create-an-effective-
+presentati.html?cm_sp=most_widget-_-videos-_-
+Create%20an%20Effective%20Presentation%22  
+Assignment: 
+Prepare team PowerPoint presentation. Final version should be uploaded to 
+TurnItIn before class starts. There will be a significant grade penalty for any 
+presentation emailed after the beginning of class.  Some key attributes for the 
+presentations: 
+• 
+9-11 minute time limit, practice ahead of time 
+• 
+3-5 minute Q&A 
+• 
+Content might be king, but good presentation skills count! 
+• 
+The whole group should have meaningful speaking roles 
+• 
+EVERYONE should be ready to answer ANY question posed to the team 
+• 
+Backup slides (i.e. Appendix slides) can contain additional detail 
+beyond what you have time to cover during core presentation 
+• 
+NO BMC REQUIRED!! 
+Study Guide 
+Questions Due: 
+NONE. 
+ 
+ 
+ 
+Session 21: Final Exam 
+Objectives: 
+Comprehensive Final Exam, 110 minutes, closed book, closed notes, closed 
+computer. 
+ 
+NOTE: All students must take the exam during the assigned time slot. 
+Required Reading: 
+All assigned reading from all sessions. 
+Assignment: 
+Prepare for final exam. 
+ 
+ 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 18 
+ 
+Course Reader 
+The course pack can be purchased from the Harvard Business Publishing website using the link in “Required 
+Reading” section above.  
+ 
+# 
+Title 
+Author(s) 
+ID 
+Pages 
+Cost 
+Perspective on Entrepreneurship 
+Howard H. 
+Stevenson 
+384131-PDF-ENG 
+13 
+$4.25  
+ West Coast Chill 
+William A. Sahlman; 
+Robert F. White; 
+Stephanie Puzio 
+815704-HTM-ENG 
+N/A 
+$8.00 
+ Introduction to Strategy 
+Ramon Casadesus-
+Masanell 
+8097-PDF-ENG 
+41 
+$7.95  
+ Blue Ocean Strategy: From Theory to 
+Practice 
+W. Chan Kim; 
+Renee A. 
+Mauborgne 
+CMR312-PDF-ENG 
+18 
+$4.25  
+ Telsa, Inc. 
+Frank T. 
+Rothaermel 
+MH0067-PDF-ENG 
+31 
+$4.25  
+ Basic Accounting Concepts and 
+Assumptions 
+David F. Hawkins 
+5060-PDF-ENG 
+25 
+$7.95 
+ Overview of Financial Accounting 
+David T Doran 
+BEP166-PDF-ENG 
+25 
+$4.25 
+  Financing Entrepreneurial Ventures 
+William R. Kerr; 
+Ramana Nanda; 
+James McQuade 
+8072-HTM-ENG 
+46 
+$7.95  
+ Crowdfunding: A Tale of Two Campaigns 
+Andrew Zacharakis; 
+Gabriel Quintana; 
+Tommy Ripke 
+BAB282-PDF-ENG 
+12 
+$4.25  
+ Jibo: A Social Robot for the Home 
+Jeffrey J. Bussgang; 
+Christine Snively 
+816003-PDF-ENG 
+17 
+$4.25  
+Legal Forms of Organization 
+Michael J. Roberts 
+898245-PDF-ENG 
+10 
+$4.25  
+Protection of Intellectual Property in the 
+United States 
+Myra M. Hart; 
+Howard Zaharoff 
+897046-PDF-ENG 
+17 
+$4.25  
+ Developing Business Plans and Pitching 
+Opportunities 
+Lynda M. 
+Applegate; Carole 
+Carlson 
+8062-HTM-ENG 
+45 
+$7.95 
+TOTAL 
+287 
+$73.80  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 19 
+ 
+Simulation Course Reader 
+The simulation course pack can be purchased from the Harvard Business Publishing website using the link 
+in “Required Reading” section above.  
+ 
+# 
+Title 
+Author(s) 
+ID 
+Cost 
+3 New Venture Exercise: The Food Truck 
+Challenge 
+Michael A. 
+Roberto 
+7201-HTM-ENG 
+$10.00 
+TOTAL 
+$10.00  
+ 
+Recommended Supplemental Materials 
+Many excellent resources on entrepreneurship exist including the following: 
+ 
+Books 
+• 
+Giff Constable and Frank Rimalovski (2018).  Testing with Humans: How to use experiments to drive 
+faster, more informed decision making.  ISBN-10: 0990800938, ISBN-13: 978-0990800934. 
+o Free PDF e-book: http://bit.ly/2Dc7YSB  
+• 
+Giff Constable, Frank Rimalovski, Tom Fishburne (2014).  Talking to Humans: Success starts with 
+understanding your customers. ISBN-10: 099080092X, ISBN-13: 978-0990800927. 
+o Free PDF e-book: http://bit.ly/2zeh4db 
+• 
+Peter Thiel (2014). Zero to one: notes on startups, or how to build the future.  New York, Random 
+House.   
+• 
+Brian S. Cohen and John Kador (2013).  What Every Angel Investor Wants You To Know: an insider 
+reveals how to get smart funding for your billion-dollar idea.  NY: McGraw-Hill. 
+• 
+Brad Feld and Jason Mendelson (2013).  Venture Deals: Be Smarter Than Your Lawyer and Venture 
+Capitalist. 2nd edition.  Hoboken, New Jersey:  John Wiley & Sons.   
+• 
+Steve Blank and Bob Dorf (2012).  The Startup Owner's Manual: The Step-By-Step Guide for Building a 
+Great Company, First Edition. ISBN-10: 0984999302, ISBN-13: 978-0984999309.   
+• 
+Ash Maurya (2012). Running Lean: Iterate from Plan A to a Plan That Works, 2nd Edition.  O’Reilly 
+Media, Inc., Sebastopol, CA.   
+• 
+Eric Ries (2011).  The Lean Startup. NY: Crown Business. 
+• 
+"The Ernst & Young Business Plan Guide" (2007), Brian R. Ford, Jay M. Bornstein, Patrick T. Pruitt, 
+Third Edition, 2007, ISBN-10: 0470112697, ISBN-13: 978-0470112694, Edition: 3. 
+• 
+John W. Mullins (2006). The New Business Road Test. 3rd Edition. London: Pearson Education Limited. 
+• 
+W. Chan Kim & Renee Mauborgne (2005).  Blue Ocean Strategy.  Harvard Business Press. 
+• 
+Guy Kawasaki (2004). The Art of the Start. NY: Penguin Group.  
+• 
+Geoffrey Moore (2003). Crossing the Chasm revised edition. NY: HarperCollins. 
+• 
+James Swanson, Michael Bair (2003). Engineering Your Startup. 2nd edition. Belmont: Professional 
+Publications. 
+• 
+Clayton Christiansen (1997). The Innovators Dilemma. HBS Press. 
+ 
+ 
+ 
+ 
+ 
+Management 160: Entrepreneurship and Venture Initiation, Fall 2021 (Version 2021.09.23) 
+Page 20 
+ 
+Private Peer Evaluation Form 
+Each student is required to submit a confidential peer evaluation form before the last day of class.  Sample 
+form is given below: 
+ 
+ 
+  
+ 
+ 
+Private Peer Evaluation Form 
+ 
+YOUR NAME:_______________________________________________________ 
+ 
+TEAM NUMBER: ____________________________________________________ 
+ 
+TOPIC:   ___________________________________________________________ 
+ 
+Please complete and submit an electronic copy to CCLE before the final exam. Failure to 
+submit this form may result in a 5% penalty to your final participation grade. 
+ 
+Please provide scores using the following scale from 1-5 for each team member (including 
+yourself): 
+ 
+5: Outstanding, 4: Good, 3: Acceptable, 2: Unacceptable, 1: Terrible 
+ 
+NOTE:  Overall should also be on a scale from 1-5. 
+ 
+Team 
+Member 
+Team 
+Presentation 
+Deliverable 
+Contribution 
+Teamwork 
+Overall 
+ME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Optional Comments (please justify any low scores): 
+ 
+ 

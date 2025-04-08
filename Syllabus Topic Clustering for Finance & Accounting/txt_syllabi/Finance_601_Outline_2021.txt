@@ -1,0 +1,509 @@
+1 
+ 
+ 
+ 
+FINANCE 601, Introduction to Finance 
+Course Outline, Fall 2021 
+ 
+Master of Finance 
+DeGroote School of Business 
+McMaster University 
+ 
+Course Objective 
+ 
+This course, being an introduction to modern business finance at the graduate level, examines 
+various fundamental financial concepts, in order to prepare students for the specialized courses that 
+the Master of Finance program offers.  It also introduces students to various analytical and 
+quantitative skills as required for such courses. 
+ 
+Instructor, Teaching Assistant, and Contact Information 
+ 
+Instructor: Clarence C.Y. Kwan, Professor of Finance; email: kwanc@mcmaster.ca . 
+ 
+Teaching Assistant: Laite Guo, Finance Ph.D. Student; email: guol12@mcmaster.ca . 
+ 
+Office Hours: TBA (to be announced in class and posted on AVENUE TO LEARN when 
+confirmed). 
+ 
+Important Notice:  For email communications with the instructor or the teaching assistant, please 
+always use McMaster’s regular email system.  For timely communications, it is very important that 
+McMaster email accounts (***@mcmaster.ca) be used, with “FINANCE 601” being the subject 
+heading.  Otherwise, there will be either delays in response or no response at all.  
+ 
+Course Elements 
+ 
+Credit Value: 
+3 
+Leadership: 
+No 
+IT Skills: 
+No 
+Global View: 
+Yes 
+A2L: 
+Yes 
+Ethics: 
+Yes 
+Numeracy: 
+Yes 
+Written Skills: 
+Yes 
+Participation: 
+Yes 
+Innovation: 
+Yes 
+Group Work: 
+Yes 
+Oral Skills: 
+Yes 
+Evidence-Based: 
+Yes 
+Experiential: 
+No 
+Final Exam: 
+Yes 
+Guest Speaker: 
+No 
+ 
+Course Description 
+ 
+The course covers a broad range of topics in modern finance, with analytical details and conceptual 
+underpinnings emphasized in some topics.  After some preliminary materials, the course considers 
+time value concepts and applies them directly to practical loan problems and to valuation from 
+investors’ perspectives, including bond and stock valuation.  The course also considers risk-return 
+trade-off in portfolio investments, capital market theory, and market efficiency issues. 
+2 
+ 
+Turning to corporate finance, the course considers corporate investment decisions (capital 
+budgeting) and long-term sources of funds for financing the investments.  Pertaining to long-term 
+financing decisions, the major topics include the cost of capital, capital structure, and dividend 
+policy.  Financial instruments with options, including call and put options, rights, warrants, and 
+convertible securities, are considered as well. 
+ 
+The course then considers working capital management, short-term and intermediate-term 
+financing, and leasing decisions.  The final topics covered include merger and corporate structuring. 
+ 
+Achieving the Course Objective 
+ 
+As many financial concepts are analytical, students are expected to be already familiar with various 
+mathematical topics, such as finite and infinite series, matrix algebra, differential and integral 
+calculus, and methods of mathematical proofs.  Further, students are expected to be familiar with 
+fundamental statistical concepts such as discrete and continuous probability distributions, sampling, 
+and estimation.  To achieve the course objective also requires a considerable amount of out-of-class 
+work by each student.  In addition to keeping up with the reading materials, problem solving 
+throughout the course is highly recommended. 
+ 
+Although the solutions to practice problems are available, students are expected to solve the 
+problems independently before reading the solutions.  Experience has shown that independent work 
+significantly enhances problem-solving and related quantitative skills.  This is also the most 
+effective way to prepare for examinations. 
+ 
+Main Courseware, Supplementary Courseware, and Major Reference Book 
+ 
+Main Courseware:  Clarence C.Y. Kwan, FINANCE 601, Introduction to Finance:  Lecture Notes, 
+Supplementary Materials, Illustrative Examples, and Exercises, Fall 2021 (hereafter, Lecture 
+Notes). 
+ 
+Supplementary Courseware:  Clarence C.Y. Kwan, Preparatory Mathematics and Selected Topics 
+in Statistics for Students in Graduate Finance Programs, Fall 2021 (hereafter, Math/Stats Notes). 
+ 
+Major Reference Book:  Jonathan Berk, Peter DeMarzo, and David Stangeland, Corporate Finance, 
+Fifth Canadian Edition, 2022, Pearson Canada (hereafter, BDS). 
+ 
+Both the main courseware and the supplementary courseware are distributed to registered students 
+online via AVENUE.  Most of the materials in the supplementary courseware are intended for self-
+study to strengthen the analytical skills of students.  However, some lectures are directly based on 
+the materials there.  
+ 
+Evaluation Scheme and Grading Scale 
+ 
+Performance in FINANCE 601 is based on four components, including three Math/Stats 
+examinations during MFIN Transition (15% in total), a mid-term examination (25%), a major 
+assignment (25%), and a cumulative final examination (35%).  Any changes to the evaluation 
+scheme will be announced in class and posted on AVENUE.  The two examinations are primarily 
+on materials in the Lecture Notes and BDS, as well as any supplementary materials that are 
+distributed during the Term.  However, some materials from the Math/Stats Notes may also be 
+3 
+ 
+included.  The date, time, duration, and coverage of the examinations, once confirmed, will be 
+announced in class and posted on AVENUE. 
+ 
+This being a graduate course, B- is the lowest passing grade.  The conversion from percentage 
+grades to letter grades is as follows: 90-100%, A+; 85-89%, A; 80-84%, A-; 75-79%, B+; 70-74%, 
+B; 60-69%, B-; 0-59%, F.  The conversion will be adjusted if there is a cluster of percentage grades 
+around a breakpoint; that is, around 90%, 85%, 80%, 75%, 70%, or 60%.  However, students who 
+have achieved percentage grades no lower than any breakpoint will be unaffected by the adjustment. 
+ 
+Important Notice: 
+ 
+1. The mid-term examination will be written outside regular class times.  There may be extra 
+classes to attend during the Term, conditional on the feasibility for scheduling them.  Once 
+confirmed, the details will be announced in class and on AVENUE. 
+ 
+2. Students are expected to adhere strictly to the standards of academic ethics of the University. 
+ 
+3. The part of the mid-term examination paper containing multiple-choice questions will not be 
+released to students after grading; neither will the entire final examination paper. 
+ 
+4. Some bonus marks can be earned by students for independently reporting to the instructor 
+typographical errors in various course materials throughout the Term.  Such bonus marks 
+may help participating students achieve better letter grades, in situations where the 
+computed weighted averages of percentage grades are marginally below the corresponding 
+breakpoints for grade conversion. 
+ 
+The Course Outline 
+ 
+ 
+1. Preliminaries 
+ 
+ 
+BDS, Chapters 1, 2, and 3. 
+Lecture Notes, Chapter 1. 
+Math/Stats Notes, Chapters 1 and 2. 
+ 
+ 
+2. Valuation of Investments 
+ 
+ 
+a. The Time Value of Money 
+ 
+ 
+BDS, Chapter 4. 
+ 
+Lecture Notes, Chapter 2; exercises in Section A.1 of Appendix A (hereafter, A.1), #1-4; 
+exercises in Section A.2, of Appendix A (hereafter, A.2.1, A.2.2, …, A.2.7 for the 
+subsections there), A.2.1, #1-6, A.2.2, #1, #4, A.2.3, #1, #4, and A.2.4, #1, #4. 
+Math/Stats Notes, Chapters 3, 4, and 7, with special attention to Chapter 7, Section 7.7, 
+Appendix: Compound Interests. 
+ 
+Y. Feng and C.C.Y. Kwan, “Interest Rate Conversion,” Spreadsheets in Education, 8, no. 1, 
+(2015), Article 3. 
+ 
+ 
+ 
+ 
+4 
+ 
+b. Bond Valuation and Interest Rate Determination 
+ 
+ 
+BDS, Chapters 5 and 6. 
+ 
+Lecture Notes, Chapter 3; exercises in A.1, #5-11; exercises in A.2.1, #7-16, A.2.2, 
+#2-3, A.2.3, #2-3, and A.2.4, #2-3. 
+ 
+Math/Stats Notes, Chapters 3 and 4. 
+ 
+ 
+Y. Feng and C.C.Y. Kwan, “Time-Value Concepts, Bond Valuation, and Corresponding 
+Spreadsheet Functions,” Spreadsheets in Education, 5, no. 1, (2011), Article 4. 
+ 
+ 
+Y. Feng and C.C.Y. Kwan, “Bond Duration: A Pedagogic Illustration,” Spreadsheets in 
+Education, 5, no. 3, (2012), Article 1. 
+ 
+ 
+c. Stock Valuation 
+ 
+ 
+BDS, Chapter 7. 
+ 
+Lecture Notes, Chapter 4; exercise in A.1, #12; exercises in A.2.1, #17, A.2.2, #4, 
+ 
+A.2.3, #4, and A.2.4. #4. 
+ 
+Math/Stats Notes, Chapter 3. 
+ 
+ 
+d. Risk, Return, and Portfolio Theory 
+ 
+ 
+BDS, Chapters 10 and 11. 
+ 
+Lecture Notes, Chapter 5; exercises in A.1, #14-15, #18; exercises in A.2.1, #18-21, 
+A.2.5, #3, and A.2.6, #3, and A.2.7, #3-4. 
+Math/Stats Notes, Chapters 5, 6, 8, and 14, with special attention to Chapter 8, Section 8.5, 
+Optimization. 
+ 
+ 
+e. Capital Market Theory 
+ 
+ 
+BDS, Chapters 11 and 12. 
+ 
+Lecture Notes, Chapter 6; exercises in A.1, #13, 16-26; exercises in A.2.1, #22-27, A.2.5, 
+#4, A.2.6, #4, and A.2.7, #4. 
+ 
+Math/Stats Notes, Chapters 7, 8, and 9. 
+ 
+ 
+C.C.Y. Kwan, “The Arbitrage Pricing Model: A Pedagogic Derivation and a Spreadsheet-
+Based Illustration,” Spreadsheets in Education, 9, no. 1, (2016), Article 4. 
+ 
+ 
+f. Market Efficiency 
+ 
+ 
+BDS, Chapter 13. 
+ 
+Lecture Notes, Chapter 7. 
+ 
+ 
+3. Capital Budgeting 
+ 
+BDS, Chapters 8, 9, and 21. 
+ 
+Lecture Notes, Chapter 8; exercises in A.1, #27-31; exercises in A.2.1, #28-30, A.2.5, #2, 
+A.2.5, #2, and A.2.7, #2. 
+ 
+Math/Stats Notes, Chapter 3. 
+ 
+5 
+ 
+4. Long-term Sources of Funds 
+ 
+ 
+BDS, Chapters 23 and 24. 
+ 
+Lecture Notes, Chapter 9; exercises in A.1, #32-37; exercises in A.2.1, #31-33, A.2.5, #1, 
+A.2.6, #1, and A.2.7, #1. 
+ 
+5. Long-term Financing Decisions 
+ 
+ 
+a. The Cost of Capital 
+ 
+ 
+BDS, Chapter 12. 
+ 
+Lecture Notes, Chapter 10; exercise in A.1, #34; exercise in A.2.5, #1, A.2.6, #1, and A.2.7, 
+#2. 
+ 
+ 
+b. Capital Structure 
+ 
+ 
+BDS, Chapters 17 and 18. 
+ 
+Lecture Notes, Chapter 11; exercises in A.1, #39-45; exercise in A.2.1, #35. 
+ 
+Math/Stats Notes, Chapter 3. 
+ 
+ 
+c. Dividend Policy 
+ 
+ 
+BDS, Chapter 20. 
+ 
+Lecture Notes, Chapter 12; exercises in A.1, #46-49; exercises in A.2.1, #36-37. 
+ 
+Math/Stats Notes, Chapter 3. 
+ 
+ 
+6. Options, Rights, Warrants, and Convertibles 
+ 
+a. Call and Put Options 
+ 
+ 
+BDS, Chapters 14 and 15. 
+ 
+Lecture Notes, Chapter 13; exercises in A.1, #50-52. 
+Math/Stats Notes, Chapters 4, 7, 8, 9, 10, 11, 13, and 15, with special attention to Chapter, 
+13, Section 13.5, The Binomial Option Pricing Model. 
+ 
+ 
+Y. Feng and C.C.Y. Kwan, “Connecting Binomial and Black-Scholes Option Pricing 
+Models: A Spreadsheet-Based Illustration,” Spreadsheets in Education, 5, no. 3, (2012), 
+Article 2. 
+ 
+b. Rights, Warrants, and Convertibles 
+ 
+ 
+Lecture Notes, Chapter 14; exercises in A.1, #53-56.  
+ 
+7. Short-term Financing 
+ 
+ 
+BDS, Chapters 26 and 27. 
+Lecture Notes, Chapter 15; exercises in A.1, #57-59.  
+ 
+ 
+ 
+ 
+6 
+ 
+8. Leasing 
+ 
+ 
+BDS, Chapter 25. 
+Lecture Notes, Chapter 16; exercises in A.1, #60-63. 
+Math/Stats Notes, Chapter 3. 
+ 
+ 
+9. Merger and Corporate Restructuring 
+ 
+ 
+BDS, Chapters 28 and 29. 
+Lecture Notes, Chapter 17; exercises in A.1, #64-66. 
+ 
+Other Useful General Information for Student (The materials below are duplicated 
+verbatim from a recent template of the School’s MFIN course outlines.) 
+ 
+COMMUNICATION AND FEEDBACK 
+ 
+Students who wish to correspond with instructors or TAs directly via email must send 
+messages that originate from their official McMaster University email account. This 
+protects the confidentiality and sensitivity of information as well as confirms the identity of 
+the student. Emails regarding course issues should NOT be sent to the Area 
+Administrative Assistants.  All students must receive feedback regarding their progress 
+prior to the final date by which a student may cancel the course without failure by default.  
+•  For Level 1 and Level 2 courses, this feedback must equal a minimum of 20% of the final grade.  
+•  For Level 3 courses and above, this feedback must equal a minimum of 10% of the final grade.  
+ 
+Instructors may solicit feedback via an informal course review with students by Week #4 to 
+allow time for modifications in curriculum delivery.   
+ 
+REQUESTING RELIEF FOR MISSED ACADEMIC WORK 
+ 
+In the event of an absence for medical or other reasons, students should review and follow 
+the Missed Term Work regulations that our outlined on the Master of Finance website; 
+  
+https://mfin.degroote.mcmaster.ca/current-students/missed-term-work/ 
+ 
+ 
+ACADEMIC INTEGRITY 
+ 
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the 
+learning process. Academic credentials you earn are rooted in principles of honesty and 
+academic integrity. It is your responsibility to understand what constitutes 
+academic dishonesty. 
+7 
+ 
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious 
+consequences, e.g. the grade of zero on an assignment, loss of credit with a notation on 
+the transcript (notation reads: “Grade of F assigned for academic dishonesty”), and/or 
+suspension or expulsion from the university.  
+For information on the various types of academic dishonesty please refer to the 
+Academic Integrity Policy, located at https://secretariat.mcmaster.ca/university-policies-
+procedures- guidelines/ 
+The following illustrates only three forms of academic dishonesty: 
+ 
+• plagiarism, e.g. the submission of work that is not one’s own or for which other credit 
+has been obtained. 
+• improper collaboration in group work. 
+• copying or using unauthorized aids in tests and examinations. 
+ 
+AUTHENTICITY/PLAGIARISM DETECTION 
+ 
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and 
+ownership of student submitted work. For courses using such software, students will be 
+expected to submit their work electronically either directly to Turnitin.com or via an online 
+learning platform (e.g. A2L, etc.) using plagiarism detection (a service supported by 
+Turnitin.com) so it can be checked for academic dishonesty.  
+ 
+Students who do not wish their work to be submitted through the plagiarism detection 
+software must inform the Instructor before the assignment is due. No penalty will be 
+assigned to a student who does not submit work to the plagiarism detection software.  
+ 
+All submitted work is subject to normal verification that standards of academic 
+integrity have been upheld (e.g., on-line search, other software, etc.). For more details 
+about McMaster’s use of Turnitin.com please go to www.mcmaster.ca/academicintegrity. 
+ 
+COURSES WITH AN ON-LINE ELEMENT 
+ 
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn (A2L), LearnLink, 
+web pages, capa, Moodle, ThinkingCap, etc.). Students should be aware that, when they 
+access the electronic components of a course using these elements, private information such 
+as first and last names, user names for the McMaster e-mail accounts, and program 
+affiliation may become apparent to all other students in the same course.  
+ 
+The available information is dependent on the technology used. Continuation in a course 
+that uses on-line elements will be deemed consent to this disclosure. If you have any 
+questions or concerns about such disclosure please discuss this with the course instructor. 
+8 
+ 
+ 
+ONLINE PROCTORING 
+ 
+Some courses may use online proctoring software for tests and exams. This software 
+may require students to turn on their video camera, present identification, monitor and 
+record their computer activities, and/or lock/restrict their browser or other 
+applications/software during tests or exams. This software may be required to be installed 
+before the test/exam begins. 
+ 
+CONDUCT EXPECTATIONS 
+ 
+As a McMaster student, you have the right to experience, and the responsibility to 
+demonstrate, respectful and dignified interactions within all of our living, learning and 
+working communities. These expectations are described in the Code of Student Rights & 
+Responsibilities (the “Code”). All students share the responsibility of maintaining a positive 
+environment for the academic and personal growth of all McMaster community 
+members, whether in person or online. 
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in 
+effect in virtual learning environments. The Code applies to any interactions that adversely 
+affect, disrupt, or interfere with reasonable participation in University activities. Student 
+disruptions or behaviours that interfere with university functions on online platforms (e.g. 
+use of Avenue 2 Learn, WebEx or Zoom for delivery), will be taken very seriously and will 
+be investigated. Outcomes may include restriction or removal of the involved students’ 
+access to these platforms. 
+ 
+ACADEMIC ACCOMMODATION OF STUDENTS WITH DISABILITIES 
+ 
+Students with disabilities who require academic accommodation must contact Student 
+Accessibility Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make 
+arrangements with a Program Coordinator. For further information, consult McMaster 
+University’s Academic Accommodation of Students with Disabilities policy. 
+ 
+ACADEMIC ACCOMMODATION FOR RELIGIOUS, INDIGENOUS OR SPIRITUAL 
+OBSERVANCES (RISO) 
+ 
+Students requiring academic accommodation based on religious, indigenous or spiritual 
+observances should follow the procedures set out in the RISO policy. Students should 
+submit their request to their Faculty Office normally within 10 working days of the 
+beginning of term in which they anticipate a need for accommodation or to the Registrar's 
+9 
+ 
+Office prior to their examinations. Students should also contact their instructors as soon as 
+possible to make alternative arrangements for classes, assignments, and tests. 
+ 
+COPYRIGHT AND RECORDING 
+Students are advised that lectures, demonstrations, performances, and any other course 
+material provided by an instructor include copyright protected works. The Copyright Act 
+and copyright law protect every original literary, dramatic, musical and artistic work, 
+including lectures by University instructors.  
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a 
+course. Recording may be done by either the instructor for the purpose of authorized 
+distribution, or by a student for the purpose of personal study. Students should be aware 
+that their voice and/or image may be recorded by others during the class. Please speak 
+with the instructor if this is a concern for you. 
+ 
+EXTREME CIRCUMSTANCES 
+ 
+The University reserves the right to change the dates and deadlines for any or all courses 
+in extreme circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be 
+communicated through regular McMaster communication channels, such as McMaster 
+Daily News, A2L and/or McMaster email. 
+ 
+RESEARCH USING HUMAN SUBJECTS 
+ 
+All researchers conducting research that involves human participants, their records or their 
+biological material are required to receive approval from one of McMaster’s Research 
+Ethics Boards before (a) they can recruit participants and (b) collect or access their data. 
+Failure to comply with relevant policies is a research misconduct matter. Contact these 
+boards for further information about your requirements and the application process.  
+McMaster Research Ethics Board (General board): https://reo.mcmaster.ca/  
+Hamilton Integrated Research Ethics Board (Medical board): http://www.hireb.ca/ 
+ 
+ACKNOWLEDGEMENT OF COURSE POLICIES 
+ 
+Your enrolment in Finance XXXX will be considered to be an implicit acknowledgement of 
+the course policies outlined above, or of any other that may be announced during lecture 
+and/or on A2L. It is your responsibility to read this course outline, to familiarize 
+yourself with the course policies and to act accordingly.  
+ 
+Lack of awareness of the course policies cannot be invoked at any point during this 
+course for failure to meet them. It is your responsibility to ask for clarification on any 
+policies that you do not understand. 

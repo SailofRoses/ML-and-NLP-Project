@@ -1,0 +1,437 @@
+Finance Course Syllabus (3 credit hours)
+（1）Teacher: Lily Yan, Email: llyanll@163.com
+(2) Q&A time and place: every Thursday morning, session 1-2, College Building 3, 204.
+(3) Composition of grades: tentatively 30% for regular grades + 70% for the final
+examination. Adjustments will be made according to the actual situation if there is an
+epidemic.
+Course name: Finance
+This course consists of 20 chapters, which take the open economy as the environment
+and the real economy as the basis, and derive the supply and demand of finance from the
+financial activities of each economic entity; clarify the correlation among the basic elements,
+such as money, credit and its price; take financial institutions and financial markets as the
+carriers, and explain the basic principles of financial operation; and take the interest rate as the
+link connecting the microfinance and macrofinance, and explain the mechanism of its action;
+Taking financial aggregate and structural equilibrium as the goal, discussing the theory and
+practice of macrofinance; taking macro-control and financial regulation as the guarantee,
+studying the soundness and efficiency of financial development. The basic logic of the entire
+course can be represented in figure 1, which can be further divided into six modules:
+Figure 1 Basic Logic Diagram of the Program
+Module 1 Introduction Unit 1 Finance in life: from the financial activities of economic
+agents
+Teaching objectives and requirements
+1. To understand the role of finance in socio-economic development;
+2. To understand the financial activities of various economic agents and the relationship
+between residents, non-financial enterprises, and governmental and other sectors and
+financial institutions;
+3. Master the basic components of the modern financial system.
+Keynote content:
+Introduction Financial transactions of socio-economic agents and their relationships
+Section 1: Residents' Financial Management and Finance
+Section 2: Financial Activities of Enterprises and Finance
+Section 3: Government's Financial Income and Expenditure and Finance
+Section 4: Basic components of a modern financial system
+Module 2: Basic Scope of Finance Unit 1 Money and Monetary System
+Teaching objectives and requirements
+1, to understand the history of the emergence and development of money, to understand
+the doctrine of the origin of money in China and abroad, to master Marx's doctrine of the
+origin of money; to understand the evolution of the form of money, to recognize the
+characteristics of the various forms of money, focusing on mastery of the form of credit
+money and its characteristics;
+2. Master the basic functions of money in the modern economy, understand the various
+roles of money, and understand the controversy between currency neutrality and
+non-neutrality
+3, understand the significance and basis of the division of monetary hierarchy, understand
+the content of the division of the monetary hierarchy of Western countries, focusing on
+mastering the division of the monetary hierarchy of China; master the relevant concepts
+of monetary measurement and statistical analysis of the economic significance;
+4. Master the meaning of the monetary system and understand the composition of the
+monetary system;
+5, master the main types of national monetary system, understand the evolution of the
+national monetary system; understand China's current monetary system, master the
+issuance of RMB procedures;
+6. To understand the evolution of the international monetary system, to master the content
+of the Jamaican system; to understand the formation and development process of the
+regional monetary system, to understand the European Monetary Union and several other
+major regional monetary system.
+Keynote content:
+Section 1 - The Emergence of Money and the Evolution of the Forms of Money
+Section 2 - The Functions and Role of Money
+Section 3 - Hierarchy and Measurement of Contemporary Credit Money
+Section 4: The Monetary System
+Module 2: Fundamental Areas of Finance Unit 2 Exchange Rates and Exchange Rate
+Systems
+Teaching objectives and requirements
+1, understand the meaning of foreign exchange, master the concept of exchange rates and
+the types of exchange rates;
+2. Understand the determinants of exchange rates under different currency regimes and
+grasp the main elements of various exchange rate theories;
+3. Understand the main effects of exchange rates in the economy and the conditions under
+which they work, and understand exchange rate risk and its manifestations;
+4. Understand the content and characteristics of different exchange rate regimes;
+understand the evolution of the exchange rate regime, focusing on the institutional
+arrangements for the RMB exchange rate and its changes.
+Keynote content:
+Section 1 - Foreign Exchange and Exchange Rates
+Section 2 - Theories of exchange rate determination
+Section 3 - Effects of Exchange Rates and Exchange Rate Risk
+Section 4: Arrangements and Evolution of Exchange Rate Regimes
+Module 2: Basic Scope of Finance Unit 3 Credit and Credit Systems
+Teaching objectives and requirements
+1. To grasp the different meanings of credit and the relationship between credit and
+money; to understand the relationship between credit, money, and the formation of
+financial categories;
+2. To understand the history of the emergence and development of credit and its
+evolution, and to grasp the characteristics and role of usurious credit;
+3. Master the basis and characteristics of modern credit activities, understand the
+relationship between the modern economy and credit, and understand credit risk and its
+impact;
+4. To understand the types and characteristics of forms of credit, and to understand the
+forms of credit and their development in China;
+5. Understand the composition of the modern credit system and the construction and
+development of China's credit system.
+Keynote content:
+Section 1 - Overview of credit
+Section 2. Forms of Credit
+Section 3. Credit systems
+Module 2: Fundamental Areas of Finance Unit 4 Time Value of Money and Interest
+Rates
+Teaching objectives and requirements
+1. Understand the source of interest from the substance, and understand the relationship
+of interest to the time value of money and the law of capitalization of earnings;
+2, master the two methods of calculating interest, master the classification of interest rate
+and its relationship with the rate of return;
+3. Understand the determinants of interest rates and master the theory of interest rate
+determination; master other factors affecting changes in interest rates;
+4, grasp the general role of interest rates, understand the role of interest rates in the
+environment and conditions; understand the significance of the marketization of interest
+rates in China and the process.
+Keynote content:
+Section 1: Time Value of Money and Interest
+Section 2: Classification of interest rates and their relationship with the rate of return
+Section 3: Determination of Interest Rates and its Influencing Factors
+Section 4 The role of interest rates and its performance
+Module 2: Fundamental Areas of Finance Unit 5 Financial Assets and Prices
+Teaching objectives and requirements
+1, grasp the meaning and classification of financial instruments and financial assets,
+understand the relationship between the return and risk of financial assets, understand the
+allocation and combination of financial assets;
+2, master the price of financial assets and its types, understand the basic methods of
+financial asset value assessment
+3. Understand the principles of financial asset pricing;
+4. Understand the relationship between financial asset prices and interest rates and
+exchange rates.
+Keynote content:
+Section 1: Financial Instruments and Financial Assets
+Section 2: Prices of Financial Assets
+Section 3: Pricing of Financial Assets
+Section 4: Relationship between Financial Asset Prices and Interest Rates and Exchange
+Rates
+Module 3: Financial Markets Unit 1 Financial Markets and Financial Structure
+Teaching objectives and requirements
+1. To understand the relationship between investment and financing activities and
+financial markets and the current status of financial investment development;
+2. To understand the types and causes of international capital flows and the role of
+international financial markets in the process of economic development;
+3, master the classification of the financial market and the components of the financial
+market, to understand the history of the development of the financial market system, the
+composition of the financial market system and the development and current situation of
+China's financial market system;
+4. Master the functions of financial markets and understand the conditions under which
+financial markets function.
+Keynote content:
+Section 1: Overview of investment and financing activities and international capital flows
+Section 2: Classification of Financial Markets and Their Components
+Section 3. Functions of Financial Markets and Their Utilization
+Module 3: Financial Markets Unit 2 Money Markets
+Teaching objectives and requirements
+1. Master the characteristics and functions of the money market;
+2, grasp the meaning of interbank lending, understand the function of the interbank
+lending market, understand the varieties of interbank lending and interest rate
+characteristics, understand the development of China's interbank lending market;
+3, grasp the meaning of repurchase agreement and reverse repurchase agreement,
+understand the function of the repurchase agreement market, understand the difference
+between interbank lending and repurchase agreement, understand the participants of the
+repurchase agreement,
+varieties
+and
+interest
+rate
+characteristics,
+understand
+the
+development of China's repurchase agreement market;
+4, understand the function, characteristics and issuance of treasury bills, understand the
+development of China's treasury bill market;
+5, grasp the meaning of commercial paper, banker's acceptances, understand the issuance
+and circulation of commercial paper, understand the meaning of bill discounting,
+rediscounting, rediscounting, understand the development of China's central bank notes;
+6. Grasp the characteristics and functions of large negotiable time deposits, understand
+the reasons for the emergence and development of the large negotiable time deposit
+market, and understand the development of China's large negotiable time deposit market;
+7. Understand the meaning of the international money market, understand the history of
+the emergence and development of the European money market, understand the London
+interbank lending market and LIBOR interest rates, and the European commercial paper
+market.
+Keynote content:
+Section 1: Characteristics and Functions of the Money Market
+Section 2: Interbank Lending Market
+Section 3: Repurchase Agreement Market
+Section 4: Treasury Bill Market
+Section 5: Note Market
+Section 6: Large Negotiable Time Deposit Market
+Section 7: International Currency Market
+Module 3: Financial Markets Unit 3 Capital Markets
+Teaching objectives and requirements
+1, grasp the meaning, characteristics and functions of the capital market, understand the
+development of China's capital market;
+2, understand the participants in the securities issuance market, master the advantages and
+disadvantages of different securities issuance methods, understand the conditions for the
+issuance of stocks and bonds;
+3. Understand the functions of the different participants in the securities circulation
+market and the procedures of securities trading, and grasp the characteristics of the
+organization of securities circulation;
+4. Understand the main methods of capital market investment analysis;
+5. Understand the meaning and measurement of the internationalization of the capital
+market, understand the development history and evolution trend of the major
+international
+capital
+markets,
+master
+the
+trend
+and
+characteristics
+of
+the
+internationalization of China's capital market, and understand the coping strategies of
+internationalization risks.
+Keynote content:
+Section 1 - Overview of Capital Markets
+Section 2 - Securities Issuance and Distribution Markets
+Section 3 Investment Analysis of Capital Markets
+Section 4 - Internationalization of Capital Markets
+Module 3: Financial Markets Unit 4 Derivatives Markets
+Teaching objectives and requirements
+1, grasp the meaning and classification of derivatives, grasp the meaning, characteristics
+and types of derivatives such as convertible bonds, warrants, forwards, futures, swaps,
+etc., grasp the basic characteristics of derivatives, understand the emergence of
+derivatives and the course of development of derivatives, understand the development of
+derivatives in China;
+2, master the meaning and role of forward foreign exchange transactions, master the
+meaning and function of the forward interest rate agreement;
+3, grasp the difference and connection between futures trading and forward trading,
+understand the process of futures trading, understand the main futures markets at home
+and abroad;
+4. Master the characteristics and functions of options trading;
+5. Understand the principles of swap trading and master the functions of swap trading;
+6. Understand the principles of derivatives pricing.
+Keynote content:
+Section1 - Overview of Derivatives
+Section 2 - Derivatives Markets and Trading
+Section 3 - Pricing of Derivatives
+Module 4: Financial Institutions Unit 1 System of Financial Institutions
+1. To understand the emergence of financial institutions and to recognize the reasons for
+their existence;
+2. Understand the main classifications of financial institutions;
+3. To master the main functions of financial institutions and to understand the operational
+peculiarities of financial institutions;
+4. To master the operating system of financial institutions and its evolution;
+5, to understand the general composition of the financial institutions system and
+development trend, to understand the current financial institutions system in mainland
+China, to recognize the characteristics of the development of financial institutions in
+Hong Kong, Macao, Taiwan;
+4. To grasp the composition of the system of international financial institutions and to
+understand the role of the major international financial institutions.
+Keynote content:
+Section 1: The emergence and functions of financial institutions
+Section 2: Composition and Development of the Financial Institution System
+Section 3: China's Financial Institutions System
+Module 4: Financial Institutions Unit 2 Depository Financial Institutions
+Teaching objectives and requirements
+1, by recognizing the emergence and development of depository financial institutions,
+grasp the banking industry overview, and understand the types of depository financial
+institutions.
+2. Recognize the similarities and differences between depository financial institutions and
+banking financial institutions.
+3, know the main forms of organization and organizational structure of commercial
+banks, master the main business content of commercial banks, and understand the content
+and methods of business management of commercial banks.
+4. Recognize the characteristics and types of policy banks, understand the business
+operations of policy banks, and grasp the role of policy banks in economic development.
+Keynote content:
+Section1 - Types of Depository Financial Institutions and Principles of Operation
+Section 2 - Commercial Banks
+Section 3 - Policy Banks
+Module 4: Financial Institutions Unit 3 Non-Depository Financial Institutions
+Teaching objectives and requirements
+1.
+Recognize
+the
+similarities
+and
+differences
+between
+non-depository
+financial
+institutions and non-bank financial institutions.
+2. To recognize and understand the operating characteristics and role of insurance
+companies and their development trends.
+3. Understand the main business of a securities firm and its main role.
+4. Understand the characteristics and role of investment fund management companies,
+and master the main types of investment funds and operating principles.
+5. Understand and master the operational characteristics, role and main types of business
+of trust companies and financial leasing companies.
+6. Understand the profile of other non-depository financial institutions such as financial
+guarantee companies and automobile financial service companies.
+Keynote content:
+Section 1. Types and development conditions of non-depository financial institutions
+Section 2. Investment Financial Institutions
+Section 3. Insurance Financial Institutions
+Section 4: Other Non-Depository Financial Institutions
+Module IV: Financial Institutions Unit 4 Central Banks
+Teaching objectives and requirements
+1. To recognize and understand, as a whole, the emergence and development of central
+banks and their position and role in the market economy.
+2. Recognize the types of central banking system and grasp the nature and functions of
+central banks.
+3. Recognize the asset-liability relationship of the central bank, and master the structure
+and analysis of the balance sheet of the central bank.
+4. Combined with the basic principles of central banking, deeply understand the status
+and role of China's central bank in economic development.
+5. Understand the formation and development of central bank clearing operations, master
+the meaning of central bank clearing operations, types and role of payment clearing
+system.
+Keynote content:
+Section 1. Evolution and Types of Central Banks
+Section 2. Nature and Functions of Central Banks
+Section 3. Business operations of the Central Bank
+Section 4: Operational norms of the Central Bank and its relationship with different
+parties
+Module 5: Money Supply, Demand and Equilibrium Unit 1 Demand for Money
+Teaching objectives and requirements
+1. To understand the meaning of money demand; to understand that money demand is
+influenced and constrained by a series of factors: to understand the macro- and
+micro-analytical perspectives of money demand; to grasp the nominal and real money
+demand; and to grasp the quantitative and structural aspects of money demand;
+2. Master the background, framework, conclusions and policy ideas of the major theories
+of money demand; master the theoretical development and evolution;
+3, to understand the characteristics of China's demand for money before the reform and
+opening up; to master the characteristics of China's demand for money after the reform
+and opening up and the main factors affecting it; to understand the trend of China's
+money circulation velocity.
+Keynote content:
+Section1 - Meaning and Analytical Perspective of Money Demand
+Section-2 Development of Money Demand Theory
+Section 3 Analysis of China's Money Demand
+Module 5: Money Supply, Demand and Equilibrium Unit 2 Money Supply
+Teaching objectives and requirements
+1, master the modern credit money supply mechanism and economic mechanism;
+understand the supply process links, characteristics, the main economic agents involved;
+2, master deposit reserves, the role of base money; deep understanding and master the
+central bank to put and control the main ways and means of base money; understanding
+and deposit reserves, compared with the central bank can be more effective in regulating
+the mechanism of base money;
+3. To master the mechanism of creating money in commercial banks and deposits;
+4. Deep understanding and knowledge of the basic model of money supply, the money
+multiplier and the factors affecting it;
+5. Understand the quantitative limits and control of the money supply; understand the
+endogenous and exogenous aspects of the money supply;
+6. Combined with data analysis, understand the main ways and characteristics of China's
+base money injection and regulation in recent years; understand the growth trend of
+China's money multiplier and the influencing factors.
+Keynote content:
+Section1 - The Supply of Modern Credit Money
+Section 2 - Base money
+Section 3 - Commercial Banks and the Creation of Deposit Money
+Section 4 - The Monetary Multiplier and the Money Supply
+Section 5 -Quantity Bounds and Control of the Money Supply
+Module 5: Money Supply, Demand and Equilibrium Unit 3 Monetary Equilibrium
+Teaching objectives and requirements
+1. Understand the economic meaning of money supply and demand equilibrium and
+imbalance; grasp the link between money supply and demand equilibrium and aggregate
+supply and demand equilibrium;
+2. To master the content of the main balance of payments accounts, the main methods and
+principles of balance of payments statistics; to understand the performance of balance of
+payments equilibrium, its causes, response and regulation; to master the impact of
+balance of payments imbalance on the supply and demand of money, aggregate supply
+and demand; to understand the management of international reserve assets;
+3. To master the characteristics, classification and measurement of inflation; to
+understand the socio-economic impact of inflation; to understand the Phillips curve and
+its policy implications; to master the causes and management of inflation;
+4. Master the characteristics, classification and measurement of deflation; understand the
+socio-economic impact of deflation; understand the causes and management of deflation
+and inflation;
+5, combined with data analysis, understanding of China's occurrence of several
+significant inflation, deflation, the main causes, impact and governance.
+Keynote content:
+Section 1. Monetary supply and demand equilibrium and aggregate supply and demand
+equilibrium
+Section 2. Balance of Payments and its Equilibrium
+Section 3: Monetary Equilibrium in an Open Economy
+Section 4: Inflation
+Section 5: Deflation
+Module 6: Financial Regulation and Supervision Unit 1 Monetary Policy
+Teaching objectives and requirements
+1, grasp the framework of monetary policy, understand the mechanism of monetary
+policy regulation; understand the formation of monetary policy objectives, the main
+content and the relationship between the objectives, grasp the choice of China's monetary
+policy objectives;
+2. Understand operational and intermediary indicators of monetary policy; understand
+and analyze financial variables that can be used as operational and intermediary
+indicators of monetary policy; grasp the choice of operational and intermediary indicators
+of monetary policy in China;
+3. Recognize and understand the types and meanings of monetary policy tools; analyze
+and understand the advantages and limitations of these tools; grasp the history and
+evolution of China's choice of monetary policy tools;
+4. Understand the theoretical analysis of the monetary policy transmission mechanism
+and the main links; understand the definition of the time lag of monetary policy and the
+influence of the effect; recognize the basic situation of China's monetary policy
+transmission mechanism;
+5. Understand the commonalities and differences between monetary policy and fiscal
+policy, and understand the coordination of the two; analyze the cooperation and effects of
+monetary policy and fiscal policy in different economic backgrounds and development
+stages in China.
+Keynote content:
+Section 1: Mechanisms and Objectives of Monetary Policy
+Section 2: Operational and Intermediary Indicators of Monetary Policy
+Section 3: Monetary Policy Tools
+Section 4: Monetary Policy Transmission Mechanism
+Section 5: Coordination between Monetary Policy and Fiscal Policy
+Module 6: Financial Regulation and Supervision Unit 2 Financial Regulation
+Teaching objectives and requirements
+1. Recognize the concept of financial regulation, understand the necessity and role of
+financial regulation; master the objectives, principles and composition of the system of
+financial regulation;
+2. Understand the characteristics and types of financial risks and analyze the relationship
+between financial regulation and financial risks; understand the relationship between
+financial regulation and financial innovation;
+3. Understand the types and historical changes of financial regulatory systems, master
+and analyze the financial regulatory systems of the United States, the United Kingdom
+and Japan; master and analyze the development and evolution of China's financial
+regulatory system;
+4. Recognize and appreciate the main means and methods of financial regulation, and
+understand the necessity and main content of the regulation of the banking, securities and
+insurance industries.
+Keynote content:
+Section1- Principles of financial regulation
+Section 2. Institutions of financial regulation
+Section 3. Enforcement of financial regulation
+Module 6: Financial Regulation and Supervision Unit 3 Financial Development
+Teaching objectives and requirements
+1. To understand the relationship between financial development and economic
+development, and to analyze the determination of economic development on financial
+development and the important position and driving role of financial development in
+economic development;
+2. Understand the possible adverse effects of financial activities on economic
+development, and analyze the emergence and destructiveness of adverse effects from
+three aspects: uncontrolled financial aggregates, high risks in the financial sector and
+excessive financial innovation;
+3, master the meaning and main performance of financial innovation, analyze the causes
+of financial innovation; and understand the contemporary financial innovation on
+economic development to promote the role of negative effects and challenges;
+4. Understand the meaning and manifestations of financial structure and the conditions
+underlying its formation;
+Keynote content:
+Section 1. Financial development and economic development
+Section 2. Financial innovation and financial development
+Section 3. Financial structure and financial development

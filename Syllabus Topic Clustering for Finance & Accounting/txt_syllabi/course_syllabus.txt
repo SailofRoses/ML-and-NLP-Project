@@ -1,0 +1,242 @@
+UNIVERSITY OF MANITOBA 
+I.H. ASPER SCHOOL OF BUSINESS 
+DEPARTMENT OF ACCOUNTING AND FINANCE 
+ 
+9.220 - CORPORATION FINANCE 
+Fall (Term 1) 2002 
+ 
+PREREQUISITES & COREQUISITES: 
+ 
+Required Prerequisite:  
+Intro. Financial Accounting – 9.110; Principles of Economics – 18.120 
+Required Co-requisite: 
+Basic Statistical Analysis I – 5.100 
+ 
+Note: All students are required to have completed Calculus and Linear Algebra before entering the 
+Bachelor of Commerce program through track 1; track 2 students are to have completed these 
+courses immediately upon entry into the Bachelor of Commerce program.  Knowledge of Calculus 
+and Linear Algebra is assumed and required for 9.220.  Non-Commerce students who do not have 
+this background are encouraged to consult with the professor as needed when concepts from these 
+subjects are used in class. 
+ 
+COURSE OBJECTIVE: 
+ 
+This course introduces students to the fundamentals of finance and presents theories and tools to be used 
+in addressing corporate finance problems and issues. 
+ 
+REQUIRED MATERIALS: 
+ 
+1. S. A. Ross, R. W. Westerfield, J. F. Jaffe, and G. S. Roberts, Corporate Finance (Third Canadian 
+Edition), McGraw-Hill Ryerson Limited, 2003. 
+ 
+2. G. Jacoby, D. Stangeland, and E. Wajeeh, Notes to Accompany Ross, Westerfield, Jaffe, and 
+Roberts, Corporate Finance, McGraw-Hill Ryerson Limited, 2002 – download from the class 
+website. 
+ 
+3. Hewlett Packard HP-10B financial calculator or higher level HP calculator.  
+ 
+RECOMMENDED READING:  
+ 
+It is suggested that you begin reading about current business activities.  This will enable you to see the 
+course material applied in real business situations.  Two suggested sources of current business information 
+are (1) The National Post (Financial Post), and (2) The Globe and Mail (Report on Business). Both of 
+these publications are usually available outside the front door of the Drake Centre each morning. In 
+addition, copies are available in the library. 
+ 
+2
+GRADING AND EXAMINATIONS: 
+ 
+Final grades are based on the student’s weighted mark and performance relative to other students. 
+ 
+Assignments 
+ 
+20% 
+Midterm Exam I 
+Monday, October 14, 2002, 7-9 p.m. 
+20% 
+Midterm Exam II 
+Monday, November 18, 2002, 7-9 p.m. 
+20% 
+Final Exam 
+TBA 
+40% 
+ 
+Assignments are meant to be learning experiences and help prepare students for the exams. In addition to 
+being a breach of academic integrity, collaboration on assignments results in poor performance on exams 
+and low or failing grades in the course. If you have questions about assignments or the course material and 
+you need additional help after thoroughly reading the text and reviewing the notes, then you should 
+consult with your instructor during office hours. 
+ 
+The fine print: 
+ 
+Students are not allowed to miss an assignment or exam unless a valid medical excuse is provided.  Students with valid 
+medical excuses must complete and submit the “Medical Absenteeism Form” attached at the end of this syllabus.  Both 
+the student and the attending physician must sign this document otherwise the excuse will be deemed invalid.  If you 
+have already used your form, please obtain a replacement from the instructor should you be sick again.  The form is also 
+available on the 9.220 website and from the department secretary.  We would be happy to fax this form to you or your physician 
+if necessary. There will be no make-up exams or assignments.  Those students who miss a component and have a valid medical 
+excuse will have the weight of that component added to the final exam.  Those students who miss a component without a valid 
+medical excuse will receive a mark of 0% on that component. 
+ 
+Assignments will be due weekly throughout the course.  Students must hand in their assignments at the beginning of the class 
+before the markers collect them.  Assignments submitted following collection by the markers will be considered late.  If you 
+submit an assignment late it will be penalized as follows: up to 75 minutes late (i.e., during class, but not before they have been 
+collected) -20%; more than 75 minutes late up to 24 hours late -50%; more than 24 hours late -100%.  E.g., suppose you submit 
+an assignment 20 minutes into the class.  If you received 80% on the assignment before the late penalty, you would receive 60% 
+following the penalty.  The minimum mark on an assignment after all late penalties is limited to 0%.  If you fail to submit an 
+assignment on time and your professor is not available, please submit it to the receptionist on the 4th floor of the Drake Centre.  
+Ask the receptionist to initial the assignment and indicate the date and time it is received; she will then put it into the professor’s 
+mail box.  Assignments improperly submitted will be considered over 24 hours late and will not be marked.  
+ 
+Formula sheets will not be provided for the exams.  Instead, students are permitted to bring in one 8.5 by 11 inch sheet of paper 
+on which they can write anything.  This applies to all exams; i.e., for the final exam you only get to bring one 8.5 by 11 inch 
+“formula” sheet.  You should begin preparing your “formula” sheet immediately.  Formula sheets must be hand written.  NO 
+word-processed or photocopied material is allowed on your formula sheet.  Improper formula sheets will be confiscated; 
+offending students will be allowed to complete the exam without any formula sheet.  Following the exam, offending students 
+will be referred to the Dean’s office on a violation of academic integrity. 
+ 
+Note: the final exam is cumulative and the second midterm will require use and knowledge of material presented before the 
+first midterm. 
+ 
+Note:  all assignments and exams are to be done on an individual basis.  It is an academic offense to 
+use the material or answers of another student or to provide another student with your material or 
+answers.  Any suspected breach of the Faculty’s code of Academic Integrity will be reported to and 
+dealt with by the Dean’s office. 
+ 
+3
+TENTATIVE COURSE OUTLINE: 
+ 
+You will find that the course progresses quickly and the material covered builds on earlier material.  It is 
+important to stay current in your studies otherwise you will not understand the new material as it is 
+presented.  If you read the text in advance of the relevant classes, you will have a much better chance of 
+understanding the material as it is taught.  It is the student’s responsibility to read the assigned material 
+prior to the relevant class. 
+ 
+Lecture 
+Topic 
+Chapter 
+September 5 
+Introduction 
+1 
+Students who have forgotten the material from the prerequisite 
+accounting course, 9.110, are responsible for reading Chapter 2 on 
+their own.  This knowledge is assumed; it will not be covered in class. 
+2 
+Sept. 10 
+Financial Markets and Present Value 
+3 
+Sept. 12-19 
+Time Value of Money 
+Present Values, Future Values; 
+Annuities, Perpetuities; Regular and Growing 
+Interest Rate Conversions 
+4 
+Sept. 24 
+Valuation of Bonds and Stocks:  Basic Principles 
+5 (omit 5.5-5.8) 
+Sept. 26 
+Term Structure of Interest Rates 
+5A 
+Oct. 1-3 
+Capital Budgeting:  Criteria for Choosing 
+Investment Projects 
+6 (omit 6.3) 
+Oct. 8-10 
+Capital Budgeting:  Further Considerations 
+7 (omit 7.5) 
+7A, 1A, 8.1 
+Monday 
+October 14 
+Midterm I: 7 p.m.-9 p.m. 
+ 
+Oct. 15 
+Risk and Return:  Introduction 
+9, 9A 
+Oct. 17-24 
+The Capital Asset Pricing Model 
+10 (omit 10A) 
+Oct. 29-31 
+Risk, Return, and Capital Budgeting; WACC 
+12 (omit 12A) 
+Nov. 5 
+Market Efficiency 
+13 
+Nov. 7-14 
+Options and Corporate Finance 
+22 (omit 22.8-22.11) 
+Monday 
+November 18 
+Midterm II: 7 p.m.-9 p.m. 
+ 
+ 
+Long Term Financing 
+ 
+Students are responsible for this material on their 
+own; it will not be covered in class. 
+14, 19 (omit 19.6), 20 
+(omit 20.3) 
+Nov. 19 
+Capital Structure:  Introduction 
+15 
+Nov. 21-26 
+Capital Structure:  Conclusion 
+16, 16A, 16B, 22.9, 
+22.10 
+Nov. 28-Dec. 3 
+Futures and Forwards 
+25 (Sec. 1-3) 
+TBA 
+Final Exam 
+ 
+ 
+ 
+4
+ACADEMIC INTEGRITY: 
+ 
+It is critical to the reputation of the I. H. Asper School of Business and of our degrees, that everyone 
+associated with our faculty behaves with the highest academic integrity.  As the faculty that helps create 
+business and government leaders, we have a special obligation to ensure that our ethical standards are 
+beyond reproach.  Any dishonesty in our academic transactions violates this trust.  Page 28 of the University 
+of Manitoba General Calendar addresses the issue of academic dishonesty under the heading "Plagiarism and 
+Cheating".  Specifically, acts of academic dishonesty include, but are not limited to: 
+• 
+using the exact words of a published or unpublished author without quotation marks and without 
+referencing the source of these words 
+• 
+duplicating a table, graph or diagram, in whole or in part, without referencing the source 
+• 
+paraphrasing the conceptual framework, research design, interpretation, or any other ideas of another 
+person, whether written or verbal (e.g., personal communications, ideas from a verbal presentation) 
+without referencing the source 
+• 
+copying the answers of another student in any test, examination, or take-home assignment 
+• 
+providing answers to another student in any test, examination, or take-home assignment 
+• 
+taking any unauthorized materials into an examination or term test (e.g., crib notes) 
+• 
+using any unauthorized materials in an examination or term test (e.g., crib notes) 
+• 
+impersonating another student or allowing another person to impersonate oneself for the purpose of 
+submitting academic work or writing any test or examination 
+• 
+stealing or mutilating library materials 
+• 
+accessing tests prior to the time and date of the sitting 
+• 
+changing name or answer(s) on a test after that test has been graded and returned 
+• 
+submitting the same paper or portions thereof for more than one assignment, without discussions with 
+the instructors involved. 
+ 
+Group Projects and Group Work: Many courses in the I. H. Asper School of Business require group projects.  
+Students should be aware that group projects are subject to the same rules regarding academic dishonesty. 
+Should a violation occur, group members are jointly accountable unless the violation can be attributed to a 
+specific individual(s). 
+ 
+Some courses, while not requiring group projects, encourage students to work together in groups (or at least 
+do not prohibit it) before submitting individual assignments.  Students are encouraged to discuss this issue as 
+it relates to academic integrity with their instructor to avoid violating this policy. 
+ 
+In the I. H. Asper School of Business all suspected cases of academic dishonesty are passed to the 
+Dean's office in order to ensure consistency of treatment. 

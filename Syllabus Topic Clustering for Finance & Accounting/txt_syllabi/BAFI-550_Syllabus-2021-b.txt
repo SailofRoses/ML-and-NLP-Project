@@ -1,0 +1,424 @@
+  
+BAFI550  
+  
+1  
+Program: MBA  
+ 
+  
+Syllabus  
+COURSE INFORMATION  
+Course title:  
+Fundamental Finance  
+Course code:  
+BAFI 550  
+Credits:  
+1.5  
+Session, term, period:   2021 W1 (Nov-Dec)  
+Class location:  
+HA 133  
+Section(s):  
+001  
+Class times:  
+M/W8:00-10:00 
+Course duration:            Nov 1 – Dec 13, 2021 
+Pre-requisites:  None  
+Division:  
+Finance  
+Co-requisites:  
+None  
+Program:  
+MBA  
+ 
+INSTRUCTOR INFORMATION  
+Instructor:  
+Professor Glen Donaldson          Office Location:  HA881 and Online       
+Phone:  
+604-822-8344  
+Office hours:  
+By appointment   
+Email:  
+glen.donaldson@sauder.ubc.ca  
+ 
+COURSE FORMAT  
+Classes consist primarily of lectures and discussions in which students are expected to participate. 
+Students are also expected to work though applied problems both in and outside of class, keep a daily 
+journal of independent learning and course participation, and complete a group project involving 
+applied finance research and analysis.  
+COURSE DESCRIPTION  
+This course investigates fundamental topics in finance, including:   
+• 
+financial managers, financial markets, and business formation and management   
+• 
+the time value of money, financial valuation, and investment decisions   
+• 
+methods of business financing and concepts in capital budgeting and capital structure   
+• 
+the valuation of financial instruments including stocks and bonds  
+• 
+the nature of risk and return in investments, diversification and trade-offs between risk and return  
+• 
+insurance, derivatives (options, futures, swaps), and risk management fundamentals  
+• 
+roles of financial institutions, including banks  
+• 
+the financial lifecycle, including venture capital, IPOs, mergers & acquisitions   
+  
+Frequently asked questions about taking BAFI 550 vs BAFI 500:   
+  
+1. Question: Should I take BAFI 500 or BAFI 550 as my first finance course?   
+  
+Answer: It depends on your objective. BAFI 550 (this course) is targeted at students who desire a 
+fundamental understanding of a broad range of issues in finance and are not yet sure if they will 
+take follow-on finance courses. This one course, BAFI 550, covers at a high level (broad but not as 
+deep) roughly the sort of content that is typically covered at a much deeper and more technical 
+level in the 3-course combination of: BAFI 500 (introductory finance), BAFI 502 (corporate finance) 
+and BAFI 511 (investments); plus this course, BAFI 550, touches on some additional topics (e.g., in 
+international finance, mergers & acquisitions, risk management, etc.). Students who desire a 
+  
+BAFI550  
+  
+2  
+Program: MBA  
+ 
+  
+Syllabus  
+deeper and more technical investigation, and who plan to specialize in finance, should consider 
+taking all of: BAFI 500, BAFI 502 and BAFI 511 as their foundation rather than this single 
+fundamental course BAFI 550.   
+  
+Historically, roughly 70% of the MBA class takes BAFI 550, and 30% takes BAFI 500, as their first 
+finance course, although this varies from year-to-year.  
+  
+2. Question: If I take BAFI 550 (this course), rather than BAFI 500 as my first finance course, can I then 
+take BAFI 502 (corporate finance) and BAFI 511 (investments) the following period?   
+  
+Answer: Yes, students who start with BAFI 550, rather than BAFI 500, and subsequently want to 
+take BAFI 502 and BAFI 511 can do so, but may have to catch up on some technical details covered 
+in BAFI 500 that may not be in BAFI 550.   
+  
+3. Question: What if I take BAFI 550, rather than all of the 3-courses BAFI 500/502/511, as my 
+foundation, can I still take upper-level finance electives in Periods 3, 4, 6 and 7, such as International 
+Finance, Mergers & Acquisitions, Venture Capital, and so forth?   
+  
+Answer: Yes, many upper-level finance courses require either BAFI 550 or some combination of 
+BAFI 500/502/511 as the pre-requisite. If you do take BAFI 550, but not BAFI 502/511, you may 
+need to catch up on some technical and/or topical details, especially for some of the more 
+technically-oriented electives. Check with the MBA office for more information.      
+     
+LEARNING OBJECTIVES  
+By the end of this course, students should be able to analyze, apply and explain fundamental issues, 
+concepts and methods in finance.  
+ASSESSMENTS  
+Problem Set 1 (online problem set)  
+10% 
+Problem Set 2 (online problem set)  
+10% 
+Problem Set 3 (online problem set)  
+10% 
+Problem Set 4 (online problem set)  
+10% 
+Course Journal (learning and participation)  
+10% 
+Term Project (group research/analysis project)  
+  50%  
+Total  
+100% 
+ 
+LEARNING MATERIALS  
+Textbook - REQUIRED:    
+Fundamentals of Corporate Finance, Third Canadian Edition, by Jonathan Berk, Peter DeMarzo,  
+Jarrad Harford, David Stangeland and Andras Marosi. Pearson Canada 2020  
+ 
+Optional Additional Learning Resources – NOT REQUIRED but may be useful for some students:    
+MyFinanceLab (access is acquired when purchasing the textbook) – contains practice problems.  
+  
+BAFI550  
+  
+3  
+Program: MBA  
+ 
+  
+Syllabus  
+MyFinanceLab Course ID: donaldson29305  
+ 
+COURSE-SPECIFIC POLICIES AND RESOURCES  
+Missed or late assignments, and regrading of assessments  
+Late submissions, or missed exams/quizzes, will receive a grade of zero unless academic concession 
+is granted (see below). Academic Concessions  
+If extenuating circumstances arise, please contact the RHL Graduate School program office as early as 
+reasonably possible, and submit an Academic Concession Request & Declaration Form 
+https://webforms.sauder.ubc.ca/academic-concession-rhlee. If an academic concession is granted 
+during the course, the student will be provided options by RHL, or by the instructor in consultation with 
+RHL, per UBC’s policy on Academic Concession.  
+POLICIES APPLICABLE TO COURSES IN THE ROBERT H. LEE GRADUATE SCHOOL   
+Attendance  
+Excepting extenuating circumstances, students are expected to attend 100% of their scheduled class 
+hours. Absent students limit their own academic potential, and that of their classmates, and cause 
+unnecessary disruption to the learning environment. Students missing more than 20% of the total 
+scheduled class hours for a course (including classes held during the add/drop period) without having 
+received an academic concession will be withdrawn from that course. Withdrawals, depending on 
+timing, could result in a “W” or an “F” standing on the transcript.  
+COVID-19 Policies for Attendance & Academic Concessions:  
+If a student feels unwell, they should stay home and send a courtesy email to each impacted instructor 
+and cc their program manager. The student should also submit an Academic Concession Request & 
+Declaration Form.  
+  
+If a student suspects possible Covid-19 infection, they should use the BC Ministry of Health’s 
+selfassessment tool, to help determine whether further assessment or testing for COVID-19 is 
+recommended.  
+  
+If a student is required to self-isolate (e.g., while waiting for test results), they should follow the steps 
+above (stay home, email instructor(s) and program manager, submit an Academic Concession Request & 
+Declaration Form, and follow BC Health Guidance.  
+  
+Students who are required to quarantine, should get in touch with their Program Manager to discuss the 
+possibility of academic concessions for each impacted course. The Program Manager will work closely 
+with your instructors to explore options for you to make up the missed learning.  
+COVID-19 Safety in the Classroom:   
+Masks: Masks are required for all indoor classes, as per the BC Public Health Officer orders. For our 
+inperson meetings in this class, it is important that all of us feel as comfortable as possible engaging in 
+class activities while sharing an indoor space.  For the purposes of this order, the term “masks” refers to 
+medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it 
+harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask for the 
+  
+BAFI550  
+  
+4  
+Program: MBA  
+ 
+  
+Syllabus  
+duration of our class meetings, for your own protection, and the safety and comfort of everyone else in 
+the class.  You may be asked to remove your mask briefly for an ID check for an exam, but otherwise, 
+your mask should cover your nose and mouth. Please do not eat in class. If you need to drink 
+water/coffee/tea/etc, please keep your mask on between sips. Students who need special 
+accommodation are asked to discuss this with the program office.  
+  
+Seating in class: To reduce the risk of Covid transmission, please sit in a consistent area of the classroom 
+each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for 
+this class to help your learning.     
+  
+Visit the following website for the most recent updates regarding Covid-19 protocol on 
+campus:https://students.ubc.ca/campus-life/returning-to-campus  
+  
+Punctuality  
+Students are expected to arrive for classes and activities on time and fully prepared to engage. Late 
+arrivals may be refused entry at the discretion of the instructor or activity lead. Students arriving later 
+than halfway through a scheduled class will be treated as absent for that class.  
+  
+Electronic Devices  
+Devices such as laptops, tablets, and cell phones are not permitted to be used in class unless directed by 
+the instructor for in-class activities. Students who do not follow the School’s policy in this regard may be 
+required to leave the room for the remainder of the class, so that they do not distract others. Research 
+shows that students’ use of laptops in class has negative implications for the learning environment, 
+including reducing their own grades and the grades of those sitting around them.   
+  
+Citation Style  
+Please use the American Psychological Association (APA) reference style to cite your sources.  
+  
+Details of the above policies and other RHL Policies are available at:  
+http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,199,506,1625   
+UNIVERSITY POLICIES AND RESOURCES  
+UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes 
+that sometimes crises arise and so there are additional resources to access including those for survivors 
+of sexual violence. UBC values respect for the person and ideas of all members of the academic 
+community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. 
+UBC provides appropriate accommodation for students with disabilities and for religious observances. 
+UBC values academic honesty and students are expected to acknowledge the ideas generated by others 
+and to uphold the highest academic standards in all of their actions. Details of the policies and how to 
+access support are available on the UBC Senate website at https://senate.ubc.ca/policies-
+resourcessupport-student-success.  
+  
+Respect for Equity, Diversity, and Inclusion  
+  
+BAFI550  
+  
+5  
+Program: MBA  
+ 
+  
+Syllabus  
+The UBC Sauder School of Business strives to promote an intellectual community that is enhanced by 
+diversity along various dimensions including status as a First Nation, Metis, Inuit, or Indigenous person, 
+race, ethnicity, gender identity, sexual orientation, religion, political beliefs, social class, and/or 
+disability. It is critical that students from diverse backgrounds and perspectives be valued in and 
+wellserved by their courses. Furthermore, the diversity that students bring to the classroom should be 
+viewed as a resource, benefit, and source of strength for your learning experience. It is expected that all 
+students and members of our community conduct themselves with empathy and respect for others.   
+  
+Academic Integrity  
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all 
+students are expected to know, understand, and follow the codes of conduct regarding academic 
+integrity. At the most basic level, this means submitting only original work done by you and 
+acknowledging all sources of information or ideas and attributing them to others as required. This also 
+means you should not cheat, copy, or mislead others about what is your work; nor should you help 
+others to do the same. For example, it is prohibited to: share past assignments and answers with other 
+students; work with other students on an assignment when an instructor has not expressly given 
+permission; or spread information through word of mouth, social media, or other channels that subverts 
+the fair evaluation of a class exercise, or assessment. Violations of academic integrity (i.e., misconduct) 
+lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh 
+sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on 
+the assignment or exam and more serious consequences may apply if the matter is referred to the 
+President’s Advisory Committee on Student Discipline. Careful records are kept in order to monitor and 
+prevent recurrences.   
+  
+Academic Freedom and Students Studying from Outside Canada  
+Some UBC courses might cover topics that are censored or considered illegal by non-Canadian 
+governments. This may include, but is not limited to, human rights, representative government, 
+defamation, obscenity, gender or sexuality, and historical or current geopolitical controversies. If you 
+are a student living abroad, you will be subject to the laws of your local jurisdiction, and your local 
+authorities might limit your access to course material or take punitive action against you. UBC is strongly 
+committed to academic freedom, but has no control over foreign authorities (please visit 
+http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0  for an articulation of the values of 
+the University conveyed in the Senate Statement on Academic Freedom). Thus, we recognize that 
+students will have legitimate reason to exercise caution in studying certain subjects. If you have 
+concerns regarding your personal situation, consider postponing taking a course with manifest risks, 
+until you are back on campus or reach out to your academic advisor to find substitute courses. For 
+further information and support, please visit: http://academic.ubc.ca/support-resources/freedom-
+expression  
+ 
+ 
+COPYRIGHT  
+  
+BAFI550  
+  
+6  
+Program: MBA  
+ 
+  
+Syllabus  
+All materials of this course (course handouts, lecture slides, assessments, course readings, etc.) are the 
+intellectual property of the instructor or licensed to be used in this course by the copyright owner. 
+Redistribution of these materials by any means without permission of the copyright holder(s) 
+constitutes a breach of copyright and may lead to academic discipline and could be subject to legal 
+action. All lecture recordings are for the sole use of the instructor and students enrolled in the class. In 
+no case may lecture recordings, or part of the recordings, be used by students for any other purpose, 
+either personal or commercial. Further, audio or video recording of classes are not permitted without 
+the prior consent of the instructor. Students may not share class Canvas or Zoom links or invite others 
+who are not registered to view sessions or access material.  
+ACKNOWLEDGEMENT  
+UBC’s Point Grey Campus is located on the traditional, ancestral, and unceded territory of the 
+xwməθkwəyəm (Musqueam) people, who for millennia have passed on their culture, history, and ̓ 
+traditions from one generation to the next on this site.   
+ONLINE TEACHING TOOL & REQUIREMENTS   
+This course will be taught using Zoom for some office hours and potentially some classes. For this 
+course, you are required to use a Zoom account during such times. If you do not have a Zoom account, 
+you can create one here: https://zoom.us/signup. Note: creating a Zoom account requires that you 
+provide a first name, last name, and email address to Zoom. For privacy purposes, you may consent to 
+using your existing email address and your real name. Alternatively, if you prefer, you may sign up using 
+an alternative email address and an anonymized name that does not identify you (i.e. Jane Doe, 
+jane.doe@email.com). If you have trouble creating an account, or accessing a Zoom session, please 
+contact CLCHelp@sauder.ubc.ca. You will be required to provide the email address associated with your 
+Zoom account in a Canvas quiz for identification purposes. Students are expected to conduct themselves 
+professionally by joining online sessions on time, muting mics when not speaking, refraining from using 
+any other technology when in-session, attending in business casual attire (at a minimum), and 
+participating from a quiet environment.  
+COURSE SCHEDULE (SUBJECT TO CHANGE)  
+Class   
+Topics  
+Readings /Activities  
+Assessments   
+Class 
+1 
+Nov 1  
+introduction to finance and this course  
+corporate finance, the firm and financial managers  
+  
+Ch 1, 2  
+  
+Class 
+2 
+Nov 3  
+the time value of money and financial valuation 
+investment decisions and capital budgeting tools  
+Ch 3, 4  
+Ch 8(1st half)  
+PS 1: due 8am 
+Nov 8  
+Class 
+3 
+Nov 8  
+debt financing, global bond markets and bond valuation  
+interest rates, currency exchange rates  
+Ch 6, 15   
+Ch 5(half), 22(half)  
+  
+Class 
+4 
+Nov 10  
+stocks markets, stock pricing, information in markets  
+the nature of investment risk and return    
+Ch 7  Ch 
+10  
+PS 2: due 8am 
+Nov 15  
+Class 
+5 
+Nov 15  
+diversification and investment portfolios 
+Beta, asset pricing and the CAPM  
+Ch 11(1st half) Ch 
+11(2nd half)  
+  
+Class 6   
+Nov 17  
+corporate capital structure, cost of capital WACC 
+corporate finance decisions, insurance  
+Ch 16, 12(1st half) Ch 
+21(1st half)  
+PS 3: due 8am 
+Nov 22  
+  
+BAFI550  
+  
+7  
+Program: MBA  
+ 
+  
+Syllabus  
+Class 
+7 
+Nov 22  
+derivatives - forwards, futures, swaps 
+options and risk management  
+Ch 21(2nd half) Ch 
+13  
+  
+Class 
+8 
+Nov 24  
+cash management and working capital 
+financial institutions, banks, securitization   
+Ch 19(half),20(half) 
+Ch 1  
+PS 4: due 8am 
+Nov 29  
+Class 
+9 
+Nov 29  
+financial lifecycle: venture capital to IPO financial 
+lifecycle: mergers & acquisitions to exit  
+Ch 14  
+Ch 24  
+  
+Class 10 
+Dec 1  
+corporate governance, risk, investment pitfalls 
+(asynchronous)  
+Ch 25  
+  
+  
+Exam 
+week  
+Final Project – form a team, pick a company that recently 
+experienced an IPO or M&A, analyze the company (Beta, 
+capital structure, etc.) relative to its peers, and also 
+analyze its IPO/M&A event  
+no classes, final 
+exam period  
+Project and  
+Journal due  
+11:59pm   
+Dec 10  
+  
+ 

@@ -1,0 +1,463 @@
+ 
+Course Number 
+MGMT 2320 
+Course Ttitle 
+MANAGERIAL FINANCE 
+List of topics covered An undergraduate level introduction to corporate financial 
+analysis and decision making.  
+This course covers the following topics: financial statement 
+analysis, valuation principles, risk and return analysis, 
+working capital management, capital budgeting, cost of 
+capital, capital structure, and dividend policy. 
+ 
+COURSE GOALS/OBJECTIVES: 
+1. Develop an understanding of basic financial topics such 
+as risk versus return, the time value of money, the valuation 
+and pricing of financial assets, and the benefits of 
+diversification.  
+2. Ability to apply the above techniques to carry out capital 
+budgeting tasks.  
+3. Understanding of basic financial securities including 
+equities, debt instruments, and derivatives.  
+4. Ability to value securities using basic concepts such as 
+risk versus return, diversification, and market efficiency, 
+and the time value of money. 
+Textbooks 
+(Include author name 
+and edition) 
+1. Berk, Jonathan and Peter DeMarzo (2014): Corporate 
+Finance, 4th Edition. Pearson (Boston, MA). ISBN-13: 
+978-0134083278, ISBN-10: 013408327X.  
+2. Any other material will be distributed by the instructor. 
+Grading scheme 
+Homework: 10%  
+In-class labs: 25%  
+Exam 1: 20%  
+Exam 2: 20%  
+Project: 25% 
+ 
+Syllabus 
+1 of 7     
+   Summer 2021 
+ 
+ 
+SYLLABUS 
+Managerial Finance Summer ARCH Version 
+MGMT 2320 (CRN 16510) 
+Credit Hours 4 
+Summer ARCH 2021 
+Room Location: TBA (Monday, Thursday 1:00pm – 3:05pm) 
+Course website: lms.rpi.edu   
+ 
+Prerequisites or Other Requirements: MGMT 2300: Fundamentals of Accounting for 
+Decision Making. 
+ 
+INSTRUCTOR 
+ 
+Instructor Name: Brian Clark 
+ 
+ 
+ 
+Office Location: Pitts 1110 
+ 
+Tel. No.: 518-276-4467 (email preferred) 
+ 
+           Email Address: clarkb2@rpi.edu 
+Office Hours: All office hours will be held virtually via WebEx by appointment. 
+ 
+In case of another email or server outage or to contact me after normal work hours, I can 
+be reached at clarkb2rpi@gmail.com.  
+ 
+COURSE DESCRIPTION:  
+ 
+An undergraduate level introduction to corporate financial analysis and decision making. 
+This course covers the following topics: financial statement analysis, valuation principles, 
+risk and return analysis, working capital management, capital budgeting, cost of capital, 
+capital structure, and dividend policy. 
+ 
+REQUIRED TEXT(S):  
+1. Berk, Jonathan and Peter DeMarzo (2014): Corporate Finance, 4th Edition.  
+Pearson (Boston, MA).  ISBN-13: 978-0134083278, ISBN-10: 013408327X. 
+2. Any other material will be distributed by the instructor. 
+COURSE GOALS/OBJECTIVES (OPTIONAL) 
+1. Students should develop an understanding of basic financial topics such as risk 
+versus return, the time value of money, the valuation and pricing of financial 
+assets, and the benefits of diversification. 
+ 
+Syllabus 
+2 of 7     
+   Summer 2021 
+ 
+2. Ability to apply the above techniques to carry out capital budgeting tasks. 
+ 
+3. Understanding of basic financial securities including equities, debt instruments, 
+and derivatives. 
+ 
+4. Ability to value securities using basic concepts such as risk versus return, 
+diversification, and market efficiency, and the time value of money. 
+STUDENT LEARNING OUTCOMES 
+1. Financial Skills: Students should be able to conceptualize and apply key 
+financial theories to assess corporate financial decisions.  
+ 
+2. Financial Skills: Students should be able to value securities using basic financial 
+ratios and data. 
+ 
+3. Financial Skills: Students should be able to carry out discounted cash flow 
+analysis for decision making. 
+ 
+COURSE ASSESSMENT MEASURES  
+The grade for the course will be based on performance exams, case studies, homework 
+assignments, and class participation.   
+ 
+Homework: 
+Assigned during lectures – reading, research, and 
+problems.  Homework assignments must be done 
+individually, unless explicitly stated otherwise (by the 
+instructor).  Discussions with classmates and the instructor 
+and strongly encouraged, but eventual implementation, 
+analysis, and writing must be individual work.  Homework is 
+due at the start of the lecture the day it is due.  Homework 
+will be graded on a scale of 0-3.  No late homework will be 
+accepted without prior approval from the instructor.   
+In-Class Labs 
+In-class labs will be assigned throughout the semester.  
+These assignments are typically more involved than regular 
+HW assignments.  As with HW assignments, discussions 
+with classmates and the instructor and strongly encouraged, 
+but eventual implementation, analysis, and writing must be 
+individual work.  Solutions will be submitted online via LMS.
+ 
+REMOTE ASYNCHONOUS STUDENTS: Students taking 
+the course remotely and asynchronously will have 24 
+hours from the end of the live lecture to complete the 
+in-class labs.  It is your responsibility to view the lecture 
+and complete any in-class labs as the assignments will 
+often be announced in class.
+ 
+Syllabus 
+3 of 7     
+   Summer 2021 
+Exams: 
+There are two exams for the course.  The first exam will be 
+administered prior to add/drop deadline and the second 
+exam will be administered at the end of the semester.  The 
+exams will be open book and submitted online via LMS.
+Project: 
+There will be a group project assigned during the semester 
+that will be due during finals week.  Specific details 
+regarding the project will be announced in class.  The major 
+components of the project grade will be 1) a presentation 
+and 2) the final deliverable (e.g., a report, app, etc.).
+ 
+Class Participation: 
+ 
+Class participation is a necessary and integral part of 
+learning and as such is required.  However, due to the 
+unique situation caused by the COVID-19 pandemic, some 
+students will attend in person and others will attend virtually.  
+Students should make every reasonable effort to attend 
+classes synchronously (i.e., view lectures live).  
+ 
+ 
+ 
+GRADING CRITERIA  
+Grading Scheme: 
+Homework: 10% 
+In-class labs: 25% 
+Exam 1: 20% 
+Exam 2: 20% 
+Project: 25% 
+ 
+Letter Grades*: 
+Minimum
+Maximum
+Letter Grade
+92
+100
+A
+90
+91
+A-
+87
+89
+B+
+83
+86
+B
+80
+82
+B-
+77
+79
+C+
+73
+76
+C
+70
+72
+C-
+67
+69
+D+
+60
+66
+D
+0
+59
+F
+ 
+ 
+Syllabus 
+4 of 7     
+   Summer 2021 
+*Letter grade breakpoints may be adjusted slightly based on the mean or median 
+of the overall class score. 
+ 
+ 
+ATTENDANCE POLICY  
+ 
+Class attendance is an integral part of learning.  However, due to the unique situation 
+caused by the COVID-19 pandemic, some students will attend in person and others will 
+attend virtually.  Students should make every reasonable effort to attend classes 
+synchronously (i.e., view lectures live).   
+ 
+Remote asynchronous students are required to view the recorded lectures and 
+submit any in-class assignments within 24 hours of the live lecture. 
+OTHER COURSE POLICIES (OPTIONAL) 
+ 
+Class Participation:  
+ 
+The course is a coproduction of your and my efforts - this means you are a producer 
+as much as a consumer of the course.  You are required to ask questions, respond to my 
+questions, advance the class discussions, and to make comments based on your 
+personal background.  There will be frequent classroom activities and your classroom 
+behavior will be counted toward an overall participation score.  I will do my best to include 
+and engage distance learning students in the discussions. 
+ 
+Improper behavior or computer/phone/tablet usage will not be tolerated in this 
+course.  Improper behavior, such as coming late, leaving early, sleeping in class, or 
+inappropriate computer/phone/tablet usage will adversely affect your participation score.  
+The same general principals apply to distance learning students. 
+ 
+ADA Compliance: 
+Any student with a disability that needs course or examination accommodations should 
+request as soon as possible for such accommodations through the Disabled Student 
+Services in the Dean of Students Office.  Please do this as soon as possible and 
+provide a copy of your approved accommodation form to me.   
+ 
+Re-Grade Policy: 
+If you believe and error has been made in grading your homework or exam, you may 
+request a re-grade by doing the following: Write a brief note to me explaining why 
+you think there is an error and submit both the note and the entire assignment or 
+exam to which it pertains.  All re-grade requests must occur within seven (7) calendar 
+days of the day graded material is returned to the class.  I reserve the right to re-grade 
+the entire contents of any submitted assignment or exam. 
+ 
+ 
+Syllabus 
+5 of 7     
+   Summer 2021 
+ACADEMIC INTEGRITY  
+ 
+Student-teacher relationships are built on trust. For example, students must trust that 
+teachers have made appropriate decisions about the structure and content of the courses 
+they teach, and teachers must trust that the assignments that students turn in are their own. 
+Acts that violate this trust undermine the educational process. 
+The Rensselaer Handbook of Student Rights and Responsibilities and the Graduate Student 
+Supplement (For 6000 level and above courses) define various forms of Academic 
+Dishonesty and you should make yourself familiar with these. In this class, all assignments 
+that are turned in for a grade must represent the student’s own work. In cases where help 
+was received, or teamwork was allowed, a notation on the assignment should indicate your 
+collaboration. Submission of any assignment that is in violation of this policy will result in (1) 
+an academic (grade) penalty and (2) reporting to Lally’s Associate Dean of Academic Affairs 
+and either the Dean of Students (for Undergraduates) or the Dean of Graduate Education 
+(for Graduate students).  
+In this course, the academic penalty for a first offense is a zero on the homework, lab, 
+project, or exam.  A second offense will result in failure of the course as noted in 
+Lally’s Three Strikes Policy.  
+If you have any questions concerning this policy before submitting an assignment or taking 
+an exam, please ask for clarification. 
+ 
+ACADEMIC ACCOMMODATIONS  
+Rensselaer Polytechnic Institute strives to make all learning experiences as accessible as 
+possible. If you anticipate or experience academic barriers based on a disability, please let 
+me know immediately so that we can discuss your options.   
+To establish reasonable accommodations, please register with The Office of Disability 
+Services for Students (mailto:dss@rpi.edu; 518-276-8197; 4226 Academy Hall).  After 
+registration, make arrangements with me as soon as possible to discuss your 
+accommodations so that they may be implemented in a timely fashion.” 
+ 
+COURSE CALENDAR1 
+ 
+ 
+Date 
+NOTES 
+Topic 
+Suggested 
+Readings (Berk 
+& DeMarzo)
+May 24 
+ 
+Introduction to the course. 
+N/A 
+May 27 
+ 
+Financial Statement Analysis (accounting review)  
+1-2 
+June 2 
+Class on Wed., 
+June 2 
+Time Value of Money (1) 
+3-4 
+                                                 
+1 The course calendar is subject to change at the instructor’s discretion. 
+ 
+Syllabus 
+6 of 7     
+   Summer 2021 
+June 3 
+ 
+Time Value of Money (2) and In-class lab (TVM) 
+3-4 
+June 7 
+ 
+Interest Rates (1) 
+5 
+June 10 
+ 
+Interest Rates (2) and in-class lab (personal loans – 
+mortgages, credit cards, student loans) 
+5 
+June 14 
+ 
+Valuing Bonds 
+6 
+June 17 
+ 
+Valuing Projects and Firms and in-class lab (NPV Rules) 
+7 
+June 21 
+ 
+Valuing Projects and Firms  
+7 
+June 24 
+EXAM 1 – No Class
+Exam 1 – Take home exam. 
+N/A 
+June 28 
+ 
+Fundamentals of Capital Budgeting (1) 
+8 
+July 1 
+ 
+Fundamentals of Capital Budgeting (2) and in-class lab 
+(DCF analysis) 
+8 
+July 5 
+NO CLASS  
+SEMESTER BREAK 
+ 
+July 8 
+NO CLASS  
+SEMESTER BREAK 
+ 
+July 12 
+ 
+Valuing Stocks (1)  
+9 
+July 15 
+VIRTUAL CLASS 
+Valuing Stocks (2) and in-class lab (equity valuation) 
+9 
+July 19 
+ 
+Risk and Return (1) – and in-class lab (market risk 
+premium) 
+10-11 
+July 22 
+ 
+Optimal Portfolio Choice and the CAPM (1) 
+10-11 
+July 26 
+ 
+Optimal Portfolio Choice and the CAPM (2) and in-class 
+lab (CAPM) 
+10-11 
+July 29 
+ 
+Estimating the Cost of Capital (2) and in-class lab 
+(WACC) 
+12 
+August 2 
+ 
+Capital Structure (1) 
+14-15 
+August 5 
+ 
+Capital Structure (2) – Debt and Taxes and in-class lab 
+14-15 
+August 9 
+EXAM 2 – No Class
+Exam 2 – Take home exam. 
+N/A 
+August 12 
+Project 
+Presentations 
+ 
+N/A 
+August 16 
+Project 
+Presentations 
+ 
+N/A 
+August 19 
+LAST DAY OF 
+CLASSES 
+Final Project Deliverables Due 
+N/A 
+ 
+Syllabus 
+7 of 7     
+   Summer 2021 
+COVID-19 Syllabus Guidelines – Lally School of Management 
+  
+Students taking Lally School of Management classes are required to abide by the COVID-
+19 code of conduct below. This code will apply to any class that meets fully or partially 
+in an on-campus physical classroom for in-person instruction. 
+ 
+Violations: Refusal to comply with the COVID-19 code of conduct will be treated just as 
+any classroom disruption, which will receive request for immediate compliance, failing 
+which the student will be asked to leave the classroom. Any further noncompliance will 
+result in the dismissal of the entire class. All Covid-19 related violations will be reported 
+by the instructor to the Compliance Officer at Lally School, and the Dean of Students. A 
+student found to be in violation of the code, or required repeated reminders for 
+compliance, will be asked to participate in all classes remotely. This is to protect their 
+health and safety as well as the health and safety of their classmates, instructor, and the 
+university community. 
+ 
+Masks: All students must wear a mask in classrooms and all public places including 
+anywhere inside Pittsburgh building. Masks will be provided to the student by the 
+Institute. 
+ 
+Traffic Flow and Social Distancing: Students and faculty will respect the need for 
+social distancing. They are required to follow the traffic flow arrows posted in all rooms 
+and buildings, including bathrooms and common areas.  
+ 
+In-Class Seating: Students should sit in the appropriate designated seating in the 
+classroom. Students are not allowed to move furniture or sit in seats not designated by 
+the Institute.  
+ 
+Cleaning of Spaces: Students are encouraged to clean the surfaces of the 
+chairs/tables/desks they occupy before they sit down and as they prepare to leave. 
+Cleaning and sanitizing solutions will be provided the classroom. 
+  
+Students who are ill, under quarantine for COVID-19, or suspect they are ill 
+should not come to class. All faculty will make every reasonable effort to accommodate 
+the student’s absence and will communicate that accommodation directly to the student. 
+Students who need to report an illness should contact the Student Health 
+Center via email or call 518-276-6287. For student seen off campus, a student may 
+request an excused absence via www.bit.ly/rpiabsence with an uploaded doctor’s note 
+that excuses them. 
+ 
+ 
+ 

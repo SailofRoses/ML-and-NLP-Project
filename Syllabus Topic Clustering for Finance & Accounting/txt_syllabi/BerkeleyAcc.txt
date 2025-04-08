@@ -1,0 +1,342 @@
+UGBA 102A-LEC001
+Introduction to Financial Accounting (Fall 2022)
+Course Syllabus
+1
+Instructor & Class Information
+Instructor: Professor Biwen Zhang
+Email: biwen.zhang@haas.berkeley.edu
+Class Dates: Monday, Wednesday
+Class Time: 12:30 pm - 2:00 pm
+Classroom: Cheit C230
+GSI: Felipe Bosselin
+GSI Email: fbosselin@berkeley.edu
+GSI Review Date & Time: Friday, 8 - 9 am and 9 am - 10 am
+Ofﬁce Hours Zoom Link: https://berkeley.zoom.us/j/93517421050
+Ofﬁce Hours:
+• Biwen Zhang : 3 - 5 pm, Wednesday
+• Felipe Bosselin: 3 - 4 pm, Thursday; 10 - 11 am, Friday
+• Wei Zheng: 10 - 11 am, Monday; 4 - 5 pm, Tuesday
+2
+Course Description & Objectives
+This course provides an introduction to the principles of ﬁnancial reporting. The goal of this class
+is not to train you to be an accountant. Rather, this class is intended to train you into an informed
+user of ﬁnancial statements. I assume no prior knowledge of accounting, and I designed the course
+accordingly. I will constantly draw insights from real business anecdotes to contextualize the ac-
+counting concepts and the corresponding capital markets implications.
+Accounting is an information system that maps a ﬁrm’s economic activities into speciﬁc accounting
+numbers. For the ﬁrst half of the class, we will focus on understanding how each business trans-
+action impacts speciﬁc accounting numbers. In the second half of the class, you will develop the
+ability to analyze a ﬁrm’s operation and business strategy based on its ﬁnancial statements. I will
+also occasionally introduce seminal ﬁnance or accounting research to highlight (i) how managers’
+incentives distort the mapping process between real business transactions and accounting numbers
+and (ii) the investment value of certain accounting numbers.
+Speciﬁcally, by the end of this course, you will
+• Understand the logic structure that maps business transactions into accounting numbers
+• Be able to prepare a set of ﬁnancial statements (i.e., speak the language of accounting)
+• Be able to analyze ﬁnancial statements
+• Be aware of the limitations of ﬁnancial statement data
+3
+Course Materials
+• Textbook: Financial Accounting, by Libby, Libby, and Hodge, 10th edition, McGraw-Hill. ISBN:
+9781259964947.
+• All the reading assignments are based on the 10th edition of the textbook. A different version
+of the textbook will result in some difﬁculty in identifying the relevant reading assignments.
+• A calculator
+• All the lecture notes will be available on bCourse
+• Create a Kahoot account (https://kahoot.com) and download the application into your cell-
+phone. During class, we will frequently use Kahoot games to solidify your understanding of
+the relevant concepts.
+4
+Grading
+The course grade is determined by the following components:
+Constructive Contribution
+5%
+Team Case Project
+5%
+Homework Assignments (Lowest grade dropped)
+5%
+Midterm Exam
+30%
+Final Exam
+55%
+The details of each component are discussed below.
+4.1
+Constructive Contribution
+The constructive contribution portion of the grade is NOT narrowly geared towards in-class discus-
+sions. Instead, it is intended to encourage (i) all students to contribute to the learning environment
+and (ii) all students to show respect for the class and other students. Disruptive behavior, including
+(but are not limited to) entering, leaving, texting, or disturbing others during class, will negatively
+impact the constructive contribution portion of the grade. If, due to unforeseen emergencies, a
+student has to arrive late or leave early during class, please refrain from disrupting the class. Egre-
+gious behavior including but not limited to repeated conversing with other students during lectures
+2 of 7
+and/or repeated being late for classes will lead to a zero or negative participation credit.
+Speciﬁcally, the constructive contribution portion of the grade is based on:
+• A positive attitude that contributes to the learning environment of the class (e.g., showing
+excitement about the topics and respect for the class and other students)
+• Helping other students
+• Quality and thoughtful contributions shared in class, made with thoughts and preparation
+prior to class meetings.
+• Sharing with the class accounting-related stories.
+4.2
+Case Study
+Towards the end of the semester, you should work with your team to analyze a case. You are
+expected to purchase the case from HBR store (https://store.hbr.org/case-studies/), and the case
+should cost less than $10.
+To better prepare for your team case project, you are encouraged to form a team as early as possi-
+ble. Please form a group with only students from the same section, i.e., students enrolled in UGBA
+102A-LEC001 to ensure comparability of grades among students. Due to fairness concerns, a team
+cannot have more than ﬁve team members. If, due to unforeseen circumstances, a student has
+to form a team of more than ﬁve members, please send me an email, along with the justiﬁcation,
+for approval. To create a fair environment for all students, the grade of large teams, i.e., teams
+consisting of over ﬁve members, will be subject to an above-20% discount. A team of fewer than
+ﬁve members or even going solo is automatically approved.
+We will discuss the case in class on November 28, 2022. The case is due on November 27, 2022.
+No extensions are possible.
+4.3
+Homework Assignments
+The homework assignments are designed to solidify your understanding of the course materials
+and will be graded based on completeness. You can collaborate with other students in complet-
+ing the assignments. However, please submit your assignment individually, instead of as a group.
+Please identify the names of other students who you have collaborated with in your submission.
+If, due to unforeseen emergencies, a student is experiencing signiﬁcant difﬁculties in submitting
+the assignment by the deadline, please direct all the homework extension requests to Felipe
+Bosselin. See the details about the assignments and corresponding due dates in A.2.
+4.4
+Midterm & Final Exam
+Note that the schedule of the ﬁnal exam is decided by the university based on the day and time a
+class is offered. It is important that students do not enroll in another class that is offered at
+the same time as this class. Such scheduling conﬂicts will lead to a conﬂict of scheduling for
+the ﬁnal exams. The ﬁnal exam is cumulative. No make-up exams are possible. If necessary, we
+3 of 7
+will use Honorlock or other software of a similar nature to proctor the exams to ensure fairness
+among all students.
+5
+Course Structure
+The class will meet three times per week on Monday, Wednesday, and Friday. The regular classes,
+held on Monday and Wednesday, will be led by Professor Biwen Zhang. During the regular class,
+a combination of lectures, discussions, and in-class practice problems will be used. We will also
+constantly make references to real-world business events to illustrate the accounting concepts and
+the corresponding capital markets implications. Occasionally, I will also introduce the highlights
+of some seminal accounting and ﬁnance research, with an emphasis on the investment value of
+accounting information and managerial incentives in the preparation of ﬁnancial statements.
+There is also a weekly review session (Friday) led by the graduate student instructor (GSI), i.e,
+Felipe Bosselin. During these sessions, Felipe Bosselin will discuss solutions to assigned class exer-
+cises. The review sessions will not cover new materials, and are optional. That being said, you are
+strongly encouraged to attend the review sessions to solidify your understanding of the relevant
+concepts. See the exercises assigned to each review session from A.3.
+6
+Class Preparations & Questions about Class Content
+Before the class, you should read the corresponding reading assignments and think about the ques-
+tions I raised in the Topic Overviews. See the details of reading assignments in A.1. See the Topic
+Overviews from bCourse.
+After the class, it is inevitable that you have questions about the class content. For each topic and
+each assignment, we will create a discussion board where you can ask questions about each topic
+and each assignment. You are encouraged to answer questions raised by your classmates. Felipe
+Bosselin and I will answer your questions within two days of its posting.
+Due to fairness concerns, I will refrain from answering questions via emails, as such correspon-
+dences beneﬁt only a small number of students. Please direct all generic questions regarding course
+materials to bCourse, where all students can beneﬁt from the answers.
+The ofﬁce hours are also a good source for you, as you might have questions regarding the class,
+accounting in general, accounting research, or your career.
+7
+Academic Integrity
+The student community at UC Berkeley have collectively adopted the following Honor Code to
+support an environment of academic integrity and respect on campus. “As a member of the UC
+Berkeley community, I act with honesty, integrity, and respect for others.” I expect all of you to
+comply with the Honor code at all times and under all circumstances.
+4 of 7
+Also, the following norms were developed by former UC Berkeley students for everyone’s beneﬁt
+to improve the learning environment.
+• Prompt: Arrive on time at the beginning of class and after breaks
+• Present: Do not leave during class unless a personal emergency arises. Scheduled breaks,
+when provided, can be used to take care of personal needs.
+• Focus: Refrain from being distracted by laptops. The virtual lecturing will for sure nega-
+tively impact your learning experience. Thus, it is particularly important now to focus on the
+lectures to maintain an effective environment
+• Inclusive Step up in class discussions to ensure that a wide variety of voices and perspectives
+are heard; encourage classmates to do the same.
+8
+Statement for Students with Disabilities
+Any student requesting academic accommodations based on a disability is required to register with
+Disability Services and Programs (DSP) each semester. A letter of veriﬁcation for approved accom-
+modations can be obtained from DSP. Please be sure the letter is delivered to me (or to the program
+ofﬁce) as early in the semester as possible.
+5 of 7
+A.1
+Class Schedule & Assignment Dates
+The class schedule is drafted based on my best estimates of the ﬂow of the class. As it is more important for you to
+fully comprehend the class content than we dutifully follow the schedule, it is likely that the actual class schedule will
+be slightly different from the schedule below.
+Date
+Topic
+Reading Assignments
+8/24/2022
+Orientation & Overview of Financial Accounting
+NA
+8/29/2022
+The Balance Sheet and Double Entry
+Chapter 2 & pp.
+111-116(How are Operating Activities
+Recognized and Measured), pp. 6-8 (The Balance Sheet)
+8/31/2022
+9/5/2022
+No class (Labor Day)
+9/7/2022
+Balance Sheet and Double Entry (Cont.)
+9/12/2022
+Balance Sheet and Double Entry (Cont.) & Income Statement
+9/14/2022
+Career Panel
+9/19/2022
+The Income Statement
+Chapter 3 & pp. 186-187 (Income Statement), pp. 9-10
+(Income Statement)
+9/21/2022
+9/26/2022
+Adjustment Entry
+Chapter 4 (Skip pp.187-189)
+9/28/2022
+10/3/2022
+Statement of Cash Flows
+Chapter 12 & pp. 13-16 (Statement of Cash Flows) & 304-
+305 (Focus on Cash Flows) & 187 (Focus on Cash Flows)
+& 72-73(Focus on Cash Flows) & 577-582 (Dividends on
+Common Stock)
+10/5/2022
+10/10/2022
+Midterm Review
+10/12/2022
+Midterm Exam
+10/17/2022
+Statement of Cash Flows (Cont.)
+10/19/2022
+Statement of Cash Flows (Cont.) & Accounts Receivable
+skim "Accounting for Net Sales Revenue", pp.290-295; read
+the remaining chapter 6.
+10/24/2022
+Accounts Receivable
+10/26/2022
+10/31/2022
+Inventories of Cost of Goolds Sold
+Chapter 7, skip 359-364 (Inventory Method and Financial
+Statement Analysis & Control of Inventory)
+11/2/2022
+11/7/2022
+11/9/2022
+Ratio Analysis
+pp. 129- 130 (Chapter 3, Key Ratio Analysis, Net Proﬁt
+Margin), pp.189-190 (Key Ratio Analysis, Total Asset
+Turnover Ratio), pp.249-250 (Chapter 5, Key Ratio Anal-
+ysis: Gross Proﬁt Margin), pp.255-260 (Chapter 5, Key Ra-
+tio Analysis: Return on Assets (ROA), pp.472 (Chapter 9,
+Key Ratio Analysis, Accounts Payable Turnover), pp.538-
+539 (Chapter 10, Key Ratio Analysis Debt-to-Equity), Chap-
+ter 13, slides for Ratio Analysis
+11/14/2022
+11/16/2022
+Long Lived Assets and Intangible Assets
+Chapter 8 (Reporting and Interpreting Property, Plant, and
+Equipment:
+Intangibles; and Natural Resources), skim
+units-of-production and declining-balance. (pp.411-413)
+11/21/2022
+11/23/2022
+No class (Thanksgiving Break)
+11/28/2022
+Case Analysis
+NA
+11/30/2022
+Final Exam
+11:30 - 2:30 pm, December 16th, 2022
+6 of 7
+A.2
+Assignment Due Dates
+Assignment
+Exercises
+Due Dates
+HW1
+E2-15, E2-16, CP2-4, CP2-6
+9/19/2022 (Monday)
+HW2
+AP3-2, AP3-4 (Ignore q4 & 5), CON3-1 (Ignore q3)
+10/21/2022 (Friday)
+HW3
+CP6-3 , E12-9, E12-18
+10/31/2022 (Monday)
+HW4
+E6-19, E7-5, CP7-1
+11/14/2022 (Monday)
+HW5
+E8-1, E8-3, E8-17
+11/27/2022 (Sunday)
+Case Analysis
+NA
+11/27/2022 (Sunday)
+A.3
+Review Sessions
+Week
+Date
+Topic
+Review Exercises
+1
+8/26/2022
+No review sessions
+2
+9/2/2022
+Balance Sheet
+E2-3,E2-4, E2-5, E2-6, P2-1
+3
+9/9/2022
+Balance Sheet (cont.)
+E2-9, E2-10, E2-11, E2-12, CP2-2 (ignore q2, q5)
+4
+9/16/2022
+Income Statement
+E1-9, P1-3, AP1-3 (ignore q4), CP1-1, CP1-2
+5
+9/23/2022
+Income Statement (cont.) and Adjustment Entries
+E3-13, E3-14, AP 3-6 (ignore q4), COMP 3-1, E4-19 (ig-
+nore q1), AP4-4
+6
+9/30/2022
+Statement of Cash Flows
+E12-2, E12-3, E12-4, E12-5
+7
+10/7/2022
+Statement of Cash Flows (cont.) and Midterm Review
+Mid-term Review - Go over review questions of midterm
+exam
+8
+10/14/2022
+Midterm Week - No Class
+9
+10/21/2022
+Accounts Receivables
+E6-10, E6-11, E6-22, E6-25, CP6-1
+10
+10/28/2022
+Accounts Receivables (cont.)
+E6-24, E6-13, P6-2, AP6-3
+11
+11/4/2022
+Inventories of Cost of Goods Sold
+E7-13, E7-17, AP7-2, CP7-2
+12
+11/11/2022
+No class (Veterans Day)
+E13-3, E13-7, P13-4, P13-9, AP13-4, CON13-1
+13
+11/18/2022
+Long Lived Assets
+P8-2, P8-6, P9-11, P9-15, E9-8
+14
+11/25/2022
+No class (Thanksgiving Break)
+E8-12, E8-16, E9-7
+15
+12/2/2022
+Case Analysis Week
+Ofﬁce Hour, No assigned exercises
+7 of 7

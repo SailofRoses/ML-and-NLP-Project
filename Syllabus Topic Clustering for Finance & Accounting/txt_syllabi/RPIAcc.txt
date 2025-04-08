@@ -1,0 +1,1078 @@
+ 
+Course Number 
+MGMT 2300  
+Course Ttitle 
+FINANCIAL ACCTG IN DIGITALAGE 
+List of topics covered 
+(1) Familiar with the basic concepts of financial accounting; 
+(2) Work with accounting data in an analytically rigorous way; 
+(3) Understand the structure and process of financial statement 
+analysis. 
+ 
+MGMT 2300 is covered in two modules. The first focuses on 
+the basics of financial accounting (Balance Sheet, Income 
+Statement, Statement of Cash flows). The second module 
+focuses on financial statement analysis, emphasizing the theme 
+that financial statements are imperative in analyzing the 
+financial health of organizations. Its basic thrust is on different 
+ways to analyze the balance sheet, income statement and 
+statement of cash flow numbers that can be used for decision-
+making purposes. 
+Textbooks 
+(Include author name 
+and edition) 
+FINANCIAL ACCOUNTING 
+FOR 
+MANAGERS– An 
+interactive, user-oriented approach by David W. Young, 
+Crimson Press Curriculum Center. 
+Grading scheme 
+Grade will be computed as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Individual    Cumulative 
+Exam # 1  
+ 
+ 
+ 
+ 
+        20% 
+Final Exam 
+ 
+ 
+ 
+ 
+ 
+    35%          55% 
+Written Case analysis I by your team 
+    05%     
+Written Case analysis I by your team 
+    05%          65% 
+Classroom contribution   
+ 
+        15%   
+Homework   
+ 
+ 
+ 
+ 
+    10% 
+Quizzes  
+ 
+ 
+ 
+ 
+        10%          100% 
+ 
+Syllabus 
+1 of 15 
+2.1.2024 
+ 
+ 
+Financial Accounting (02) Spring 2022 
+ 
+MGMT 2300  
+Credit Hours Four 
+Semester/Year Spring 2021 
+Room Location: Pitts 5114 
+Meeting Times: Monday/Thursday (2.30 a.m. - 3.50 p.m.) 
+RPILMS: https://lms.rpi/ultra.edu/ 
+ 
+INSTRUCTOR  
+ 
+Jamshed Mistry 
+ 
+ 
+ 
+ 
+Office: Pittsburgh 2122  
+Tel.: (518) 276-2342  
+ 
+ 
+Email: mistrj2@rpi.edu 
+ 
+ 
+ 
+ 
+ 
+Office Hours: Tuesday 12-2 p.m. or by appointment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TEACHING ASSISTANT(S) 
+ 
+Sen Li 
+ 
+ 
+ 
+ 
+ 
+Office: Pittsburgh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TA(s) Email Address: lis23@rpi.edu 
+Office Hours: Wednesday 12-2 p.m. or by appointment. 
+ 
+COURSE DESCRIPTION:  
+ 
+MGMT 2300 is a course that provides an understanding of the concepts and tools of 
+financial accounting. The course will focus on external users of accounting information and 
+managerial decision-making. It has a user and a preparer, perspective. As a result, 
+participants will be asked not just to do the accounting, but also to interpret the numbers 
+and discuss how you would use them for taking action, as well.   
+ 
+REQUIRED TEXT(S):  
+FINANCIAL ACCOUNTING FOR MANAGERS– An interactive, user-oriented approach 
+by David W. Young, Crimson Press Curriculum Center.  
+COURSE GOALS/OBJECTIVES 
+ 
+The objectives for the course are to make sure that (1) you are familiar with the basic 
+concepts of financial accounting, (2) you can work with accounting data in an analytically 
+rigorous way, and (3) you understand the structure and process of financial statement 
+analysis. 
+  
+ 
+Syllabus 
+2 of 15 
+2.1.2024 
+Accounting is often called the language of business.  Just as with learning a foreign 
+language the most effective way to learn this language of business is to learn by doing, 
+and to learn progressively. Consequently, you will find that there are huge benefits in 
+this course to completing suggested class problems and additional practice 
+problems, and most importantly in completing them as we advance through the 
+course. 
+You have several avenues for practicing and reviewing problems: 
+1. Problems for Self-Study throughout each chapter in the textbook. It is very important 
+that you complete these self-study problems before attempting the assigned problems. 
+2. Problems that are assigned for homework.  Solutions will be posted on Blackboard. 
+3. Additional problems assigned in Cases both in the book and posted on Blackboard. 
+Solutions will be posted on Blackboard, if requested. 
+ 
+THE LEARNING PROCESS 
+  
+As you may know, accounting is not a subject that one masters by thinking deep thoughts; 
+instead it requires actually analyzing (or attempting to analyze) problems or cases. 
+Consequently, the pedagogical approach for the course is a relatively interactive one. In 
+general, you will be assigned cases or problems for each class session, which you should 
+read and/or analyze prior to the session. You should then analyze the suggested solutions 
+posted the following week to determine your understanding of the problems/cases and any 
+difficulties you may have encountered in completing them. 
+  
+Use of Teams 
+ 
+To help with the learning process, the course will use teams. There will be two team 
+projects during the semester. In addition, I recommend that you precede each day’s class 
+session with a team meeting (if not possible due to your schedules then at least through 
+Blackboard would help) of about one-half hour. These meetings can assist considerably in 
+the learning process (as two heads are usually better than one).  
+ 
+The team meetings are not a substitute for individual case preparation; indeed, they 
+serve this purpose badly. Rather they are designed to serve three purposes: 
+ 
+• 
+To allow you to engage in some preliminary discussion of the material in the case or 
+problems for the day, to compare the analyses with those of your colleagues, and to reach 
+some conclusions. There is no need to reach a team consensus, but there is a need to 
+discuss the differences among your approaches, and to understand those differences. 
+ 
+• 
+To assist you to learn to work in teams. A very high proportion of your professional 
+life will be spent working in teams. Most of you have already worked in teams in one 
+capacity or another. Teams can be difficult at times (as can people who, after all, comprise 
+them), but they also are a powerful way of making things happen. Look upon this as an 
+opportunity to develop your team skills. 
+ 
+• 
+To help you to get to know your colleagues better. Many of the relationships you 
+develop, as team members will persist throughout your years at RPI, and, in some 
+instances, throughout your careers. 
+ 
+Syllabus 
+3 of 15 
+2.1.2024 
+ 
+COURSE STRUCTURE 
+ 
+A schedule for the course is contained in Exhibit 1. As it shows, MGMT 2300 is covered in 
+two modules. The first focuses on the basics of financial accounting (Balance Sheet, 
+Income Statement, Statement of Cash flows). The second module focuses on financial 
+statement analysis, emphasizing the theme that financial statements are imperative in 
+analyzing the financial health of organizations. Its basic thrust is on different ways to 
+analyze the balance sheet, income statement and statement of cash flow numbers that 
+can be used for decision-making purposes.  
+ 
+CLASS PREPARATION GUIDELINES 
+ 
+ 
+All modules make extensive use of problems and cases. You should prepare your 
+problem/case analysis in advance of the on-line discussion so you can get immediate 
+feedback on your understanding of the material. This is perhaps the most critical aspect of 
+the learning process, since it is extremely difficult to “catch up” in this course. 
+ 
+ 
+In general, the learning process consists of developing new skills, which can only be 
+developed by practice. Your learning will be incomplete unless you attempt to analyze the 
+problems and cases to the best of your ability before looking at someone else’s solution. 
+Additionally, you generally will find the learning process much more enjoyable if you are 
+involved in the class discussions, which can only happen in a productive way if you are 
+well prepared.  
+ 
+ 
+Despite the importance of undertaking your analyses in advance of each session, 
+please make only a reasonably diligent effort to analyze each problem/case. If for some 
+reason you get stuck, push yourself a little bit, and then, if you are not making progress, 
+stop. The Law of Diminishing Returns sets in fairly quickly, and there is no point in 
+becoming overly frustrated. It is important to push yourself a little prior to stopping work, 
+however, since, if you have done so, both your team meeting and the on-line discussion 
+will make a great deal more sense to you. 
+ 
+ 
+In general, except for those classes that focus on a chapter, each session will be spent 
+working through the assigned questions for the case. For this reason, your principal focus 
+in preparation should be on the problems and cases. That is, reading and understanding 
+the chapter is a means to the end of analyzing the assigned problems and cases; it is not 
+an end in itself. 
+ 
+STUDENT LEARNING OUTCOMES 
+Students will learn the basic concepts of financial accounting which includes the commonly 
+used financial statements. This requires students to familiarize themselves with the 
+preparation and interpretation of the balance sheet, income statement, the statement of 
+retained earnings and the statement of cash flows. In addition, students will be required to 
+analyze these important financial statements through the use of ratio analysis. Finally, 
+students will learn not just to do the accounting, but also to interpret the numbers and 
+discuss how to use them for taking action, as well. 
+ 
+Syllabus 
+4 of 15 
+2.1.2024 
+ 
+COURSE ASSESSMENT MEASURES  
+ 
+Exams and Quizzes 
+ 
+ 
+All exams will test your knowledge of the basics of financial and managerial accounting. 
+You can prepare for the exams by fully analyzing the class materials and cases that 
+precede it. Quizzes will be administered bi-weekly and will test your knowledge of the class 
+materials and cases that precede each quiz. Quizzes will not be announced and will be 
+pop quizzes throughout the semester. Hence, it is important for you to attend each 
+and every class. If you miss a quiz, no make-up quiz can be administered without a 
+note from the undergraduate office dean.  
+ 
+The written case analysis 
+ 
+ 
+Each written case should take the form of a memorandum, and should be a team effort 
+with no collaboration of any sort outside the team, either with students in the course or with 
+people not in the course. The memorandum may be single spaced, but should be no more 
+than two pages in length and should include at least one exhibit. 
+ 
+Homework 
+ 
+Homework will be collected in almost each class and will cover the cases at the end of the 
+chapters in each book. Please refer to the course calendar to determine when homework 
+is due and the case that is to be analyzed. A hard copy must be turned in when due to 
+earn the full points for this assessment.  
+ 
+Classroom Contribution 
+ 
+ 
+Finally, because (1) there is a need for regular preparation, (2) the pedagogy relies on 
+both preparation and presentation of key questions or case analyses. These contributions 
+can come in a variety of ways: (1) a good question about the material, (2) understanding 
+key analyses of (as opposed to restating factual points in) a case, (3) helping to move the 
+discussion forward, or (4) making comments that bridge discussion points in a case or 
+between two or more cases, thereby integrating the learning process and helping to make 
+it more coherent. Please refer to the attachments to the syllabus. 
+ 
+In considering the classroom contribution portion of your grade in the course, please keep 
+three very important facts in mind: 
+ 
+• While being present is better than being absent, being present and saying nothing does 
+not constitute classroom contribution. As the second sentence of the second paragraph 
+of Exhibit 3 says, “Mere physical presence is not participation.” 
+ 
+• A comment in the ‘A’ category does not have to be long, nor is one expected to make 
+lots of ‘A’ comments during any given case discussion. One or two short but incisive 
+comments during a given case discussion are perfectly adequate. Also, to earn a grade 
+ 
+Syllabus 
+5 of 15 
+2.1.2024 
+of ‘A’ does not require the kind of participation described above for every case in the 
+course, but I do expect regular participation of this sort. 
+ 
+• While mere physical presence is not participation, physical presence is a prerequisite 
+for contribution. Therefore, you should attend every class, and arrive on time. 
+Accordingly, the following approach will be used to assign your class contribution 
+grade: 
+ 
+GRADING CRITERIA  
+ 
+Your grade will be computed as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Individual 
+Cumulative 
+ 
+Exam # 1 
+ 
+ 
+ 
+ 
+ 
+    20% 
+ 
+Final Exam  
+ 
+ 
+ 
+ 
+    35% 
+    55% 
+ 
+ 
+Written Case analysis I by your team 
+      
+    05% 
+    
+ 
+Written Case analysis I by your team 
+      
+    05% 
+    65% 
+ 
+ 
+ 
+ 
+ 
+Classroom contribution  
+ 
+ 
+      
+   15%   
+ 
+Homework   
+ 
+ 
+ 
+ 
+   10% 
+Quizzes 
+ 
+ 
+ 
+ 
+ 
+   10%     
+   100% 
+  
+ 
+ATTENDANCE POLICY 
+ 
+You will be allowed one absence and one late arrival during the semester. After that, for 
+each evaluation period, once I have assigned a grade for your classroom contribution, I will 
+deduct five points from that grade for every absence during the evaluation period, and 
+three points for each late arrival. 
+ 
+If, for example, for the first grading period, I assign you a grade of 90 for your classroom 
+contribution, and you have had two absences, and one late arrival, your actual grade 
+would be 82. If the same things happened during the second grading period, your actual 
+grade would be 77. 
+ 
+If, when the second evaluation is being completed, and you have had no absences during 
+the term, I will add five points to your grade. 
+   
+  In addition, as each class builds on the previous class, attendance will be taken at each 
+class and if you miss three classes it will be assumed that you have dropped the 
+class. If you were sick and asked not to attend class you will need to bring in a doctor’s 
+certificate certifying that you could not attend.  
+ 
+ 
+ 
+ 
+Syllabus 
+6 of 15 
+2.1.2024 
+ACADEMIC INTEGRITY  
+ 
+Student-teacher relationships are built on trust. For example, students must trust that 
+teachers have made appropriate decisions about the structure and content of the courses 
+they teach, and teachers must trust that the assignments that students turn in are their 
+own. Acts that violate this trust undermine the educational process. The Rensselaer 
+Handbook of Student Rights and Responsibilities and the Graduate Student Supplement 
+(For Graduate courses) define various forms of Academic Dishonesty and you should 
+make yourself familiar with these. In this class, all assignments that are turned in for a 
+grade must represent the student’s own work. In cases where help was received, or 
+teamwork was allowed, a notation on the assignment should indicate your collaboration. 
+Submission of any assignment that is in violation of this policy will result in a penalty of 0 
+for that assignment and the offense will be reported to the Associate Dean for Academic 
+Affairs. If there is a subsequent infraction the student will receive a grade of F for the 
+course. 
+ 
+COVID-19 Syllabus Guidelines – Lally School of Management 
+  
+Students taking Lally School of Management classes are required to abide by the 
+COVID-19 code of conduct below. This code will apply to any class that meets fully 
+or partially in an on-campus physical classroom for in-person instruction. 
+Violations: Refusal to comply with the COVID-19 code of conduct will be treated just 
+as any classroom disruption, which will receive request for immediate compliance, 
+failing which the student will be asked to leave the classroom. Any further 
+noncompliance will result in the dismissal of the entire class. All Covid-19 related 
+violations will be reported by the instructor to the Compliance Officer at Lally School, 
+and the Dean of Students. A student found to be in violation of the code, or required 
+repeated reminders for compliance, will be asked to participate in all classes remotely. 
+This is to protect their health and safety as well as the health and safety of their 
+classmates, instructor, and the university community. 
+ 
+Masks: All students must wear a mask in classrooms and all public places including 
+anywhere inside Pittsburgh building. Masks will be provided to the student by the 
+Institute. 
+ 
+Traffic Flow and Social Distancing: Students and faculty will respect the need for 
+social distancing. They are required to follow the traffic flow arrows posted in all rooms 
+and buildings, including bathrooms and common areas.  
+ 
+In-Class Seating: Students should sit in the appropriate designated seating in the 
+classroom. Students are not allowed to move furniture or sit in seats not designated by 
+the Institute.  
+ 
+Cleaning of Spaces: Students are encouraged to clean the surfaces of the 
+chairs/tables/desks they occupy before they sit down and as they prepare to leave. 
+Cleaning and sanitizing solutions will be provided in the classroom. 
+  
+Students who are ill, under quarantine for COVID-19, or suspect they are ill 
+should not come to class. All faculty will make every reasonable effort to 
+ 
+Syllabus 
+7 of 15 
+2.1.2024 
+accommodate the student’s absence and will communicate that accommodation directly 
+to the student. Students who need to report an illness should contact the Student 
+Health Center via email or call 518-276-6287. For student seen off campus, a student 
+may request an excused absence via www.bit.ly/rpiabsence with an uploaded doctor’s 
+note that excuses them. 
+ 
+If you have any question about the information in this syllabus, please let me know as soon 
+as possible or early in the semester. 
+ 
+ 
+ 
+Syllabus 
+8 of 15 
+2.1.2024 
+COURSE CALENDAR 
+MGMT 2300 - Spring 2022 
+Exhibit 1 
+“This is a tentative schedule and subject to change depending upon the 
+progress of the class”. 
+ 
+Date   
+Topic  
+ 
+ 
+        Reading      Assignment/Materials 
+Jan 10 
+Brief Introduction to course  
+Syllabus 
+Purchase book [1]. 
+Read syllabus. 
+ 
+****Note:  Grading of Classroom Contribution begins today***** 
+ 
+Jan 13 
+Introduction to Fin. Acct.  
+Chapter 1  
+Read the Chapter and 
+ 
+ 
+    
+ 
+(On-Line) 
+ 
+ 
+ 
+ 
+ 
+complete mini-tests. 
+ 
+Jan 17 
+No classes – Martin Luther King Jr. day 
+ 
+Jan 20 
+Online exercise 
+ 
+ 
+ 
+ 
+ 
+                    Case: Bates Boatyard                                      Homework: Homeworks Inc. 
+ 
+Jan 24 
+The Accounting System and  
+Chapter 2 
+Read the Chapters and 
+ 
+ 
+                     transaction analysis 
+ 
+ 
+ 
+complete mini-tests. 
+                      
+Jan 27 
+In-class Exercise:   
+ 
+ 
+ 
+Homework: Opera W’shop. 
+                    Case: Narcoalarm (A)  
+ 
+ 
+ 
+ 
+ 
+Jan 31 
+In-class Exercise: Case: Narcoalarm (B) 
+Team 1 Presentation 
+ 
+ 
+ 
+Feb 03 
+The Income Statement 
+ 
+Chapter 3 
+Read the Chapter and 
+                                                                                          complete mini-tests . 
+ 
+Feb 07 
+In-class Exercise: Narcoalarm (C). 
+ 
+Team 2 presentation. 
+ 
+Feb 10 
+In-class Exercise: Management Dev. 
+                     Inc. 
+ 
+Feb 14 
+In-class exercise:  
+ 
+ 
+ 
+ 
+ 
+Case: Sydney’s Art Gallery 
+ 
+ 
+Team 3 presentation 
+ 
+ 
+Syllabus 
+9 of 15 
+2.1.2024 
+Feb 17 
+Additional Concepts 
+ 
+Chapter 4 
+Read the Chapter and 
+ 
+- 
+Dep. & Retained Earnings 
+ 
+   
+complete mini-tests. 
+ 
+ 
+Feb 21  
+President’s day – no classes 
+ 
+Feb 22 
+In-class exercise: Jupiter Insurance  
+Follow Monday Schedule 
+Homework: National Investor Corp. 
+                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Feb 24  
+In class exercise: Oceanside Inn 
+ 
+ 
+ 
+Feb 28 
+Review for Mid-term 
+ 
+ 
+ 
+Please bring your questions to class  
+ 
+***Classroom contribution self-assessment #1 is due at the end of today’s class*** 
+ 
+Mar 03 
+Mid-term Exam 
+ 
+ 
+ 
+ 
+Chapters 1-4. 
+ 
+Mar 04 
+Last day to drop class 
+ 
+Mar 07-11 
+Spring Break 
+ 
+Mar 14 
+Review Mid-term and 
+Inventories & Fixed Assets 
+Chapter 5 
+Read the Chapter and 
+                                                                                          Complete mini-tests. 
+ 
+Mar 17 
+In-class exercise:  
+ 
+ 
+ 
+Homework: Arlington Boat Club  
+                    Case: Specter Systems 
+ 
+ 
+ 
+ 
+ 
+Mar 21 
+Liabilities and Shareholder’s 
+Chapter 6 
+Read the Chapter and 
+ 
+Equity  
+ 
+ 
+ 
+ 
+ 
+complete mini-tests. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mar 24 
+In-class Exercise:  
+ 
+ 
+ 
+Homework: Steel Wheeler & Prey Inc  
+                    Case: Compact Computer Co. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mar 28 
+Liabilities & Shareholder’s Equity 
+ 
+Team Memo -1 [2]. 
+                    Case: Compact Computer Co. 
+ 
+ 
+Team 4 Presentation 
+ 
+Mar 31 
+Statement of Cash Flows  
+Chapter 7 
+Read the chapter and  
+ 
+                    Pass – no credit deadline                         
+complete mini-tests. 
+                                                                             
+Apr 04 
+In-class exercise: Narcoalarm (D) 
+ 
+Homework: Energy Devices 
+ 
+Syllabus 
+10 of 15 
+2.1.2024 
+            
+Inc. (A).                                                         Team 5 Presentation 
+ 
+Apr 07 
+In-class exercise:  
+ 
+ 
+ 
+ 
+                    Case: Amerbran (A) 
+ 
+ 
+ 
+ 
+ 
+Apr 11  
+In-class exercise:  
+ 
+ 
+ 
+ 
+                    Case: Gourmet delights   
+ 
+ 
+Team 6 presentation 
+ 
+ 
+Apr 14  
+Financial Statement Analysis 
+Chapter 8    Read the chapter and  
+ 
+ 
+Part 1: Ratio Analysis 
+ 
+ 
+ 
+complete mini-tests. 
+ 
+ 
+Apr 18 
+Online exercise: 
+ 
+ 
+ 
+ 
+Homework: Energy Devices 
+Case: Amerbran (B) 
+  
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+Apr 21 
+Online exercise: 
+                    Case: Wang Computer Labs 
+ 
+ 
+Team Memo -2 [3]. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team 7 Presentation 
+ 
+Apr 25 
+Review for Final 
+ 
+**Classroom contribution self-assessment #2 is due at the end of today’s class*** 
+ 
+Apr 28 – May 01 
+Reading/Study Days 
+ 
+ 
+ 
+No classes 
+ 
+May 02 – 06 
+Final Exams  
+                      
+ 
+ 
+    
+Please do not make flight or other plans as no early final exams will be allowed. 
+ 
+ 
+ 
+ 
+ 
+Syllabus 
+11 of 15 
+2.1.2024 
+NOTES 
+ 
+ Note [1] 
+This class will be utilized to introduce the course and to get to know each other. In 
+addition, I will review your expectations of this course and will introduce my 
+expectations of you in the term. 
+ Note [2] 
+The first team assignment is due today. Prepare a memorandum to the President 
+that addresses the questions at the end of the case and recommends a course of 
+action. 
+ Note [3] 
+The second team assignment is due today. Prepare a memorandum to the head of 
+the department that addresses the questions at the end of the case and 
+recommends a course of action. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Syllabus 
+12 of 15 
+2.1.2024 
+****************************************** 
+COVER SHEET 
+[To accompany each team memorandum] 
+[Each team should prepare its own cover sheet 
+with the names of the team members printed beneath their signatures] 
+[do not photocopy this cover sheet] 
+ 
+To: 
+Professor Jamshed  J. Mistry 
+From: team [insert team number here] 
+Subject: team Memorandum for _______________ [insert name of case here] 
+Date: [insert date of submission here] 
+________________________________________________________________________ 
+ 
+ 
+We, the undersigned students, analyzed the above case and prepared the attached 
+memorandum on our own.  We neither sought nor received outside assistance of any kind in 
+analyzing the case or preparing the memorandum.  Nor did we engage in discussions or 
+exchanges of information of any kind, including electronic, with anyone either in the course or 
+outside it, concerning the case study, our analysis of it, and our preparation of the attached 
+memorandum.    
+ 
+ 
+ In signing this, each of us not only is stipulating that his/her hours are accurate, but also 
+that he/she has reviewed the hours spent by other team members, and agree that they are 
+accurate. 
+ 
+ 
+This statement is signed in full recognition of the Policy on Academic Conduct of 
+Rensselaer Polytechnic Institute, Lally School of Management . 
+ 
+[all team members should sign below, and each should indicate the approximate hours he/she 
+spent on the assignment.  Use as many lines as there are team members.] 
+ 
+ 
+ 
+______         [sign here]__________         
+    [indicate approximate hours here]    
+               [ Print name here]  
+ 
+    Hours I spent on this team assignment 
+ 
+______         [sign here]__________         
+    [indicate approximate hours here]    
+               [ Print name here]  
+ 
+    Hours I spent on this team assignment 
+ 
+ 
+****Continue with names and hours of all team members**** 
+ 
+****************************************** 
+ 
+Syllabus 
+13 of 15 
+2.1.2024 
+MEMORANDUM 
+TO: 
+    Students in MGMT 2300 
+FROM:   Jamshed J. Mistry 
+RE: 
+    Class Contribution  Self Assessment #1 
+DATE:____________________________________________________________________ 
+  
+As the course syllabus indicates, because the case method relies on both preparation and 
+presentation of case analyses, your course performance will be graded in part on the quality of 
+your contributions to class discussions. This self-assessment is used because the issue of grading 
+class contribution frequently is a topic of concern to students. The specific criteria the associated 
+letter grades and point ranges, are as follows: 
+ 
+A/A- 
+Contributes in a significant way to classroom discussions, regularly (a) 
+undertaking key analyses from information in the case, (b) applying chapter 
+concepts to the case analysis, (c) moving the discussion ahead, and/or (d) making 
+comments that bridge discussion points in the case, thereby integrating the 
+discussion and helping to make it more coherent. 
+ 
+ 
+Point range = 90-100 
+ 
+B+/B/B- 
+Makes comments that point out important case facts, but that are not particularly 
+analytical,  and do not move the discussion ahead or bridge between points in the 
+discussion.   
+ 
+ 
+Point range = 70-85 
+ 
+C+/C/C- 
+Makes comments that restate case facts but that are not particularly pertinent to 
+the discussion, or that slow the class down by virtue of their peripheral or non-
+existent relationship to the subject under discussion.  These comments also may 
+reflect a lack of understanding of how the chapter concepts apply to the case 
+situation. 
+  
+Point range = 50-65 
+ 
+D 
+ 
+Makes comments only once or twice during the grading period. 
+ 
+ 
+Point range = 1-45, depending on quality of the comments. 
+ 
+Failing  
+No classroom participation.   
+ 
+ 
+Points = 0 
+ 
+Remember, a comment in the "A" category does not have to be long, nor is one expected 
+to make lots of "A" comments.  One or two short but incisive comments of this sort during a case 
+discussion are perfectly adequate. Moreover, given the new nature of the material to you, a good 
+question also is considered to be an "A"  comment. Also, a grade of "A" does not require the 
+kind of participation described above for every case in the course, but it does require fairly 
+regular participation of this sort.  It is difficult to earn such a grade unless you contribute 
+significantly to all case discussions.  
+ 
+Please turn in this form on the date indicated in the syllabus. You should assess your 
+class contribution performance for course to date or since the last self-assessment. Use the above 
+criteria, give yourself a numerical score, and give me some specific examples to support your 
+self-assessment.  
+Name____________________________________                   Grade________ 
+Please give your reasoning and some examples on the back of this page... 
+ 
+Syllabus 
+14 of 15 
+2.1.2024 
+MEMORANDUM 
+TO: 
+    Students in MGMT 2300 
+FROM:   Jamshed J. Mistry 
+RE: 
+    Class Contribution Self Assessment #2 
+DATE: _____________________________________________________________________ 
+  
+As the course syllabus indicates, because the case method relies on both preparation and 
+presentation of case analyses, your course performance will be graded in part on the quality of 
+your contributions to class discussions. This self-assessment is used because the issue of grading 
+class contribution frequently is a topic of concern to students. The specific criteria the associated 
+letter grades and point ranges, are as follows: 
+A/A- 
+Contributes in a significant way to classroom discussions, regularly (a) 
+undertaking key analyses from information in the case, (b) applying chapter 
+concepts to the case analysis, (c) moving the discussion ahead, and/or (d) making 
+comments that bridge discussion points in the case, thereby integrating the 
+discussion and helping to make it more coherent. 
+ 
+ 
+Point range = 90-100 
+ 
+B+/B/B- 
+Makes comments that point out important case facts, but that are not particularly 
+analytical,  and do not move the discussion ahead or bridge between points in the 
+discussion.   
+ 
+ 
+Point range = 70-85 
+ 
+C+/C/C- 
+Makes comments that restate case facts but that are not particularly pertinent to 
+the discussion, or that slow the class down by virtue of their peripheral or non-
+existent relationship to the subject under discussion.  These comments also may 
+reflect a lack of understanding of how the chapter concepts apply to the case 
+situation. 
+  
+Point range = 50-65 
+ 
+D 
+ 
+Makes comments only once or twice during the grading period. 
+ 
+ 
+Point range = 1-45, depending on quality of the comments. 
+ 
+Failing  
+No classroom participation.   
+ 
+ 
+Points = 0 
+ 
+ 
+ 
+Remember, a comment in the "A" category does not have to be long, nor is one expected 
+to make lots of "A" comments.  One or two short but incisive comments of this sort during a case 
+discussion are perfectly adequate. Moreover, given the new nature of the material to you, a good 
+question also is considered to be an "A"  comment. Also, a grade of "A" does not require the 
+kind of participation described above for every case in the course, but it does require fairly 
+regular participation of this sort.  It is difficult to earn such a grade unless you contribute 
+significantly to all case discussions.  
+ 
+Please turn in this form on the date indicated in the syllabus. You should assess your 
+class contribution performance for course to date or since the last self-assessment. Use the above 
+criteria, give yourself a numerical score, and give me some specific examples to support your 
+self-assessment.  
+Name____________________________________                   Grade________ 
+ 
+ 
+Syllabus 
+15 of 15 
+2.1.2024 
+Please give your reasoning and some examples on this page. 
+ 
+ 

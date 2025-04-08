@@ -1,0 +1,136 @@
+Course Information
+Credit Hours
+64
+Credits
+4
+Course Name
+Accounting
+Course Type
+Foundation course
+Language of
+Instruction
+Chinese
+School
+Glorious Sun School of Business Management
+Description
+This course teaches the basic concepts, methods and principles of
+Chinese current accounting standards. It mainly includes three parts:
+financial reporting, elements of financial statements and fundamental
+methods of management accounting.
+The
+financial reporting
+section
+introduces the roles, preparation
+principles, and analysis of the balance sheet, income statement, and
+cash flow statement. The basic concepts and principles of financial
+accounting and journal entries are also introduced in this section.
+The elements of financial statements covers the principles and methods
+of recognition, measurement and reporting. Surrounding the balance
+sheet, the income statement is also introduced with topics such as the
+recognition of revenue and expenses, etc.
+The management accounting part mainly introduces three contents:
+cost
+accounting,
+budget
+management
+and
+long-term
+investment
+analysis,
+such
+as
+cost
+classification,
+calculation
+and
+associated
+application, etc.
+Learning Outcomes
+1.
+Understand
+the
+basic
+principles
+and
+concepts
+of
+financial
+accounting.
+2.
+Analyze and interpret financial statements, including the income
+statement, balance sheet, and cash flow statement.
+3.
+Apply
+accounting
+principles
+to
+record
+business
+transactions
+accurately.
+4.
+Comprehend the role of financial accounting in decision-making
+processes within organizations.
+Class Schedule
+Session
+Teaching Method
+Topic
+1
+Lecture
+Introduction to Accounting
+2
+Lecture & Class Discussion
+Basic Financial Statement
+3
+Lecture & Class Discussion
+Accounting Cycle
+4
+Lecture & Class Discussion
+Accounting Cycle II
+5
+Lecture & Class Discussion
+Merchandising Activities
+6
+Lecture & Class Discussion
+Financial Assets
+7
+Lecture & Class Discussion
+Inventories
+8
+Lecture & Class Discussion
+Plant Assets
+9
+Lecture & Class Discussion
+Liabilities
+10
+Lecture & Class Discussion
+Liabilities II
+11
+Lecture & Class Discussion
+Stockholder’s Equity
+12
+Lecture & Class Discussion
+Retained Earnings
+13
+Lecture & Class Discussion
+Statement of Cash Flows
+14
+Lecture & Class Discussion
+Financial Statement
+Analysis
+15
+Tutorial
+Tutorial
+16
+Revision Session
+Grading
+1. Assignments (20%)
+2. Midterm Examination (30%)
+3. Final Examination (40%)
+4. Class Participation ( 10%)
+Textbook
+Title: Accounting
+Authors: Xinyuan Chen
+Publisher: Shanghai University of Finance & Economics Press
+Notes
+N/A

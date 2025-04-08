@@ -1,0 +1,95 @@
+Course Information
+Credit Hours
+48
+Credits
+3
+Course Name
+Financial Market
+Course Type
+Foundation course
+Language of
+Instruction
+Chinese
+School
+Glorious Sun School of Business Management
+Description
+Financial Market studies the basic concepts, characteristics, operating
+mechanisms, and behavioral patterns of various sub-markets within
+financial markets under market economy. The teaching objectives of
+this course are to equip students with the basic concepts, characteristics,
+and operating mechanisms of issuance and circulation markets in
+domestic and international financial sub-markets; to be able to master
+the
+operating
+methods
+of
+major
+financial
+instruments
+in
+each
+sub-market; to identify and mitigate market risks; and be able to use the
+knowledge and skills developed in this course to analyze and solve
+financial market problems.
+Learning Outcomes
+1.
+Understand the structure and operation of different financial
+markets.
+2.
+Analyze various financial instruments and their role in investment
+portfolios.
+3.
+Evaluate the impact of financial market mechanisms on the
+economy and businesses.
+4.
+Comprehend the regulatory framework governing financial markets.
+Class Schedule
+Session
+Teaching Method
+Topic
+1
+Lecture
+Introduction
+2
+Lecture
+Money Market
+3
+Lecture
+Capital Market
+4
+Lecture
+Foreign Exchange Market
+5
+Lecture
+Financial forwards, futures and swaps
+6
+Lecture
+Options market and applications
+7
+Lecture
+Interest
+8
+Lecture
+Bond value analysis
+9
+Lecture
+Stock value analysis
+10
+Lecture
+Efficient-market hypothesis
+11
+Lecture
+Regulatory Framework and Oversight
+12
+Class Participation
+Class Participation
+Grading
+1. Assignments (15%)
+2. Midterm Examination (30%)
+3. Final Examination (40%)
+4. Class Participation (15%)
+Textbook
+Financial Markets by Yichun Zhang, Zhenlong Zheng and Hai Lin
+(Xiamen University Press)
+Notes
+N/A

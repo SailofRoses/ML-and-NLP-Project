@@ -1,0 +1,185 @@
+ سیالبس درس مدیریت مالی  
+ دانشکده مهندسی صنایع دانشگاه صنعتی شریف 
+ 
+1
+ 
+ 
+ مدیریت مالی 
+  شماره درس 
+21233
+ 
+21233 
+Course ID 
+  عنوان درس 
+ تیری مد مال ی 
+Financial 
+Management 
+Course Title 
+  تعداد واحد 
+2
+ 
+2 
+Credit Hours/Units 
+  پیش نیاز/ هم نیاز-
+ 
+- 
+Prerequisites\Corequisites  
+  :سرفصل مطالب 
+-
+ مقدمه
+ای بر 
+ مفاهیم پایه در مالی  
+ 
+-
+ 
+ تعریف مالی 
+-
+ 
+ معرفی انواع شرکت ها 
+-
+ 
+ ابزارهای مالی 
+-
+ بازارها و نهادهای  
+ مالی 
+-
+ 
+ بحران های مالی 
+-
+ 
+ صورت ها و جریان وجوه نقد در شرکت
+ ها 
+-
+ 
+ تجزیه و تحلیل صورت های مالی 
+-
+  
+ ارزش زمانی پول 
+-
+  ارزشیابی اوراق قرضه 
+-
+ 
+ معرفی ریسک و بازدهی 
+-
+ تنوع بخشی و ریسک پرتفو 
+-
+ 
+ ریسک سیستماتیک 
+-
+ 
+ ریسک غیرسیستماتیک 
+-
+ ا
+ندازه گیری ریسک سیستماتیک 
+-
+ مدل قیمت
+گذاری دارایی سرمایه
+ای 
+-
+ خط بازار سرمایه 
+-
+ فرضیه بازارهای کارا 
+-
+ 
+ مدل
+قیمت
+گذاری فاما-
+ فرنچ 
+-
+ 
+ ارزشیابی سهام 
+-
+ نظریه مدرن پرتفو 
+-
+ 
+ استخراج مرز کارا 
+-
+ 
+ انتخاب پرتفو بهینه 
+-
+ اوراق بدهی در پرتفو 
+Course Content:  
+- 
+An Introduction to Basic Concepts in 
+Finance 
+- 
+Financial Definition 
+- 
+Types of Companies 
+- 
+Financial Instruments 
+- 
+Financial Markets & Institutions 
+- 
+Financial Crisis 
+- 
+Financial Statements & Cash Flow in 
+Corporations 
+- 
+ Financial Statements Analysis 
+- 
+Time Value of Money 
+- 
+Bond Valuation 
+- 
+An Introduction to Risk & Return 
+- 
+Diversification and Portfolio Risk 
+- 
+Systematic Risk 
+- 
+Unsystematic Risk 
+- 
+Measuring Systematic Risk 
+- 
+The Capital Asset Pricing Model (CAPM) 
+- 
+Security Maket Line 
+- 
+The Efficient Markets Hypothesis (EMH) 
+- 
+Fama-French Pricing Model 
+- 
+Stock Valuation 
+- 
+Modern Portfolio Theory 
+- 
+Efficient Frontier 
+- 
+Choosing The Optimal Portfolio 
+- 
+Investing in Risk-Free Securities 
+ سیالبس درس مدیریت مالی  
+ دانشکده مهندسی صنایع دانشگاه صنعتی شریف 
+ 
+2
+ 
+ 
+-
+ 
+  شناسایی پرتفوی بهینه 
+-
+ سایر 
+- 
+Identifying The Tangent Portfolio 
+- 
+Etc. 
+منابع: 
+ 
+-
+ 
+ موارد1 
+ و2  
+ منابع انگلیسی 
+References: 
+- 
+Brigham. E. F. and Ehrhardt. M. C. (2016) 
+financial management: Theory and 
+Practice, 15 th ed. Harcourt college 
+publishers. 
+- 
+Berk, J., DeMarzo, P., Harford, J., Ford, 
+G., Mollica, V., & Finch, N. 
+(2013). Fundamentals of corporate finance. 
+Pearson Higher Education AU. 
+ 

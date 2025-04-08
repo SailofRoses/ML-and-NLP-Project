@@ -1,0 +1,108 @@
+PROJ_MGT 405  
+Managerial Finance 
+Course Objective: 
+This Course provides an introduction to corporate finance, with an emphasis on project valuation. We 
+review important ideas from modern finance theory and develop financial tools needed for valuing 
+investment projects. Topics covered include the time value of money, estimating cash flows, accounting 
+for risk, performing sensitivity analysis, developing appropriate selection criteria, and valuing projects as 
+real options. The objective of the course is to apply basic insights from corporate finance theory to real 
+business decisions.  
+Where possible, real-world examples are used to link theory with practice with an emphasis on the 
+construction industry. 
+A major portion of the class effort is devoted to a case study of an actual project financed cogeneration 
+facility. Students work in groups to prepare a presentation on its financial performance, including 
+quantifying the risks it faces under changing circumstances. 
+The following is a week-by-week description of the course: 
+Week 1 
+Introduction and basics of present value. 
+Course overview and objectives are presented as well as housekeeping matters such 
+as the use of Canvas, syllabus and the text. Why financial issues are important to a 
+Project Manager. The time value of money and present value.  Related key terms 
+are defined. Use of cash flow diagrams to aid in financial analysis. Rules for 
+choosing the best investment. Useful short cuts. 
+Chapter 2 of the text; no homework due 
+Week 2 
+Using net present value to rank projects. 
+Evaluating investments; using EXCEL financial function included with EXCEL.  
+Alternative methods of ranking projects: the payback period, the discounted 
+payback period, internal rate of return, book rate of return, and profitability index. 
+Using net present value to rank projects; handling inflation; nominal and real 
+interest rates/discount factors; projects with different lives; depreciation and taxes.  
+Cogeneration group case study assigned. 
+Chapters 5 and 6 of the text; homework due 2-16,18,34,38 
+Week 3 
+Valuing stocks, bonds and firms.   
+Using the Present value formula to value bonds; how bond prices vary with interest 
+rates; determining yield to maturity; how common stocks are valued; estimating the 
+cost of equity capital; stock prices and earnings per share. 
+Chapters 3 and 4 of the text; homework due 5-8,13,15, 6-18,24,31 
+Week 4 
+Financing and valuation – Weighted average cost of capital and adjusted 
+present value approaches. Project financing in construction. 
+Comments on problems 5-13 and 6-18; how EXCEL can yield the wrong answer. 
+Taxes; sources of capital for a project; adjusted present value; and project 
+financing. Determining the cost of debt and equity capital. Impact of taxes on cost 
+of debt; after tax weighted average cost of capital (WACC); working tax related 
+problems. 
+Chapter 19 and 27 of the text; homework due 3-15,16 4-18 
+Week 5 
+Sensitivity and breakeven analysis. 
+The capital investment approval process; Northwestern University’s capital 
+budgeting process is presented as an example. Sensitivity analysis; scenario 
+analysis; break even analysis; Monte Carlo simulation, real options and decision 
+trees.  
+The upcoming midterm is discussed. 
+Chapter 10 of the text; homework due 19-11,16,19 27-1 
+Optional review session. 
+Week 6 
+EXCEL Lab Session 
+Use of Excel functions and macros. 
+Midterm second half of class 
+No homework due. 
+Week 7 
+Decision tree and real option valuation. Financial planning and pro forma 
+projections. Short term and cash financial planning. 
+The value of real options to a project and firm; decision trees and real option 
+analysis.  Examples are worked thru to explain how to construct and analyze a 
+decision tree.   
+Financial Statement Review; links between long-term and short-term financing 
+decisions; tracing changes in cash and working capital; cash budgeting; short-term 
+financing plan; long-term financing plan; cash management for contractors. 
+Types of financial statements and their use/importance. Lowe’s financial 
+statements are used as an extensive example: measuring Lowe’s performance; 
+measuring efficiency. Analyzing the return on assets; the DuPont System of 
+performance analysis; measuring leverage; measuring liquidity; interpreting 
+financial ratios. The use of pro forma analysis to project future performance and 
+quantify risk. 
+Links between long-term and short-term financing decisions; tracing changes in 
+cash and working capital; cash budgeting; short-term financing plan; long-term 
+financing plan; cash management for contractors. Further discussion of the 
+cogeneration case study assignment; definitions used in the case study; details of 
+required deliverables; time allotted for presentations. 
+The midterm is returned and results discussed. 
+Chapter 22, 28, and 29 of the text; homework due 10-12,19 
+Week 8 
+Introduction to risk and the capital asset pricing model. Choosing a discount 
+rate.  
+Variability of investments; Reducing risk by diversification; Reducing risk via 
+insurance; reducing risk by hedging with  financial derivatives; managing project 
+risks.  
+Relationship between risk and return; the capital asset pricing model; alternative 
+theories. Cost of capital; cost of equity; analyzing project risk.  Choosing a discount 
+rate. 
+Chapter 7, 8, 9 of the text; homework due 28-18,27  
+Week 9 
+In-class case studies 
+Homework due 29-10,11,13,21 
+Week 10 
+Presentations of cogeneration project by groups  
+No homework due 
+Week 11 
+Case study discussion and question/answer sessions. Course wrap-up. Applying 
+knowledge from this class to real-life situations. Linkage/distinction between 
+finance and accounting. 
+All previous homework collected. Second midterm second half of class 
+No homework due. 
+Text: Principles of Corporate Finance by Brealey et.al. 11th Edition. 
+Grading: Two midterms, 30% each; case study 25%; homework 7%; class participation 8% 
+Instructors: Joseph J. Jaskulski, PE; Mel Meyer, CPA 

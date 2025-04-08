@@ -1,0 +1,452 @@
+ 
+1
+ 
+ 
+FINANCE 611:  CORPORATE FINANCE 
+FALL 2016 
+ 
+Prof. Jules H. van Binsbergen 
+Office: 2460 Steinberg Hall-Dietrich Hall 
+Email: julesv@wharton.upenn.edu 
+Office Phone: (215) 573-1606 
+Office hours: By Appointment 
+ 
+Course Website: Available on Canvas 
+ 
+COURSE DESCRIPTION  
+This course presents the foundations of finance with an emphasis on applications vital for 
+corporate managers. We discuss most of the major financial decisions made by corporate managers 
+both within the firm and in their interactions with investors. Essential in most of these decisions is 
+the process of valuation, which will be emphasized throughout the course. Topics include criteria 
+for making investment decisions, valuation of financial assets and liabilities, relationships between 
+risk and return, capital structure choice, payout policy, the effective use and valuation of derivative 
+securities (futures, options, and convertible securities), and risk management.  
+COURSE MATERIALS  
+Textbook 
+The textbook for the course is: 
+ 
+2
+ 
+Corporate Finance (plus MyFinanceLab), Jonathan Berk and Peter DeMarzo, 3rd 
+ed., Pearson - Prentice Hall, 2014. (SBN-10: 0-13-342415-4; ISBN-13: 978-0-13-
+342415-7) 
+There are several options for accessing the book and MyFinanceLab. You can purchase the book 
+with MyFinanceLab. You can purchase the e-book and MyFinanceLab. You can purchase or rent 
+the book and purchase MyFinanceLab separately. Other required readings are listed in the syllabus 
+and made available through Canvas or Study.net. 
+Slides 
+PowerPoint slides for all of the class sessions will be printed and handed out in class. I will also 
+make them available on Canvas in Slides folder under the Files tab. 
+Cases 
+Cases are available on Study.net, which is accessible via Canvas. Case-related material, if any, 
+will be made available on Canvas. 
+Additional Material 
+ 
+3
+Additional copywritten material (e.g., readings) will be made available on Study.net, non-
+copywritten material (e.g., notes, supplemental exercises, supplementary material) will be made 
+available on Canvas under the Files tab.  
+CLASS PREPARATION AND PARTICIPATION 
+Proper preparation consists of completing the required readings and case, if any. I will not waste 
+class time regurgitating what you can read in the textbook. Class time is for exploring and applying 
+the principles you learn in the textbook. An important by-product of proper preparation is that it 
+lessens the chances of falling behind in the course and being unable to catch up. This course covers 
+a large amount of material in significant depth. Consider this a warning. Do not fall behind. 
+The classroom environment will be one of discussion and collaboration. An integral part of the 
+learning experience is learning from your colleagues, their experiences, and the classroom 
+discussion. As such, coming to class prepared is crucial for your success in the course, and the 
+success of the course.  
+CASES 
+Students are encouraged to form groups of no more than four students for the purpose of working 
+the case. Neither the TAs nor I will answer any questions related to the cases prior to their 
+discussion in class, as an important element of these assignments is your ability to interpret 
+information and work independently of any guidance. At the start of the class in which we discuss 
+the case, you will be required to answer three questions related to the case to test your knowledge 
+and understanding of the case material. 
+HOMEWORK ASSIGNMENTS 
+Homework assignments are available on MyFinanceLab. The course code is: binsbergen56133. 
+Make sure that you have the exact right edition of the book (see above), otherwise 
+MyFinanceLab will not work. Instructions for registering are attached to the end of this syllabus. 
+The assignment schedule is provided at the end of this syllabus below the class schedule. You must 
+purchases access to this site and register for the course by entering the course code, which will be 
+announced in class and made available in the introductory slides. The purpose of the homework 
+assignments, like preparing for course, is to keep you up to date with the course material. Because 
+students have unlimited attempts at the homework problems on MyFinanceLab before the 
+ 
+4
+assignment due date, almost all students receive full points on the homework. (You can re-take the 
+homework assignment as often as you like by undertaking “similar exercises” in MyFinanceLab.) 
+Therefore, getting less than full points on a homework assignment puts you at a considerable 
+disadvantage when the final grade is computed.  
+Neither the TAs nor I will answer any questions pertaining to the homework, as an important 
+element of the homework is your ability to work on the mechanics of finance independently of any 
+guidance. If you miss the due date, which is clearly identified in MyFinanceLab, you will receive 
+a zero. There are no exceptions so do not ask for one. 
+For those looking for additional problems to test the understanding of the material, I have posted 
+problem sets, and their solutions, on Canvas in the folder “Additional Problems.” There are also 
+problems at the end of each chapter in the textbook, as well as problems scattered throughout each 
+chapter. 
+EXAMS 
+There is a midterm and a final exam. Both exams are open book and you are free to bring a 
+calculator to the exam. Laptops, tablets, and computers are not permitted for space reasons and the 
+exams will be designed to recognize this limitation in computing power. The exam dates are 
+provided in the Course Schedule attached to the end of this syllabus. There are no makeup exams. 
+If you miss the midterm exam, regardless of the reason, your final score will be used in its place. 
+If you miss the final exam, you will automatically fail the course. The only excuse for missing the 
+final exam is a medical emergency, the validity of which will be verified by the University. 
+The best way to prepare for the exams is to come to class and participate, work all of the cases, 
+and complete the homework assignments. For additional preparation, try the problems sets 
+available in the “Additional Problems” folder on Canvas and the problems at the end of each 
+chapter in the textbook. 
+GRADING  
+Your course grade will be determined by your class participation (10%), performance on the case 
+questions (15%), completion of the MyFinanceLab homework assignments (15%), a midterm 
+(25%), and a final exam (35%). If your score on the final exam is greater than that on the midterm, 
+ 
+5
+I will replace your midterm score with your final score, which will then count for 60% of your 
+grade. However, this substitution can only occur if you take the midterm and receive a minimum 
+number of points to be determined at the time of the exam. 
+Class grades are determined using a class-wide (i.e., across all of my sections) curve that respects 
+any constraints imposed by the University or Wharton. 
+Students have exactly one week from the day they receive their midterm exam to request a regrade. 
+The request must be attached to the exam and clearly state the reason(s) for the regrade. The only 
+valid reason for a regrade is an error on my part. I will not debate the merits of my grading scheme. 
+If the regrade request is accepted, the exam will be regarded in its entirety. As a result, the revised 
+score may go up, down, or stay the same. 
+I will schedule two days during the Spring semester during which you may view your final and 
+discuss your grades. These days will be announced during the semester. Any concerns regarding 
+final exam or course grade will be settled at that time. 
+COURSE ETIQUETTE  
+The only electronics allowed in the classroom are calculators unless announced otherwise. Please 
+make sure any other electronics are shut off and put away.  
+Students are expected to respect the University of Pennsylvania’s Code of Academic Integrity 
+(http://www.upenn.edu/academicintegrity/ai_codeofacademicintegrity.html) and to behave with 
+integrity in all aspects of the course. Students are encouraged to discuss the cases and other content 
+of the course with first-year MBA student in their own section and in other sections. However, 
+students should not discuss the content related to the current day’s class discussion or exam during 
+the time period between sections to avoid giving later sections an unfair advantage.  
+Violations of the honor code will be immediately reported to the administration.  
+ATTENDANCE 
+Students are expected to attend all classes and arrive on time. I also ask the you avoid disrupting 
+class by leaving early. I recognize that personal emergencies occasionally arise, causing a student 
+to miss a class or part of a class. If such a circumstance arises, please notify me via email of the 
+ 
+6
+situation. If circumstances do not permit prior notification, please do so as soon after the missed 
+class as possible. 
+FACULTY MEALS 
+If you are interested in getting lunch, please sign up on Canvas. I have allocated a number of days 
+during the semester. 
+COMMUNICATING WITH ME 
+The best way to contact me outside of the classroom is via email. Please do not ask me long, 
+detailed questions about the course, or questions that (may) require a long, detailed response. I am 
+happy to meet with students outside the classroom so email me to schedule an appointment.  
+Please let me know of any difficulties you may be having with the course as soon as possible. 
+These difficulties may arise from the course itself, or external forces (e.g., other courses, personal 
+issues). Regardless of the source, let me know as soon as possible so we can work together to avoid 
+larger problems later on. Wharton and the University offer a wide range of support services that 
+are geared towards helping students. 
+TEACHING ASSISTANTS 
+– June Wu junewu@wharton.upenn.edu 
+– Tony Kuehne kuehnea@wharton.upenn.edu 
+– Emir Okan veokan@wharton.upenn.edu 
+– Jeff Green greenjef@wharton.upenn.edu 
+– Wen Frers wenfrers@wharton.upenn.edu 
+– William Torres wtorre@wharton.upenn.edu 
+– Alex Kwon hongrak@wharton.upenn.edu 
+– Danesha Vasquez danesha@wharton.upenn.edu 
+– Ken Wu kenwu@wharton.upenn.edu 
+– Song Mu musong@wharton.upenn.edu 
+ 
+ 
+7
+Corporate Finance Course Outline 
+Preliminary and Subject to Change 
+ 
+Topic 0: Course Introduction and Overview 
+• Read: 
+o Syllabus 
+o Canvas course website containing all non-copywritten material 
+o Study.net containing all copywritten material 
+ 
+Topic 1: Time Value of Money 
+• Read: 
+o Chapter.Section:  
+ 3.2 (Interest Rates and the Time Value of Money) 
+ 4.1 (The Timeline) 
+ 4.2 (The Three Rules of Time Travel) 
+ 4.3 (Valuing a Stream of Cash Flows) 
+ 4.5 (Perpetuities and Annuities) 
+ 4.6 (Using an Annuity Spreadsheet or Calculator) 
+ 4.7 (Non-Annual Cash Flows) 
+ 4.8 (Solving for the Cash Payments) 
+ 4.Appendix (Solving for the Number of Periods) 
+ 5.4 (Risk and Taxes) 
+• Concepts: 
+o Discounting 
+o Compounding  
+o Present value 
+o Future value 
+o Taxes 
+o Inflation 
+• Applications: 
+o Valuing zero-coupon bonds 
+o Valuing and structuring annuities and perpetuities 
+o Savings  
+o Retirement planning 
+ 
+Topic 2: Interest Rates 
+• Read: 
+o Chapter.Section:  
+ 5.1 (Interest Rate Quotes and Adjustments) 
+ 5.2 (Application: Discount Rates and Loans) 
+ 5.3 (The Determinants of Interest Rates) 
+ 5.5 (The Opportunity Cost of Capital) 
+• Concepts: 
+o APR 
+o Periodic Rates 
+ 
+8
+o Effective Annual Rate 
+o Yield to maturity 
+o Yield curves 
+o Spot Rates 
+• Applications: 
+o Savings vehicles 
+o Mortgage financing and refinancing decisions 
+ 
+Topic 3: Discounted Cash Flow (DCF) Analysis 
+• Read: 
+o Chapter.Section:  
+ 2 (Introduction to Financial Statement Analysis) 
+ 3.1 (Valuing Decisions) 
+ 3.3 (Present Value and the NPV Decision Rule) 
+ 7.1 (NPV and Standalone Projects) 
+ 8.1 (Forecasting Earnings) 
+ 8.2 (Determining Free Cash Flows and NPV) 
+ 8.3 (Choosing Among Alternatives) 
+ 8.4 (Further Adjustments to Free Cash Flow) 
+• Concepts: 
+o Free cash flow 
+o Discount rates and cost of capital 
+o Discounted cash flow (DCF) 
+o Net present value (NPV) 
+o Sensitivity analysis 
+o Scenario analysis 
+o Breakeven analysis 
+o Value drivers 
+o Profit margins and operating leverage 
+o Profitability index 
+• Case: 
+o Callaway Golf FX-1 
+• Applications: 
+o Strategic decision-making 
+o Capital budgeting 
+o Financial statement analysis 
+o Strategic decision making with resource constraints 
+ 
+Topic 4: Return on Investment 
+• Read: 
+o Chapter.Section:  
+ 7.2 (The Internal Rate of Return Rule) 
+ 7.4 (Choosing Between Projects) 
+• Concepts: 
+o Internal rate of return 
+o Hurdle rate 
+ 
+9
+• Case: 
+o Should you pay cash for a new car? 
+• Applications: 
+o Amortizing loans 
+o Personal finance (auto loans, leases, mortgages) 
+o Financial negotiating strategies 
+ 
+Topic 5: Fixed Income Securities 
+• Read: 
+o Chapter.Section:  
+ 3.4 (Arbitrage and Law of One Price),  
+ 3.5 (No-Arbitrage and Security Prices) 
+ 6.1 (Bond Cash Flows, Prices, and Yields) 
+ 6.2 (Dynamic Behavior of Bond Prices) 
+ 6.3 (The Yield Curve and Bond Arbitrage) 
+ 6.4 (Corporate Bonds) 
+ 6.5 (Sovereign Bonds) 
+ 6.Appendix (Forward Interest Rates) 
+ 30.4 (Interest Rate Risk) 
+• Concepts: 
+o Bond markets and institutions 
+o Valuing risk-free bonds 
+o Bond price-interest rate relation 
+o Bond arbitrage 
+o Interest rate sensitivity of bonds (Duration) 
+o Leverage 
+o Forward Rates 
+• Case 
+o Orange County Investment Pool 
+• Applications: 
+o Valuing and investing in treasury securities 
+o Managing a bond portfolio 
+• Further Concepts: 
+o Collateralized Debt Obligations (CDOs) 
+o Immunization and duration matching 
+o Credit Risk 
+ 
+Topic 6: Valuing Stocks 
+• Read:  
+o Chapter.Section:  
+ 9.1 (The Dividend Discount Model) 
+ 9.2 (Applying the Dividend Discount Model) 
+ 9.3 (Total Payout and Free Cash Flow Valuation Models) 
+ 9.4 (Valuation Based on Comparable Firms) 
+• Concepts: 
+o Measuring returns 
+ 
+10
+o Equity cost of capital 
+o Dividend yield 
+o Capital gains 
+o Dividend discount model 
+o Cum- and Ex-dividend prices 
+o Share repurchases 
+o Price-Earnings (P/E) ratio 
+o Return on investment 
+o Enterprise value 
+o Comparable anlaysis 
+• Case 
+o Interco 
+• Applications: 
+o Mergers and Acquisitions 
+o Corporate defenses 
+ 
+Topic 7: Risk and the Cost of Capital 
+• Read: 
+o Chapter.Section:  
+ 10.1 (Risk and Return: Insights from 86 Years of Investor History) 
+ 10.2 (Common Measures of Risk and Return) 
+ 10.3 (Historical Returns of Stocks and Bonds) 
+ 10.4 (The Historical Trade-Off Between Risk and Return) 
+ 10.5 (Common Versus Independent Risk) 
+ 10.6 (Diversification in Stock Portfolios) 
+ 10.7 (Measuring Systematic Risk) 
+ 10.8 (Beta and the Cost of Capital) 
+• Concepts: 
+o Bond markets and institutions 
+o Expected return 
+o Stock volatility 
+o Risk-return tradeoff 
+o Portfolio risk 
+o Diversification 
+o Equity market integration 
+o Mean-variance frontier 
+o Minimum variance portfolios 
+o Efficient portfolios 
+o Short sales 
+o Leverage 
+o Sharpe ratio 
+o Beta 
+• Case 
+o Partners Healthcare 
+• Applications: 
+o Portfolio management 
+ 
+11
+• Of Interest: 
+o Portfolio Optimizer and Instructions (on the course website) 
+ 
+Topic 8: CAPM 
+• Read: 
+o Chapter.Section:  
+ 11.7 (The Capital Asset Pricing Model) 
+ 11.8 (Determining the Risk Premium) 
+ 12.1 (The Equity Cost of Capital) 
+ 12.2 (The Market Portfolio) 
+ 12.3 (Beta Estimation) 
+ 12.4 (The Debt Cost of Capital) 
+ 12.5 (A Project’s Cost of Capital) 
+ 12.6 (Project Risk Characteristics and Financing) 
+• Concepts: 
+o Capital market line 
+o Security market line 
+o Market Beta 
+o Market risk 
+o Volatility 
+o Beta Estimation 
+o Alpha 
+o Security mispricing 
+• Case 
+o Cost of Capital at Ameritrade 
+• Applications: 
+o Portfolio management 
+o Capital budgeting 
+ 
+Topic 9: Corporate Capital Structure 
+• Read: 
+o Chapter.Section:  
+ 14.1 (Equity Versus Debt Financing) 
+ 14.2 (Modigliani-Miller I: Leverage, Arbitrage, and Firm Value) 
+ 14.3 (Modigliani-Miller II: Leverage, Risk, and the Cost of Capital) 
+ 14.4 (Capital Structure Fallacies) 
+ 14.5 (MM: Beyond the Propositions) 
+ 15.1 (The Interest Tax Deduction) 
+ 15.2 (Valuing the Interest Tax Shield) 
+ 15.3 (Recapitalizing to Capture the Tax Shield) 
+ 15.4 (Personal Taxes) 
+ 15.5 (Optimal Capital Structure with Taxes) 
+ 16.1 (Default and Bankruptcy in a Perfect Market) 
+ 16.2 (The Costs of Bankruptcy and Financial Distress) 
+ 16.3 (Financial Distress Costs and Firm Value) 
+ 16.4 (Optimal Capital Structure: The Trade-off Theory) 
+ 
+12
+• Concepts: 
+o Leverage 
+o Modigliani and Miller Irrelevance Propositions 
+o Weighted Average Cost of Capital (WACC) 
+o Arbitrage 
+o Equity issuance dilution fallacy 
+o Earnings per share (EPS) fallacy 
+o Market Imperfections 
+o Interest Tax Shields 
+o Bankruptcy 
+o Bankruptcy costs 
+o Direct and indirect costs of financial distress 
+o Tradeoff theory 
+o Valuation with Leverage 
+• Case 
+o Blaine Kitchenware Inc. 
+• Applications: 
+o Industry capital structure 
+o Optimal capital structure 
+o Refinancing 
+o Share Repurchase Programs 
+ 
+Topic 10: Risk Management 
+• Read: 
+o Chapter.Section:  
+ 30.1 (Insruance) 
+ 30.2 (Commodity Price Risk) 
+ 30.3 (Exchange Rate Risk) 
+ 30.4 (Interest Rate Risk) 
+ 20.1 (Option Basics) 
+ 20.2 (Option Payoffs at Expiration) 
+ 21.1 (The Binomial Option Pricing Model) 
+ 21.2 (The Black-Scholes Option Pricing Model)  
+• Concepts: 
+o Price-fixing contracts 
+o Forward 
+o Futures 
+o Options 
+o Covered interest parity 
+o Option Premia 
+o Basis risk 
+o Price-insurance contracts 
+• Applications: 
+o Hedging currency risks via futures and options 
+o Value creation via hedging 
+ 
+13
+ 
+ 
+ 

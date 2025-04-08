@@ -1,0 +1,580 @@
+ 
+  
+BUAD 306 Course Syllabus  
+1 
+ 
+BUAD 306 – Business Finance 
+Syllabus – Spring 2017 
+Section 14780 T-Th 2-3:50pm JKP 110 
+Section 14781 T-Th 4-5:50pm JKP 110 
+ 
+Professor:  Julia Plotts      
+Office: Hoffman Hall (HOH) 221          
+Office Hours: T-Th 12:30pm-1:30pm 
+It is best to e-mail in advance if you plan to attend office hours 
+E-mail: plotts@marshall.usc.edu 
+ 
+T.A.: Russell Yue - See Blackboard for office hours schedule 
+E-mail: russelly@usc.edu 
+ 
+Course Description 
+BUAD 306 is a fundamentals course in business finance. Finance is a way of thinking about eco-
+nomic problems that involve uncertainty over time. This course is designed to provide an introduc-
+tory framework for understanding how financiers think, how they break down components of a 
+financial problem, and how they make decisions as investors and corporations in the financial mar-
+ket. By the end of the semester, you should be familiar with financial vocabulary, understand as-
+pects of financial theory, develop skills in financial computation, and appreciate the underlying 
+financial mindset as well as incentives involved when solving problems of finance. You will learn 
+how to determine risk, how to make financial decisions, and how to value an investment as a poten-
+tial financial opportunity. 
+ 
+Learning Objectives  
+Through lecture, case analysis, worked samples, and by learning to apply appropriate mathematical 
+and financial formulas and functions, you will be able to: 
+ 
+1. Understand basic types, goals, and implications of financial management and the role of the 
+financial decision-maker. 
+2. Interpret financial statements and how they influence long-term planning and growth. 
+3. Understand the meaning of time value of money and how to evaluate the tradeoff between dol-
+lars today and dollars sometime in the future. 
+4. Understand how firms decide to commit capital and its impact on cash flow (discounted cash 
+flow). 
+5. Understand interest rates and bonds and realize how interest rates impact bonds. 
+6. Understand the different criteria used to evaluate proposed investments (e.g., net present value 
+(NPV), profitability index, payback period). 
+7. Determine the cost of capital, and understand and apply the concepts of the weighted cost of 
+capital (WACC). 
+8. Recognize and understand the elements of optimal capital structure, the effects of financial lev-
+erage, bankruptcy, and the role of taxes. 
+9. Understand the dynamics of behavioral finance and its influence on individual and corporate 
+financial decision-making (e.g., the impact of heuristics). 
+10. Understand derivatives, or options, in the context of corporate finance. 
+ 
+Required Materials 
+ 
+1) Fundamentals of Corporate Finance, Eleventh Edition by Ross, Westerfield and 
+Jordan. ISBN 9781259698712 E‐book from the publisher for $125 available here: 
+http://connect.mheducation.com/class/j-plotts-library-course_2 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+2 
+2) Harvard Business Publishing: Hansson Private Label, Inc.: Evaluating an Investment in Expan-
+sion. The case can be purchased here: http://cb.hbsp.harvard.edu/cbmp/access/58015921  
+ 
+3) Calculator with financial functions. The TA will have calculator tutorials using the HP 10bII+. 
+Other calculators are similar, such as the Texas Instruments BA II, the Hewlett Packard 17bII+, 
+Hewlett Packard 12C, and Hewlett Packard 10bII, and the Texas Instruments BA II Plus Profes-
+sional. Many graphical calculators, such as the TI‐83, have built‐in financial functions. However, it 
+is the student’s responsibility to learn the functions of their particular calculators. You should bring 
+your calculator to all classes and exams. You will be extremely disadvantaged if you do not have 
+your calculator during exams. During exams you will not be allowed to use cellphone calculators, 
+computers, or any other device that can communicate to other devices, so learning how to use the 
+financial calculator is essential for success in the class. 
+ 
+Prerequisites and/or Recommended Preparation:    
+ACCT 410 or BUAD 280 or BUAD 285a or BUAD 286b or BUAD 305 and ECON 351. 
+ 
+Course Notes:   
+Copies of lecture slides and other class information are available through your Blackboard account. 
+ 
+Grading Policies: 
+ 
+Assignments  
+% of Grade 
+ 
+ 
+TESTS                          MIDTERM (3/2)              
+30% 
+                                      FINAL EXAM (5/4)                    
+30% 
+                                        
+  
+HOMEWORK (due 1/26, 2/16, 3/30, 4/20) 
+QUIZZES (2/9, 4/6) 
+  10% 
+  10% 
+CLASS PARTICIPATION 
+ 
+  5% 
+ 
+ 
+GROUP CASE ANALYSIS (2/23) 
+ 15% 
+ 
+ 
+                                                                                   TOTAL 
+     100.0% 
+ 
+Final grades represent how you perform in the class relative to other students.  Your grade 
+will not be based on a mandated target, but on your performance. Historically, the average 
+grade for this class is about a B.  Three items are considered when assigning final grades: 
+1. Your average weighted score as a percentage of the available points for all assignments 
+(the points you receive divided by the number of points possible). 
+2. The overall average percentage score within the class.  
+3. Your ranking among all students in the class. 
+ 
+Grading Detail:  
+Exams All exams are closed book, closed notes. Financial calculators are allowed and recommend-
+ed, but E-devices (mobile phones, PDAs, I-Phones, other texting devices, laptops, iPads, etc.) are 
+not allowed. All exams will use the Scantron multiple choice format. Students must provide their 
+own pencils. Students must take the exam in the lecture section in which they are registered. 
+ 
+Exam Absence Policy Students are required to be present for all exams. If you are not able to take 
+the exams on the dates and times specified in the detailed schedule, you should not take this class.  
+ 
+Assignments Assignments must be turned in prior to the start of class on the date listed in the 
+schedule below. Assignments must be submitted electronically via Blackboard. Any assignment 
+ 
+  
+BUAD 306 Course Syllabus  
+3 
+turned in late, even by a few minutes, will receive no credit. Assignments will be given a grade of 
+“credit” or “no credit.” Assignment will be assigned a “credit” if and only if the assignment is rea-
+sonably complete and correct. Working in groups is encouraged, but each group member must turn 
+in his/her own write-up. Identical or near identical answers will result in no-credit for all parties.  
+ 
+Class Participation 
+Please arrive to class on time and prepared. Be prepared for cold calling, bring your name card to 
+class. Please come to class rested (if you sleep in class you will be asked to leave). 
+ 
+High Score: 
+• 
+Regular attendance and active and consistent participation in the class sessions with in-
+sightful questions and comments. 
+• 
+Consistently very high levels of preparation for class sessions and activities. 
+• 
+Superior and sophisticated understanding, insights, and syntheses of the course material as 
+reflected in group assignments and case analysis and class discussions. 
+• 
+Proactive and very high levels of involvement in the group case assignment. 
+• 
+Very high levels of professionalism manifested in interactions with speakers and class-
+mates. 
+ 
+Add/Drop Process  
+This class will remain open enrollment (R-clearance) through the add deadline. If there is an open 
+seat, students can add the class using Web Registration.  If the class is full, students will need to 
+continue checking the Schedule of Classes (classes.usc.edu) to see if a space becomes available. 
+Students who do not attend class the first two weeks may be dropped from the course if they do not 
+notify the instructor prior to their absence. It is the responsibility of a late add student to get caught 
+up on any missed classes or work. There are no special accommodations for late adds. 
+ 
+Technology Policy 
+Laptop and Internet usage is not permitted during academic or professional sessions unless other-
+wise stated by the respective professor and/or staff.  Use of other personal communication devices, 
+such as cell phones, is considered unprofessional and is not permitted during academic or profes-
+sional sessions. ANY e-devices (cell phones, iPads, other texting devices, laptops, I-pods) must be 
+completely turned off during class time. Upon request, you must comply and put your device on 
+the table in off mode and FACE DOWN. You might also be asked to deposit your devices in a des-
+ignated area in the classroom. Videotaping faculty lectures is not permitted due to copyright in-
+fringement regulations. Audiotaping may be permitted if approved by the professor. Use of any 
+recorded or distributed material is reserved exclusively for the USC students registered in this 
+class. 
+ 
+Teaching Assistants and Tutoring 
+The teaching assistant contact information and office hours can be found on Blackboard. The TAs 
+will hold regular office hours and can answer questions on the material during office hours or via 
+email. 
+ 
+Tutoring is offered through the Marshall Office of Undergraduate Advising as a supplement to 
+classroom instruction. Tutors are available to assist students in understanding difficult concepts, 
+but tutoring sessions are only effective if students regularly attend class and actively engage in the 
+process or thinking critically about the course content. For more information on tutoring, visit the 
+Marshall Office of Undergraduate Advising in JFF 201 (213) 740-0690 or 
+http://students.marshall.usc.edu/undergrad/marshall-peer-tutoring-program/tutoring-schedule/  
+ 
+ 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+4 
+Academic Integrity and Conduct  
+USC seeks to maintain an optimal learning environment. General principles of academic honesty 
+include  the concept of respect for the intellectual property of others, the expectation that individual 
+work will be submitted unless otherwise allowed by an instructor, and the obligations both to pro-
+tect one’s own academic work from misuse by others as well as to avoid using another’s work as 
+one’s own (plagiarism). Plagiarism – presenting someone else’s ideas as your own, either verbatim 
+or recast in your own words – is a serious academic offense with serious consequences.  All stu-
+dents are expected to understand and abide by the principles discussed in the SCampus, the Student 
+Guidebook (www.usc.edu/scampus or http://scampus.usc.edu). A discussion of plagiarism appears 
+in the University Student Conduct Code (section 11.00 and Appendix A).  
+ 
+Students will be referred to the Office of Student Judicial Affairs and Community Standards for 
+further review, should there be any suspicion of academic dishonesty. The Review process can be 
+found at: http://www.usc.edu/student-affairs/SJACS/ . Failure to adhere to the academic conduct 
+standards set forth by these guidelines and our programs will not be tolerated by the USC Marshall 
+community and can lead to dismissal. 
+ 
+Discrimination, sexual assault, and harassment are not tolerated by the university.  You are en-
+couraged to report any incidents to the Office of Equity and Diversity http://equity.usc.edu/ or to 
+the Department of Public Safety http://dps.usc.edu/contact/report/.  This is important for the safety 
+of the whole USC community.  Another member of the university community – such as a friend, 
+classmate, advisor, or faculty member – can help initiate the report or can initiate the report on 
+behalf of another person.  Relationship and Sexual Violence Prevention and Services (RSVP) 
+https://engemannshc.usc.edu/rsvp/ provides 24/7 confidential support, and the sexual assault re-
+source center webpage https://sarc.usc.edu/reporting-options/ describes reporting options and other 
+resources. 
+ 
+Support Systems 
+Students whose primary language is not English should check with the American Language Insti-
+tute http://dornsife.usc.edu/ali, which sponsors courses and workshops specifically for international 
+graduate students.  The Office of Disability Services and Programs (www.usc.edu/disability) pro-
+vides certification for students with disabilities and helps arrange the relevant accommodations.  If 
+an officially declared emergency makes travel to campus infeasible, USC Emergency Information 
+(http://emergency.usc.edu/) will provide safety and other updates, including ways in which instruc-
+tion will be continued by means of blackboard, teleconferencing, and other technology. 
+ 
+Students with Disabilities 
+The Office of Disability Services and Programs (www.usc.edu/disability) provides certification for 
+students with disabilities and helps arrange the relevant accommodations.  Any student requesting 
+academic accommodations based on a disability is required to register with Disability Services and 
+Programs (DSP) each semester. A letter of verification for approved accommodations can be ob-
+tained from DSP. Please be sure the letter is delivered to me (or to your TA) as early in the semes-
+ter as possible. DSP is located in GFS (Grace Ford Salvatori Hall) 120 and is open 8:30 a.m.–5:00 
+p.m., Monday through Friday. DSP contact info: (213) 740-0776 e-mail: ability@usc.edu. 
+ 
+Emergency Preparedness/Course Continuity   
+In case of a declared emergency if travel to campus is not feasible, the USC Emergency Infor-
+mation web site (http://emergency.usc.edu/) will provide safety and other information, including 
+electronic means by which instructors will conduct class using a combination of Blackboard, tele-
+conferencing, and other technologies. 
+ 
+ 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+5 
+COURSE CALENDAR/READINGS/CLASS SESSIONS 
+ 
+*M-W Classes observe both MLK Birthday and President’s Day. 
+ 
+ 
+ 
+ 
+Topics/Daily Activities 
+Chapters 
+Deliverables 
+1/10 
+ 
+1/12 
+Introduction to Corporate Finance 
+Goal of Financial Management 
+Financial Statements 
+Balance Sheet, Income Statement, Cash Flow 
+1 
+ 
+2-3 
+ 
+1/17 
+ 
+1/19 
+Financial Statements 
+Cash flow, ratio analysis, telling a story with #s 
+Long Term Financial Planning and Growth 
+External financing, internal and sustainable growth 
+2-3 
+ 
+4 
+ 
+1/24 
+ 
+1/26 
+Time Value of Money 
+Present value, future value 
+Discounted Cash Flow Valuation 
+Net present value, annuities, perpetuities 
+5 
+ 
+6 
+ 
+ 
+Homework #1 
+1/31 
+2/2 
+Discounted Cash Flow Valuation 
+Interest Rates and Bond Valuation 
+Valuation of debt, yield curve, bond ratings, covenants 
+6 
+7 
+ 
+ 
+2/7 
+2/9 
+Bond Valuation continued, Stock Valuation 
+Stock Valuation 
+Dividend growth model 
+7-8 
+8 
+ 
+Quiz #1 
+2/14 
+ 
+2/16 
+NPV and Other Investment Criteria 
+NPV, IRR, payback, capital budgeting criteria 
+Making Capital Investment Decisions 
+9 
+ 
+10 
+ 
+ 
+Homework #2 
+2/21 
+2/23 
+Special Topic 
+Hansson Private Label Case Discussion 
+ 
+ 
+Group Case  
+2/28 
+3/2 
+Review 
+Midterm Exam 
+ 
+ 
+ 
+3/7 
+ 
+3/9 
+Lessons from Capital Market History 
+Returns through time for different asset classes 
+No Class Scheduled* 
+12 
+ 
+ 
+3/14-3/16 
+Spring Break – No Class Scheduled 
+ 
+ 
+3/21 
+ 
+ 
+3/23 
+Return, Risk and Security Market Line 
+E(r) for assets and portfolios, diversification, efficient frontier 
+Capital Asset Pricing Model 
+Quantifying risk, systematic risk, beta and the market risk premium 
+13 
+ 
+ 
+13 
+ 
+ 
+3/28 
+3/30 
+Cost of Capital 
+Weighted Average Cost of Capital (WACC) 
+14 
+14 
+ 
+Homework #3 
+4/4 
+4/6 
+No Class Scheduled* 
+Raising Capital 
+ 
+15 
+ 
+Quiz #2 
+4/11 
+ 
+4/13 
+Financial Leverage and Capital Structure Policy 
+Effect of financial leverage 
+Mergers and Acquisitions 
+16 
+ 
+26 
+ 
+4/18 
+4/20 
+Mergers and Acquisitions 
+Options and Corporate Finance 
+26 
+24-25 
+ 
+Homework #4 
+4/25 
+4/27 
+Review 
+Course Wrap-Up 
+ 
+ 
+5/4 
+5/4 
+Final Exam Section 14780 2-4pm 
+Final Exam Section 14781 4:30-6:30pm 
+ 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+6 
+Hansson Private Label Group Case Due 2/23/17 
+ 
+Harvard Business Publishing: Hansson Private Label, Inc.: Evaluating an Investment in Expansion 
+The case can be purchased here: http://cb.hbsp.harvard.edu/cbmp/access/58015921  
+ 
+Submission Process: 
+Your group case analysis will be turned in as a written deliverable. Please work on your cases in 
+groups of 3-6 people. Seeking assistance or “hints” from the instructor, the T.A. or past students is not 
+authorized. A written case analysis should consist of a written (executive summary) using a standard 
+font and font size (such as Times New Roman size 11-12), addressing the case questions with support-
+ing computations and tables in a separate appendix. Put your group members’ names on Page 1 of the 
+document. Submit the entire document including any exhibits with excel calculations in a PDF docu-
+ment. Submit your files on Blackboard by the start time of class of the due date. Please format your 
+deliverable as a PDF with excel exhibits in the appendix. 
+ 
+Prior to working on the group case it is advisable to review the textbook and also the Capital Budget-
+ing supplement and slides provided to you including the excel spreadsheet with the Project Greenlight 
+example. The group case assignment grade is based on the quality of your analysis, how well you 
+support your assumptions and apply corporate finance and valuation techniques, and the judgment you 
+exercise and on the professionalism of your presentations. The quality of work product should be re-
+flective of what you would be comfortable presenting to an employer. Case grades will be determined 
+relative to the analyses of other groups in the class. Groups may be randomly selected to verbally pre-
+sent their findings on the case analysis during the class session. 
+ 
+Hansson Case Questions 
+• 
+Evaluate HPL’s historical financial performance. How has HPL performed? Consider his-
+torical analysis of financial performance ratios and peer comparison. 
+• 
+Utilizing the data provided, determine whether the expansion project is attractive in strate-
+gic and economic terms. Calculate the total project cash flows, NPV, IRR, and payback pe-
+riod given the supplied project forecasts. Perform a basic sensitivity analysis on key varia-
+bles and drivers of the NPV analysis. 
+• 
+Will the expansion position HPL for any form of sustainable competitive advantage? Will 
+it allow HPL to improve long-term profitability? If HPL wants to decline the proposal, 
+what practical alternatives does he have? 
+• 
+What are the risks of the investment?  What might be done to mitigate these risks?  
+ 
+The following is taken from page 3 of the case. 
+ 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+7 
+ 
+Calculation Hints: 
+Your group must set up a financial analysis of the project. Refer to the discussion of the Investment 
+Proposal and exhibit 5 and also to your textbook chapters on Capital Budgeting. Refer to the Hansson 
+spreadsheets provided. 
+ 
+The Year 0 Initial Investment will be $45,000 (Facility Expansion, Manufacturing Equipment, and 
+Packaging Equipment.  Assumptions have been provided for depreciation and maintenance expenses.   
+ 
+For purposes of calculating the 10-year project free cash flow (2009-2018) I have provided my 2009 
+(first year) calculation. There is a discrepancy in the case writers’ Manufacturing Overhead in 2009. 
+In the case is $3600, but the HBS excel file shows $3920. If we use $3920 it gets us to the case writers' 
+NWC number, $12,817.  
+ 
+Operating Results: 
+2009  
+Revenue 
+84,960  
+Less:  Raw Material 
+Costs 
+45,120  
+Less:  Labor Ex-
+pense 
+18,640  
+Less:  Manufacturing Overhead 
+3,920  
+Less:  Maintenance Expense 
+2,250  
+Less:  Selling, General & Administra-
+tive Expense 
+6,594  
+EBITDA 
+8,436  
+Less:  Depreciation 
+4,000  
+EBIT 
+4,436  
+Less:  Taxes 
+1,774  
+NOPAT 
+2,662  
+Un-Levered Free Cash Flow: 
+NOPAT 
+2,662  
+Plus:  Depreciation 
+4,000  
+Less:  Change in Working 
+Capital 
+12,817  
+Un-Levered Free Cash Flow 
+(6,156) 
+ 
+Note: Your textbook defines Inventory Turnover = Cost of Goods Sold / Inventory 
+Days’ Sales in Inventory = 365 / Inventory Turnover. In the Hansson case refer to the definition of 
+DSO, DPO and DSI that is being used in the case: 
+ 
+ 
+ 
+Projecting the working capital accounts is simply a matter of algebraic manipulation. For example, 
+if the assumption for DSO is 47.6x, then to project the amount of accounts receivable needed for 
+the first year in the project (2009) it would be: 
+ 
+DSO= Ending Receivables/(Sales/360 days) 
+A/R=(DSO/360) x Sales 
+11,223=(47.6/360) x 84,960 
+ 
+ 
+  
+BUAD 306 Course Syllabus  
+8 
+DSI= Ending Inventory/(Sales/360 days) 
+Inventory= (DSI/360) x Sales 
+8,865=(37.562/360) x 84,960 
+ 
+DPO=(Ending Accounts Payable/Cash Operating Expenses/360) 
+Accounts Payable= (DPO/360) x Cash Operating Expenses* 
+7,270=(34.2/360) x 76,524 
+ 
+*Cash Operating Expenses includes Raw Material Costs, Labor Expense, Manufacturing Overhead, 
+Maintenance Expense, Selling, General & Administrative Expense. 
+ 
+The increase in working capital is not expected to occur up front at the time of the initial invest-
+ment. It is assumed to take place throughout the first year and should be considered as part of the 
+2009 cash flows.  You will notice that going from working capital of 0 in year 0 to 12.8 million in 
+year 1, the first year of Un-Levered Free Cash Flow for the project will subtract a “use” of cash of 
+12.8 million. As a reminder, Net Working Capital is calculated by taking current assets (Accounts 
+Receivable and Inventory) less current liabilities (Accounts Payable).  The Change in Working 
+Capital is from one period to the next and shows the cash flow impact. 
+ 
+In each subsequent year 2010-2018 the amount subtracted will be much less since working capital 
+will have already been established in the first year and you will just evaluate the change (increase) 
+in net working capital. As a reminder, according to the footnote in the case on page 3, at least some 
+portion of net working capital will be returned to investors at the end of the project in 2018. The 
+return of working capital is equal to the balance of accounts receivable less accounts payable (at 
+the end of 2018).  According to the case assumptions, inventory is assumed to be worthless. Be-
+cause the property, plant, and equipment is specialized and almost completely depreciated, it is as-
+sumed to be worthless. You will need to discount the return of the net working capital back to pre-
+sent along with the project cash flows.  
+ 
+ 
+ 
+ 
+Since we have not yet discussed the Weighted Average Cost of Capital (WACC) or the appropriate 
+assumption for a discount rate, please assume 9.38% for your discount rate “r” for the NPV analy-
+sis (this was the cost of capital calculated in exhibit 7 for a 20% Debt/Value assumption).  Exhibit 
+7 includes some terminology and calculations that will be revisited in the discussion about capital 
+structure, debt, etc. 
+ 
+The purpose of the case analysis is for groups to perform analysis of a real world capital budgeting 
+case. Many of the examples in the textbook are simplified and may not be as relevant to you in a 
+practical setting. When we have our class discussion I hope we can encourage debate as to what 
+Hansson should do and what makes strategic sense – whether he should accept or decline the pro-
+ject – and your reasoning for this decision. This should include a discussion of the risks of accept-
+ing the project and other potential options and/or opportunities. 
+ 
+ 

@@ -1,0 +1,381 @@
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+1/8
+Business Finance 1 Winter 2023
+ECON 371
+Published Jan 09, 2023
+Class Schedule
+Please log in (/oidc/login/?next=/view/nmqqhv) to view this content.
+Instructor & TA (Teaching Assistant) Information
+Please log in (/oidc/login/?next=/view/nmqqhv) to view this content.
+Course Description
+Calendar Description for ECON 371
+The course explores decisions faced by managers of firms. In particular, decision-makers must determine which long-term real investment
+opportunities to exploit. Once undertaken, managers must decide how to finance the projects, for example, by debt or equity. The course
+develops both the conceptual framework and the tools required for these decisions. The course assumes prior familiarity with probability,
+expected values, and variance.
+Prereq: ECON 101 or ECON 100/COMM 103; ECON 221 or any prior course in probability and/or basic statistics; Level at least 2B. Antireq:
+AFM 271/273, AFM 274/371, ACTSC 372 after fall 2014
+The course focuses on investment decisions by businesses and individuals. It describes major players and types of financial instruments in
+financial markets, and it offers the general framework of financial landscape. This course will describe the basics of how firms and
+individuals make investment decisions and how they finance their investments. The goal is to understand financial markets and investment
+strategies. The understanding of the most important financial problems leads to strategic planning and analytical understanding of possible
+solutions. Today’s financial decisions are critical for the successes of the businesses in the future. This course will help students develop skills
+applicable to financial decision-making processes within businesses as well as in their personal lives.
+The objectives of this course are for students to:
+understand the need for firms and individuals to make financial decisions and together work towards overcoming the universal
+problem of scarcity;
+appreciate the relevance of finance in a changing world;
+develop the capacity to apply critical thinking to finance issues.
+ 
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+2/8
+Learning Outcomes
+By the end of this course students should be able to:
+Explain why maximizing market value is the logical financial goal of the corporation
+Calculate and interpret some key measures of firm performance
+Interpret price-earnings ratios
+Calculate present and future values of streams of cash payments
+Define and understand the fundamental features and elements of stocks and bonds
+Use financial models to evaluate stocks and bonds
+Interpret the relationships between financial markets and information
+Perform interest rate conversions from APR to effective rates and vice versa
+Develop loan amortization schedules using loan terms
+Explain what a yield curve is and why short-term interest rates affect its shape
+Identify the cash flows properly attributable to a proposed new project
+Use sensitivity, scenario, and break-even analysis to evaluate the financial impact of forecasting errors
+Tentative Course Schedule
+This class schedule is ambitious. Modifications and/or eliminations of certain content might be required given our limited time together.
+Any necessary modifications or eliminations to the course content will be communicated to you during class.
+Week
+Date
+Theme and Topic  
+Readings Due
+1
+Jan 9, 11, 13
+ Introduction to Business Finance: 
+Course Orientation and Organization
+Corporate Finance and the Financial Manager
+Chapter 1
+2
+Jan 16, 18, 20
+Corporate Finance and the Financial Manager
+Introduction to Business Finance:
+Financial Statement Analysis
+Chapter 1
+Chapter 2
+3
+Jan 23, 25, 27
+Introduction to Business Finance:
+Financial Statement Analysis
+Interest Rates and Valuing Cash Flows:
+The Valuation Principle: The Foundation of Financial decision Making
+Chapter 2
+Chapter 3
+41
+Jan 30, Feb 1, 3
+Interest Rates and Valuing Cash Flows:
+The Valuation Principle: The Foundation of Financial decision Making
+Chapter 3
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+3/8
+Week
+Date
+Theme and Topic  
+Readings Due
+5
+Feb 6, 8, 10
+Interest Rates and Valuing Cash Flows:
+The Time Value of Money
+Midterm 1 Review 
+MIDTERM 1 (February 10)
+Chapter 4
+ 
+6
+Feb 13, 15, 17
+Interest Rates and Valuing Cash Flows:
+The Time Value of Money
+ Chapter 4
+7
+Feb 20, 22, 24
+Reading Week - No Classes
+ 
+ 
+Feb 27, 29, Mar 1, 3
+Interest Rates and Valuing Cash Flows:
+Interest Rates
+Chapter 5
+8
+Mar 6, 8, 10
+Interest Rates and Valuing Cash Flows:
+Interest Rates
+Bonds
+Chapter 5
+Chapter 6
+9
+Mar 13, 15, 17
+Interest Rates and Valuing Cash Flows:
+Bonds
+Midterm 2 Review
+MIDTERM 2 (March 17)
+Chapter 6
+Chapter 7
+11
+Mar 20, 22, 24
+Interest Rates and Valuing Cash Flows:
+Bonds
+Valuing Stocks
+Chapter 6
+Chapter 7
+12
+Mar 27, 29, 31
+Investment Decisions:
+Valuing Stocks
+Fundamentals of Capital Budgeting
+Chapter 7
+Chapter 9
+13
+Apr 3, 5, 101
+Investment Decisions:
+Fundamentals of Capital Budgeting
+Final Exam Review
+ Chapter 9
+Tentative Schedule of Review Quizzes
+Quiz 1: Released January 16, due January 25. Coverage: Ch 1, Ch 2
+Quiz 2: Released January 30, due February 8. Coverage: Ch 3
+Quiz 3: Released February 27, due March 8. Coverage: Ch 4, Ch 5
+Quiz 4: Released March 13, due March 22. Coverage: Ch 6
+Quiz 5: Released March 27, due April 5. Coverage: Ch 7
+Quiz 6: Released April 3, due April 10. Coverage: Ch 9 or a mix of Ch 1 through 9 depending on progress.2
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+4/8
+Any changes to this schedule and any other relevant information will be communicated during class.
+Notes:
+1. April 7 is Good Friday. All classes cancelled and offices closed. The loss of a Friday class on April 7 will be made up by following a Friday
+schedule on April 10.
+2. Sometimes, we end up covering just a little bit of Chapter 9, which may not be enough for a full quiz. In that case, the quiz will be a mix
+of questions from all the chapters we covered so far. 
+Texts / Materials
+Title / Name
+Notes / Comments
+Required
+Jonathan Berk, Peter Demarzo, Jarrad
+Harford, David A. Stangeland, Andras
+Marosi. Fundamentals of Corporate Finance,
+Fourth Canadian Edition Plus MyLab Finance
+-- Access Card Package, 4/E
+The textbook is available from the UW
+BookStore. The use of MyEconLab tests is
+optional. You may use them as a practice
+tool, but they will not be used for grading
+purposes.
+Yes
+Resources from the BookStore
+ 
+Title : Fundamentals of Corporate Finance 4th ed + Mylab
+Author: AC Berk et al
+ISBN : 9780137309825
+Price :  $95.00
+ 
+Title : Learning Catalytics
+ISBN : 9780134205496
+Price :  $17.25 (one year)
+The use of MyLab tests is optional. You may use them as a practice tool, but they will not be used for grading purposes. Learning Catalytics
+is used for bonus participation marks. 
+Pearson 24/7 Support Link:
+https://support.pearson.com/getsupport/s/contactsupport (https://support.pearson.com/getsupport/s/contactsupport)
+Readings Available on LEARN 
+LEARN web site   https://learn.uwaterloo.ca/d2l/home (https://learn.uwaterloo.ca/d2l/home)
+Announcements, lecture slides, midterm solutions
+Review Quizzes
+The LEARN site is down occasionally. Save the course materials to your computer as soon as they are posted. Always be prepared!
+Examinations in this course are based on the material contained in the textbook and the content presented in the PowerPoint slides,
+lectures, and the Learning Catalytics videos (which are strong complements, not substitutes).
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+5/8
+Student Assessment
+Component
+Value
+Review Quizzes
+10%
+Midterm 1
+25% or 30%
+Midterm 2
+25% or 30%
+Final Exam
+35%
+Bonus for participation
+2%
+Total
+100%
+The course grade will be based on review quizzes, two midterm exams, and a final examination, which will be held during the Official
+Examination Schedule. The midterm with the better mark will be worth 30% of your final grade, while the second-best midterm will be
+worth 25% of your final grade. The final exam will constitute 35% of your final grade and will be comprehensive (i.e., cover all course
+material from beginning to end). 
+Please note that the Learn website does not have an option to adjust weights for each student individually. I will set constant weights for
+each student of 25% for the first midterm and 30% for the second midterm in Learn, but I will be adjusting those weights individually in my
+Excel sheet when calculating final grades at the end of the semester. 
+There will also be a bonus grade up to 2% for participation (more on participation below under Participation). 
+Review Quizzes
+The purpose of the review quizzes is to help students identify and understand key concepts covered in the lectures and in the
+textbook.
+The format of the quizzes will mainly be multiple-choice questions, but there may also be some true-false questions, or short answer
+questions.
+The quizzes will be done online through the LEARN system.
+There will be a limited, but a reasonably long, time window set up in LEARN during which each quiz will be available for completion.
+There are two attempts for each quiz available and the better attempt counts.
+Quizzes that are not submitted on time will automatically receive a grade of zero.
+Participation 
+Participation is recommended, and it will be rewarded through bonus marks up to the total of two percentage points (2%) that will be
+added to the students’ final grade. Participation will be monitored through an online tool Learning Catalytics. The primary purpose of this
+tool in this class is to enhance the feedback mechanism between students and the instructor so that we can identify areas that may require
+special focus. You will be able to submit answers to in-class questions using Apple or Android smartphones and tablets, laptops, or through
+text message. Your participation grade will not depend on the correctness of your answers to the in-class questions. 
+Learning Catalytics 
+We will be using the Learning Catalytics classroom response system. Included with the purchase of a new text is a subscription to Learning
+Catalytics (through MyLab), which is a web-based student response system. 
+If you do not have a new text or code to MyLab, codes can be purchased separately through the bookstore, as it is the cheapest option
+- $17.25 CND for 12 months.
+Through the Learning Catalytics website the cost is $12 USD (6 months) or $20 USD (12 months).  
+To resister please visit www.learningcatalytics.com (http://www.learningcatalytics.com) .  
+Please reference the step-by-step login document for detailed instructions. Under the Training & Support tab, you will find helpful
+information including technical support.  
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+6/8
+Midterms and Final Exam
+The format for midterms and the final exam will be a mix of multiple-choice questions, numerical calculation questions, and written
+problems.
+The final exam period for the Winter Term 2023 is April 13 - April 28 inclusive. More on the UW Final Examination policy can be
+found here: http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Assignments-Tests-and-Final-Exams
+(http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Assignments-Tests-and-Final-Exams)
+The final exams will be scheduled by The Registrar’s Office. The default time for the completion of the final exam is any 150 minutes.
+Only the Registrar’s Office can issue final grades.
+This grading policy will be implemented strictly for all students in the course (with the exception of verified illnesses or self-isolation due to
+COVID-19 – see below). 
+Missing a Midterm Due to Illness During the Term
+Missing a midterm will automatically result in a grade of zero for that midterm. If the illness can be documented1, with approval, you
+may transfer the weight of the missed midterm to the final exam. This remedy is a privilege and not a right.
+Missing a Midterm Due to Self-Isolation 
+If the self-isolation can be documented, with approval, you may transfer the weight of the missed midterm to the final exam. This
+remedy is a privilege and not a right.
+Missing the Final Exam Due to Illness
+Missing the final exam is a serious matter, which automatically results in a grade of zero for the final exam and possibly a failing
+grade for the course. Please carefully read the Economics Department policy on deferred final exams for instructions.
+Students are permitted to self-declare illness due to COVID-19 but will require a virtual Verification of Illness Form if they missed an
+exam due to mental health or non-covid-19 related illness.
+The Undergraduate Associate Chair will determine whether a deferred exam will be granted if required.
+No deferred final exam will be provided for students who missed all the exams (including the final exam) in this course
+Elective arrangements (such as travel plans) are not considered acceptable grounds for granting an accommodation.
+Notes:
+1. Students are permitted to self-declare illness due to COVID-19, but will require a virtual Verification of Illness Form if they missed an exam
+due to mental health or non-covid-19 related illness.
+Assignment Screening
+No assignment screening will be used in this course.
+Administrative Policy
+Intellectual Property
+Students should be aware that this course contains the intellectual property of their instructor, TA, and/or the University of Waterloo. 
+Intellectual property includes items such as:
+Lecture content, spoken and written (and any audio/video recording thereof);
+Lecture handouts, presentations, and other materials prepared for the course (e.g., PowerPoint slides);
+Questions or solution sets from various types of assessments (e.g., assignments, quizzes, tests, final exams); and
+Work protected by copyright (e.g., any work authored by the instructor or TA or used by the instructor or TA with permission of the
+copyright owner).
+Course materials and the intellectual property contained therein, are used to enhance a student’s educational experience. However, sharing
+this intellectual property without the intellectual property owner’s permission is a violation of intellectual property rights.  For this reason, it
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+7/8
+is necessary to ask the instructor, TA and/or the University of Waterloo for permission before uploading and sharing the intellectual
+property of others online (e.g., to an online repository).
+Permission from an instructor, TA or the University is also necessary before sharing the intellectual property of others from completed
+courses with students taking the same/similar courses in subsequent terms/years.  In many cases, instructors might be happy to allow
+distribution of certain materials. However, doing so without expressed permission is considered a violation of intellectual property rights.
+Please alert the instructor if you become aware of intellectual property belonging to others (past or present) circulating, either through the
+student body or online. The intellectual property rights owner deserves to know (and may have already given their consent).
+Mental Health Support
+All of us need a support system. The faculty and staff in Arts encourage students to seek out mental health support if they are needed.
+On Campus
+Due to COVID-19 and campus closures, services are available only online or by phone.
+Counselling Services:  counselling.services@uwaterloo.ca (mailto:counselling.services@uwaterloo.ca) / 519-888-4567 ext. 32655
+MATES (https://wusa.ca/services/uw-mates) :  one-to-one peer support program offered by the Waterloo Undergraduate Student
+Association (WUSA) and Counselling Services
+Off campus, 24/7
+Good2Talk (https://good2talk.ca/) :  Free confidential help line for post-secondary students. Phone: 1-866-925-5454
+Grand River Hospital: Emergency care for mental health crisis. Phone: 519-749-4300 ext. 6880
+Here 24/7 (https://here247.ca/) : Mental Health and Crisis Service Team. Phone: 1-844-437-3247
+OK2BME (https://ok2bme.ca/) : set of support services for lesbian, gay, bisexual, transgender or questioning teens in Waterloo. 
+Phone: 519-884-0000 extension 213
+Full details can be found online on the Faculty of Arts website (https://uwaterloo.ca/arts/get-mental-health-support-when-you-need-it)
+Download UWaterloo and regional mental health resources (PDF)
+(https://uwaterloo.ca/arts/sites/ca.arts/files/uploads/files/counselling_services_overview_002.pdf)
+Download the WatSafe app (https://uwaterloo.ca/watsafe/) to your phone to quickly access mental health support information.
+Territorial Acknowledgement
+We acknowledge that we are living and working on the traditional territory of the Attawandaron (also known as Neutral), Anishinaabe and
+Haudenosaunee peoples. The University of Waterloo is situated on the Haldimand Tract, the land promised to the Six Nations that includes
+ten kilometres on each side of the Grand River.
+For more information about the purpose of territorial acknowledgements, please see the CAUT Guide to Acknowledging Traditional Territory
+(https://www.caut.ca/content/guide-acknowledging-first-peoples-traditional-territory) .
+Academic freedom at the University of Waterloo
+Policy 33, Ethical Behaviour (https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-33) states, as one of its general
+principles (Section 1), “The University supports academic freedom for all members of the University community. Academic freedom carries
+with it the duty to use that freedom in a manner consistent with the scholarly obligation to base teaching and research on an honest and
+ethical quest for knowledge. In the context of this policy, 'academic freedom' refers to academic activities, including teaching and
+scholarship, as is articulated in the principles set out in the Memorandum of Agreement between the FAUW and the University of Waterloo,
+1998 (Article 6). The academic environment which fosters free debate may from time to time include the presentation or discussion of
+unpopular opinions or controversial material. Such material shall be dealt with as openly, respectfully and sensitively as possible.” This
+definition is repeated in Policies 70 and 71, and in the Memorandum of Agreement, Section 6
+Cross-listed courses
+Please note that a cross-listed course will count in all respective averages no matter under which subject code it has been taken. For
+example, a PHIL/PSCI cross-list will count in a Philosophy major average, even if the course was taken under the Political Science subject
+code.
+3/24/24, 9:57 PM
+Course Outline - Business Finance 1
+https://outline.uwaterloo.ca/view/nmqqhv
+8/8
+Economics Department Deferred Final Exam Policy
+All deferred Final Exam requests for economics courses are administered by the Economics Undergraduate Office. Please consult the
+Deferred Exam Policy at 
+https://uwaterloo.ca/economics/undergraduate/resources-and-policies/deferred-final-exam-policy.
+(https://uwaterloo.ca/economics/undergraduate/resources-and-policies/deferred-final-exam-policy.)
+University Policy
+Academic integrity: In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected
+to promote honesty, trust, fairness, respect and responsibility. [Check the Office of Academic Integrity (https://uwaterloo.ca/academic-
+integrity/) for more information.]
+Grievance: A student who believes that a decision affecting some aspect of their university life has been unfair or unreasonable may have
+grounds for initiating a grievance. Read Policy 70, Student Petitions and Grievances, Section 4 (https://uwaterloo.ca/secretariat/policies-
+procedures-guidelines/policy-70) . When in doubt, please be certain to contact the department’s administrative assistant who will provide
+further assistance.
+Discipline: A student is expected to know what constitutes academic integrity to avoid committing an academic offence, and to take
+responsibility for their actions. [Check the Office of Academic Integrity (https://uwaterloo.ca/academic-integrity/) for more information.] A
+student who is unsure whether an action constitutes an offence, or who needs help in learning how to avoid offences (e.g., plagiarism,
+cheating) or about “rules” for group work/collaboration should seek guidance from the course instructor, academic advisor, or the
+undergraduate associate dean. For information on categories of offences and types of penalties, students should refer to Policy 71, Student
+Discipline (https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71) . For typical penalties, check Guidelines for the
+Assessment of Penalties (https://uwaterloo.ca/secretariat/guidelines/guidelines-assessment-penalties) .
+Appeals: A decision made or penalty imposed under Policy 70, Student Petitions and Grievances (https://uwaterloo.ca/secretariat/policies-
+procedures-guidelines/policy-70) (other than a petition) or Policy 71, Student Discipline (https://uwaterloo.ca/secretariat/policies-
+procedures-guidelines/policy-71) may be appealed if there is a ground. A student who believes they have a ground for an appeal should
+refer to Policy 72, Student Appeals (https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-72) .
+Note for students with disabilities: AccessAbility Services (https://uwaterloo.ca/accessability-services/) , located in Needles Hall, Room
+1401, collaborates with all academic departments to arrange appropriate accommodations for students with disabilities without
+compromising the academic integrity of the curriculum. If you require academic accommodations to lessen the impact of your disability,
+please register with AccessAbility Services at the beginning of each academic term.
+Turnitin.com: Text matching software (Turnitin®) may be used to screen assignments in this course. Turnitin® is used to verify that all
+materials and sources in assignments are documented. Students' submissions are stored on a U.S. server, therefore students must be given
+an alternative (e.g., scaffolded assignment or annotated bibliography), if they are concerned about their privacy and/or security. Students
+will be given due notice, in the first week of the term and/or at the time assignment details are provided, about arrangements and
+alternatives for the use of Turnitin in this course.
+It is the responsibility of the student to notify the instructor if they, in the first week of term or at the time assignment details are provided,
+wish to submit alternate assignment.

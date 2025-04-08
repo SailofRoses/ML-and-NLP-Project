@@ -1,0 +1,234 @@
+ 
+ 
+© Chartered Professional Accountants of Canada. All rights reserved. 
+No part of this publication may be reproduced or transmitted, in any form or by any means, without the prior written consent of CPA Canada. 
+For information regarding permissions, please contact permissions@cpacanada.ca.  
+2023-08-24 
+SYLLABUS 
+CPA PREPARATORY COURSES 
+Corporate Finance 
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+1 / 6 
+Purpose 
+The purpose of this syllabus is to provide information about the Corporate Finance CPA 
+preparatory course. This document has been produced for education administrators, 
+course authors, course examiners, committee members, and resource people in the 
+CPA education system; current and potential students and those who advise them; and 
+others in the professional, academic, and general community. 
+Course Overview 
+Course description 
+This six-week core course introduces you to finance concepts and provides you with 
+essential knowledge of various tools used in corporate finance. You will examine the 
+corporate financial environment and its impact on decision-making; introductory finance 
+concepts (including the time value of money, investing, and risk management); and 
+distribution of earnings. In addition, you will look at capital budgeting techniques and 
+short-, medium-, and long-term financing decisions. 
+Course prerequisites 
+The prerequisites for this course are the following courses or equivalent post-secondary 
+courses:  
+ 
+Resources 
+See the Student Guide for a comprehensive list of course resources. 
+Grading 
+See the Student Guide for the course grading structure.  
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+2 / 6 
+Course Outline 
+The following topics are covered in Corporate Finance: 
+Unit 1 
+• 
+Provide an overview of corporate finance, what it is, goals of financial 
+decisions, and a brief description of the type of decisions that are made.  
+• 
+Provide an overview of the capital and money markets, including the type of 
+securities that are traded and why they exist. 
+• 
+Describe the mechanisms used by corporations for issuing securities in the 
+primary stock and primary bond markets, and how companies issue securities 
+in a private placement. 
+• 
+Discuss how information affects the prices of shares and bonds. 
+• 
+Discuss the time value of money (TVM), which is one of the most fundamental 
+concepts in finance and learn about the TVM formulas and how to perform 
+them using a spreadsheet program such as Excel or a financial calculator. 
+• 
+Describe the net present value (NPV) technique and how to perform NPV 
+analysis using a spreadsheet program such as Excel. 
+Unit 2 
+• 
+Discuss how bonds, preferred shares, and common shares are priced. 
+• 
+Discuss the risk and return trade-off, how the amount of risk can be 
+statistically measured, the components of total risk, how the design of a 
+portfolio of investments can be used to reduce overall risk using diversification 
+and explain the components of the capital asset pricing model.  
+• 
+Discuss the objectives in designing an investment portfolio and how, based on 
+these objectives, a portfolio of passive investments can be selected. 
+• 
+Discuss the details on how to calculate cost of capital. 
+• 
+Discuss the capital structure (the mix of debt and equity used to finance 
+operations) of a company. 
+ 
+ 
+ 
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+3 / 6 
+Unit 3 
+• 
+Review the capital budgeting process, identify and calculate the cash flows 
+that are included in the capital budget analysis, and determine the appropriate 
+discount rate to apply. 
+• 
+Determine if a project should be accepted or not, using three commonly used 
+methods: net present value, payback period, and internal rate of return, and 
+evaluate the impact of variations in the underlying assumptions on future cash 
+flow projections. 
+• 
+Describe the terms used in leases, the advantages and disadvantages of 
+leasing versus borrowing to purchase an asset. 
+Unit 4 
+• 
+Review the sources of financing available to an entity, the reasons that capital 
+is required by an entity, and the factors to consider in deciding the type of 
+financing to use at any point in time. 
+• 
+Discuss the various types of financing that represent short-term and long-term 
+debt, and summarize the nature of their features and their impact on the entity 
+and stakeholders’ objectives. 
+• 
+Review the terms and conditions of newly issued common and preferred 
+shares.  
+• 
+Discuss the types of distributions that can be made by a company, and the 
+issues to consider in determining the nature and amount of any distributions. 
+Unit 5 
+• 
+Assess the financial statements and the entity within the context of its 
+operations and strategy, industry, peers, and the current economy. Calculate 
+relevant financial ratios and develop vertical and horizontal financial 
+statements to assist with gaining these insights. 
+• 
+Discuss the methods and tools that can be used to transform data and 
+information into knowledge. Describe how data visualizations present complex 
+data for interpretation. 
+• 
+Discuss the methods a company should use to manage working capital, as 
+well as the costs and benefits that arise from high and low balances.  
+• 
+Discuss methods of measuring management effectiveness and policies that 
+can be implemented to increase cash flows and the types of investments that 
+are best for idle cash.  
+• 
+Demonstrate how pro forma statements are prepared and discuss why 
+financial planning is important, including the limitations of forecasting.  
+ 
+ 
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+4 / 6 
+Unit 6 
+• 
+Discuss when a valuation could be required and introduce a variety of 
+commonly used business valuation approaches. Decision trees are provided to 
+aid with the selection of the appropriate valuation method for the situation 
+• 
+Provide an overview of derivatives and describe the most common types used 
+by companies, including forwards, futures, options, and swaps.  
+• 
+Discuss financial price risks, political risk, macroeconomic risk, and different 
+risk management approaches adopted by companies. 
+• 
+Provide an overview of the factors to consider in acquiring or divesting assets 
+or businesses, including the motivations for mergers and acquisitions and what 
+could be acquired and the motivations for divestitures, including three types of 
+common transactions: outright sales of assets, spinoffs, and equity carve-outs. 
+• 
+Discuss the steps an entity will progress through when in financial distress, 
+including additional costs, and operational changes that may occur.  
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+5 / 6 
+Reading List 
+The following chapters from the Finance volume of the eBook are the required readings 
+for the course: 
+Unit 1 
+• 
+Chapter 1: Overview of Finance 
+• 
+Chapter 2: Capital and Money Markets — Overview 
+• 
+Chapter 3: Capital Markets — Issuing Securities (Lesson 1) 
+• 
+Chapter 4: Capital Markets — Information Impact on Prices (Lesson 1) 
+• 
+Chapter 5: Time Value of Money 
+• 
+Chapter 6: Net Present Value 
+Unit 2 
+• 
+Chapter 8: Pricing of Securities 
+• 
+Chapter 9: Investment and Portfolio Diversification — Risk and Return 
+• 
+Chapter 10: Investment and Portfolio Diversification — Making the Investment 
+Decision 
+• 
+Chapter 12: Cost of Capital 
+• 
+Chapter 14: Capital Structure 
+Unit 3 
+• 
+Chapter 16: Capital Budgeting — Overview and Relevant Cash Flows 
+• 
+Chapter 17: Capital Budgeting — The Investment Decision 
+• 
+Chapter 19: Leasing (Lesson 1) 
+Unit 4 
+• 
+Chapter 20: Source of Financing — Overview 
+• 
+Chapter 21: Sources of Financing — Debt and Non-Equity (Lesson 1, 2, and 
+3) 
+• 
+Chapter 23: Sources of Financing — Equity Sources (Lesson 1) 
+• 
+Chapter 25: Dividend Policy (Lesson 1) 
+Unit 5 
+• 
+Chapter 26: Financial Statement Analysis 
+• 
+Chapter 27: Working Capital Management (Lesson 1 and 3) 
+• 
+Chapter 28: Pro Forma Statements and Free Cash Flow 
+ 
+ 
+CPA Preparatory Courses — Syllabus 
+ 
+Corporate Finance 
+ 
+6 / 6 
+Unit 6 
+• 
+Chapter 29: Valuations — Big Picture 
+• 
+Chapter 33: Derivatives and Risk Management — Overview 
+• 
+Chapter 36: Purchase, Expansion, or Sale of a Business — Overview 
+• 
+Chapter 38: Financial Troubled Entities (Lesson 1) 

@@ -1,0 +1,286 @@
+1
+International Finance Syllabus
+Department of Economics
+ECON 3331 Fall 2023
+Dalhousie University acknowledges that we are in Mi’kma’ki, the ancestral and
+unceded territory of the Mi’kmaq People and pays respect to the Indigenous
+knowledges held by the Mi’kmaq People, and to the wisdom of their Elders past and
+present. The Mi'kmaq People signed Peace and Friendship Treaties with the Crown,
+and section 35 of the Constitution Act, 1982 recognizes and affirms Aboriginal and
+Treaty rights. We are all Treaty people.
+Dalhousie University also acknowledges the histories, contributions, and legacies of
+African Nova Scotians, who have been here for over 400 years.
+Course Instructor(s)
+Name
+Email
+Office Hours
+James McNeil
+mcneilj@dal.ca
+Thursdays 1 -3pm
+room C23
+Economics
+Department
+Chenhui Lu
+ch970300@dal.ca
+Fridays 9-11am
+room 220
+LSC-common area
+Course Description
+This course covers the theory and empirics of international macroeconomics.
+It examines the determination of exchange rates, international capital flows, 
+and risk; the effectiveness of fiscal and monetary policy in an open economy;
+modern international policy coordination; and the determination of the 
+current account and net foreign assets.
+Course Prerequisites
+ECON 2201.03 with minimum of grade C
+Student Resources
+Students are welcome to attend my office hours, as well as the office hours 
+of the TA, the times and locations of which are noted above.
+2
+Course Structure
+Course Delivery
+In person. Lectures will not be recorded.
+Lectures
+Tuesdays and Thursdays from 4:05-5:25 in Chemistry building room 223 
+Course Materials
+The required textbook for this course, available at the Dalhousie bookstore, 
+is:
+Krugman, Obstfeld, and Melitz, 
+ 
+ International Finance: Theory & Policy, 11
+ 
+ th    
+edition.
+ 
+  Pearson, 2018.
+ 
+ 
+Additional readings may be posted to the course Brightspace page.
+Assessment
+Assignments
+The final assignment is due on November 30 and is worth 20% of your final 
+grade. You will also deliver a presentation of this work, which will be worth 
+an additional 10% of your final grade. Presentations will be held in the final 
+two weeks of class.
+Tests/quizzes
+The midterm exam will be held on in class on Oct. 10 and is worth 25% of 
+your final grade.
+Final exam
+The final exam will be held during the scheduled exam period and is worth 45% of 
+your final grade.
+Conversion of numerical grades to final letter grades follows the 
+Dalhousie Grade Scale
+A+ (90-100)
+B+ (77-79)
+C+ (65-69)
+D (50-54)
+A (85-89)
+B (73-76)
+C (60-64)
+F (0-49)
+A- (80-84)
+B- (70-72)
+C- (55-59)
+3
+Course Policies on Missed or Late Academic Requirements
+Students who are unable to write the midterm exam because of illness will 
+need to complete and submit the Student Declaration of Absence form to me
+by email prior to the start of the exam. The weight of the midterm will be 
+transferred to the final exam. There will be no make-up midterm exam.
+Students who are unable to write the final exam because of illness must 
+notify the instructor prior to the start of the exam. They will then write a 
+make-up exam to be scheduled at a later date. 
+Late assignments will be deducted a full letter grade for each late day past 
+the due date. Assignments submitted more than five days after the due date 
+will receive a grade of zero. 
+Course Policies related to Academic Integrity
+Students are expected to complete their assignments individually and, while 
+discussion of their projects is encouraged, no collaboration with other 
+students is permitted. Plagarism software may be used. 
+Learning Objectives
+The goal of this course is to understand the financial linkages between 
+countries. Large parts of the course will be devoted to the behaviour of 
+exchange rates. We will also discuss the balance of payments, currency 
+crises, international dimensions of monetary policy, and financial 
+globalization. Our focus will be on developing models that can explain recent
+events in international financial markets. 
+Course Content
+National income accounting and the balance of payments
+Exchange rates and the foreign exchange market: an asset approach
+Money, interest rates, and exchange rates
+Price levels and the exchange rate in the long run
+Output and the exchange rate in the short run
+4
+Fixed exchange rates and foreign exchange intervention
+International monetary systems: An historical overview
+Financial globalization: Opportunity and crisis
+Optimum currency areas and the euro
+Developing countries: Growth, crisis, and reform
+5
+University Policies and Statements
+Recognition of Mi’kmaq Territory
+Dalhousie University would like to acknowledge that the University is on 
+Traditional Mi’kmaq Territory. The Elders in Residence program provides 
+students with access to First Nations elders for guidance, counsel, and 
+support. Visit or e-mail the Indigenous Student Centre at 1321 Edward St or 
+elders@dal.ca. Additional information regarding the Indigenous Student 
+Centre can be found at: 
+https://www.dal.ca/campus_life/communities/indigenous.html
+Internationalization
+At Dalhousie, ‘thinking and acting globally’ enhances the quality and impact 
+of education, supporting learning that is “interdisciplinary, cross-cultural, 
+global in reach, and orientated toward solving problems that extend across 
+national borders.” Additional internationalization information can be found 
+at: https://www.dal.ca/about-dal/internationalization.html
+Academic Integrity
+At Dalhousie University, we are guided in all our work by the values of 
+academic integrity: honesty, trust, fairness, responsibility, and respect. As a 
+student, you are required to demonstrate these values in all the work you do.
+The University provides policies and procedures that every member of the 
+university community is required to follow to ensure academic integrity. 
+Additional academic integrity information can be found at: 
+https://www.dal.ca/dept/university_secretariat/academic-integrity.html
+Accessibility
+The Student Accessibility Centre is Dalhousie's centre of expertise for 
+matters related to student accessibility and accommodation. If there are 
+aspects of the design, instruction, and/or experiences within this course 
+(online or in-person) that result in barriers to your inclusion, please contact 
+the Student Accessibility Centre (https://www.dal.ca/campus_life/academic-
+support/accessibility.html) for all courses offered by Dalhousie with the 
+exception of Truro. For courses offered by the Faculty of Agriculture, please 
+contact the Student Success Centre in Truro 
+6
+(https://www.dal.ca/about-dal/agricultural-campus/student-success-
+centre.html)
+Conduct in the Classroom – Culture of Respect
+Substantial and constructive dialogue on challenging issues is an important 
+part of academic inquiry and exchange. It requires willingness to listen and 
+tolerance of opposing points of view. Consideration of individual differences 
+and alternative viewpoints is required of all class members, towards each 
+other, towards instructors, and towards guest speakers. While expressions of
+differing perspectives are welcome and encouraged, the words and language
+used should remain within acceptable bounds of civility and respect.
+Diversity and Inclusion – Culture of Respect
+Every person at Dalhousie has a right to be respected and safe. We believe 
+inclusiveness is fundamental to education. We stand for equality. Dalhousie 
+is strengthened in our diversity. We are a respectful and inclusive 
+community. We are committed to being a place where everyone feels 
+welcome and supported, which is why our Strategic Direction prioritizes 
+fostering a culture of diversity and inclusiveness (Strategic Priority 5.2). 
+Additional diversity and inclusion information can be found at: 
+http://www.dal.ca/cultureofrespect.html
+Student Code of Conduct
+Everyone at Dalhousie is expected to treat others with dignity and respect. 
+The Code of Student Conduct allows Dalhousie to take disciplinary action if 
+students don’t follow this community expectation. When appropriate, 
+violations of the code can be resolved in a reasonable and informal manner - 
+perhaps through a restorative justice process. If an informal resolution can’t 
+be reached, or would be inappropriate, procedures exist for formal dispute 
+resolution. The full Code of Student Conduct can be found at: 
+https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-
+student-conduct.html
+Fair Dealing Policy
+7
+The Dalhousie University Fair Dealing Policy provides guidance for the 
+limited use of copyright protected material without the risk of infringement 
+and without having to seek the permission of copyright owners. It is intended
+to provide a balance between the rights of creators and the rights of users at
+Dalhousie. Additional information regarding the Fair Dealing Policy can be 
+found at: 
+https://www.dal.ca/dept/university_secretariat/policies/academic/fair-dealing-
+policy-.html
+Originality Checking Software
+The course instructor may use Dalhousie’s approved originality 
+checking software and Google to check the originality of any work submitted 
+for credit, in accordance with the Student Submission of Assignments and 
+Use of Originality Checking Software Policy. Students are free, without 
+penalty of grade, to choose an alternative method of attesting to the 
+authenticity of their work and must inform the instructor no later than the 
+last day to add/drop classes of their intent to choose an alternate method. 
+Additional information regarding Originality Checking Software can be found 
+at: https://www.dal.ca/dept/university_secretariat/policies/academic/student-
+submission-of-assignments-and-use-of-originality-checking-software-
+policy-.html
+Student Use of Course Materials
+Course materials are designed for use as part of this course at 
+Dalhousie University and are the property of the instructor unless otherwise 
+stated. Third party copyrighted materials (such as books, journal articles, 
+music, videos, etc.) have either been licensed for use in this course or fall 
+under an exception or limitation in Canadian Copyright law. Copying this 
+course material for distribution (e.g. uploading to a commercial third-party 
+website) may lead to a violation of Copyright law.
+8
+Student Resources and Support
+University Policies and Programs
+Important Dates in the Academic Year (including add/drop dates): 
+http://www.dal.ca/academics/important_dates.html
+Classroom Recording Protocol: 
+https://www.dal.ca/dept/university_secretariat/policies/academic/classroom-
+recording-protocol.html
+Dalhousie Grading Practices Policies: 
+https://www.dal.ca/dept/university_secretariat/policies/academic/grading-
+practices-policy.html
+Grade Appeal Process: 
+https://www.dal.ca/campus_life/academic-support/grades-and-student-
+records/appealing-a-grade.html
+Sexualized Violence Policy: 
+https://www.dal.ca/dept/university_secretariat/policies/health-and-safety/
+sexualized-violence-policy.html
+Scent-Free Program: 
+https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-
+free.html
+Learning and Support Resources
+General Academic Support – Advising (Halifax): 
+https://www.dal.ca/campus_life/academic-support/advising.html
+General Academic Support – Advising (Truro): 
+https://www.dal.ca/about-dal/agricultural-campus/ssc/academic-support/
+advising.html
+Student Health & Wellness Centre: https://www.dal.ca/campus_life/health-
+and-wellness.html
+On Track (helps you transition into university, and supports you through your
+first year at Dalhousie and beyond): 
+https://www.dal.ca/campus_life/academic-support/On-track.html
+Indigenous Student Centre: 
+https://www.dal.ca/campus_life/communities/indigenous.html
+9
+Indigenous Connection: https://www.dal.ca/about-dal/indigenous-
+connection.html
+Elders-in-Residence (The Elders in Residence program provides students with
+access to First Nations elders for guidance, counsel, and support. Visit the 
+office in the Indigenous Student Centre or contact the program at 
+elders@dal.ca or 902-494-6803: 
+https://cdn.dal.ca/content/dam/dalhousie/pdf/academics/UG/indigenous-
+studies/Elder-Protocol-July2018.pdf
+Black Student Advising Centre: 
+https://www.dal.ca/campus_life/communities/black-student-advising.html
+International Centre: https://www.dal.ca/campus_life/international-
+centre.html
+South House Sexual and Gender Resource Centre: 
+https://southhousehalifax.ca/about/
+LGBTQ2SIA+ Collaborative: 
+https://www.dal.ca/dept/vpei/edia/education/community-specific-spaces/
+LGBTQ2SIA-collaborative.html
+Dalhousie Libraries: http://libraries.dal.ca/
+Copyright Office: https://libraries.dal.ca/services/copyright-office.html
+Dalhousie Student Advocacy Services: https://www.dsu.ca/dsas?rq=student
+%20advocacy
+Dalhousie Ombudsperson: 
+https://www.dal.ca/campus_life/safety-respect/student-rights-and-
+responsibilities/where-to-get-help/ombudsperson.html
+Human Rights and Equity Services: https://www.dal.ca/dept/hres.html
+Writing Centre: https://www.dal.ca/campus_life/academic-support/writing-
+and-study-skills.html
+Study Skills/Tutoring: http://www.dal.ca/campus_life/academic-support/study-
+skills-and-tutoring.html
+Faculty of Science Advising Support: 
+https://www.dal.ca/faculty/science/current-students/undergrad-students/
+degree-planning.html
+Safety
+10
+Biosafety: http://www.dal.ca/dept/safety/programs-services/biosafety.html
+Chemical Safety: 
+https://www.dal.ca/dept/safety/programs-services/chemical-safety.html
+Radiation Safety: http://www.dal.ca/dept/safety/programs-services/radiation-
+safety.html
+Laser Safety: https://www.dal.ca/dept/safety/programs-services/radiation-
+safety/laser-safety.html

@@ -1,0 +1,76 @@
+York University
+AP/Econ 4400 3.0 sections B and C
+Financial Economics
+Fall 2019
+Time and Location. Section B: Th, 7-10pm, CB 219. Section C: Fr, 11:30am-2:20pm, SC 216.
+Instructor: Adam Wilczynski, VH 1054, tel.416-736-2100, ext. 20577
+Email: wilczyns at yorku dot ca;
+O¢ ce Hours: Th 6-6:45pm, F 2:40-3:30pm or by appointment
+TA: TBA
+Textbook: Main text: Corporate Finance, McGraw Hill, 7th Canadian Edition by Ross, Wester…eld, Ja¤e,
+Roberts. Alternative: Fundamentals of Corporate Finance, 6th Canadian Edition by Brealey, Myers, Marcus,
+Maynes, Mitra. The two texts are close substitutes. Coverage in RWJR is more exhaustive, BM is a slightly
+easier read. Another optional textbook is Corporate Finance, 3rd Canadian Edition, Pearson Canada, by
+Berk, DeMarzo, Stangeland.
+Prerequisites: Introductory calculus and linear algebra; basic probability theory and statistics; intermedi-
+ate microeconomics
+Course Description:
+How do corporations raise capital? What determines prices of their securities? What is a …rm’s optimal
+capital structure? The goal of the course is to familiarize students with modern thinking on these subjects.
+Topics include cash ‡ow analysis under uncertainty, models of asset pricing, theories of …nancial markets
+e¢ ciency, and capital.structure questions like debt versus equity.
+Outline:
+Part I. Introduction and Preliminaries: Math Refresher (if necessary/requested) and Basic Accounting.
+(1.5 weeks)
+I.1.
+Role and signi…cance of …nancial markets and intermediaries.
+Review of relevant mathematics:
+In…nite series, convergence and limit; Probability theory: random variable, mean, variance, covariance. Sta-
+tistical inference.. Reference: class notes, any texts you used in calculus, linear algebra, probability theory
+and statistics classes.
+I.2.
+Accounting in a nutshell: balance sheet, income statement, distinction between cash ‡ow and
+accounting income. References: chapters 2,3 of RWJR, chapter 3 of BM.
+Part II. Valuing Cash Flow Streams, Capital Budgeting. (5 weeks)
+II.1.Time value of money: the present value (PV) approach to assessing cash ‡ow streams. Present values
+of annuity and perpetuity.
+Applications in occupational choice, retirement saving, returns to schooling,
+insurance, home mortgages. E¤ect of compounding frequency on PV. Interplay between taxation and time
+value of money. References: Class lecture notes; RWJF chapters 4, 5; BM chapter 4; BDS chapter 4.
+II.2. Valuing bonds and stocks; the discounted dividend model. References: Class notes; RWJR chapters
+5, 6 and 26.5; BM chapters 5, 6; BDS chapters 8, 9.
+II.3. The Net Present Value (NPV) approach to evaluating investment opportunities. Alternative in-
+vestment rules: Average Accounting Return, Internal Rate of Return, Payback Period, Pro…tability Index.
+Interplay between the rules. References: RWJR chapter 7, BM chapter 7, BDS chapter 6.
+II.4. Additional topics in business project assesment: e¤ect of corporate taxes on business project value;
+calculating cash ‡ows in presence of capital cost allowance; "What if" questions: sensitivity, scenario, and
+break-point analysis. Value of option to extend/terminate when project cash‡ows are uncertain. References:
+RWJR chapters 8, 9; BM chapters 8, 9; BDS chapter 7
+Part III. Risk Pricing (4-5 weeks)
+III.1. Basic measures of asset risk and how …nancial markets incorporate them in valuation. Empirical
+return statistics.
+III.2. Portfolio theory, Capital Asset Pricing Model (CAPM), the beta coe¢ cient approach,
+III.3. Replicating portfolios, the no-arbitrage principle.
+III.4. Models based on Arbitrage Pricing Theory (APT).
+References: RWJR chapters 10-12, BM chapters 10-11, BDS 10-13 Material in III.3 - class notes, BDS
+chapter 3.
+Part IV. Cost of Capital, Market E¢ ciency
+IV.1 Cost of capital as a function of …rm’s investment project, …rm’s overall risk, operational and …nancial
+leverage, taxes, and agency problems. Reference: RWJR ch. 13, BM ch. 12, BDS ch. 14.
+IV.2 Can investors time the market? Alternative forms of E¢ cient Markets Hypothesis. Empirical tests.
+Reference: RWJR ch.14.
+Grading: There will be a midterm exam (40% of …nal grade) tentatively scheduled on Thursday, October
+24 for section B and on Friday, October 26 for section C. There will also be …nal exam (60%) in December.
+Exam weights are non-transferable.The midterm will cover parts I and II of the syllabus. The …nal will be
+comprehensive. One or two problem sets may also be distributed in class. Those will be for practice only
+and will not count towards …nal grade. In marginal cases, class activity may count.
+Missed Exam Policy: A student absent from writing an exam(s) will receive a mark of ’0’for the missed
+exam.
+Academic Honesty Policy: Conduct that violates the ethical or legal standards of the University com-
+munity or of one’s program or specialization may result in serious consequences. Students should look at
+the SENATE POLICY ON ACADEMIC HONESTY found in the following locations:
+1. The New Students’Handbook (p. 109):
+http://www.yorku.ca/laps/students/pdf/NSH09-10.pdf
+2. The York University Secretariat:
+http://www.yorku.ca/secretariat/policies/document.php?document=69
+2

@@ -1,0 +1,257 @@
+ 
+95-719 Accounting and Finance Analytics 
+Course Syllabus, Fall 2023 (Mini 1) 
+ 
+Instructor 
+Jillian Stephenson 
+Email: jstephe2@andrew.cmu.edu 
+Office: HBH 3011 
+Office Hours  
+Tuesdays - 12:00pm-1:00pm (via Zoom),  
+Thursday/Friday  - by appointment only
+ 
+Lecture 
+Section F – Monday and Wednesday 9:30am – 10:50am – Hamburg Hall 1005 
+ 
+Teaching Assistants 
+TBD 
+ 
+TA Office Hours 
+TBD 
+ 
+Required Text 
+We will be using 3 textbooks for this course.  All textbooks are available on OpenStax.com.  Each class 
+session will have required reading that is to be completed before the lecture that is a subset of the full 
+text.  The links to the reading will be included in Canvas in the Modules for the course.  We will be only 
+using portions of each textbook, the required reading is only directly from the pages linked in Canvas.   
+Dahlquist, J., & Knight, R. (2022). Principles of Finance. OpenStax. https://openstax.org/books/principles-
+finance/pages/1-why-it-matters 
+Franklin, M., Graybeal, P., & Cooper, D. (2019). Principles of Accounting, Volume 1: Financial Accounting. 
+OpenStax. https://openstax.org/books/principles-financial-accounting/pages/1-why-it-matters 
+Franklin, M., Graybeal, P., & Cooper, D. (2019). Principles of Accounting, Volume 2: Managerial 
+Accounting. OpenStax. ttps://openstax.org/books/principles-managerial-accounting/pages/1-why-it-
+matters 
+Additional Resources 
+Investopedia.com has a lot of useful finance and accounting information that is relevant to the course.  
+Make sure for any calculations and ratios that we do during class, you need to use the formula from 
+class in your assignments and quizzes.  There are variations of formulas that will give you a different 
+answer and you will not get credit if you do not use the versions from class. 
+ 
+Course Description 
+The main objective of this course is to gain expertise in analyzing an organization's financial statements 
+and related disclosures, in order to evaluate its performance. Students will learn about the key 
+components of financial statements and then apply ratio and variance analysis to determine the 
+financial position of a company. By extracting data and analyzing financial statements, students will 
+improve their ability to make informed decisions about an organization's financial health. Toward the 
+end of the course, students will also learn about capital investment decisions and discounted cash flow 
+analysis, which can be used to support management decisions in various businesses. 
+Course Objectives 
+At the end of this course, you should be able to: 
+-Describe core accounting principles as well as locate financial information for publicly traded 
+companies. 
+-Define and classify accounts on the balance sheet, income statement and cash flow statement. 
+-Perform ratio and variance analysis on financial statements to identify trends and areas of concern for a 
+company. 
+-Evaluate capital budgeting techniques to determine financial viability of a project. 
+ 
+ 
+Course Organization 
+ 
+Canvas 
+The course will utilize Canvas for all material needed.  All dates for assignments and exams are included 
+in Canvas.  Class material is contained within the Modules tab in Canvas and organized by class session.  
+Important class information will be communicated via Canvas through announcements so please make 
+sure to check frequently.  (https://canvas.cmu.edu) 
+ 
+Reading Materials 
+Prior to each class there will be assigned reading from the required text which will be to your benefit to 
+complete prior to lecture.  Since this class is only 7 weeks, we have a lot of material to go through during 
+that time.  It is expected that you have read prior to lecture as we will be going over formulas and 
+problems that you should have already seen in the reading material.  If you have questions from the 
+reading, please ask as we review that section during lecture so topics can be clarified to help with your 
+understanding.  
+ 
+Grading Summary 
+Class Participation/Attendance – 10% 
+Group Project – 30% 
+Assignments – 20% 
+Quizzes – 40% 
+ 
+I will be using the following grading scale based on the weighting above: 
+ 
+A+ 98.0-100%   
+ B+ 88.0-89.9%  
+C+ 78.0-79.9%   
+R  69.9% and below 
+A 94.0-97.9%   
+ B 84.0-87.9%   
+C 74.0-77.9%  
+A- 90.0-93.9%    
+ B- 80.0-83.9%   
+C- 70.0-73.9% 
+ 
+The TA’s and I will work quickly to return assignments and quizzes via Gradescope/Canvas.  If you have a 
+grading dispute, this must be communicated via Gradescope for assignments and to the Professor for 
+the Quizzes.  You have one week from receiving your grade to submit a dispute.  You will need to 
+provide specific details/questions on the dispute and to which question it relates. 
+ 
+Attendance & Participation 
+Attendance for the course will be tracked via a sheet passed around at the beginning of the class.  It is 
+your responsibility to sign the sheet.  If you come to class late repeatedly, this will count as a missed 
+class.  You may miss 2 classes for any reason (job interview, sickness, deadlines, etc) and still receive the 
+full attendance points for the course.  You may notify me or the TA’s if you will miss class, however it is 
+not required.  If you miss more than 2 classes, you will be eligible for 90% of the attendance grade with 
+reductions for additional missed classes.   
+As an interactive class, you are expected to participate (e.g., engage with the professor and group 
+members during class). You may be awarded additional bonus points for extra effort. As a note, these 
+points are completely at the professor's discretion and based on direct observations during class and will 
+be assigned during final grading.  No additional extra credit or bonus points is offered during the course. 
+If there are extenuating circumstances that result in the class moving to a Remote environment via 
+Zoom, this will be communicated via Canvas.  Please make sure your announcements are turned on so 
+that you do not miss any of this communication. 
+ 
+Assignments 
+There will be individual assignments during the course which will account for a portion of your total 
+grade.  The assignments will be posted by Wednesday around 4:30pm of the associated week with a due 
+date by the following Thursday night at 11:59pm EST.  Any questions related to the assignments should 
+be addressed during lecture, office hours or during recitation so please do not wait until the last minute 
+to look at the assignment.   
+ 
+Your work is to be completed individually on the assignments.  You are welcome to ask other students 
+questions but completing the assignments together is not permitted.  Having possession of another 
+students’ assignment in any form is considered an Academic Integrity violation and will not be tolerated.  
+Assignments will be checked for plagiarism using the Turnitin application.     
+ 
+Assignments turned in after the due date will be eligible for a maximum of 90% of the original grade.  
+You have a late grace period of 24 hours past the due date to turn in the assignment for the reduced 
+grade.   Past the late grace period of 24 hours, assignments will not be accepted. 
+ 
+Free Pass – Each student is eligible for 1 free pass where you can submit an assignment within 24 hours 
+of the due date and you will still be eligible for 100% of the assignment points.  You must email the 
+Professor to use this free pass prior to the due date deadline.  You can only use this pass on Assignments 
+1 & 2. 
+ 
+Quizzes 
+There will be two quizzes in this course and both will be given during our scheduled class sessions.  The 
+quizzes will be given in person using Canvas with Respondus Lockdown Browser and will include multiple 
+choice, fill in the blank, true/false and matching questions.  Non-messaging calculators will be permitted 
+as well as 1 note sheet and scratch paper.  Anything discussed in lecture, required reading or 
+assignments is possible to be on the quiz.  If you miss a quiz or take the quiz remotely without prior 
+permission from the professor, you will receive a zero. 
+ 
+Group Project 
+During the second half of the course, you will be assigned a group project that will be completed by the 
+end of the course.  The project will require you to select companies to analyze and provide a written 
+report on the trends you have identified on each of the company’s financial statements as well as the 
+determination if a company should proceed with a capital budgeting purchase. 
+Academic Integrity 
+All assignments that you are submitting should be in your own words, not classmates and not directly 
+taken from the book or online resources.  You may work with classmates to discuss assignments and ask 
+questions, but the assignments are to be completed individually.  I will be checking for plagiarism 
+amongst assignments which includes having the same sentences as a classmate.  Cheating on 
+assignments or quizzes will not be tolerated and will be communicated to Your Program Director, The 
+Associate Dean and The Dean of Student Affairs at the University.  If you are caught cheating, your final 
+grade will be reduced by 2 letter grades.   
+https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html 
+ 
+You may use generative AI programs like ChatGPT during the class and/or assignments to help you 
+understand course content but not to generate answers to assignment problems.  Generative AI 
+programs rely on predictive models to generate content that may appear correct, but has been shown 
+to sometimes be incomplete, inaccurate, taken without attribution from other sources, and / or biased. 
+You are ultimately responsible for the content of the information you submit. However, you may not 
+attempt to pass off any work generated by an AI program as your own.  
+Accommodations for Students with Disabilities 
+If you have a disability and have an accommodations letter from the Disability Resources office, I 
+encourage you to discuss your accommodations and needs with me as early in the semester as possible. 
+I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you 
+may have a disability and would benefit from accommodations but are not yet registered with the Office 
+of Disability Resources, I encourage you to contact them at access@andrew.cmu.edu. 
+ 
+Additional Course/University Information: 
+Student Wellness 
+Please make it a priority to take care of yourself during the semester.  Focus on a healthy lifestyle to 
+help you achieve your goals and what you are hoping to accomplish during your time here.  There are a 
+variety of resources available to ask for help.  Don’t wait and get help if you feel that you need it. 
+ 
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety 
+or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) 
+is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling/. Consider 
+reaching out to a friend, faculty or family member you trust for help getting connected to the support 
+that can help. 
+ 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day 
+or night: 
+CaPS: 412-268-2922 
+Re:solve Crisis Network: 888-796-8226 
+If the situation is life threatening, call the police 
+On campus: CMU Police: 412-268-2323 
+Off campus: 911 
+ 
+Diversity 
+We are diverse in many ways, and this diversity is fundamental to building and maintaining an equitable 
+and inclusive campus community. Diversity can refer to multiple ways that we identify ourselves, 
+including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, 
+gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. Each of these 
+diverse identities, along with many others not mentioned here, shape the perspectives our students, 
+faculty, and staff bring to our campus. We, at CMU, will work to promote diversity, equity and inclusion 
+not only because diversity fuels excellence and innovation, but because we want to pursue justice. We 
+acknowledge our imperfections while we also fully commit to the work, inside and outside of our 
+classrooms, of building and sustaining a campus community that increasingly embraces these core 
+values.  Each of us is responsible for creating a safer, more inclusive environment. 
+Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They 
+contribute to creating an unwelcoming environment for individuals and groups at the university. 
+Therefore, the university encourages anyone who experiences or observes unfair or hostile treatment 
+on the basis of identity to speak out for justice and support, within the moment of the incident or after 
+the incident has passed. Anyone can share these experiences using the following resources: 
+Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150 
+Report-It online anonymous reporting platform: reportit.net username: tartans password: plaid 
+All reports will be documented and deliberated to determine if there should be any following actions. 
+Regardless of incident type, the university will use all shared experiences to transform our campus 
+climate to be more equitable and just. 
+Food Insecurity 
+If you are worried about affording food or feeling insecure about food, there are resources on campus 
+that can help. Email the CMU Food Pantry Coordinator to schedule an appointment: 
+ 
+Pantry Coordinator: 
+cmu-pantry@andrew.cmu.edu 
+412-268-8704 (SLICE office) 
+ 
+Student Academic Success Center 
+The Student Academic Success Center offers a wide variety of opportunities for students to deepen their 
+understanding of who they are as learner, communicator, and ultimately scholar.   They support student 
+success by providing academic coaching, communication consulting and workshops, accommodations 
+and support for students with disabilities, and language support for English language learners. The 
+program offerings are free and open to all students.   You can access the center here: 
+https://www.cmu.edu/student-success/programs/index.html 
+ 
+The following is a tentative schedule for the Mini.  Any changes will be 
+announced in class and through Canvas: 
+ 
+Date
+Lecture Topic
+Due Dates/Exams
+8/28/2023 Introduction to Financial Statements
+8/30/2023 Financial Statements & Accounting Principles
+9/4/2023
+NO CLASS 
+9/6/2023
+Balance Sheet - Current Assets 
+ Assignment #1 Due (9/7/23)
+9/11/2023 Balance Sheet - NonCurrent Assets
+9/13/2023 Balance Sheet - Liabilities
+ Assignment #2 Due (9/14/23)
+9/18/2023 Balance Sheet - Stockholders' Equity
+9/20/2023 QUIZ 1
+9/25/2023 Income Statement
+9/27/2023 Cash Flow Statement
+9/29/2023
+Part 1 - Group Project Due 5pm
+10/2/2023 Investment Decision Making
+10/4/2023 Investment Analysis Methods
+10/6/2023
+Part 2 - Group Project Due 5pm
+10/9/2023 Trend Analysis & Review
+10/11/2023 QUIZ 2
+10/13/2023
+Final Group Case & Peer Evaluation Submitted by 
+5pm

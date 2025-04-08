@@ -1,0 +1,419 @@
+ 
+1 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+ 
+ 
+ 
+MGMT 30A (Principles of Accounting I) 
+Winter Quarter 2020 
+ 
+CONTACT INFORMATION 
+ 
+Machiavelli W. Chao 
+TAs: Ellie Lee Hoekstra (jgoyer@uci.edu) 
+E-mail: mwchao@uci.edu 
+ 
+Hana Su (garrets@uci.edu) 
+ 
+Matt Klinger (balonsom@uci.edu) 
+Office: SB1 4313 
+Office Hours: By appointment only  
+ 
+ 
+ 
+PROFESSOR BIO 
+                                                                                                      
+Machiavelli W. Chao has been teaching at the Paul Merage School of Business 
+since 2003, and has been honored with numerous teaching awards from his 
+students, the Merage School and the university. He is UCI’s 2018 Lecturer of the 
+Year, and the recipient of the 2019 Merage Excellence in Teaching awards. 
+ 
+In the undergraduate program, he teaches financial accounting, individual, 
+corporate and partnership taxation, and business law.  In the Fully-Employed 
+MBA program, he teaches business law. As a full-time continuing lecturer, he often represents 
+the Merage School at speaking engagements and educational programs, and has been 
+interviewed by local and national newspapers regarding tax-related topics. He is the faculty 
+advisor for the Accounting Association, Beta Alpha Psi (the national accounting honor fraternity) 
+and Students Consulting for Non-Profit Organizations. 
+ 
+Upon graduation from Cal State Fullerton in 1990 with a Bachelors of Arts degree, cum laude, in 
+Business Administration with an emphasis in Accounting, he worked for three years at KPMG 
+Peat Marwick, LLP, rising to the level of supervising senior auditor. After entering law school, he 
+interned with the City Attorney of Huntington Beach, and the Orange County District Attorney, and 
+externed with the Honorable Thomas F. Crosby, Justice, California Court of Appeal, Fourth 
+District. Upon graduation from the University of Southern California in 1990 with his Juris 
+Doctorate, Mr. Chao worked for Ernst & Young, LLP, as a senior tax consultant. Later, as an 
+associate with Graham & James, LLP, he specialized in corporate and real estate transactions, 
+income tax planning and appeals, and estate planning. 
+ 
+From 1999 to current, he has been in his own private law practice in Orange County which serves 
+a wide range of clients, from high-wealth individuals to partnerships, multi-national corporations 
+to non-profit organizations, and local businesses to overseas clients. His firm specializes in 
+counseling clients in business and real estate transactions, including the formation of business 
+entities, the negotiation and implementation of business contracts and the purchase, sale and 
+lease of real estate. Additionally, he focuses on planning clients’ estates to minimize the effect of 
+estate and gift taxes through the implementation of estate planning strategies. Further, he advises 
+and represents clients before governmental taxing authorities. 
+ 
+2 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+COURSE OVERVIEW 
+ 
+One of the most important measurements of any business organization is the money that comes 
+in, and the money that goes out. And accounting is the key to keeping track of this money.  
+Accounting helps establish consistent procedures to record transactions, to organize these 
+transactions into common reports, and to analyze transaction patterns for informed decision-
+making.  Accounting ultimately helps a business determine its profitability, health and efficiency.   
+ 
+There are two primary goals in accounting. The first goal is to establish generally accepted 
+principles on how transactions are recorded to ensure all businesses report their financial results 
+consistently and fairly.  The second goal is provide tools to allow businesses to analyze financial 
+results so managers can make better-informed decisions and implement strategic goals. 
+ 
+Management 30A focuses on this first goal. The objectives of this course are to help students 
+understand the basic financial statements, and to identify the business activities which are required 
+to be reported within them.  This course emphasizes how information is gathered in an accounting 
+system, how this information is transformed into a common language, how this information is 
+recorded in a systematic manner, and how this information is presented in a way which allows 
+users to understand the results and operations of the business. 
+ 
+Additionally, another important objective of this course is to help students understand how the 
+gathering and reporting of financial information is affected by the decisions made by management, 
+and the changing environment of doing business. While many of the core components of financial 
+accounting have remained unchanged for over a century, digital technologies have resulted in 
+important innovations related to the accounting practices themselves.  Some examples are: 
+ 
+• The popularity of accounting information systems has helped accountants efficiently record 
+transactions, but has come at the cost of many accountants no longer being as familiar with 
+specific accounting principles and the knowledge of how to make journal entries.  You will 
+learn about generally accepted accounting principles, and the application of these principles 
+to different types of businesses, ranging from sales businesses to service providers, and 
+from traditional brick-and-mortar stores to e-commerce websites.  
+• With the use of connected computer systems allowing just-in-time reporting of sale, the 
+gathering of information on sales within a store is now near-instantaneous.  You will learn 
+when revenue should be properly recognized by a business, and how this revenue is 
+properly reported on the financial statements. 
+• The digitization of goods, parts and supplies management systems allows alerts to be sent 
+to managers as to when to re-order goods to restock shelves, supplies for employees and 
+parts for manufacturing, allowing managers to take better advantage of fluctuations in 
+market prices. You will learn how cost of goods sold are recorded, and the effect on the 
+profitability of a business. 
+• The ability to customize products, especially through e-commerce, has changed how 
+businesses allocate their costs to manufactured goods.  You will learn various methods of 
+inventory costing, and why different businesses use specific methods of inventory costing. 
+ 
+The amount of information that must be correctly reported can be overwhelming, and you may 
+be intimidated by all the new accounting principles and rules you will learn in our course.  
+However, through our e-textbook and WileyPlus, you will have access to integrated digital tools 
+to help you understand and practice key accounting concepts so that you will be able to learn 
+them efficiently and effectively. 
+ 
+3 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+Learning accounting is not difficult.  The key is to not just merely memorize principles.  Rather, 
+the best way to learn accounting is to understand the principles by applying them repeatedly to 
+many different examples. Accounting is not just about numbers; rather, it also involves a 
+significant amount of reasoning and analysis.  Because each principle learned affects subsequent 
+principles, it is imperative you stay focused, prepare all of the materials ahead of time, and 
+complete each of the assignments. 
+ 
+COURSE MATERIALS 
+ 
+• 
+Financial Accounting: Tools for Business Decision Making (9th edition) 
+Paul D. Kimmel, Jerry J. Weygandt and Donald E. Kieso 
+ 
+Every student must purchase access to WileyPlus, the online homework solution for our course.  
+It also contains practice questions and quizzes to help you practice and understand the course 
+materials.  And, most importantly, WileyPlus comes with access to an e-textbook. To register for 
+WileyPlus, click on the any Adaptive Practice or WileyPlus assignment in Canvas. You will 
+automatically be directed to WileyPlus where you can complete the registration process.   
+ 
+COMMUNICATION POLICY 
+ 
+Because this is an online course, our interactions are intended to be conducted exclusively online. 
+This does not mean we are unavailable or unwilling to assist you. Rather, your primary source of 
+assistance and communication will be through our weekly Zoom.us conference sessions and the 
+Canvas discussion forums. 
+ 
+Please limit your e-mails to only those matters which cannot be solved through the Canvas 
+discussion forums. If you must e-mail, send it to: MaxMerage@gmail.com. For the subject line, 
+please use this format: MGMT 30A: (insert your topic). Our TAs and I have joint access to all e-
+mail sent to this address, and one of us can address your issue efficiently. Please consider it 
+would be unreasonable to expect us to be monitoring e-mail on a 24-hour basis. As such, we 
+commit to respond to your e-mail within twenty-four (24) hours. 
+ 
+If you have any questions regarding a personal or confidential matter, you may e-mail me directly 
+at mwchao@uci.edu.  
+ 
+GRADING 
+ 
+ 
+Quizzes #1 and #2 (February 1/2) 
+10% 
+Quizzes #3 and #4 (February 15/16) 
+10% 
+Quizzes #5 and #6 (February 29/March 1) 
+Final Examination (March 14-17, March 16-19) 
+Adaptive Practice/WileyPlus 
+Zoom.us Conference Sessions 
+Canvas Discussion Forums 
+Group Project 
+10% 
+26% 
+10% 
+12% 
+8% 
+10% 
+Peer Review 
+4% 
+ 
+ 
+ 
+     100% 
+ 
+ 
+QUIZZES AND EXAMINATIONS (56%) 
+Each set of quizzes will cover the materials discussed in the immediately prior classes—these 
+quizzes are NOT cumulative—and will consist of two (2) separate quizzes. The first quiz will 
+consist of multiple-option questions, while the second quiz will consist of up to two (2) short-
+ 
+4 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+answer questions.  The Canvas quiz window opens at 8:00 a.m. on Saturday, and closes at 11:00 
+p.m. on Sunday. The goal of these quizzes is to give you an incentive not to fall behind. 
+ 
+At the end of our class, there will be a two-part cumulative final examination. The first part will be 
+administered via Canvas, and will consist of multiple-option questions. The second part will be 
+administered either via Canvas (with Examity) or at a pre-set date in-person, and will consist of 
+short-answer questions. The goal of the final examination is to test your overall knowledge and 
+understanding of accounting. 
+ 
+ADAPTIVE PRACTICE/WILEYPLUS (10%) 
+Accounting is impossible to learn by mere osmosis. Because the most effective way to learn is 
+through practice, practice and more practice, you must complete two (2) types of assignments. 
+ 
+First, for each chapter of our textbook, you will be assigned at least twenty (20) questions through 
+Adaptive Practice. Be warned: if Adaptive Practice believes you need additional practice, you may 
+be assigned additional questions.  Adaptive Practice is a self-assessment tool designed to help 
+you learn the course materials while identifying your strengths and weaknesses. All Adaptive 
+Practice pre-homework will be due every Monday at 11:00 p.m. Second, for each chapter of our 
+textbook, you will be assigned homework on WileyPlus. All WileyPlus homework assignments will 
+be due every Saturday at 11:00 p.m. 
+ 
+If you have issues with Adaptive Practice or WileyPlus, click the “WileyPlus Support” button in the 
+left-hand-side navigation bar on Canvas, where you will find a “Live Chat” option.  Before 
+contacting us about any issue with Adaptive Practice or WileyPlus, you must have a WileyPlus 
+ticket number which can only be obtained by first contacting WileyPlus Support. 
+ 
+PARTICIPATION (20%) 
+In addition to our expectation that you view all lecture videos in Canvas, there are two (2) 
+components to your required participation in our class. First, each week, you are required to attend 
+at least one (1) online Zoom.us conference session, and actively participate in this session. Active 
+participation means asking questions, answering questions or contributing meaningful comments 
+to the session. Our Canvas website will provide you information as to when each week’s online 
+Zoom.us conference sessions will be held. 
+ 
+Second, you must contribute posts to the Canvas discussion forums. Each discussion forum 
+requires a minimum number of posts—it varies for each Canvas discussion forum—by specified 
+deadlines. The goal is for our class to work together to help you learn, and to increase your 
+engagement with the course materials. These posts may consist of starting a new topic, 
+answering questions, or making other comments relevant to our class. While the discussion 
+forums will be moderated, it is unreasonable to expect us monitor them on a 24-hour basis.  
+ 
+GROUP PROJECT/PEER REVIEW (14%) 
+Because accounting will be new to you and may be confusing, it is important for you to have a 
+network of fellow students to bounce ideas off of, or to seek assistance from.  As such, you will 
+be assigned into a group. Each group will complete a project which will require you to track 
+financial transactions for a fictional company. Initially, this project will consist of the periodic 
+posting of journal entries.  By the end of the quarter, each group must prepare a complete set of 
+financial statements.   
+ 
+Additionally, so as to provide an incentive to you to contribute to your group, each group will 
+collectively complete a peer review to be completed to evaluate the performance, participation 
+and contribution of each group member. 
+ 
+5 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+COURSE SCHEDULE 
+ 
+WEEK/CLASS 
+TOPIC 
+OTHER 
+WEEK #0 
+December 30 to 
+January 5 
+ 
+• Academic Honest 
+and Syllabus Quizzes  
+• Introductory Post in 
+Discussion Forum 
+WEEK #1 
+January 6 to 12 
+Module 1 (1A to 1E) 
+Chapter 1: Introduction to Financial Statements 
+Chapter 2: A Look at Financial Statements 
+ 
+WEEK #2 
+January 13 to 19 
+Module 2 (2A to 2E) 
+Chapter 3: The Accounting Information System 
+ 
+WEEK #3 
+January 20 to 26 
+Module 3 (3A to 3D) 
+Chapter 4: Accrual Accounting Concepts (Part 1) 
+ 
+WEEK #4 
+January 27 to 
+February 2 
+Module 4 (4A to 4C) 
+Chapter 4: Accrual Accounting Concepts (Part 2) 
+ 
+ONLINE QUIZZES 
+February 1/2  
+Chapters 1 through 4 
+ 
+WEEK #5 
+February 3 to 9 
+Module 5 (5A to 5D) 
+Chapter 5: Merchandising Operations 
+ 
+WEEK #6 
+February 10 to 16 
+Module 6 (6A to 6E) 
+Chapter 6: Reporting and Analyzing Inventory 
+• Start Group Project 
+WEEK #7 
+February 17 to 23 
+Module 7 (7A to 7C) 
+Chapter 8: Reporting & Analyzing Receivables 
+ 
+ONLINE QUIZZES 
+February 22/23  
+Chapters 5 through 8 (not including Chapter 7) 
+ 
+WEEK #8 
+February 24 to 
+March 1 
+Module 8 (8A to 8F) 
+Chapter 9: Reporting and Analyzing Long-Lived 
+Assets 
+ 
+WEEK #9 
+March 2 to 8 
+Module 9 (9A to 9J) 
+Chapter 10: Reporting and Analyzing Liabilities 
+Chapter 11: Reporting and Analyzing Equity 
+ 
+ONLINE QUIZZES 
+March 7/8 
+Chapters 9 through 11 
+ 
+WEEK #10 
+March 9 to 15 
+Module 10 (10A to 10D) 
+Chapter 12: Statement of Cash Flows 
+• Submit Online 
+Course Evaluation 
+• Complete Peer 
+Evaluation Survey 
+ONLINE 
+MULTIPLE-OPTION 
+FINAL 
+March 14 to 17 
+Comprehensive (Everyone takes this) 
+ 
+SHORT-ANSWER 
+FINAL 
+March 16 to 19 or 
+March 19 
+Comprehensive (Choose either:) 
+• Online with Examity from March 16 to 19 
+• In-class on March 19 from 1:30 p.m. to 3:30 
+p.m. in SB1 Auditorium 
+• Turn in Group Project 
+(on Wednesday) 
+ 
+ 
+ 
+6 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+GUIDELINES AND POLICIES 
+ 
+ACADEMIC HONESTY 
+UCI’s policies requiring academic honesty will be strictly applied and enforced. Academic 
+dishonesty includes, but is not limited to, obtaining copies of, or information about, any prior 
+quizzes or examinations given in prior classes.  This specifically includes the use of test banks.  
+It also includes turning in any work product, including your work on quizzes or examinations, which 
+is the not the result of your sole effort, and collaborating with any third party or resource when 
+taking any quizzes or examinations.  For information on the duties imposed upon you under UCI’s 
+policy on academic honesty, go to: http://senate.uci.edu/academic-integrity/. 
+ 
+Academic dishonesty will result in an F for the course plus additional university-level disciplinary 
+action. There will be no exceptions made to this policy as I have no tolerance whatsoever for 
+academic dishonesty. Resist any urge you have to engage in any type of academic dishonesty.  
+Do not believe you can get away with it as you will be caught, and you will be punished.   
+ 
+CHANGES AND MODIFICATIONS 
+While every effort is made to provide accurate information, I reserve the right to change this 
+Syllabus, including, but not limited to assignments and dates, as necessary in my sole discretion.  
+Every effort will be made to announce any changes in class.  However, changes may be made 
+without prior notice.  You are encouraged to check the course website each week.  
+ 
+PLEAS FOR RE-GRADING A QUIZ OR AN EXAM, OR FOR A HIGHER GRADE 
+If you ask us to re-look at a question on a quiz or an exam—not because we made a mistake—
+because you are looking for extra points to boost your final course grade, we will be happy to do 
+so. But consider yourself warned: we will not just look at that one question; rather, we will re-grade 
+the entire quiz or final exam. This may result in a higher quiz or exam grade. But more likely than 
+not, your quiz or exam grade will fall as we realize we were too generous when we originally 
+graded your quiz or exam. Make this request at your own risk!  
+ 
+This same warning applies to any request for additional points at the end of the quarter. This will 
+result in us re-examining all points which have been awarded to you during our course. 
+ 
+EXCUSES 
+You are an adult, and you are required to act like one. This means you must read this Syllabus—
+I don’t write this for my own pleasure—and pay attention to and follow all instructions. Additionally, 
+you are expected to not make excuses for failing to complete any requirement of this course, to 
+take any quiz or examination as scheduled, or to submit any required assignment.   
+ 
+Any request for an exception to any rule or requirement, or to postpone any scheduled due date, 
+will generally not be looked upon favorably, especially if your request includes any of the following 
+phrases, or similar: “I didn’t know” or “I forgot” or “I didn’t have time.”  Further, if you have an 
+assignment or quiz to complete, and you wait until near the last minute to start it, then you better 
+hope your Internet connection does not fail because we will not grant any extensions because 
+your Internet failed unexpectedly.  Plan ahead accordingly. 
+ 
+HELP! 
+Our goal is for you not just to pass our course, but to have a thorough understanding of our subject 
+matter.  Thus, if you need assistance, please follow these steps in order. First, check to see if the 
+Syllabus contains the information you are looking for. Second, post your question in the Canvas 
+discussion forums which should be your primary source of assistance. 
+ 
+7 
+Syllabus (Winter Quarter 2020) 
+© 2020 Machiavelli Chao | Unauthorized use, dissemination or duplication of this material is strictly prohibited 
+REQUESTS FOR LETTERS OF RECOMMENDATION 
+Before making a request for a letter of recommendation, make sure you have met these minimum 
+requirements first: (1) you have completed at least two (2) courses from me, one (1) of which was 
+an upper-division course; and (2) you received an A- or better in all of these courses. If you do 
+not meet these minimum requirements, because of the already-high volume of requests I receive 
+from former students, the chances of me agreeing to write a letter of recommendation for you will 
+be very low. Of course, exceptions may be made, but they are generally few and far between. 
+ 
+DIVERSITY AND INCLUSIVENESS POLICY 
+The University of California, in accordance with applicable Federal and State law and University 
+policy, does not discriminate on the basis of race, color, national origin, religion, sex, gender 
+identity, pregnancy, physical or mental disability, medical condition (cancer related or genetic 
+characteristics), ancestry, marital status, age, sexual orientation, citizenship, or service in the 
+uniformed services. The University also prohibits sexual harassment. This non-discrimination 
+policy covers admission, access and treatment in University programs and activities. 
+ 
+ 

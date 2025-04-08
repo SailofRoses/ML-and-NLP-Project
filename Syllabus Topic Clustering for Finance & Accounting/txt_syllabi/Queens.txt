@@ -1,0 +1,566 @@
+Course Syllabus 
+Course code 
+ECON130028.01 
+Compiled date 
+2020.02 
+Course title (Chinese) 
+公司财务学 
+Course title (English) 
+Corporate Finance 
+Credits 
+3 
+Total hours 
+54 
+Instructor 
+Qi Quan 
+Department 
+School of Economics 
+Semester 
+Spring 
+Contact email 
+quanqi@fudan.edu.cn 
+Prerequisite courses 
+Microeconomics 
+(A) Classification of the course 
+          Comprehensive   □        Fundamental    □ 
+          Compulsory      □        Elective        □√    Other  □      
+(B) Course objectives and contents 
+The purpose of this course is to help the students develop general insights on 
+important topics in the area of corporate finance.  After this course, they are expected to 
+develop skills and knowledge necessary for the financial management of the corporations. 
+Also, they will learn to find answers to corporate issues based upon theoretical models and 
+empirics in this course. 
+(C) Textbooks and references (at least five) 
+  NO. 
+Author 
+Title 
+Publisher 
+Year 
+1 
+Jonathan Berk 
+and Peter 
+Demarzo 
+Corporate Finance 
+ 
+2016 
+or 
+previ
+ous 
+versi
+ons 
+2 
+Richard 
+A.Brealey，
+Stewart Myers, 
+Franklin Allen 
+Principles of Corporate 
+Finance 
+McGraw Hill Higher 
+Education 
+2013 
+3 
+ 
+Lecture Notes 
+ 
+ 
+3 
+Thomas E. 
+Copeland, J. 
+Fred Weston 
+and Kuldeep 
+Shastri 
+Financial Theory and 
+Corporate Policy  
+ 
+Pearson Education 
+Limited 
+2013  
+4 
+George M. 
+Constantinides, 
+Milton Harris 
+and Rene M. 
+Stulz  
+Handbook of the Economics 
+of Finance, Volume 2A: 
+Corporate Finance 
+ 
+North Holland 
+2013 
+6 
+ 
+Journal of Financial 
+Economics 
+Elsevier 
+ 
+7 
+ 
+Journal of Finance 
+Wiley-Blackwell 
+ 
+8 
+ 
+Journal of Corporate 
+Finance 
+Elsevier 
+ 
+ 
+ 
+ 
+ 
+ 
+(D) Teaching arrangement and key points 
+Chapter  
+Hour 
+Contents and key 
+points 
+Text/ 
+refere
+nce 
+Homework and questions 
+Course outline 
+and 
+introduction to 
+corporate 
+finance 
+3 
+The distinction between 
+corporate finance and 
+accounting. What is 
+corporate finance 
+about? Different 
+forms of firms, etc 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+Discussion in Class 
+nce 
+books 
+Present Value 
+3 
+PV and NPV, Time 
+Line, three rules, and 
+the 
+value 
+of 
+a 
+stream of cashflows, 
+etc 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Calculate PV of different 
+streams of cashflows 
+How to value 
+bonds and 
+common stocks 
+3 
+What 
+is 
+bond? 
+Different 
+types 
+of 
+bond; The calculation 
+of yield to maturity; 
+What is stock? How 
+to value stocks with 
+Constant 
+Growth 
+Model 
+and 
+other 
+models? etc. 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Calculation of the prices of 
+different types of bond, 
+yield-to-maturity; Value 
+the stocks with growth 
+models. 
+Risk and 
+Return 
+3 
+How to define risk? 
+How 
+to 
+measure 
+risk 
+and 
+return? 
+How 
+to 
+calculate 
+historical returns; etc. 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Calculation 
+of 
+return, 
+standard 
+deviation, 
+covariance 
+and 
+correlation. Calculation of 
+historical risk and return. 
+CAPM  and 
+alternative 
+models  I 
+3 
+What is a portfolio? 
+How to measure the 
+risk and return of a 
+portfolio? What is 
+diversification? The 
+efficient 
+portfolio 
+and 
+tangent 
+portfolio; 
+Security 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+Measure the risk and return 
+of a portfolio, calculate 
+beta and use beta to 
+calculate 
+the 
+expected 
+return of the security 
+market line 
+refere
+nce 
+books 
+CAPM and 
+alternative 
+models  II 
+3 
+CAPM 
+model 
+and 
+other asset pricing 
+models; 
+efficient 
+market and market 
+behaviors 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class about 
+different 
+asset 
+pricing 
+models 
+Capital 
+budgeting I 
+3 
+Why NPV? Compare 
+with payback period, 
+book rate of return 
+and IRR; What is 
+company and project 
+cost of capital? 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class 
+Capital 
+budgeting II 
+3 
+Calculate 
+free 
+cash 
+flow from financial 
+statements; 
+Different analyses to 
+deal 
+with 
+the 
+uncertainty 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Calculate the free cashflow 
+from the project 
+Financing I 
+3 
+Does financing add 
+value to the firm? 
+Sources of financing; 
+The 
+mechanics 
+of 
+IPO and SEO 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+Discussion in class 
+refere
+nce 
+books 
+Financing II 
+3 
+The 
+theories 
+of 
+financing: 
+Modigliani 
+and 
+Miller, 
+trade-off 
+theory, 
+signaling 
+theory 
+and 
+pecking-order theory  
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class 
+Dividend 
+policy 
+ 
+Cash dividend, share 
+repurchase 
+and 
+other 
+forms 
+of 
+dividend; 
+Related 
+theories 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class 
+Financial 
+analysis and 
+planning I 
+3 
+Capital 
+budgeting 
+when financing is 
+not 
+irrelevant; 
+WACC 
+method, 
+Adjusted 
+NPV 
+method 
+and 
+Free 
+Cash Flow to Equity 
+method  
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Calculate the cost of capital 
+when financing is not 
+irrelevant; Calculate the 
+cost 
+of 
+capital 
+with 
+different methods. 
+Financial 
+analysis and 
+planning II 
+3 
+Analysis of financial 
+statements; 
+sources 
+and uses of funds; 
+different 
+financial 
+ratios 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+Calculate 
+the 
+uses 
+and 
+sources 
+of 
+funds; 
+Understand 
+different 
+financial ratios and use 
+them to judge the status 
+quo of the firm 
+refere
+nce 
+books 
+Corporate 
+governance 
+3 
+What 
+is 
+corporate 
+governance? 
+What 
+are 
+the 
+main 
+mechanisms 
+of 
+corporate 
+governance? 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class 
+Case study 
+3 
+Capital budgeting with 
+financial statements 
+Relate
+d 
+chapte
+rs in 
+the 
+textbo
+ok 
+and 
+refere
+nce 
+books 
+Discussion in class 
+(E) Grading 
+Check Forms  Check in           5%        Homework      15%   
+             Midterm exam              Final exam      80%   
+ 
+Exam form    Open-book  □  Closed-book  □   Other  □ 
+(F) Online sources 
+ Personal homepage at http://www.econ.fudan.edu.cn/teacherdetail.php?tid=66 for 
+lecture notes 
+ 
+ 
+ 
+ 
+ 
+(G)  A brief introduction of the instructors (200-300 words): 
+The lecturer teaches undergraduate course "Corporate Finance", graduate course 
+"Finance II" and EMA course "China's capital markets". She has also published papers in 
+internationally renowned journals such as Journal of Comparative Economics, Journal of 
+Law and Economics and Journal of Financial Intermediation, and has been in charge of 
+research projects of National Natural Science Fund and Shanghai Pujiang Talents plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*If the course is provided by several instructors, please indicate the one responsible for the course. 
+ 

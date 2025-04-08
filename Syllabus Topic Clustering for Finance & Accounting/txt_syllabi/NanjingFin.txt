@@ -1,0 +1,47 @@
+                                                    南京大学本科生核心课程教学大纲 
+Title: Monetary Finance and Banking 
+Course Number: 09010020 
+Session: 60 
+Credit: 3 
+Prerequisites:  
+Students should have learned the following two courses: “Microeconomics” and 
+“Macroeconomics”.   
+Main Contents: 
+Monetary banking is the study of finance at the macro level, focusing on the functions and 
+effects of money and the financial system in economic operation, as well as the relationship between 
+monetary operation and economic operation. The course focuses on both the exposition of the basic 
+theories of monetary economics and the introduction of practical knowledge related to the financial 
+system, and emphasizes the integration with the Chinese reality. It helps students to understand the 
+operation mechanism of the financial system and the relationship between finance and economic 
+operation. 
+Main Chapter:  
+Chapter one: Preface: 
+1: The Study of Monetary Banking 
+2: Introduction to the Financial System  
+3: Introduction to the Monetary System 
+Chapter two: Interest Rate 
+1: Concepts and Measurement of Interest Rates 
+2: Yield to Maturity  
+3: The Term Structure and Risk Structure of Interest Rates  
+Chapter three: Financial Market 
+1: Money Market, Bond Market and Interest Rate Marketisation 
+2: Stock Market and its Development in China 
+3: Derivative Financial Markets and their Development in China 
+Chapter four: Financial Institution 
+1: Commercial Banks and their Development in China 
+2: Introduction to Non-Bank Financial Institutions 
+3: The Direction of Reform of China's Financial System 
+Chapter five: Central Banks and the Money Supply 
+1: Introduction to Central Banks 
+2: Central Banks and the Money Supply 
+3: Monetary Policy of Central Banks 
+Ways of Instruction: lectures with the supplement of class discussions  
+Textbooks and References: 
+ 
+Fan Conglai, Wang Yuwei and Zhou Geng, Monetary Banking (5th Edition), Nanjing 
+University Press, 2021. 
+ 
+Frederic S. Mishkin, The Economics of Money, Banking and Financial Markets (11th 
+Edition), Renmin University Press, 2021. 
+Instructor: Wang Yuwei, Zhou Geng 
+Course Evaluation: Final exam, group work and one experiment 

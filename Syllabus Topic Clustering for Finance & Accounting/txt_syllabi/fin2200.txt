@@ -1,0 +1,229 @@
+ 
+ 
+財務及保險學系 
+Department of Finance and Insurance 
+ 
+Course Syllabus / Outline (2015-2016) 
+ 
+ 
+ 
+Course Title 
+ 
+: Corporate Finance 
+ 
+Course Code 
+ 
+: FIN2200 
+ 
+No. of Credits/Term 
+ 
+: 3 
+ 
+Mode of Tuition 
+ 
+: Sectional Approach 
+ 
+Teaching Hours 
+ 
+: 42 hours (3 hours per week) 
+ 
+Category in Major Programme 
+: Stream Required - Finance Stream 
+ 
+Prerequisite 
+ 
+: BUS201/BUS2201 Financial Management 
+ 
+ 
+Brief Course Description 
+ 
+Building on core Financial Management course, this course further elaborates the theory and 
+practice of corporate finance.  The topics addressed in this course include the concept and 
+techniques of valuation of cash flows, capital budgeting decisions, risk and return, cost of 
+capital, capital structure theories and decisions, dividend theories and policy, working capital 
+management, and corporate restructuring. 
+ 
+ 
+Learning Outcomes 
+ 
+On completion of this course, students will be able to: 
+ 
+1. Estimate the cost of capital for the whole firm, individual divisions as well as the 
+specific projects with advanced techniques such as the marginal cost of capital (MCC) 
+schedule  
+ 
+2. Solve capital budgeting problems by risk-adjusted discount rate approach and 
+certainty equivalent approach 
+ 
+3. Explain and evaluate the Modigliani and Miller (MM) capital structure model (with 
+and without taxes) and the Miller model 
+ 
+4. Describe the impact of financial distress, agency costs and asymmetric information on 
+capital structure 
+ 
+5. Explain dividend theories such as the residual theory of dividends and the Miller and 
+Modigliani’s irrelevance argument 
+ 
+6. Identify other factors that influence dividend policy 
+ 
+ 
+1 
+ 
+ 
+財務及保險學系 
+Department of Finance and Insurance 
+ 
+Course Syllabus / Outline (2015-2016) 
+ 
+ 
+ 
+7. Apply the principles of working capital management 
+ 
+8. Describe the theories and practice of corporate restructuring such as mergers, 
+acquisitions, leveraged buyouts (LBOs), divestitures and spin-offs. 
+ 
+Measurement of Learning Outcomes 
+ 
+1. The midterm and final exam consist of largely open-end questions and workout 
+problems while some objective questions may also be used 
+ 
+2. Open-end questions assess students’ comprehension of principles and application of 
+theories.  
+ 
+3. Workout problems measure students’ mastery of financial problem-solving techniques 
+and skills. 
+ 
+4. Objective questions gauge students’ recognition of basic terms and skills. 
+ 
+Indicative Content 
+ 
+Review of Basic Concepts 
+ 
+Goals of the firm and the role of the financial manager within the organisation 
+Ethics and firm value 
+Discounted cash flow analysis 
+Valuation of securities. 
+Risk and return. 
+ 
+Cost of Capital 
+ 
+Cost of debt, cost of preferred stock, cost of common equity and retained earnings 
+Weighted average cost of capital (WACC) 
+Divisional and project-specific required rates of return 
+The marginal cost of capital (MCC) schedule and breaks/jumps in the MCC schedule  
+ 
+Risk and Capital Budgeting 
+ 
+Review of basic capital budgeting decision methods 
+Risk-adjusted discount rate approach and certainty equivalent approach 
+ 
+Capital Structure Decisions 
+ 
+The development of capital structure theory 
+The Modigliani and Miller (MM) Model with and without taxes 
+The Miller Model 
+ 
+2 
+ 
+ 
+財務及保險學系 
+Department of Finance and Insurance 
+ 
+Course Syllabus / Outline (2015-2016) 
+ 
+ 
+ 
+Criticisms of the MM and Miller Models 
+The impact of financial distress, agency costs and asymmetric information 
+ 
+Dividend Policy 
+ 
+Dividend theories such as the Residual Theory of Dividends 
+Arguments for and against the relevance of dividend policy 
+Miller and Modigliani’s Irrelevance Argument 
+Other factors that influence dividend policy 
+ 
+Working Capital Management 
+ 
+Principles of working capital management 
+Cash and marketable securities management 
+Short-term financing 
+ 
+Corporate Restructuring 
+ 
+Mergers and acquisitions 
+Leveraged buyouts (LBOs) 
+Divestitures and spin-offs 
+Other forms of restructuring 
+ 
+ 
+Teaching Method 
+ 
+Students are strongly recommended to participate in class discussion related to the course.  
+They are required to read assignments and do assigned homework before coming to class. 
+ 
+ 
+Assessment 
+Important Note: Students shall be aware of the University regulations about dishonest 
+practice in course work and the possible consequences as stipulated in the Regulations 
+Governing University Examinations. 
+Continuous Assessment: Term Project  
+15% 
+This team-based term-based project requires students to research on an assigned topic 
+in corporate finance.  Students will report their findings in the form of class 
+presentation and written report.          
+ 
+Continuous Assessment: Two Tests 
+ 
+35% 
+Tests will use computational questions to test students’ mastery of basic skills and 
+tools commonly used in solving financial problems.  Open-end and short essay 
+questions may also be given to test students’ ability to articulate understanding of key 
+concepts. 
+ 
+3 
+ 
+ 
+財務及保險學系 
+Department of Finance and Insurance 
+ 
+Course Syllabus / Outline (2015-2016) 
+ 
+ 
+ 
+Examination: Cumulative Final 
+ 
+ 
+50% 
+Final examination tests will rely more heavily on workout problems, short essays, and 
+open-end questions to gauge students’ financial problem-solving skills and their 
+ability to articulate their understanding of key financial concepts. 
+ 
+ 
+Required Textbook 
+ 
+Corporate Finance by Stephen A. Ross, Randolph W. Westerfield, Jeffrey Jaffe, Joseph Lim, Ruth Tan, 
+and Helen Wong, McGraw-Hill Education (Asia), latest edition. 
+ 
+Supplementary Readings 
+ 
+Stephen A. Ross, Randolph W. Westerfield, Jeffrey F. Jaffe and Bradford D. Jordan, Modern 
+Finance Management, latest edition, McGraw-Hill. 
+ 
+For an alternative and in-depth presentation: 
+Brealey, R. A. & S. C. Myers, Principles of Corporate Finance, 7th ed., McGraw-Hill, 2003. 
+ 
+For a review of basic concepts and techniques:  
+Eugene F. Brigham and Michael C. Ehrhardt, Financial Management: Theory and Practice, 
+11th ed., Thomson/South-Western 2005 
+ 
+Journal  
+ 
+Euromoney 
+Asian Wall Street Journal 
+Asian Finance 
+Financial Management 
+ 
+ 
+ 
+4 

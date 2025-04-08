@@ -1,0 +1,607 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+ENGR 305 (3) Engineering Economic Analysis 
+ 
+APSC 305 Section 201 
+Instructor:  Dr. John Brereton 
+Email: john.brereton@ubc.ca 
+Office Hours:  by appointment, EME 3252  If my door is open, come in! 
+• 
+Lectures: Mondays, Wednesdays, Fridays  8:00 - 8:50 am, in COM 201 
+ 
+Academic Calendar Entry 
+ 
+ENGR 305 (3) Engineering Economic Analysis 
+Cost concepts, accounting, time value of money; depreciation and taxes; public sector projects; economic 
+evaluation techniques; handling uncertainty; sustainability in economic evaluation; societal context; 
+infrastructure management needs; project impacts, mitigating risk. Case studies. [3-0-0] 
+Prerequisite: Second-year standing in the B.A.Sc. program 
+ 
+UBC Okanagan Academic Calendar: http://www.calendar.ubc.ca/okanagan/ 
+ 
+Course Format 
+ 
+• 
+Three hours of lecture per week with in-class discussions, PowerPoint lectures with worked 
+examples. 
+• 
+Due to the ongoing COVID-19 pandemic, lectures will be held on-line for the first 2 weeks (at 
+least).  Access the Zoom lecture meetings according to the instructions posted on Canvas.   
+• 
+In-person lectures are expected to commence January 24 (subject to change).  Watch for 
+announcements on Canvas.  In-person lectures will also be accessible on-line via the Zoom link 
+and recorded.  Recorded lectures will be posted on the 305 Canvas Media Gallery. 
+• 
+Mid-term and Final Exams are tentatively scheduled to be held on campus in-person. 
+ 
+Course Overview, Content and Objectives 
+ 
+Engineering economics is a foundational skill set that every successful P.Eng. will rely heavily on 
+throughout their career.  It is the practice of allocating scarce resources - if, how, how much, and when - 
+to one or more engineering projects (i.e., economic decision making techniques for engineers), regardless 
+of your discipline.  Please don’t be deceived by the simple sounding nature of the word ‘economics’, 
+which by definition, is a social science that studies the valuation, production, distribution, and/or 
+consumption of goods and services (scarce resources), and the material welfare of humankind.  This 
+course therefore ties directly to and will enable you to fulfill your responsibilities under our Engineer’s 
+Code of Ethics, specifically, to hold paramount the protection of the environment and welfare of the 
+public!   
+ 
+ENGR 305 will involve traditional engineering economic concepts coupled with leading-edge, social cost 
+benefit analysis techniques, to reinforce emerging sustainability-oriented concepts and systems-based, 
+life-cycle analysis engineering approaches.  Moreover, you will be introduced to a myriad of engineering 
+economic concepts, each building on the previous, such that if you do not prep the posted notes, attend 
+the lectures, work the examples, and study hard, you will risk failing miserably – we have seen this 
+happen all too often.  Pay the costs (your time and effort) and reap the benefits (you pass ENGR 305, 
+leading to a successful career).  So already we are into engineering economics – the direct, indirect, and 
+external costs/benefits – the foundational concepts of passing this course!  We will apply these to a time 
+line (e.g. present value, future value), then adjust for their value as it varies over time (i.e. time value of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+money), and equip you with related cost-benefit analysis techniques for making related replacement and 
+project decisions. Of course, not all costs and benefits can be quantified in monetary forms, so we’ll give 
+you multiple account evaluation (MAE) and analytical hierarchy process (AHP) decision tools that help 
+when more abstract factors impact your decision.  Last, we’ll step back and look at all our assumptions 
+necessary to build a cash flow model and cost benefit analysis, asking ‘what if’ we are wrong, and what is 
+the risk we are 10%, 20% or more out on our estimates of present/future estimates of societal impacts 
+(externalities), and direct/indirect costs and benefits?  This will involve you learning about Inflation 
+Analysis, Sensitivity Analysis and Monte Carlo Simulation Risk Analysis techniques.  All these tools we 
+give you will include problem-based applications via our in-lecture examples, your in-class discussions, 
+and your team term project work.  
+ 
+Course Outline 
+ 
+A summary course outline is as follows: 
+ 
+1. 
+Introduction  
+2. 
+Cost/Benefit 
+3. 
+Qualitative & Triple-Bottom Line (Sustainability) Considerations  
+4. 
+Multiple Account (Criteria) Evaluations 
+5. 
+Time Value of Money 
+6. 
+Cash Flow Analysis 
+7. 
+Evaluation of Projects 
+8. 
+Depreciation 
+9. 
+Replacement Decisions 
+10. Uncertainty & Risk 
+11. Taxes 
+12. Inflation 
+13. Financial Accounting 
+ 
+Learning Outcomes 
+ 
+Upon completion of the course, students should be able to: 
+• 
+Undertake decision-making for engineering projects, taking account of qualitative considerations 
+and multiple criteria 
+• 
+Evaluate the suitability of an engineering project and select between alternative projects using 
+several possible approaches 
+• 
+Understand and be able to determine if and when an asset should be replaced under a range of 
+circumstances 
+• 
+Describe key features of businesses: types, governance and org. structures, & approaches to 
+planning, financial analyses etc. 
+• 
+Understand the time value of money and perform a cash flow analysis for a range of 
+circumstances 
+• 
+Explain the key features of public sector projects and do a social benefit-cost analysis (SCBA) of 
+such projects 
+• 
+Model the depreciation of an asset 
+• 
+Calculate the effects of taxation and inflation on a project 
+• 
+Analyze the effects of uncertainty and risk in engineering projects 
+• 
+Demonstrate ethical behavior including adherence to UBC policies, Course Syllabus, and 
+APEGBC Code of Ethics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+Engineering Accreditation 
+ 
+The Canadian Engineering Accreditation Board requires students to have achieved competency in a 
+twelve main areas by graduation. To ensure that our program provides sufficient instruction in these 12 
+graduate attributes, course learning outcomes have been mapped to the graduate attributes for each 
+course. The relevant graduate attributes for this course are identified below. 
+ 
+Course Learning Outcomes 
+Graduate Attributes 
+(as defined below) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 10 11 12 
+Undertake decision-making for engineering projects, taking 
+account of qualitative considerations and multiple criteria 
+A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluate the suitability of an engineering project and select 
+between alternative projects using several possible approaches  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+ 
+Understand and be able to determine if and when an asset 
+should be replaced under a range of circumstances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+ 
+Describe key features of businesses: types, governance and 
+org. structures, & approaches to planning, financial analyses 
+etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+ 
+Understand the time value of money and perform a cash flow 
+analysis for a range of circumstances 
+ 
+A 
+ 
+ 
+A 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+Explain the key features of public sector projects and do a 
+social benefit-cost analysis (SCBA) of such projects 
+ 
+A 
+ 
+ 
+A 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+Model the depreciation of an asset 
+ 
+A 
+ 
+ 
+A 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+Calculate the effects of taxation and inflation on a project 
+ 
+A 
+ 
+ 
+A 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+Analyze the effects of uncertainty and risk in engineering 
+projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+ 
+A 
+ 
+Demonstrate ethical behavior including adherence to UBC 
+policies, Course Syllabus, and APEGBC Code of Ethics 
+ 
+ 
+ 
+ 
+ 
+A A A 
+ 
+ 
+ 
+ 
+I=Introduced 
+D=Developed  
+A=Applied 
+CEAB Graduate Attributes 
+1. 
+A knowledge base for engineering: Demonstrated competence in university level mathematics, natural sciences, engineering 
+fundamentals, and specialized engineering knowledge appropriate to the program. 
+2. 
+Problem analysis: An ability to use appropriate knowledge and skills to identify, formulate, analyze, and solve complex engineering 
+problems in order to reach substantiated conclusions. 
+3. 
+Investigation: An ability to conduct investigations of complex problems by methods that include appropriate experiments, analysis and 
+interpretation of data, and synthesis of information in order to reach valid conclusions. 
+4. 
+Design: An ability to design solutions for complex, open-ended engineering problems and to design systems, components or processes 
+that meet specified needs with appropriate attention to health and safety risks, applicable standards, and economic, environmental, 
+cultural and societal considerations. 
+5. 
+Use of engineering tools: An ability to create, select, apply, adapt, and extend appropriate techniques, resources, and modern 
+engineering tools to a range of engineering activities, from simple to complex, with an understanding of the associated limitations. 
+6. 
+Individual and team work: An ability to work effectively as a member and leader in teams, preferably in a multi-disciplinary setting. 
+7. 
+Communication skills: An ability to communicate complex engineering concepts within the profession and with society at large. Such 
+ability includes reading, writing, speaking and listening, and the ability to comprehend and write effective reports and design 
+documentation, and to give and effectively respond to clear instructions. 
+8. 
+Professionalism: An understanding of the roles and responsibilities of the professional engineer in society, especially the primary role 
+of protection of the public and the public interest. 
+9. 
+Impact of engineering on society and the environment: An ability to analyze social and environmental aspects of engineering 
+activities. Such ability includes an understanding of the interactions that engineering has with the economic, social, health, safety, 
+legal, and cultural aspects of society, the uncertainties in the prediction of such interactions; and the concepts of sustainable design 
+and development and environmental stewardship. 
+10. 
+Ethics and equity: An ability to apply professional ethics, accountability, and equity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+11. 
+Economics and project management: An ability to appropriately incorporate economics and business practices including project, risk, 
+and change management into the practice of engineering and to understand their limitations. 
+12. 
+Life-long learning: An ability to identify and to address their own educational needs in a changing world in ways sufficient to maintain 
+their competence and to allow them to contribute to the advancement of knowledge.  
+ 
+Evaluation Criteria and Grading  
+ 
+The marks for this course will be assessed as follows: 
+ 
+Assignments  
+ 
+ 
+ 
+10% 
+In-class activities 
+ 
+ 
+ 
+15% 
+Midterm Exam (date TBA)  
+ 
+25% 
+Final Exam  
+ 
+ 
+ 
+50%   
+ 
+Final Exam 
+A minimum 50% grade on your final exam is required to pass ENGR 305.  Please note that, due to 
+class size and logistics, the final exam for ENGR 305 will consist of multiple choice questions (i.e., using 
+a bubble sheet).   Please familiarize yourself with this exam format. 
+ 
+Required Readings and Videos 
+ 
+There is no required text for this course.  All course materials – lectures, previous exams, syllabus, term 
+project requirements, academic ethics policy – will be provided via Canvas.  Where noted, some content 
+may only be provided in lectures.  If students wish to purchase a text for your career, one good engineering 
+economics reference is Engineering Economics: Financial Decision Making for Engineers, by N .M. Fraser, 
+E.M. Jewkes, I. Bernhardt, M. Tajima, Pearson, 3rd edition, 2006; and later editions. 
+ 
+ 
+Final Examinations 
+ 
+Students are required to be available during the posted examination period to write the exam as 
+scheduled.  Except in the case of examination clashes and hardships (three or more formal examinations 
+scheduled within a 24-hour period) or unforeseen events, students will be permitted to apply for out-of-
+time final examinations only if they are representing the University, the province, or the country in a 
+competition or performance; serving in the Canadian military; observing a religious rite; working to 
+support themselves or their family; or caring for a family member.  Unforeseen events include (but may 
+not be limited to) the following: ill health or other personal challenges that arise during a term and 
+changes in the requirements of an ongoing job.   
+Further information on Academic Concession can be found under Policies and Regulation in the 
+Okanagan Academic Calendar http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0 
+ 
+Academic Integrity 
+ 
+The academic enterprise is founded on honesty, civility, and integrity.  As members of this enterprise, all 
+students are expected to know, understand, and follow the codes of conduct regarding academic 
+integrity.  At the most basic level, this means submitting only original work done by you and 
+acknowledging all sources of information or ideas and attributing them to others as required.  This also 
+means you should not cheat, copy, or mislead others about what is your work.  Violations of academic 
+integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious 
+consequences arise and harsh sanctions are imposed.  For example, incidences of plagiarism or cheating 
+may result in a mark of zero on the assignment or exam and more serious consequences may apply if the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+matter is referred to the President’s Advisory Committee on Student Discipline.  Careful records are kept 
+in order to monitor and prevent recurrences. A more detailed description of academic integrity, including 
+the University’s policies and procedures, may be found in the Okanagan Academic Calendar at 
+http://okanagan.students.ubc.ca/calendar/index.cfm?tree=3,54,111,0 
+ 
+Assignments 
+This course assesses student understanding of course material based on completed assignments.  It is 
+important to note that according to the UBC Okanagan Academic Calendar cheating includes the 
+following: 
+ 
+“falsification of any material subject to academic evaluation, including research data;” 
+ 
+For example in this course, this includes, but is not limited to, copying another student’s work or 
+allowing another student to copy your assignment. Students are expected to submit original work 
+for their assignments in this course. 
+ 
+“use of or participation in unauthorized collaborative work;” 
+ 
+While collaboration is encouraged in some circumstances, not all collaboration is authorized. For 
+example in this course, unauthorized collaboration includes, but is not limited to, working in teams to 
+complete projects that are intended as individual assessment. 
+ 
+Exams 
+This course assesses student understanding of course material based on midterm and final 
+examinations.  It is important to note that according to the UBC Okanagan Academic Calendar 
+cheating includes the following: 
+“use or possession in an examination of any materials (including devices) other than those 
+permitted by the examiner;” 
+ 
+This includes, but is not limited to, possession during an exam of a cell phone, programmable 
+calculator, or watch that is capable of storing unauthorized materials, unless specifically allowed. 
+ 
+“use, possession, or facilitation of unauthorized means to complete an examination (e.g., 
+receiving unauthorized assistance from another person, or providing that assistance);” 
+ 
+This includes, but is not limited to, looking at another student’s exam paper during the 
+examination time. 
+ 
+ 
+ 
+Plagiarism 
+This course assesses student understanding of course material based on written reports.  It is 
+important to note that the UBC Okanagan Academic Calendar includes the following 
+comprehensive description of plagiarism: 
+ 
+“Plagiarism, which is intellectual theft, occurs when an individual submits or presents the oral or 
+written work of another person as his or her own. Scholarship quite properly rests upon 
+examining and referring to the thoughts and writings of others. However, when another person's 
+words (i.e., phrases, sentences, or paragraphs), ideas, or entire works are used, the author must 
+be acknowledged in the text, in footnotes, in endnotes, or in another accepted form of academic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+citation. Where direct quotations are made, they must be clearly delineated (e.g., within quotation 
+marks or separately indented). Failure to provide proper attribution is plagiarism because it 
+represents someone else's work as one's own. Plagiarism should not occur in submitted drafts or 
+final works. A student who seeks assistance from a tutor or other scholastic aids must ensure that 
+the work submitted is the student's own. Students are responsible for ensuring that any work 
+submitted does not constitute plagiarism. Students who are in any doubt as to what constitutes 
+plagiarism should consult their instructor before handing in any assignments.” 
+ 
+Students are responsible for ensuring all work is original and source use is properly documented.  
+ 
+SoE Academic Integrity Procedures 
+ 
+The following steps will be followed if there are questions surrounding the academic integrity of 
+course material or processes: 
+• 
+The instructor will discuss the instance with the student 
+• 
+The instructor will inform the relevant SoE Associate Director and Engineering Advisor 
+• 
+The instructor and student will meet with the relevant Associate Director  
+• 
+The instructor and relevant Associate Director will decide the severity of punishment 
+depending on the severity of misconduct 
+• 
+The student’s behaviour will be recorded  in the student’s SoE file, but not necessarily  the 
+student’s transcript 
+• 
+In some cases, the SoE will present the academic misconduct to the President’s Advisory 
+Committee on Student Discipline. 
+ 
+Grading Practices 
+ 
+Faculties, departments, and schools reserve the right to scale grades in order to maintain equity among 
+sections and conformity to University, faculty, department, or school norms. Students should therefore 
+note that an unofficial grade given by an instructor might be changed by the faculty, department, or 
+school. Grades are not official until they appear on a student's academic record. Further information on 
+Grading Practices can be found in the Okanagan Academic Calendar  
+http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,90,1014 
+ 
+ 
+ 
+ 
+ 
+Student Service Resources 
+ 
+UBC Okanagan Disability Resource Centre 
+ 
+The Disability Resource Centre ensures educational equity for students with disabilities and chronic 
+medical conditions. If you are disabled, have an injury or illness and require academic accommodations to 
+meet the course objectives, please contact Earllene Roberts, the Diversity Advisor for the Disability 
+Resource Centre located in the University Centre building (UNC 214). 
+ 
+UNC 214  
+250.807.9263 
+email: earllene.roberts@ubc.ca  
+Web: www.students.ok.ubc.ca/drc   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+UBC Okanagan Equity and Inclusion Office 
+ 
+Through leadership, vision, and collaborative action, the Equity & Inclusion Office (EIO) develops action 
+strategies in support of efforts to embed equity and inclusion in the daily operations across the campus. The 
+EIO provides education and training from cultivating respectful, inclusive spaces and communities to 
+understanding unconscious/implicit bias and its operation within in campus environments. UBC Policy 3 
+prohibits discrimination and harassment on the basis of BC’s Human Rights Code. If you require assistance 
+related to an issue of equity, educational programs, discrimination or harassment please contact the EIO. 
+ 
+UNC 216  
+250.807.9291 
+email: equity.ubco@ubc.ca 
+Web: www.equity.ok.ubc.ca 
+ 
+Health & Wellness 
+ 
+At UBC Okanagan health services to students are provided by Health and Wellness.  Nurses, physicians 
+and counsellors provide health care and counselling related to physical health, emotional/mental health 
+and sexual/reproductive health concerns. As well, health promotion, education and research activities are 
+provided to the campus community.  If you require assistance with your health, please contact Health and 
+Wellness for more information or to book an appointment. 
+ 
+UNC 337  
+250.807.9270 
+email: healthwellness.okanagan@ubc.ca 
+Web: www.students.ok.ubc.ca/health-wellness 
+ 
+ 
+SAFEWALK  
+ 
+Don't want to walk alone at night?  Not too sure how to get somewhere on campus?  Call Safewalk at 
+250-807-8076.  
+For more information, see: www.security.ok.ubc.ca 
+ 

@@ -1,0 +1,381 @@
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+COURSE SYLLABUS 
+ 
+COURSE TITLE:  
+Fin110 – The Fundamentals of Finance 
+ 
+CLASS SECTION:  
+002 
+TERM:  
+Fall 2023 
+COURSE CREDITS:  
+3.0 
+DELIVERY METHOD(S):  
+In Person 
+For COVID-19 information please visit https://legacy.camosun.ca/covid19/index.html. 
+ 
+Camosun College requires mandatory attendance for the first class meeting of each course. If you do not 
+attend, and do not provide your instructor with a reasonable explanation in advance, you will be removed from 
+the course and the space offered to the next waitlisted student. 
+ 
+INSTRUCTOR DETAILS 
+NAME: 
+Rob Sorensen 
+EMAIL: 
+sorensen@camosun.bc.ca (please note the spelling of my last name) 
+OFFICE: 
+CBA270 
+HOURS: 
+TBA – see D2L for schedule 
+As your course instructor, I endeavour to provide an inclusive learning environment. However, if you experience 
+barriers to learning in this course, do not hesitate to discuss them with me. Camosun College is committed to 
+identifying and removing institutional and social barriers that prevent access and impede success. 
+ 
+CALENDAR DESCRIPTION 
+This course will provide the student with an introductory exposure to financial mathematics and financial 
+concepts. Topics include: determination of interest rates, the time value of money, annuities, financing 
+alternatives and capital budgeting. The course is a foundation course in any subsequent study of business 
+finance. 
+ 
+PREREQUISITE(S):  
+One of: 
+• 
+C in English 12, C in Camosun Alternative   
+ 
+And one of: 
+• 
+C in Math 11, C in MATH 077, C in MATH 137, C+ in MATH 072, C+ in MATH 075, 
+C+ in MATH 135 
+ 
+ 
+ 
+ 
+Camosun College campuses are 
+located on the traditional territories of 
+the Lək̓ʷəŋən and W̱ SÁNEĆ peoples. 
+We acknowledge their welcome and 
+graciousness to the students who seek 
+knowledge here. 
+Learn more about Camosun’s 
+Territorial Acknowledgement. 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+COURSE LEARNING OUTCOMES / OBJECTIVES 
+ 
+Upon successful completion of this course, students will be able to: 
+ 
+• 
+Calculate the time-value of money and use this information to solve for unknown payments, final 
+payments and equivalent payment streams. 
+• 
+Use both simple and compound interest to calculate interest rate, maturity value, present value and 
+time to maturity for items such as credit cards, student loans, treasury bills, commercial paper and 
+promissory notes. 
+• 
+Convert between different nominal interest rates to compare investments. 
+• 
+Distinguish among several types of annuities and choose the appropriate formula to solve business-
+related word problems, such as, retirement planning, mortgage calculations, amortization, personal 
+credit repayments and refinancing. 
+• 
+Describe bonds and calculate bond purchase prices, bond market quotes and yield to maturity to 
+make sound investment decisions. 
+• 
+Choose between sinking funds or amortization to calculate loan repayment schedules. 
+• 
+Use net present value and internal rate of return to determine the most profitable course of action 
+among alternatives. 
+ 
+REQUIRED MATERIALS & RECOMMENDED PREPARATION / INFORMATION 
+ 
+Text:  
+Business Mathematics in Canada – Jerome & Worswick, 11th edition (required, available as 
+an e-text) 
+ 
+Other: Texas Instruments BAII+ financial calculator. This calculator is the only calculator allowed on 
+exams. D2L will be used to provide additional online materials and coursework.  
+ 
+COURSE SCHEDULE, TOPICS, AND ASSOCIATED PREPARATION / ACTIVITY / EVALUATION 
+ 
+The following schedule and course components are subject to change with reasonable advance notice, as 
+deemed appropriate by the instructor. 
+ 
+WEEK 
+ACTIVITY or TOPIC 
+OTHER NOTES 
+1: Sep 4- 
+Course Welcome and Setup 
+Math/Algebra Review 
+ 
+2: Sep 11- 
+Simple Interest 
+Chapter 7 
+3: Sep 18- 
+Simple Interest Applications 
+Chapter 8 
+4: Sep 25- 
+Compound Interest 
+Chapter 9 
+5: Oct 2- 
+Compound Interest (cont’d) 
+Chapter 10, 3.3 
+6: Oct 9- 
+Midterm #1 
+ 
+7: Oct 16- 
+Ordinary Annuities 
+Chapter 11 
+8: Oct 23- 
+Ordinary Annuities cont’d 
+Chapter 12 
+9: Oct 30- 
+Annuities Due 
+Chapter 13 
+10: Nov 6- 
+Deferred Annuities, Perpetuities 
+Chapter 14.1, 14.2 
+11: Nov 13- 
+Midterm #2 
+ 
+12: Nov 20- 
+Amortization 
+Chapter 15 
+13: Nov 27- 
+Bonds & Sinking Funds 
+Chapter 16 
+14: Dec 4- 
+Investment Decisions 
+Chapter 17 
+ 
+Final Exam – TBA During the Exam Period (Dec 12-20) 
+ 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+ 
+Students registered with the Centre for Accessible Learning (CAL) who complete quizzes, tests, and exams with 
+academic accommodations have booking procedures and deadlines with CAL where advanced noticed is 
+required. Deadlines scan be reviewed on the CAL exams page.  http://camosun.ca/services/accessible-
+learning/exams.html 
+ 
+EVALUATION OF LEARNING 
+ 
+DESCRIPTION 
+WEIGHTING 
+Quizzes 
+10% 
+Midterm #1 
+25% 
+Midterm #2 
+25% 
+Final Exam 
+40% 
+TOTAL 
+100% 
+ 
+ 
+ 
+Quizzes: 
+There will be a number of online quizzes during the term. You will complete the quizzes on your own time. For 
+each quiz, you will be allowed up to three attempts with your highest score counting toward your grade. 
+Of all the quizzes, your lowest quiz score will be dropped and the remaining quizzes will count equally toward 
+your final grade. This allows you to miss a quiz when sick and still not impact your final grade. 
+Please note that it is your responsibility to ensure that your computer is properly set up to work with D2L. No 
+allowance will be made for quizzes that couldn’t be completed due to computer issues.  
+Exams: 
+There are two midterm exams and a final exam for this course.  
+Students are allowed one 8 ½ x 11 sheet (both sides) on which to place any information they feel will help 
+them to write the exam (except for copies of old exams). Typically, this would be formulae and examples from 
+class. The sheet must be handwritten and you are required to submit it in with your exam.  In addition, you will 
+need your calculator (you must have the TI BAII+ as detailed above). 
+Cell phones, watches, music players, translators or similar devices are not permitted during exams. Students 
+found with these devices will receive a score of zero on the exam. You may, however, use your phone after 
+submitting your exam to scan and submit your worksheets. 
+Please see the section below for further information on exam requirements. 
+COURSE GUIDELINES & EXPECATIONS 
+Students must be proficient with basic math and algebra techniques. In addition, it is expected that students 
+are familiar with the operation of their calculators, and that they will participate in course activities and stay 
+current with their homework. 
+ 
+If you have a concern about a grade you have received for an evaluation, please come and see 
+me as soon as possible. Refer to the Grade Review and Appeals policy for more information. 
+https://camosun.ca/sites/default/files/2021-05/e-1.14.pdf 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+SCHOOL OR DEPARTMENTAL INFORMATION 
+Assignment formatting. The School of Business uses APA style for formatting assignments and citing 
+references. Proper citations and formatting using APA style will be required. See Camosun College (2018) 
+Library Citation Guides retrieved from: http://camosun.ca.libguides.com/apa7 
+ Where required by your instructor, submit all assignments into the D2L assignments by your last name.  
+ In text citations for quotes, paraphrasing, and references must be consistent with APA standards.  
+ Grammar, spelling, style and APA formatting, citations and referencing will be assessed in your mark. 
+ All submitted work must be properly referenced to sources where required by your instructor. 
+ Unless otherwise specified, you are to submit your own work, any work collaborated (unless permitted 
+by the course) will be considered in violation of the college’s Student Conduct Policy. See Camosun 
+College (2003) Student Conduct Policy from: http://camosun.ca/about/policies/education-academic/e-2-
+student-services-and-support/e-2.5.pdf. 
+ 
+Deadlines and exams. You must submit your assignments on the due date or as announced. A grade of zero 
+will be assigned to late submissions. There are no additional assignments or make-up exams of any kind if you 
+performed poorly on an assignment, midterm or final exam. Exam dates will not be rescheduled. Non-
+attendance on scheduled exam dates results in a zero grade. Exceptions will be made only for medical reasons 
+or extenuating circumstances that must be submitted and then accepted by the instructor. Please advise your 
+instructor promptly.   
+Final exams: Students are expected to write tests and final exams at the scheduled time and place. In 
+emergency circumstances, a student may write a test or final examination before or after the scheduled time if 
+the student would otherwise be unable to complete the program or course. Exceptions due to emergency 
+circumstances, such as unavoidable employment commitments, health problems, or unavoidable family crises, 
+require the approval of the appropriate instructor. Holidays or scheduled flights are not considered 
+emergencies. The student may be required to provide verification of the emergency circumstance. See 
+Camosun College (2018) Final Examinations from: 
+http://camosun.ca/learn/calendar/current/procedures.html#academic. 
+The School of Business is committed to promoting competence, professionalism and integrity in our students 
+and developing their core skills to succeed throughout their academic programs and in their careers. The 
+purpose of the Academic Integrity policy is to provide clear expectations of appropriate academic conduct and 
+to establish processes for discipline in appropriate circumstances. It is your responsibility to become familiar 
+with the content and the consequences of academic dishonesty. 
+ See Camosun College (2021) Academic Integrity Policy: “Students’ Rights and Responsibilities”.   
+Acts of academic dishonesty include, but are not limited to: 
+ Using the exact words of a published or unpublished author without quotation marks and without 
+referencing the source of these words. 
+ Duplicating a table, graph, or diagram, in whole or in part, without referencing the source. 
+ Paraphrasing the ideas of another person, whether written or verbal, without referencing the source. 
+ Providing answers to another student in any test, examination, or take-home assignment. 
+ Taking any unauthorized materials into an examination or test. 
+ Submitting the same paper or portions thereof for more than one assignment in different courses 
+without the instructor’s permission. 
+ 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+If you are uncertain or have any questions regarding academic integrity, please do not hesitate to discuss 
+these with your instructor. 
+STUDENT RESPONSIBILITY 
+Enrolment at Camosun assumes that the student will become a responsible member of the College 
+community. As such, each student will display a positive work ethic, assist in the preservation of College 
+property, and assume responsibility for their education by researching academic requirements and policies; 
+demonstrating courtesy and respect toward others; and respecting expectations concerning attendance, 
+assignments, deadlines, and appointments. 
+ 
+SUPPORTS AND SERVICES FOR STUDENTS 
+Camosun College offers a number of services to help you succeed in and out of the classroom. For a detailed 
+overview of the supports and services visit http://camosun.ca/students/. 
+ 
+Support Service 
+Website 
+Academic Advising 
+camosun.ca/services/academic-supports/academic-advising  
+Accessible Learning 
+camosun.ca/services/academic-supports/accessible-learning  
+Counselling 
+camosun.ca/services/health-and-wellness/counselling-centre 
+Career Services 
+camosun.ca/services/co-operative-education-and-career-
+services 
+Financial Aid and Awards 
+camosun.ca/registration-records/financial-aid-awards  
+Help Centres (Math/English/Science) 
+camosun.ca/services/academic-supports/help-centres  
+Indigenous Student Support 
+camosun.ca/programs-courses/iecc/indigenous-student-
+services  
+International Student Support 
+http://camosun.ca/international/  
+Learning Skills 
+camosun.ca/services/academic-supports/help-
+centres/writing-centre-learning-skills 
+ 
+Library 
+http://camosun.ca/services/library/ 
+Office of Student Support 
+camosun.ca/services/office-student-support 
+Ombudsperson 
+camosun.ca/services/ombudsperson  
+Registration 
+camosun.ca/registration-records/registration 
+Technology Support 
+http://camosun.ca/its  
+Writing Centre 
+camosun.ca/services/academic-supports/help-
+centres/writing-centre-learning-skills  
+ 
+If you have a mental health concern, please contact Counselling to arrange an appointment as soon as 
+possible. Counselling sessions are available at both campuses during business hours. If you need urgent 
+support after-hours, please contact the Vancouver Island Crisis Line at 1-888-494-3888 or call 911. 
+ 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+COLLEGE-WIDE POLICIES, PROCEDURES, REQUIREMENTS, AND STANDARDS 
+ 
+Academic Accommodations for Students with Disabilities 
+The College is committed to providing appropriate and reasonable academic accommodations to students 
+with disabilities (i.e. physical, depression, learning, etc). If you have a disability, the Centre for Accessible 
+Learning (CAL) can help you document your needs, and where disability-related barriers to access in your 
+courses exist, create an accommodation plan. By making a plan through CAL, you can ensure you have the 
+appropriate academic accommodations you need without disclosing your diagnosis or condition to course 
+instructors. Please visit the CAL website for contacts and to learn how to get started: 
+http://camosun.ca/services/accessible-learning/  
+ 
+Academic Integrity  
+Please visit http://camosun.ca/about/policies/education-academic/e-1-programming-and-instruction/e-
+1.13.pdf for policy regarding academic expectations and details for addressing and resolving matters of 
+academic misconduct.  
+ 
+Academic Progress  
+Please visit http://camosun.ca/about/policies/education-academic/e-1-programming-and-instruction/e-
+1.1.pdf for further details on how Camosun College monitors students’ academic progress and what steps can 
+be taken if a student is at risk of not meeting the College’s academic progress standards.  
+ 
+Course Withdrawals Policy  
+Please visit http://camosun.ca/about/policies/education-academic/e-2-student-services-and-support/e-
+2.2.pdf for further details about course withdrawals. For deadline for fees, course drop dates, and tuition 
+refund, please visit http://camosun.ca/learn/fees/#deadlines. 
+ 
+Grading Policy  
+Please visit http://camosun.ca/about/policies/education-academic/e-1-programming-and-instruction/e-
+1.5.pdf for further details about grading. 
+ 
+Grade Review and Appeals 
+Please visit http://camosun.ca/about/policies/education-academic/e-1-programming-and-instruction/e-
+1.14.pdf for policy relating to requests for review and appeal of grades. 
+ 
+Mandatory Attendance for First Class Meeting of Each Course  
+Camosun College requires mandatory attendance for the first class meeting of each course. If you do not 
+attend, and do not provide your instructor with a reasonable reason in advance, you will be removed from the 
+course and the space offered to the next waitlisted student. For more information, please see the 
+“Attendance” section under “Registration Policies and Procedures” 
+(http://camosun.ca/learn/calendar/current/procedures.html) and the Grading Policy at 
+http://camosun.ca/about/policies/education-academic/e-1-programming-and-instruction/e-1.5.pdf.  
+ 
+Medical / Compassionate Withdrawals 
+Students who are incapacitated and unable to complete or succeed in their studies by virtue of serious and 
+demonstrated exceptional circumstances may be eligible for a medical/compassionate withdrawal. Please visit 
+CAMOSUN COLLEGE COURSE SYLLABUS 
+ 
+http://camosun.ca/about/policies/education-academic/e-2-student-services-and-support/e-2.8.pdf to learn 
+more about the process involved in a medical/compassionate withdrawal. 
+ 
+Sexual Violence and Misconduct  
+Camosun is committed to creating a campus culture of safety, respect, and consent.  Camosun’s Office of 
+Student Support is responsible for offering support to students impacted by sexual violence.  Regardless of 
+when or where the sexual violence or misconduct occurred, students can access support at Camosun. The 
+Office of Student Support will make sure students have a safe and private place to talk and will help them 
+understand what supports are available and their options for next steps. The Office of Student Support 
+respects a student’s right to choose what is right for them. For more information see Camosun’s Sexualized 
+Violence and Misconduct Policy: http://camosun.ca/about/policies/education-academic/e-2-student-services-
+and-support/e-2.9.pdf and camosun.ca/sexual-violence. To contact the Office of Student Support: 
+oss@camosun.ca or by phone: 250-370-3046 or 250-3703841 
+ 
+Student Misconduct (Non-Academic) 
+Camosun College is committed to building the academic competency of all students, seeks to empower 
+students to become agents of their own learning, and promotes academic belonging for everyone. Camosun 
+also expects that all students to conduct themselves in a manner that contributes to a positive, supportive, 
+and safe learning environment. Please review Camosun College’s Student Misconduct Policy at 
+http://camosun.ca/about/policies/education-academic/e-2-student-services-and-support/e-2.5.pdf to 
+understand the College’s expectations of academic integrity and student behavioural conduct. 
+ 
+ 
+Changes to this Syllabus: Every effort has been made to ensure that information in this syllabus is accurate at 
+the time of publication. The College reserves the right to change courses if it becomes necessary so that 
+course content remains relevant. In such cases, the instructor will give the students clear and timely notice of 
+the changes. 
+ 

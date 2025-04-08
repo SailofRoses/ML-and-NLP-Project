@@ -1,0 +1,152 @@
+•
+•
+•
+•
+•
+•
+•
+COURSE SYLLABUS
+Corporate Finance 1, 7.5 credits
+ 
+Corporate Finance 1, 7,5 högskolepoäng
+ 
+ 
+Intended Learning Outcomes (ILO)
+ 
+On completion of the course the student will be able to:
+ 
+Knowledge and understanding
+1. understand corporate finance from a cash flow perspective
+2. describe the theoretical concepts of perfect market, the Law of One price and noarbitrage
+opportunity
+ 
+Skills and abilities
+3. perform different valuation calculations based on cash flows
+4. apply and compare various alternative ways of using and raising capital
+5. use Excel to solve financial problems
+ 
+Judgement and approach
+6. judge and evaluate ethics and incentives within corporations
+ 
+Contents
+ 
+This course provides an introduction to the three tasks of the Financial Manager: investment
+decisions, financing decisions and cash management. The purpose of the course is to present
+Corporate Finance within a unifying valuation framework based on the Law of One Price and
+other powerful simple ideas. The course gives also an introduction to students how to solve
+financial problems with the help of a spreadsheet software.
+ 
+Main topics covered in the lectures and seminars:
+Different firm types and ownership
+Concept of time value of money
+Interest rates
+Valuation methods
+Introduction to capital budgeting
+Risk and return
+Short- and long-run financial planning including leasing
+Course Code:
+FSAK13
+Confirmed by:
+Council for Undergraduate and Masters
+Education Oct 6, 2011
+Revised by:
+Council for Undergraduate and Masters
+Education Nov 19, 2019
+Valid From:
+Jan 13, 2020
+Version:
+3
+Education Cycle:
+First-cycle level
+Disciplinary
+domain:
+Social sciences (75%) and natural
+sciences (25%)
+Subject group:
+FE1
+Specialised in:
+G1F
+Main field of study:
+Business Administration,
+Economics
+1(3)
+Jönköping International Business School, Box 1026, SE-551 11 Jönköping • VISIT Gjuterigatan 5, Campus
+PHONE +46 (0)36-10 10 00 • E-MAIL registrator@ju.se • www.ju.se/eng
+• Corporate governance and regulation
+ 
+Type of instruction
+ 
+Lectures, exercises, and e-learning
+ 
+The teaching is conducted in English.
+ 
+Prerequisites
+30 credits in Business Administration or Economics (or the equivalent).
+ 
+Examination and grades
+The course is graded A, B, C, D, E, FX or F.
+ 
+Individual written exam (ILOs: 1-6) representing 6 credits.
+Individual written assignment (ILOs: 3-4) representing 1.5 credits.
+Individual Excel quiz (ILO: 5) representing 0 credits.
+ 
+Registration of examination:
+1 All parts of compulsory examination in the course must be passed with a passing grade (A-E or U/G) before a final grade can be set.
+The final grade of the course is determined by the sum total of points for all parts of examination in the course (0-100 points). Grade
+is set in accordance to JIBS grading policy.
+ 
+Course evaluation
+It is the responsibility of the examiner to ensure that each course is evaluated. At the outset of
+the course, evaluators must be identified (elected) among the students. The course evaluation is
+carried out continuously as well as at the end of the course. On the completion of the course the
+course evaluators and course examiner discuss the course evaluation and possible
+improvements. A summary report is created and archived. The reports are followed up by
+program directors and discussed in program groups and with relevant others (depending on
+issue e.g.  Associate Dean of Education, Associate Dean of faculty, Director of PhD Candidates,
+Dean and Director of Studies). The next time the course runs, students should be informed of
+any measures taken to improve the course based on the previous course evaluation.
+ 
+Other information
+The course Corporate Finance I replaces the course Financial Planning. Students who have not
+passed the exam in Financial Planning yet are referred to take the exam in Corporate Finance I
+instead (the contents of both courses overlap).
+ 
+Academic integrity
+ 
+JIBS students are expected to maintain a strong academic integrity. This implies to behave
+Name of the Test
+Value
+Grading
+Individual written exam1
+6 credits
+A/B/C/D/E/FX/F
+Individual written assignment1
+1.5 credits
+U/G
+Individual Excel quiz1
+0 credits
+U/G
+Corporate Finance 1, 7.5 credits
+2(3)
+within the boundaries of academic rules and expectations relating to all types of teaching and
+examination.
+ 
+Copying someone else’s work is a particularly serious offence and can lead to disciplinary action.
+When you copy someone else’s work, you are plagiarizing. You must not copy sections of work
+(such as paragraphs, diagrams, tables and words) from any other person, including another
+student or any other author. Cutting and pasting is a clear example of plagiarism. There is a
+workshop and online resources to assist you in not plagiarizing called the Interactive Anti-
+Plagiarism Guide.
+ 
+Other forms of breaking academic integrity include (but are not limited to) adding your name to
+a project you did not work on (or allowing someone to add their name), cheating on an
+examination, helping other students to cheat and submitting other students work as your own,
+and using non-allowed electronic equipment during an examination. All of these make you liable
+to disciplinary action.
+ 
+Course literature
+ 
+Literature
+Berk/DeMarzo, Corporate Finance, Pearson, latest edition.
+Corporate Finance 1, 7.5 credits
+3(3)

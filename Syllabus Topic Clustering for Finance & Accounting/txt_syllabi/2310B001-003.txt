@@ -1,0 +1,449 @@
+Faculty of 
+Social Science 
+Fall/Winter 2022/23 Course Syllabus 
+MOS 2310B Sections – 001, 002, & 003 
+Finance 
+Course Mode: In-Person 
+Instructor: Nicholas Kahnert 
+Office: SSC 4424 
+Office Hours: Thursdays, 10am-2pm, or by appointment (may be conducted via Zoom) 
+Email: ntkahner@uwo.ca 
+1. Course Information:
+1.1 
+Class Location and Time: 
+Section 001: Wednesdays, 9:30am-12:30pm, SSC 3022 
+Section 002: Tuesdays, 9:30am-12:30pm, SSC 2028 
+Section 003: Tuesdays, 1:30pm-4:30pm, 3M 3250 
+1.2 
+Course Description: 
+This course provides overview of issues in financial management and corporate finance. Students 
+will learn how financial managers make investment, financing and other decisions and the tools 
+they use to make such decisions. Topics covered include time value of money, risk, valuation, 
+capital structure, dividend policy and other selected issues.  
+Antirequisite(s) at Main campus: Financial Modelling 2555A/B, and MOS 3310A/B. Antirequisite(s) 
+at Brescia campus: MOS 3310A/B. Extra Information: 3 lecture hours. Note: Students interested in 
+pursuing an HBA Degree at the Richard Ivey School of Business should not take this course in 
+second year as Ivey does not recognize this course as part of the HBA degree. 
+Prerequisite(s): Enrolment in BMOS, Music Administrative Studies (MAS), or Honors Specialization 
+in Urban Development. 
+1.3 
+Accessibility: 
+DAN Department of Management & Organizational Studies strives at all times to provide 
+accessibility to all faculty, staff, students and visitors in a way that respects the dignity and 
+independence of people with disabilities.   
+Contact Academic Support & Engagement at http://academicsupport.uwo.ca/ for information about 
+Western’s Accessible Education.   
+More information about “Accessibility at Western” is available at: http://accessibility.uwo.ca 
+1.4 
+Land Acknowledgement: 
+We acknowledge that Western University is located on the traditional lands of the Anishinaabek, 
+Haudenosaunee, Lūnaapéewak and Attawandaron peoples, on lands connected with the London 
+Township and Sombra Treaties of 1796 and the Dish with One Spoon Covenant Wampum. 
+  
+With this, we respect the longstanding relationships that Indigenous Nations have to this land, as 
+they are the original caretakers. We acknowledge historical and ongoing injustices that Indigenous 
+Peoples (e.g. First Nations, Métis and Inuit) endure in Canada, and we accept responsibility as a 
+public institution to contribute toward revealing and correcting miseducation as well as renewing 
+respectful relationships with Indigenous communities through our teaching, research and 
+community service.  
+https://indigenous.uwo.ca/initiatives/docs/indigenous-land-acknowledgment.pdf 
+1.5 
+Senate Regulations 
+Senate Regulations state, “unless you have either the requisites for this course or written special 
+permission from your Dean to enroll in it, you will be removed from this course and it will be deleted 
+from your record. This decision may not be appealed. You will receive no adjustment to your fees 
+in the event that you are dropped from a course for failing to have the necessary prerequisites.” 
+ 
+This regulation is in regard to the PREREQUISITE COURSES required. 
+   
+Students not in BMOS are permitted to enroll in up to 1.0 MOS courses, per the Academic 
+Timetable. The requirement that states you must be in BMOS is lifted during registration on the 
+priority lift dates as noted in the Timetable.  
+2. Course Materials 
+Ross, S.A., Westerfield, R.W., Jordan, B.D., Pandes, J.A., Holloway, T.A., 2012. Fundamentals of 
+Corporate Finance, Eleventh Canadian Edition. McGraw-Hill. ISBN: 9781260305869 
+ 
+(Please note that the above ISBN includes the physical textbook and online access to Connect (required 
+for optional course assignment), and the e-book. Students who do not wish to have a physical textbook 
+may wish to choose the online only option, which includes access to the e-book only and Connect for 360 
+days. The ISBN for this option is 9781265024611, and it can be purchased through the Western 
+Bookstore via the “Alternative” option for this course. 
+3. Course Objectives and Format 
+The DAN Department of Management and Organizational Studies as a whole draws upon an evidence-
+based management approach. Evidence-based management is the systematic process of gathering 
+evidence from multiple sources, critically appraising the evidence, and using that evidence in making and 
+evaluating management decisions to improve organizational performance. 
+3.1 
+Course objectives 
+• 
+The objective of this course is to introduce the participant to the fundamentals of corporate 
+finance. Every decision that a corporation makes has financial implications, and any decision 
+which affects the finances of a corporation is a corporate finance decision. The participant will 
+learn how these business decisions are tied together by one powerful concept, the Valuation 
+Principle. 
+ 
+• 
+Whether you plan to major in finance or simply take this one course, you will find the fundamental 
+financial knowledge gained to be essential in your personal and business lives. 
+3.2 
+Course format 
+The course is scheduled as a series of 3-hour in-person lectures. Some class time might be set 
+aside for course administration. 
+The course format is subject to change based on Covid-19 protocols or restrictions. Therefore, 
+aspects of this course MAY be conducted in a hybrid format with asynchronous course material, 
+and weekly synchronous discussion/tutorials. Any such tutorial sessions will be conducted via 
+Zoom during regularly scheduled class time, and will be intended to be interactive.  
+Any remote learning sessions for this course MAY be recorded from time to time. The data 
+captured during these recordings may include your image, voice recordings, chat logs and personal 
+identifiers (name displayed on the screen). The recordings will be used for educational purposes 
+related to this course, including evaluations. The recordings may be disclosed to other individuals 
+under special circumstances. Please contact the instructor if you have any concerns related to 
+session recordings. 
+Participants in this course are not permitted to record the sessions, except where the participant 
+has the prior written permission of the instructor. 
+Course delivery with respect to the COVID-19 pandemic: 
+Although the intent is for this course to be delivered in-person, the changing COVID-19 landscape 
+may necessitate some or all of the course to be delivered online, either synchronously (i.e., at the 
+times indicated in the timetable) or asynchronously (e.g., posted on OWL for students to view at 
+their convenience).  The grading scheme will not change.  Any assessments affected will be 
+conducted online as determined by the course instructor. 
+When deemed necessary, tests and examinations in this course will be conducted using a remote 
+proctoring service.  By taking this course, you are consenting to the use of this software and 
+acknowledge that you will be required to provide personal information (including some 
+biometric data) and the session will be recorded.  Completion of this course will require you to have 
+a reliable internet connection and a device that meets the technical requirements for this 
+service.  More information about this remote proctoring service, including technical requirements, is 
+available on Western’s Remote Proctoring website at: https://remoteproctoring.uwo.ca. 
+4. Learning Outcomes
+Upon completion of the course, successful students should be able to: 
+•
+Demonstrate basic knowledge of financial markets and institutions and explain how firms obtain
+funds in the markets and at what cost
+•
+Calculate the time value of money and apply the concepts to the valuation of financial securities
+such as bonds and stocks
+•
+Distinguish among various types of risks and apply the Capital Asset Pricing Model to calculate
+returns, given appropriate risk measures
+•
+Calculate the cost of capital and solve capital budgeting problems
+•
+Explain how a firm might set its dividend policies
+•
+Analyze a firm’s performance to determine its strengths and weaknesses, and be able to use
+financial analysis to improve performance
+•
+Explain various strategies for managing a firm’s short-term assets and liabilities
+5. Evaluation
+Textbook Reading Assignments = 5%  [Chapter readings and questions via McGraw Hill Connect] 
+Professionalism & Contribution = 10%  [Includes iClicker & other; Refer to OWL for specific details] 
+Group Case-Study Assignment  = 5%  [Due in early April, Refer to OWL for specific details] 
+Problem Sets/Assignments 
+= 5%  [6 assignments throughout the term via OWL, drop lowest score] 
+Midterm Exam  
+= 30%   [Tentatively scheduled for March 4, 1-3pm] 
+Final Exam 
+= 45%   [Cumulative, Scheduled by Registrar] 
+IMPORTANT: Students must achieve a minimum grade of 50% on the final exam in order to 
+achieve an overall passing grade in the course, and students must achieve a grade of at least 55% 
+on at least one of the exam components of the course in order to achieve an overall grade of 60% 
+or higher. 
+Textbook reading assignments will be completed via McGraw Hill Connect, which is an online resource 
+for the course textbook. Students will be required to answer simple self-assessment understanding 
+questions associated with the reading that has been assigned. Grades for this component will be based 
+on completion of the questions only. More information is provided on the course OWL site. If a student’s 
+final exam score is higher than the student’s textbook reading assignment score, then the 
+student’s final exam will be re-weighted to 50% of the overall course grade, and the reading 
+assignment score will be weighted at 0%. Thus, any student who is unable to (or who chooses not to) 
+complete the reading assignments via McGraw Hill Connect will automatically have the weight of that 
+component shifted to the final exam. 
+Six problem sets will be assigned for independent completion via OWL Tests & Quizzes. Question 
+formats may include multiple choice, true/false, numeric answer, fill in the blank, or short answer. Problem 
+sets will typically be assigned on a Friday and will be due for submission on the following Sunday at 
+11:59pm (giving a three-day window for completion). Once started, most problem sets will have a time-
+limit of 3-4 hours and will automatically be submitted once the time limit has been reached (though 
+students may submit sooner). In addition, students will be required to complete a Data Analytics case 
+study, which will be completed using either MS Excel or Power BI (TBD). More information is provided on 
+the course OWL site. 
+The midterm exam is expected to be delivered in-person, scheduled for 2 hours, and will consist of 
+approximately 40 multiple choice questions. [This format and duration may change if Covid-19 
+protocols require that the exam be delivered online] 
+The final exam is expected to be scheduled for 3 hours and will consist of approximately 60 multiple 
+choice questions. Question formats will be similar to the midterm exam. [This format and duration may 
+change if Covid-19 protocols require that the exam be delivered online] 
+Only non-programmable calculators will be allowed into the exams. Graphing calculators are not 
+permitted! If you are unsure, please ask your professor to check your calculator.  
+Electronic devices of any kind (including pagers, cell phones, smart watches, and 
+programmable calculators) are NOT permitted at exams. If students have cell phones or other 
+electronic devices, these devices MUST be turned off and stored away from the student during the exam. 
+Devices many not be kept on exam desk or on students’ person (in pockets) during the exam, even if 
+turned off. Contravention of this policy will be treated as an academic offense, and will result in an 
+automatic grade of 0 (zero) on the exam. 
+Exams will be scored using the program Scan Exam which examines the answer sheets for unusual 
+coincidences in the pattern of answers given which may be indicative and used as supporting evidence of 
+cheating. Suspected cheating on any exam will result in a grade of 0, and will initiate an investigation of 
+academic offence. 
+This course has other exam guidelines and expectations which are clearly outlined in a document on the 
+course website. Students are expected to understand and adhere to these guidelines in order to avoid 
+grade penalties.  
+Students are responsible for all material covered during lectures or tutorials, as well as any assigned 
+readings from the text or elsewhere on the course website.  
+Students are REQUIRED TO COMPLETE ALL COMPONENTS of this course. Non-completion of 
+components may result in a failing course grade. There are no exceptions to this. Extra assignments to 
+improve grades will NOT be allowed. 
+Grades will not be adjusted on the basis of need. It is important to monitor your performance in 
+the course. Remember: You are responsible for your grades in this course. 
+The instructor reserves the right to adjust all grade components and final grades, up or down, by 
+standardizing to a pre-determined common mean range. As such, students’ grades will be partially 
+determined based on their results relative the class average. Standardization of grades is designed to 
+control for variations in assessment difficulty across different delivery methods, and to ensure fairness 
+across sections. 
+The DAN Department has a grade policy which states that for courses in the 2000 range, the class 
+average must fall between 65% and 72% for all sections of a course taught by the same instructor.  In 
+very exceptional circumstances only, class averages outside this range may be approved by the 
+Undergraduate Chair or Chair.  Class averages are not grounds for appeal. 
+6. Lecture and Examination Schedule
+Please refer to OWL for a tentative detailed course schedule. The professor reserves the right to change 
+or update this outline, and any other course related materials. Students will be informed in a timely 
+manner through the course website and/or announcements. 
+Material covered during lectures or tutorials, or in recorded videos, will not always be the same as 
+material covered in the textbook. These two sources should be viewed as complimentary and not 
+redundant.  
+•
+Chapter 1 Introduction
+•
+Chapter 2 (s. 2.1-2.4) Financial Statements (assigned as non-graded reading assignment)
+•
+Chapter 3 Financial Ratio Analysis
+•
+Non-text subject material: Using Data Analytics for Decision Making
+•
+Chapter 4 Long-term Financial Planning
+•
+Chapter 5 Time Value of Money
+•
+Chapter 6 Discounted Cash Flow Analysis
+•
+Chapter 7 (s. 7.1–7.3, 7.5–7.7) Bond Valuation
+•
+Chapter 8 (s. 8.1–8.3) Stock Valuation
+•
+Chapter 15 (s. 15.1–15.4) Raising Capital (partially assigned as reading)
+•
+Chapter 9 (s. 9.1 - 9.6) Net Present Value and Other Investment Criteria
+•
+Chapter 11 (s. 11.1–11.5) Project Analysis and Evaluation
+•
+Chapter 12 Capital Market History (partially assigned as reading)
+•
+Chapter 13 (s. 13.1, 13.2, 13.4-13.7) Return, Risk, and the Security Market Line
+•
+Chapter 14 (s. 14.1–14.4, 14.8) Cost of Capital
+•
+Chapter 16 (s. 16.1–16.3, 16.5, 16.8) Financial Leverage and Capital Structure
+•
+Chapter 17 Dividend Policy
+•
+Chapter 18 (s. 18.1, 18.2, 18.4-18.6) Short-term Financial Planning
+•
+Chapter 19 (s. 19.1, 19.3) Cash and Liquidity Management
+•
+Chapter 20 (s. 20.1- 20.3, 20.6) Credit and Inventory Management
+7. Student Responsibilities
+Students should familiarize themselves with Western University Senate Regulations, please see: 
+http://www.uwo.ca/univsec/academic_policies/index.html. 
+Material covered in lectures will not always be the same as material covered in the textbook. These two 
+sources should be viewed as complimentary and not redundant. As such, students who want to do well in 
+this course are strongly encouraged to attend lectures on a regular basis. Please note that the instructor 
+will not be providing copies of lectures notes or overheads. Therefore, if you miss a lecture, you should try 
+to obtain this material from another student.  
+7.1 
+Respect 
+Please act respectfully towards the classroom, the Professor and your fellow students. Acting 
+respectfully means arriving on time, turning off phones, avoiding private discussions during 
+lectures, refraining from viewing non-course material on your laptops, and cleaning up after 
+yourself. Acting respectfully provides a better learning experience for everyone. 
+Private in-class discussions are distracting to students and the Professor. If other students are 
+distracting your attention from the material, you should ask them to be quiet. If you feel 
+uncomfortable doing this (or the problem persists), please see the instructor.  
+Late arrivals are also distracting. Please try to arrive on time for classes. 
+7.2 
+No Recording of Classes
+Students are not permitted to record any portion of a class, audio or video, without the prior written 
+permission of the professor. 
+7.3 
+Copyright Notice 
+Lectures and course materials, including power point presentations, outlines, and similar materials, 
+are protected by copyright.  You may take notes and make copies of course materials for your own 
+educational use. You may not record lectures, reproduce (or allow others to reproduce), post or 
+distribute lecture notes, wiki material, and other course materials publicly and/or for commercial 
+purposes without my written consent.
+8. Exam Policies
+•
+Bring student identification to exams.
+•
+Nothing is to be on/at one's desk during an exam except a pencil, an eraser, an approved calculator,
+and the individual’s student card
+•
+No smart watches, smart phones, other electronic devices are permitted at exams
+•
+This course has other exam guidelines and expectations which are clearly outlined in a
+document on the course website. Students are expected to understand and adhere to these
+guidelines in order to avoid grade penalties.
+9. E-mail Policies
+The following policies apply to all emails between students and the Professor. Please respect the fact that 
+the Professor receives hundreds of emails from students and must deal with those emails in a fair and 
+organized manner. Unacceptable emails will receive a reply saying only “Please see Email Policies on the 
+course outline”. 
+9.1 
+UWO.CA Email Addresses Only 
+For privacy reasons, students must use their Western email accounts to contact the Professor. The 
+Professor will not respond to emails from non-uwo.ca addresses (e.g. hotmail.com, gmail.com, 
+etc.). 
+9.2 
+Subject Line Must Include Course and Section Number 
+The subject line of emails must contain the name or number of the course, and the section number 
+in which the student is enrolled. The Professor teaches different courses and sections and cannot 
+properly respond to questions if he does not know which course or section you are enrolled in. 
+9.3 
+Acceptable Emails 
+• asking to set up an appointment to ask questions or review an exam
+• notification of illness or other special circumstances
+• providing constructive comments or feedback about the course
+9.4 
+Unacceptable Emails 
+• questions that may be answered on OWL or on this course outline
+• questions about course content or materials (these should be directed to OWL Discussions)
+• asking when grades will be posted
+• asking what grade a student received
+• asking where or when an exam is scheduled or the material covered on an exam
+• requests for grade increases, extra assignments, or reweighting of course components
+10. Attendance
+IN-PERSON: It is expected that students will attend all classes. The professor does not provide access to 
+lecture notes. Students are encouraged to obtain missed lecture notes from a fellow student.  
+10.1 Short Absences. 
+If you miss a class due to minor illness or other problems, check your course outlines for 
+information regarding attendance requirements and make sure you are not missing a test or exam. 
+Cover any readings and arrange to borrow the missed lectures notes from a classmate.  
+10.2 Extended Absences. 
+If you are absent more than approximately two weeks or if you get too far behind to catch up, you 
+should consider reducing your workload by dropping one or more courses. The Academic 
+Counsellors can help you to consider the alternatives. At your request, they can also keep your 
+instructors informed about your difficulties.  
+11. Grade Fairness
+Fairness requires that all students be treated equally and be evaluated using the criteria set out in this 
+course outline. The evaluation criteria are based on actual achievement and not on how hard a student 
+has tried.  
+Claims by students of an excellent academic history, good attendance record, need to obtain or maintain 
+a scholarship, desire to be admitted to Ivey or graduate school, or other personal issues, cannot be used 
+to justify a higher grade in the course or a reweighting of course components. There is no extra work or 
+assignments available for extra credit or to “make up” for a course component that was missed or 
+performed poorly. 
+You, the student, are responsible for the grades earned. 
+12. Posting of Grades
+Midterm exam grades will be posted on OWL once the grades are available. Final exam grades and final 
+course grades are not posted on OWL and are available once they have been posted by the Registrar 
+under “Academic Summary” at the Student Centre website. 
+13. University Policy Regarding Illness, Absence and Accommodation
+13.1 Illness 
+Students will need to provide a Student Medical Certificate if the absence is medical or provide 
+appropriate documentation if there are compassionate grounds for the absence in question. 
+Students are encouraged to contact their Faculty Academic Counselling office to obtain more 
+information about the relevant documentation. 
+For privacy reasons, students should also note that individual instructors should not receive 
+documentation directly from a student, whether in support of an application for consideration on 
+medical grounds, or for other reasons. All documentation required for absences must be submitted 
+to the Academic Counselling office of a student's Home Faculty. 
+For details on the Policy on Accommodation for Medical Illness, go to: 
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/accommodation_medical%2015JUN.pdf 
+Students can download the Student Medical Certificate (SMC) here: 
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf 
+13.2 Accessible Education 
+Students with disabilities work with Accessible Education (formerly SSD) which provides 
+recommendations for accommodation based on medical documentation or psychological and 
+cognitive testing. The accommodation policy can be found here: 
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic 
+Accommodation_disabilities.pdf 
+Students needing access to Accessible Education should register here: 
+http://academicsupport.uwo.ca/accessible_education/index.html 
+13.3 Religious Accommodation 
+Students should consult the University's list of recognized religious holidays, and should give 
+reasonable notice in writing, prior to the holiday, to the Instructor and an Academic Counsellor if 
+their course requirements will be affected by a religious observance. Additional information is given 
+in the Western Multicultural Calendar. 
+13.4 Make Up Examinations 
+There is no make-up midterm exam in this course. If a student misses the regularly scheduled 
+exam for any reason, and for which adequate documentation is received by the instructor (this 
+documentation must be supplied by the Academic Counseling office), then the student will 
+receive a modified and lengthened final exam which will be re-weighted to 75% of the 
+course grade weight. 
+If a student misses the regularly scheduled final exam for any reason, and for which adequate 
+documentation is received by the instructor (this documentation must be supplied by the Academic 
+Counseling office), then the student must write a make-up exam. The date and time of the final 
+exam make-up will be set by the instructor, who will communicate the date to the student. The 
+format of the final exam make-up may be different than the format of the regularly scheduled exam, 
+but will contain the same breadth and depth of coverage. 
+If a student is unable to meet the scheduled make-up as agreed, then the student is responsible for 
+obtaining new accommodations from Academic Counselling, and seeking a new make-up date with 
+the instructor within a reasonable time frame. Students who miss a final exam make-up for 
+legitimate reasons will typically be offered an opportunity to write an alternative make-up during the 
+final exam period the next time the course is offered. 
+13.5 Accommodation for missed Problem Sets, Reading Assignments, & Contribution 
+Universal accommodation is built-in to the grading policy for Problem Sets, Reading Assignments, 
+& Contribution by automatic grade adjustments. Please refer to the course expectation documents 
+for further information. In general, there are no extensions, make-ups, or re-writes for any 
+missed problem sets, reading assignments, or missed contribution opportunities (via 
+iClicker or other) during lectures. Students who face extraordinary circumstances, which require 
+multiple assessments to be missed, should seek advice and/or accommodation through the 
+Academic Counselling office of their respective faculty. In such rare instances, grade re-weighting 
+may be available on a case-by-case basis. 
+14. University Policy on Cheating and Academic Misconduct 
+ 
+Scholastic offences are taken seriously and students are directed to read the appropriate policy, 
+specifically, the definition of what constitutes a Scholastic Offence, at the following Web site: 
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf 
+Students are responsible for understanding the nature of and avoiding the occurrence of plagiarism and 
+other academic offenses. Students are urged to read the section on Scholastic Offenses in the Academic 
+Calendar.  
+Note that such offenses include plagiarism, cheating on an examination, submitting false or fraudulent 
+assignments or credentials, impersonating a candidate, or submitting for credit in any course without the 
+knowledge and approval of the instructor to whom it is submitted, any academic work for which credit has 
+previously been obtained or is being sought in another course in the University or elsewhere. If you are in 
+doubt about whether what you are doing is inappropriate, consult your instructor. A claim that "you didn't 
+know it was wrong" will not be accepted as an excuse.  
+A copy of guidelines about how to avoid cheating can be obtained from the Office of the Ombudsperson, 
+Room 3135 WSSB, (519) 661-3573, ombuds@uwo.ca.  
+Cheating on exams will not be tolerated; students are referred to the university policy on scholastic 
+offenses. Looking at the test of another student, allowing another student to view your exam, or obtaining 
+information about a test in advance are all examples of cheating.  
+Students found cheating will receive a zero (0%) on that exam. A number of safeguards will be employed 
+to discourage cheating. For example, examination supervisors (proctors) of the tests may ask students to 
+move to another seat during the exam, cover their paper, avert their eyes from other students' papers, 
+remove baseball caps, etc. This is not meant as a personal affront nor as an accusation of cheating, 
+rather as vigilant attempts at proctoring.  
+The penalties for a student guilty of a scholastic offense include refusal of a passing grade in the 
+assignment, refusal of a passing grade in the course, suspension from the University, and expulsion from 
+the University. 
+15. Procedures For Appealing Academic Evaluations 
+1. In the first instance, all appeals of a grade must be made to the course instructor (informal 
+consultation).  
+2. If the student is not satisfied with the decision of the course instructor, a written appeal must be sent 
+to the Undergraduate Chair: Student Affairs of the Department of Management and Organizational 
+Studies.  
+3. If the response of the Undergraduate Chair is considered unsatisfactory to the student, he/she may 
+then appeal to the Dean of the Faculty in which the course of program was taken.  
+4. Only after receiving a final decision from the Dean may a student appeal to the Senate Review 
+Board Academic. A Guide to Appeals is available from the Office of the Ombudsperson. 
+16. Support Services 
+16.1 Support Services  
+The Registrar’s office provides you with information on services, courses, student finances, 
+resources, latest news, as well as Student Central's hours of operation at 
+http://www.registrar.uwo.ca 
+Student Support Services (including the services provided by the USC listed here) can be 
+reached at: http://westernusc.ca/services/ 
+Academic Support & Engagement can be reached at:  http://academicsupport.uwo.ca 
+Students who are in emotional/mental distress should refer to Health and Wellness: 
+http://www.uwo.ca/uwocom/mentalhealth/ for a complete list of options about how to obtain help. 
+16.2 Academic Concerns.  
+If you are in academic difficulty, it is strongly recommended that you see your academic counsellor.  
+ 

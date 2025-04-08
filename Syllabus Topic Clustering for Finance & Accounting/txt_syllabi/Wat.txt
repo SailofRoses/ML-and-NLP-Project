@@ -1,0 +1,330 @@
+ UNIVERSITY OF WATERLOO  
+Department of Statistics and Actuarial Science  
+Actuarial Science 221  
+Fall 2017 
+ 
+Introduction to Financial Mathematics (Non-Specialist) 
+ 
+Course Outline  
+Instructor: Brent Matheson, MSc, MBA, CFA  
+Office: M3 2006  
+Office Hours: Posted weekly on my whiteboard.   
+Telephone: 519-888-4567 x 37212 (this is not the way to get me) 
+Email: bmatheson@uwaterloo.ca 
+Learn Website: log on through UW homepage. All communication and solutions, etc are through Learn.  
+Time of Classes: Monday, Wednesday & Friday, 2:30 am to 3:20 am., M3 1006 
+ 
+COURSE DESCRIPTION AND OBJECTIVES: ACTSC 221 is a course designed to provide students with the 
+rudimentary mathematical knowledge necessary to pursue a career in financial services. It is highly practical with 
+much of the material taken from real-life situations. The math covered in this course will prepare the student for 
+courses in Corporate Finance, Investments, Intermediate Accounting, etc. 
+ 
+Text: Access through Learn site 
+ 
+Assignments:  6 total (5 counted): 10% total (top 5 marks count) – Through Learn 
+Five (5) Quizzes – In class:  
+40% total, 8% each, in-class time   
+Final Exam: 
+ 
+ 
+50%; cumulative  Note: you must pass the final exam to pass the course. 
+ 
+EXAMINATIONS: There will be five quizzes and one final exam.  The term tests will be written during normal 
+class time on the scheduled dates.  The final exam will be two and one-half hours duration and will be scheduled 
+during the fall examination period. The final exam is comprehensive, covering material throughout the course.  You 
+must pass the final examination to receive a passing mark in this class. 
+ 
+You may use a non-graphing, financial calculator or other calculator containing ln x and yx functions. You are NOT 
+allowed to use programmable or graphing calculators on exams.  Bear in mind that marks on the examinations are 
+allocated for complete setup of the solutions.  If all you have is the final answer, it will get zero marks regardless of 
+its validity. 
+ 
+Students must bring photo identification to the mid-term and final exams. Notwithstanding its relative weighting, 
+students must pass the final exam in order to pass the course. If a student fails the final exam, the student’s final 
+mark will be the lower of the calculated grade according to the above weighting (i.e. including the final exam), and 
+48%.   
+ 
+If you have an illness that will impair your performance on an examination, do not write the examination. No 
+adjustment will be made for medical reasons after a student writes an exam. However, note that the experience of 
+virtually all UW instructors is students missing an exam for any reason almost always perform worse than if they 
+had attended all exams.    
+ 
+An examination missed without adequate documentation will result in a grade of zero for the exam.  No makeup 
+examinations will be given under any circumstances.  If a midterm examination is missed for a valid reason such as 
+sickness or an emergency, the weight of the midterm exam will be added to the final examination.  In the event that 
+a student is unable to sit a final exam during its regularly scheduled time, provided there is a satisfactory basis for 
+the absence with appropriate supporting evidence, the student will normally write the final exam when final exams 
+take place for the next offering of the course. The student will initially receive an INC grade for the course and no 
+numeric grade will be provided until such time as the final exam is written and a final grade calculated.    
+ 
+Re-grading requests should be made within one week after the return of the graded examinations. A regrading  
+request after a due date will not be accepted. The instructor reserves the right to re-grade the entire examination. 
+Appeals will only be considered where the total marks involved are 5% or more of the total available marks on the 
+exam, because marks below the 5% cut-off do not materially affect the final course grade. Final exam grade appeal 
+procedures are consistent with overall University policy.   
+ 
+ASSIGNMENTS: Student success is highly correlated with ongoing preparation. There will be 6 assignments and 
+each are weighted equally. In total, they count for 10% of your total grade.  The top 5 are counted for your mark.  
+You may do them as many times as you wish and the highest mark is counted for each.  These are accessed through 
+Learn. 
+Assignment Schedule 
+  
+Assignment # 
+Due Date: 5 PM 
+Day 
+Assignment 1 
+26-Sep-17 
+Tuesday 
+Assignment 2 
+5-Oct-17 
+Thursday 
+Assignment 3 
+24-Oct-17 
+Tuesday 
+Assignment 4 
+7-Nov-17 
+Tuesday 
+Assignment 5 
+21-Nov-17 
+Tuesday 
+Assignment 6 
+4-Dec-17 
+Monday 
+ 
+LEARN COURSE WEBPAGE: Course-related information/materials such as course outlines, lecture notes, 
+solutions, and class announcements will be available on the LEARN website (https://learn.uwaterloo.ca/).  It is 
+students’ responsibility to download posted course materials and check for updates.    
+ 
+EMAIL POLICY: The instructor will use students’ emails as a major way for out-of-the class communication (e.g. 
+making some announcements, answering some common questions, etc.).  The LEARN group email list will be used 
+for sending out class emails.  Students should make sure that they can get their emails via LEARN group email.  To 
+communicate with the instructor via e-mail, use bmatheson@uwaterloo.ca.   
+ 
+PROFESSIONAL CONDUCT POLICY: To foster a more professional learning environment and to develop 
+habits that lead to success in the business work, all participants must engage in professional behavior, including: 1. 
+No inappropriate talking in class.  2. Turn off mobile phones prior to class.   3. Arrive on time and leave at the 
+designated time.  Please do not leave the class in the middle unless it is absolutely essential.  4. Plan outside 
+activities to avoid conflicts with the activities outlined in the syllabus. 5. Agree to abide by the academic misconduct 
+rules and procedures and code of ethics discussed below.  6. Acknowledging the importance of clarity of expression 
+in written and oral communication and understanding that the course grade will be affected by your ability to 
+communicate.   
+ 
+ACADEMIC INTEGRITY: Absolutely no cheating is allowed. Note on avoidance of academic offences: All 
+students registered in the courses of the Faculty of Mathematics are expected to know what constitutes an academic 
+offense, to avoid committing academic offenses, and to take responsibility for their academic actions. When the 
+commission of an offense is established, disciplinary penalties will be imposed in accord with Policy #71 (Student 
+Academic Discipline). For information on categories of offenses and types of penalties, students are directed to 
+consult the summary of Policy #71 in the student Academic Calendar (Section 1) or by using the link below:  
+http://www.adm.uwaterloo.ca/infosec/Policies/policy71.htm. Other resources regarding the discipline policy include 
+your academic advisor.    
+ 
+RELEASE OF GRADES: Grades will be released through the course site on UW-Quest. Please note that 
+University of Waterloo Policy 19 states that, “final examination and final course grades shall not be posted before 
+the final examination period ends.”  I will not release marks through email or on the phone. 
+ 
+DISABILITIES ASSISTANCE The Accessability Office is located in Needles Hall, Room 1132 and collaborates 
+with all academic departments to arrange appropriate accommodations for students with disabilities without 
+compromising the academic integrity of the curriculum. If you require academic accommodations to lessen the 
+impact of your disability, please register with the office at the beginning of each academic term.  
+ 
+ACTSC 221 Tentative Schedule Fall 2017 
+ 
+Day 
+Date 
+Lecture # 
+Topic 
+In-Class Test 
+Friday 
+8-Sep-16 
+1 
+Intro/Simple Interest 
+  
+Monday  
+11-Sep-16 
+2 
+Compound Interest 
+  
+Wednesday 
+13-Sep-16 
+3 
+Nominal Rates/Changing Rates 
+  
+Friday 
+15-Sep-16 
+4 
+Equations of Value 
+  
+Monday  
+18-Sep-16 
+5 
+Solving for Time and Rate 
+  
+Wednesday 
+20-Sep-16 
+6 
+Rates of Discount/T-Bills 
+  
+Friday 
+22-Sep-16 
+7 
+Inflation/Taxes 
+  
+Monday  
+25-Sep-16 
+8 
+Simple Annuities 
+  
+Wednesday 
+27-Sep-16 
+9 
+No Lecture - TT1 
+Interest 
+Friday 
+29-Sep-16 
+10 
+Present Value of Annuities 
+  
+Monday  
+2-Oct-16 
+11 
+Solving for Rate and Number of 
+Payments 
+  
+Wednesday 
+4-Oct-16 
+12 
+Annuities with Alternate Focal 
+Points 
+  
+Friday 
+6-Oct-16 
+13 
+Review 
+  
+Monday  
+9-Oct-16 
+Thanksgiving 
+No Lecture 
+  
+Wednesday 
+11-Oct-16 
+Study Day 
+No Lecture 
+  
+Friday 
+13-Oct-16 
+14 
+No Lecture - TT2 
+Simple Annuities 
+Monday  
+16-Oct-16 
+15 
+General Annuities 
+Intro/Mortgages in Canada 
+  
+Wednesday 
+18-Oct-16 
+16 
+Perpetuities 
+  
+Friday 
+20-Oct-16 
+17 
+Annuities where Payments Vary 
+  
+Monday  
+23-Oct-16 
+18 
+Review 
+  
+Wednesday 
+25-Oct-16 
+19 
+Amortization 
+  
+Friday 
+27-Oct-16 
+20 
+No Lecture - TT3 
+General Annuities 
+Monday  
+30-Oct-16 
+21 
+Outstanding Balance; 
+Refinancing - Amortization 
+  
+Wednesday 
+1-Nov-16 
+22 
+Sinking Funds 
+  
+Friday 
+3-Nov-16 
+23 
+Sinking Fund Retirement of Debt 
+  
+Monday  
+6-Nov-16 
+24 
+Review 
+  
+Wednesday 
+8-Nov-16 
+25 
+Bonds - Terminology; Pricing 
+  
+Friday 
+10-Nov-16 
+26 
+No Lecture - TT4 
+Debt Repayment 
+Monday  
+13-Nov-16 
+27 
+Premium and Discount 
+  
+Wednesday 
+15-Nov-16 
+28 
+Price Between Coupon Dates 
+  
+Friday 
+17-Nov-16 
+29 
+YTM/Other Bonds 
+  
+Monday  
+20-Nov-16 
+30 
+Review 
+  
+Wednesday 
+22-Nov-16 
+31 
+NPV/IRR 
+  
+Friday 
+24-Nov-16 
+32 
+No Lecture - TT5 
+Bonds 
+Monday  
+27-Nov-16 
+33 
+Rate of Return - DW 
+  
+Wednesday 
+29-Nov-16 
+34 
+Rate of Return - TW 
+  
+Friday 
+1-Dec-16 
+35 
+Review 
+  
+Monday  
+4-Dec-16 
+36 
+Review 
+  

@@ -1,0 +1,44 @@
+ 
+PLANES DE ESTUDIO
+CF1010
+Accounting and Cost Management
+CIP: 520301  Accounting.
+ 
+CL-L-U-CA-UDC:  3-0-8-3-3.5     
+Discipline:  
+Financial and Administrative Accounting
+School:   
+Business
+Academic Department:   
+Accounting and Finance
+Programs:   
+4 IA 11, 4 IBN11, 3 IID12, 3 IIN12, 5 IIS11, 5 IMI11, 3 INT11, 5 LCMD11, 3 LEC11, 2 LEF11, 3 LEP11, 5 LPO11, 5 ITI17
+Prerequisites:  
+None.
+Equivalences:  
+CF1007
+Course intention within the general study plan context:  
+This is a basic course intended to teach students to understand the financial statements for different types of enterprises. In this
+course students will develop the ability to define and assess the different types of costs that exist in the operational area of an
+organization and apply diverse costing techniques to manufacturing and service environments. As a learning outcome students
+are expected to be able to identify the basic financial statements of companies as well as understand the accounting process and
+use the costing information to increase competitiveness.
+Course objective:  
+The student must be able to understand the basics concepts of financial accounting and the fundamentals of analysis of financial
+statements in order to support decision making; and understand, analyze, use and relate cost accounting information to new
+developments in processes and operations in the manufacturing area.
+Teaching and learning tecniques:  
+Problem-based Learning
+Suggested Bibliography:  
+TEXT BOOKS:
+* Reeve, James M., Warren, Carl S., Principles of financial and managerial accounting, 10th ed., Mason, Ohio ; México : South-
+Western Cengage Learning, c2009,  ,  0324664761, 9780324664768
+BOOKS FOR CONSULTATION:
+* Horngren, Charles T., d1926- eauthor., Cost accounting : ba managerial emphasis, eng, 
+* Warren, Carl S., Corporate financial accounting, 9th ed., Mason, OH : Thomson/South-Western, c2007,  ,  0324381921 (ru´stica),
+9780324381924 (ru´stica)
+Academic credentials required to teach the course:  
+((520301)Bachelor in Accountancy and (520201)Master Degree in Business Administration/Management) and (520301)Master
+Degree in Accountancy and (520801)Master Degree in Finances and (520301)Doctoral Degree in Accountancy and (520801)Doctoral
+Degree in Finances
+CIP: 520301, 520201, 520801

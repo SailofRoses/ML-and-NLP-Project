@@ -1,0 +1,250 @@
+ 
+MIF                                            ACCELERATED TRACK 
+Introduction to Finance                          FALL 2016 
+ 
+Syllabus 2016 - MIF Introduction to Finance                 Page 1 sur 4 
+ 
+INTRODUCTION TO FINANCE 
+Professor: Ioanid Rosu 
+Assistant: Véronique Salat 
+rosu@hec.fr 
+salat@hec.fr 
+Bldg. W2, Rm. # 27 
+Bldg. W2, Rm. # 21 
+Ext. 7159 
+Ext. 9605 
+ 
+PRSENTATION - PRÉSENTATION  
+This is a core class that offers the basic concepts and tools necessary to understand how financial 
+markets work, and how financial instruments are used for sound investment decisions.  This knowledge 
+is especially important in the present environment, in the aftermath of the Financial Crisis of 2007-2009, 
+and during the ongoing debt crisis in Europe.  Topics covered include the following: models of risk and 
+return;  time value of money and net present value; market efficiency, anomalies, and behavioral 
+finance; asset allocation and modern portfolio theory; bonds and interest rates, forwards and futures, 
+options; the structure and performance of the money management industry: pension funds, mutual 
+funds, hedge funds.  Effort will be made to relate the course material to current financial issues and 
+problems relevant to practitioners. 
+ 
+INTENDED LEARNING OBECTIVES - OBJECTIFS PÉDAGOGIQUES  
+When you complete this course, you should be able to understand: 
+• 
+The basic tradeoff between risk and (expected) return, and how it applies to various types of 
+financial instruments: stocks, bonds, futures, options. 
+• 
+The time value of money (TVM) and net present value (NPV), and their connection to the 
+discount rate (cost of capital), and the risk premium of a financial asset. 
+• 
+The two main models of asset pricing: the Capital Asset Pricing Model (CAPM) and Arbitrage 
+Pricing Theory (APT).  How do we compute the cost of capital/risk premium? 
+• 
+Market efficiency and arbitrage.  Are markets efficient, or are they dominated by irrational 
+investors?  Are prices predictable? 
+• 
+Diversification: how to select a portfolio of securities that maximizes return while minimizing 
+risk.  How does diversification work in practice? 
+• 
+Financial instruments: bonds, stocks, currencies, and derivatives (futures, options, swaps).  How 
+are these related to interest rates, risk hedging, speculation, or volatility? 
+• 
+The money management industry and its key players:  pension funds, mutual funds, and hedge 
+funds.  Do they have any superior investment skills? 
+ 
+KEY TOPICS - THÈMES PRINCIPAUX 
+Part 1: Finance Fundamentals 
+• 
+Risk and Return 
+• 
+Time Value of Money and Net Present Value 
+• 
+Asset Pricing Models: CAPM and APT 
+• 
+Market Efficiency and Arbitrage 
+• 
+Modern Portfolio Theory and Diversification 
+ 
+ 
+MIF                                            ACCELERATED TRACK 
+Introduction to Finance                          FALL 2016 
+ 
+Syllabus 2016 - MIF Introduction to Finance                 Page 2 sur 4 
+ 
+Part 2: Applications to Financial Markets 
+• 
+Practical Asset Allocation 
+• 
+Bonds and Interest Rates 
+• 
+Derivatives: Futures and Options 
+• 
+Money Management Industry: Structure and Performance 
+ 
+ 
+SCHEDULE - DÉROULÉ 
+COURSE CONTENT – CONTENU 
+This an approximate schedule of topics that will be covered.  You should read the corresponding material prior to the 
+lecture.  "BKM" refers to the textbook of Bodie, Kane and Marcus.  Required readings are denoted by "R", optional 
+readings by "O".  Reading should be only done in enough detail so that you get a general idea. 
+Class 
+Topic 
+Readings 
+Assignments 
+Mon, Sep 19 
+14:40-17:40 
+1: The Financial System; Risk and 
+Return 
+BKM: chapters 1,2,3,5 (R), 18 (O) 
+Case: The Historical Risk of T-Bills, 
+T-Bonds and Equities in the U.S. 
+ 
+Wed, Sep 21 
+14:40-17:40 
+2: Time Value of Money; Net Present 
+Value 
+ 
+ 
+Mon, Sep 26 
+14:40-17:40 
+3: Capital Asset Pricing Model; 
+Arbitrage Pricing Theory 
+BKM: chapters 9,10 (R), 8,13 (O) 
+Case: The Cost of Capital for Apple 
+and K-Mart 
+Assignment #1 Due 
+(beginning of class) 
+Wed, Sep 28 
+9:40-12:40 
+4: Market Efficiency and Arbitrage - 
+Part 1: Predictability, Event Studies, 
+Anomalies 
+BKM: chapter 11 (R) 
+ 
+Wed, Oct 5 
+14:40-17:40 
+4: Market Efficiency and Arbitrage - 
+Part 2: Limits of Arbitrage, Behavioral 
+Finance 
+ 
+BKM: chapter 3.8, 3.9 (R), 12 (O) 
+Cases: (1) The Red Dollar versus the 
+Blue Dollar; (2) The Porsche and 
+Volkswagen Short Squeeze 
+Assignment #2 Due 
+(beginning of class) 
+Midterm Exam (Topics 1-4): Fri Oct 7, 11:20-12:50 
+Mon, Oct 10 
+14:40-17:40 
+5: Modern Portfolio Theory; Practical 
+Asset Allocation 
+BKM: chapters 6,7 (R), 25, 27.3 (O) 
+Case: Harvard Management 
+Company 
+ 
+Wed, Oct 12 
+13:00-16:00 
+6: Bonds and Interest Rates 
+BKM: chapters 14,15 (R), 16 (O) 
+Case: Interpreting the Yield Curve 
+ 
+Thu, Oct 13 
+13:00-16:00 
+7: Derivatives: Forwards and Futures 
+8a: Derivatives: Options 
+BKM: chapter 22 (R), 23.1-3 (O) 
+Case: Hedging Gold Price Risk 
+ 
+Mon, Oct 17 
+14:40-17:40 
+8b: Options: Prices and Volatility 
+BKM: chapters 20 (R), 21 (O) 
+Case: Speculating with IBM Options 
+Assignment #3 Due 
+(beginning of class) 
+Wed, Oct 19 
+13:00-16:00 
+9: Money Management Industry 
+BKM: chapters 4,26 (R), 24,27 (O) 
+Case: Long-Term Capital Mgmt. 
+ 
+Final Exam (Topics 1-9): Wed Nov 2, 10:30-12:30 
+ 
+ 
+ 
+ 
+MIF                                            ACCELERATED TRACK 
+Introduction to Finance                          FALL 2016 
+ 
+Syllabus 2016 - MIF Introduction to Finance                 Page 3 sur 4 
+ 
+TEACHING METHODS - MÉTHODES PÉDAGOGIQUES 
+COURSE MATERIALS - MATÉRIEL PÉDAGOGIQUE 
+We combine lectures, classroom discussions, readings, and cases, to strengthen your understanding of 
+basic topics, and to sharpen your analytic and problem solving skills.  The course presents a thorough 
+conceptual framework for understanding financial markets, yet at the same time offers much practical 
+knowledge.  The course is therefore challenging, and requires a significant amount of work outside of 
+class in order to get most out of it. 
+Required Books 
+Bodie, Zvi, Alex Kane, and Alan Marcus (2014). Investments. McGraw-Hill/Irwin, 10th Global Edition. 
+ 
+Additional Textbook 
+Malkiel, Burton (2015). A Random Walk Down Wall Street. Norton, 11th Edition. 
+ 
+Required Cases, Assignments and Other Materials 
+Course materials can be downloaded from the course web page, which will be announced by e-mail 
+before the first week of classes.  In lectures, I will follow my lecture notes, which I will make available 
+before each class. 
+ 
+INDIVIDUAL WORK - TRAVAIL PERSONNEL  
+Students will need to complete three assignments throughout the course.  The assignments are 
+completed in groups, which enhances learning. 
+Students will need to pass two exams, a midterm and final.  The exams are to be completed individually.  
+The midterm exam is optional - see the "Grading" section below. 
+ 
+GRADING - ÉVALUATION  
+Grades are based on 3 assignments (30%), the midterm exam (20%) and the final exam (50%).  If the 
+normalized midterm score is below the normalized final exam score, the midterm score will be dropped, 
+and the weight will be added to the final exam (70%).  Weightings on the various components of the 
+final grade are as follows:  
+ 
+Assignments (Team) 
+Midterm Exam (Individual) 
+Final Exam (Individual) 
+30% 
+20%      or     0% 
+50%      or     70% 
+ 
+The assignments should be typed or written legibly, and submitted in hard copy at the beginning of class 
+on the scheduled date.  The assignments may be discussed only with the members of your group.  Only 
+one solution per group should be handed in.  No late submissions will be accepted. 
+Both exams are closed-book and closed-notes, with a calculator allowed but no other electronic device 
+(e.g., calculator software on a smart phone is not permitted).  You are allowed a "cheat sheet" provided 
+by me, with no additional materials written on it. 
+ 
+MIF                                            ACCELERATED TRACK 
+Introduction to Finance                          FALL 2016 
+ 
+Syllabus 2016 - MIF Introduction to Finance                 Page 4 sur 4 
+ 
+Exam Re-grading Policy: You may request a re-grade on any exam.  Each re-grade request must be 
+accompanied by a concise written explanation of the request (e-mail is preferable).  The request should 
+be submitted to me within one week after the exams are distributed.  The whole exam may be re-
+graded, so your score can either increase or decrease as a result.  For the re-grade request, you should 
+do the following: 1. Choose at most 3 questions from the exam (e.g., 1b, 2a, 4c) for which you think that 
+you deserve more points than were given by the grader; 2. Scan the part of the graded exam in which 
+you answered those questions, and attach the images to the email (or to the written request); 3. Explain 
+briefly why you think the questions were graded unfairly, and why you deserve to get more points; 4. 
+Send the request either by e-mail or by HEC mail to my office address (see above). 
+Class participation is very important.  Many of you have useful professional experience that can 
+undoubtedly benefit our class discussions.  Do not hesitate to share your experience with the rest of the 
+class! 
+ 
+ 
+ 
+BIOGRAPHY - BIOGRAPHIE / PUBLICATIONS 
+Ioanid Rosu has joined HEC Paris as Associate Professor in 2010. A graduate of University of 
+Bucharest, he earned two PhDs from MIT, one in mathematics in 1999 and one in financial 
+economics in 2004.  Between 2004 and 2010 he was Assistant Professor of Finance at the 
+University of Chicago, Booth School of Business, where he taught the introductory finance 
+course in the MBA and Executive MBA programs.  His work has been published in top finance 
+journals such as the Journal of Finance or Review of Financial Studies.  His research focuses on 
+the liquidity of financial markets and its effect on asset prices and investor decisions.  He is also 
+interested in mergers and acquisitions, option pricing, and high frequency trading. 

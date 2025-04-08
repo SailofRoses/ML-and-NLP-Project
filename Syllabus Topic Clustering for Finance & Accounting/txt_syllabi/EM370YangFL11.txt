@@ -1,0 +1,234 @@
+MANAGERIAL FINANCE 
+Course Syllabus 
+ 
+Instructor: 
+Dr. Sheng Yang 
+Semester: 
+Fall 2011 
+Office: 
+Beck Hall 153 
+Course Number: 
+E/M-370-001 
+Office Hours:  MTWF 11:30am-12:30pm or by appointment  Class Hours: 
+MTWF 9:00-9:50AM 
+Phone: 
+507.933.7014 
+Location: 
+Beck Hall 119 
+E-mail:  
+syang10@gustavus.edu 
+Instruction Method:  Lecture/Seminar  
+ 
+ 
+CATALOG DESCRIPTION: 
+A study of the financial structure and problems of financing business enterprises, including financing of 
+working capital, cash flow, capital budgeting, and monetary and capital markets. Students will develop a 
+business plan and analyze its feasibility. Problem-solving is a major part of the class and students will work in 
+small groups on assigned problems. 
+ 
+PREREQUISITE: E/M-101, E/M-102, E/M-130, and completion of departmental mathematics requirement 
+ 
+COURSE OBJECTIVES: 
+The course objective is to familiarize students with the fundamental concepts and analytical tools of Financial 
+Management used by professionals. The course provides the basic concepts and principles of financial 
+management. Upon successful completion of the course, students should be able to: 
+1. understand the function of managerial finance; 
+2. perform ratio analysis of corporate financial statements; 
+3. understand the difference between net cash flow and net income and the relevance of cash flow in 
+financial planning; 
+4. utilize the time value of money concepts; 
+5. understand the determinants of market interest rates and their term structures; 
+6. define and measure the risk and rates of return through the capital asset pricing model; 
+7. use certain stock and bond valuation models; 
+8. engage in certain capital budgeting procedures including payback, discounted payback, net present value, 
+and internal rate of return; 
+9. identify and calculate component costs of capital and the weighted average cost of capital. 
+ 
+REQUIRED TEXTBOOK AND MATERIAL: 
+1. Fundamentals of Financial Management, 12th edition, 2010, by Brigham & Houston. 
+2. Texas Instruments BAII Plus. 
+ 
+Calculator 
+You must have a financial calculator to get through the course. Many of the exam problems involve complex 
+arithmetic and financial calculations, and a financial calculator is necessary to solve them. TI-BAII Plus is the 
+one recommended and will be used for instructional purposes. The calculator does everything needed in the 
+course. I will use one in class and explain how to work various problems with it, so you can follow lectures most 
+easily if you use a TI-BAII Plus. As you will soon see, the ability to use a financial calculator is critical to 
+success in the class.  Note students may not share calculators on exams. 
+ 
+MOODLE CLASS WEBSITE: 
+A class website on Moodle is created for posting messages, homework assignment, exam study guides, and 
+additional study materials. Class announcement and due dates will be posted on Moodle.  Group assignments 
+are to be submitted electronically to the designated folders on Moodle. Discussion will also be utilized for 
+assigned problem discussion and message exchange. 
+COURSE REQUIREMENTS: 
+Final grade will be determined on the basis of examination grades, performance of assignments, and class 
+attendance and participation.  Students are expected to turn in assignments and take exams according to the 
+schedule. No late assignment will be accepted, and no make-up exam will be given without an official proof 
+being turned in to the instructor prior to the exams. In order to be excused from an exam, the student must 
+contact me before the exam.  Excuses will be granted only if the student is unable to take the exam because of 
+serious illness or injury, or a significant personal or professional commitment.  Excuses will not be granted for 
+social activities such as ski trips, cruises, and trips to sporting events (unless you are participating). Cheating 
+and plagiarism on any assignment will result in an "F" grade for the entire course. 
+ 
+Attendance and Participation 
+Participation and attendance are important part of successful completion of this course. Some materials and 
+assignments will be discussed and completed only in class.  Attendance and participation will be considered 
+when computing the course grade.  I will reserve the right to lower your course grade by half a letter grade if 
+you have 4 absences and a letter grade if you have 6 absences.  Student who misses more than 8 classes will 
+receive an F grade for the entire course. 
+ 
+Quizzes (15%) 
+Quizzes will be administered upon completion of every chapter starting Chapter 3. Each quiz will consist of 
+one to two questions selected from the assigned Problems in the end of each assigned chapter.  If more than 6 
+quizzes are given, test results from the additional quiz will be applied as extra credit to the final average. 
+Problems assigned for each chapter and answers to the assigned problems will be posted on Moodle prior to 
+the beginning of the chapter. 
+ 
+Group Assignments (15%) 
+In the beginning of the class, students should form a study group with no more than 3 members in the group. 
+Each group is required to complete the Comprehensive/Spreadsheet Problem at the end of each assigned 
+chapter upon completion of the chapter.  Assignments are to be turned in to the specified folder on Moodle 
+prior to the meeting time of the class on the due date. Due date for the assignment will be posted on Moodle. 
+Additional working papers for the assignments can be submitted in class. 
+ 
+Group Project & Presentation (10%) 
+Each student will be involved in a team to analyze a firm and present their finding to the class. The purpose 
+of this assignment is to apply the financial concepts learned in this class to a specific firm.  Each group will 
+use PowerPoint to present their findings to the class.  Some of the issues to be covered for each project 
+include: financial statement analysis, estimating the firm’s cost of capital, estimation and interpretation of 
+cash flows, optimal capital structure, etc. 
+ 
+Term Examinations (60%) 
+Three term exams and a non-cumulated final exam will be administered throughout the term.  Each exam will 
+consist of multiple-choice and problem-solving questions.  Exam contents are taken from the reading and 
+hands-on material covered in the course required text. No books and no notebooks will be allowed in the 
+examinations.  For the exams you will be allowed to bring in a financial calculator and a 3 by 5 note card. 
+ 
+GRADING PROCEDURE: 
+Percentage Allocation 
+ 
+ 
+Grading Scale
+ 
+Quizzes (@25/2.5%) 
+6 150/15%
+A = 93 - 100%
+A- = 90 – 92.9%  
+Group Assignments (@15/1.5%) 10 150/15%
+B+ = 87 – 89.9%
+B = 83 – 86.9% B- = 80 – 82.9%
+Group Project & Presentation 
+1 100/10%
+C+ = 77 – 79.9%
+C = 73 – 76.9% C- = 70 – 72.9%
+Term Examinations (@150/15%) 3 450/45%
+D+ = 67 – 69.9%
+D = 63 – 66.9% D- = 60 – 62.9%
+Final Examination 
+1 150/15%
+F = 59% & Below
+ 
+Total 
+1,000/100%  
+ 
+ 
+COURSE CONTENT/SCHEDULE: (subject to change depending on the actual progress in class.) 
+Week   Date 
+Chapter 
+Subject 
+1 
+9/6-9/9 
+1 
+Introduction 
+An Overview of Financial Management 
+2 
+9/12-9/16 
+2 
+Financial Markets and Institutions 
+3 
+9/19-9/23 
+3 
+Financial Statements, Cash Flow, and Taxes 
+4 
+9/26-9/30 
+4 
+Analysis of Financial Statements 
+5 
+10/3-10/7 
+Exam 1 (Chapters 1-4) 
+6 
+10/10-10/14 
+5 
+Time Value of Money 
+7 
+10/17-10/21 
+6 
+Interest Rates 
+8 
+10/26-10/28 
+7 
+Bonds and their Valuation 
+9 
+10/31-11/4 
+Exam 2 (Chapters 5-7) 
+10 
+11/7-11/11 
+8 
+Risk and Rates of Return 
+11 
+11/14-11/18 
+9 
+Stocks and Their Valuation 
+12 
+11/21-11/22 
+Exam 3 (Chapters 8-9) 
+13 
+11/28-12/2 
+10 
+The Cost of Capital 
+14 
+12/5-12/9 
+11 
+The Basics of Capital Budgeting 
+15 
+12/12-12/14 
+12 
+Cash Flow Estimation and Risk Analysis 
+16 
+12/19 (1-3 PM) 
+Final Exam (Chapters 10-12) 
+ 
+ACADEMIC HONESTY AND DISCIPLINE: 
+College students are expected to conduct themselves according to the highest standards of academic honesty. 
+Academic misconduct for which a student is subject to penalty includes all forms of cheating, such as illicit 
+possession of examinations or examination materials, forgery or plagiarism.  Disciplinary action will be taken 
+for academic misconduct. 
+ 
+CLASS CONDUCT: 
+Gustavus Adolphus College is an institution of academic excellence.  Accordingly, please note that you 
+should extend a certain level of respect and courtesy toward your fellow students and instructor. The 
+discussion in class can be intense, but it must be appropriate. Comments that are demeaning, hurtful, or 
+offensive are unacceptable and will be met with strong disapproval and decisive action in accordance with the 
+GAC Student Code of Conduct. 
+ 
+DISABILITY SERVICES: 
+“Gustavus Adolphus College is committed to ensuring the full participation of all students in its programs. If 
+you have a documented disability (or you think you may have a disability of any nature) and, as a result, need 
+reasonable academic accommodation to participate in class, take tests or benefit from the College’s services, 
+then you should speak with the Disability Services Coordinator, for a confidential discussion of your needs 
+and appropriate plans. Course requirements cannot be waived, but reasonable accommodations may be 
+provided based on disability documentation and course outcomes. Accommodations cannot be made 
+retroactively; therefore, to maximize your academic success at Gustavus, please contact Disability Services as 
+early as possible. Disability Services (https://gustavus.edu/advising/disability/) is located in the Advising and 
+Counseling Center.” 
+ 
+Disability Services Coordinator Laurie Bickett (lbickett@gustavus.edu or x6286) can provide further 
+information. 
+ 
+DISCLAIMER: 
+Information contained in this syllabus was, to the best knowledge of the instructor, considered correct and 
+complete when distributed for use at the beginning of the semester. However, this syllabus should not be 
+considered a contract between Gustavus Adolphus College and any student. The instructor reserves the right, 
+acting within the policies and procedures of GAC, to make changes in course content or instructional 
+technique without notices or obligation. 

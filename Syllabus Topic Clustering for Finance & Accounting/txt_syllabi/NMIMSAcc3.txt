@@ -1,0 +1,780 @@
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 15 
+ 
+ 
+Program: B. Tech (Computer Engineering) 
+Semester: V 
+Course/Module:  Management Accounting for Engineers 
+Module Code: BTCO05014 
+Teaching Scheme 
+Evaluation Scheme 
+Lecture 
+(Hours 
+per week)
+Practical 
+(Hours per 
+week) 
+Tutorial 
+(Hours 
+per 
+week) 
+ 
+Credit
+Internal Continuous 
+Assessment (ICA) 
+(Marks - 50) 
+Term End 
+Examinations (TEE)
+(Marks- 100 in 
+Question Paper) 
+2 
+--- 
+--- 
+2 
+Marks Scaled to 50  
+Marks Scaled to 50  
+Prerequisite: Nil 
+Objectives: 
+1. To provide conceptual understanding of Cost and Management Accounting principles 
+and practices relevant for business analysis and decision making. 
+2. To develop the ability to understand, analyze and use cost information in day-to-day 
+business functioning.  
+3. To provide an understanding of measurement of cost and tracing the costs to products 
+and customers. 
+4. To explain the role of relevant costs in decision making and developing better strategies.
+5. To discuss contemporary issues in Cost and Management Accounting and their 
+practical applications. 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 16 
+ 
+ 
+Outcomes:  
+After completion of this course, participants should be able to; 
+1. Understand the principles of various Costing methods viz., Activity Based Costing 
+(ABC) Method, Job and Process Costing Methods. 
+2. Preparation of cost sheet 
+3. Apply Cost-Volume-Profit Analysis in business decision making. 
+4. Analyze Price and Cost Variances  
+5. Using budgetary control techniques for managerial decision making 
+6. Apply different methods of Inventory management 
+7. Apply Activity Based Costing to generate reliable and accurate product cost data 
+Detailed Syllabus: ( per session plan ) 
+Unit 
+Description 
+Duration 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+Introduction to Cost accounting and Cost concepts:  
+ 
+Interface of Financial accounting with Cost 
+               accounting –  
+ 
+Methods of costing  
+ 
+Types of Costing  
+ 
+Classification of Costs based on Behaviour 
+ 
+Classification of Costs based on Behaviour 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill – Chapter1 and 2 
+Outcome addressed 1  
+2 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 17 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+Cost Concepts 
+ 
+ 
+Classification of Costs based on Degree of 
+Traceability to the product 
+ 
+Functional Classification of Costs  
+ 
+Costs for Decision making and planning 
+ 
+Readings:  
+Cost accounting. 5/e, Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 2 
+ 
+Outcome addressed 1  
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Preparation of Cost sheet 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 2 
+ 
+Outcome addressed 2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 18 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Cost-Volume-Profit Analysis:   
+ 
+ 
+Concept of Marginal Costing 
+ 
+Cost-Volume-Profit relationship – 
+ 
+The break-even point –  
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 16 
+ 
+Outcome addressed 3 
+2 
+ 
+ 
+ 
+5 
+ 
+ 
+Topic: 
+ 
+Cost-Volume-Profit Analysis:   
+ 
+ 
+Contribution margin concept –  
+ 
+Margin of safety 
+ 
+2 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 19 
+ 
+ 
+ 
+ 
+ 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 16 
+ 
+Outcome addressed 3 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Cost-Volume-Profit Analysis:   
+ 
+ 
+Applying cost-volume-profit analysis –  
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 16 
+ 
+Outcome addressed  3 
+2 
+ 
+7 
+ 
+ 
+ 
+Topic: 
+ 
+Decisions making:  
+ 
+2 
+ 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alternative choice decisions – 
+ 
+Limiting factor decisions 
+ 
+Add or drop products 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 17 
+ 
+Outcome addressed 3 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Decisions making:  
+ 
+ 
+Make or Buy decisions 
+ 
+Shut down decision 
+ 
+Special orders 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 17 
+ 
+Outcome addressed  3 
+ 
+2 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 21 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Variance analysis- 
+ 
+ Direct material variances 
+ Cost Variance 
+ Price Variance 
+ Usage Variance 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 19 
+ 
+Outcome addressed  4 
+2 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Variance analysis- 
+ 
+ Direct labour variances 
+ Cost Variance 
+ Rate Variance 
+ Efficiency Variance 
+ 
+2 
+ 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 22 
+ 
+ 
+ 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 19 
+ 
+Outcome addressed 4 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Budgetary Control 
+ 
+ Flexible Budget  
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 20 
+ 
+Outcome addressed 5 
+ 
+2 
+ 
+12 
+Topic: 
+ 
+Budgetary Control 
+ 
+ Cash Budget 
+2 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 23 
+ 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 20 
+ 
+Outcome addressed  5 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+Topic: 
+ 
+Inventory Management 
+ EOQ 
+ Inventory levels- Minimum, Maximum, Re-order, Average 
+ Inventory control Techniques- ABC Analysis, JIT method 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 3 
+ 
+Outcome addressed 6 
+2 
+ 
+14 
+ 
+ 
+ 
+Topic: 
+ 
+Activity Based Costing   
+ 
+ under costing and over costing- 
+2 
+ 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 24 
+ 
+ 
+ 
+ 
+ 
+ traditional vs activity-based costing- 
+ Evaluation of costs and benefits of implementing ABC 
+systems 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 8 
+ 
+Outcome addressed  7 
+ 
+15 
+Topic: 
+ 
+Activity Based Costing   
+ 
+ Application of Activity based costing in decision making 
+ 
+Readings:  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, 
+Tata McGraw Hill - Chapter 8 
+ 
+Outcome addressed  7 
+ 
+2 
+ 
+Total 
+30 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 25 
+ 
+ 
+Text Book :  
+Cost accounting. 5/e,  Lal. J., & Srivastava, S. (2013). New Delhi, Tata McGraw Hill. 
+Reference Books: 
+ 
+Horngren, C., Datar, S. &Rajan, M. (2014). Cost accounting: A managerial emphasis. 
+15/e, New Delhi, Pearson Publication.  
+ 
+Khan, M.Y., & Jain, P.K. (2007). Cost accounting. 7/e, New Delhi, Tata Mc- Graw Hill. 
+ 
+Ramanathan, S. (2014). Accounting for Management. New Delhi, Oxford University 
+Press. 
+ 
+Shah, P. (2012). Management Accounting. 7/e, New Delhi, Oxford University Press. 
+ 
+Sanyers, J., & Jenkins, & Arora. (2012). Managerial Accounting. 1/e, Delhi, Cengage 
+Learning.  
+Internet References: 
+ 
+http://icmai.in 
+https://www.cimaglobal.com 
+Any other information: 
+ 
+Detail of Test:  Questions based on concepts, applications and numerical 
+ 
+MT-01: Scope: Topics from Unit - 01 to 06 for 10 Marks 
+MT-02: Scope: Topics from Unit - 07 to 09 for 10 Marks 
+             
+ 
+            Test Marks – 20 Marks 
+SVKM’s NMIMS 
+Mukesh Patel School of Technology Management & Engineering 
+            
+ 
+ 
+ 
+ 
+ 
+                      ____________                                             
+____________ 
+Signature  
+ 
+ 
+ 
+ 
+ 
+ 
+                      Signature  
+(Prepared by Concerned Faculty/HOD) 
+ 
+                             (Approved by Dean) 
+ 
+B. Tech /3rd Year -Sem V/A. Y 2020-21 -Page 26 
+ 
+ 
+            Term Work – 30 Marks 
+ 
+Details of Term work: Projects/Presentations application of concepts from on Unit 01 to 
+Unit 15. 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

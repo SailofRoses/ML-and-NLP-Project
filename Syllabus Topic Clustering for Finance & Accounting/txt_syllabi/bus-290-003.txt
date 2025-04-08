@@ -1,0 +1,483 @@
+WINTER 2023 BUS 290 – 003 COURSE 
+1 | P a g e
+ 
+ 
+BUS 290 – 003 │ Introduction to Finance 
+ Winter 2022 Course Outline 
+Hill School of 
+We advance engagement in business and diverse communities through interdisciplinary thinking 
+Business’ Mission 
+and research, experiential learning, and critical reflection for personal and professional fulfillment. 
+ 
+ 
+CLASS TIME 
+7:00 p.m. – 9:45 p.m. / Wednesdays / Jan 4 – Apr. 5, 2023 
+CLASS LOCATION 
+ED 616 (hyflex: in-person and remote delivery) 
+REMOTE ACCESS 
+If outside Regina area or off campus, a Zoom link will be posted. 
+COURSE SITE 
+http://www.uregina.ca/urcourses/ - access through your UR account 
+ 
+INSTRUCTOR 
+Dave Roszell 
+EMAIL 
+David.Roszell@uregina.ca 
+OFFICE 
+ED 524.5 (Sessional Lecturer’s Office) 
+OFFICE HOURS 
+Flexible, by appointment only. 
+ 
+LAND ACKNOWLEDGEMENT 
+ 
+The University of Regina is situated on Treaty 4 lands with a presence in Treaty 6. These are the 
+territories of the Nêhiyawak, Anihšināpēk, Dakota, Lakota, and Nakoda, and the homeland of the 
+Métis/Michif Nation.  Today, these lands continue to be the shared territory of many diverse peoples 
+from near and far. 
+ 
+COURSE SUMMARY AND OBJECTIVES 
+ 
+The course objective is to introduce students to basic finance concepts including financial markets, 
+accounting statements and cash flows, the time value of money, net present value, securities valuation, 
+capital budgeting, and risk/return analysis.  It is a foundational course so you will be learning the tools to 
+do analysis in other course offerings. 
+ 
+TEXTBOOK: 
+ 
+Corporate Finance, 2022, 9th Canadian edition, by Ross, Westerfield, Jaffe, and Driss published by 
+McGraw-Hill Ryerson 
+ 
+You may also consider an electronic edition at the following URL: 
+ 
+https://www.mheducation.ca/corporate-finance-9781260881370-can-group 
+ 
+Access to the text publisher’s resources will be available if you buy a text. 
+ 
+Note: Not having access to required resources (like a textbook) is not a valid reason for extensions, grade 
+adjustments, or other accommodations. When students fail, a common reason is not having the textbook 
+and we make extensive use of the book in this course. They are expensive, but for a relatively minor 
+investment in the textbook, consider it to be insurance to reduce the chance that you could lose the 
+money invested in the class!
+This Course Outline is subject to change. Please refer to the current version on UR Courses. 
+WINTER 2023 BUS 290 – 003 COURSE 
+2 | P a g e
+ 
+ 
+ 
+ 
+COURSE EXPECTATIONS 
+ 
+The course will use lectures, chapter exercises, discussions, problem sets, online resources, and 
+extra reading.  Every student is expected to be prepared for each class. Check the class website 
+before every class. Please be familiar with this Course Outline. 
+ 
+ 
+Class Delivery The class will be delivered in both in-person and remote formats. You will be 
+required to select which format you will use. Remote exams will use 
+ProctorTrack software. If you attend remotely, you must have your audio on at 
+all times. 
+ 
+UR Courses 
+Website contains all course materials, class tools, pre-recorded video, and PowerPoints. 
+The video / slides are not substitutes for a textbook; a textbook is required. 
+ 
+Technical 
+Contact IT Support for any technical assistance (IT.Support@uregina.ca or  
+Support 
+306.585.4685).  Online assistance at https://www.uregina.ca/remote-learning/technical.html 
+ 
+Contacting 
+Students are encouraged to contact the instructor for assistance. Email is preferred; use 
+Instructor 
+your university email address as external emails (e.g., Hotmail.com) may not get through. 
+ 
+Attendance 
+ Students are expected to attend all classes. Students must complete 
+a minimum amount of course work to be in good standing and to be eligible to 
+write the final exam. 
+ 
+Any student who is experiencing COVID-19 symptoms and/or has tested positive for COVID-19 (and 
+must, therefore, not come to campus), should contact the instructor as soon as possible to discuss 
+potential accommodations. A student who is unable to attend an on-campus midterm exam for these 
+reasons should submit a student self-declaration of illness form to the instructor, and we will discuss the 
+potential for a deferred exam or adjusted exam weightings. If the exam is a final exam, the student self-
+declaration of illness form, together with a deferred exam application, should be submitted to 
+Hill.Undergrad@uregina.ca. 
+ 
+Due to privacy concerns, the class will not be recorded and you may not record any portion of class. 
+ 
+LEARNING APPROACH 
+ 
+The class website is set up in the format of READ, REFLECT, and DO. Read what is required, then 
+reflect on learning with questions asked. Finally, you will apply learning through an assigned task or 
+exercise.  
+ 
+Pre-requisite material: Be familiar with basic concepts in accounting, statistics, mathematics and basic 
+knowledge in Excel/business calculators. We use Excel/business calculators to do complicated financial 
+calculations, e.g., finding the present value, and yield to maturity.  It is your responsibility to be familiar 
+with these background materials since I will not use the class time to review those materials 
+ 
+ 
+WINTER 2023 BUS 290 – 003 COURSE 
+3 | P a g e
+ 
+ 
+ 
+ 
+BEING SUCCESSFUL IN THIS COURSE 
+ 
+In university, you have less in-class time with instructors, your marks are often (initially) lower than 
+high school, and class work is done on your own time and initiative. Past 100 students helped create 
+a “Top 10” list: 
+ 
+1. 
+Attend all classes. Remember: You can only miss a maximum of five classes. 
+2. 
+Read textbook / e-book and assigned readings / course notes before class. 
+3. 
+Ask for help to clarify, if you don’t understand. Don’t wait until just before an exam or assignment. 
+4. 
+Study at a fixed time weekly time (e.g., Mondays from 8 -10 a.m.) in a consistent location. 
+5. 
+Take Your Own Notes during class, adding examples and class discussion points to your course 
+notes. 
+6. 
+Stay Positive. Don’t be discouraged by a bad mark, if that happens. Ask how to do better. 
+7. 
+Participate in class – ask/answer questions, make comments, and learn from the discussion in 
+class. 
+8. 
+Do the Extra Work to stay ahead on assignments and studying. Schedule time lines in your 
+calendar. 
+9. 
+Stay Focused by not being distracted by your mobile phone, social media, etc.; your attention is on 
+class. 
+10. Have Fun or why are you doing this? 
+ 
+Your goal is not passing this class – it should be to do well in class. BUS 290 is a foundational 
+class where you master new vocabulary and gain new skills. You have competition for jobs so you 
+need to stand out – in your marks, in your work and other experience, and in your attitude and skills. 
+ 
+You should spend at least 7 hours but ideally 10 hours each week on this class, plus time on 
+working on assignments and studying for exams.  
+ 
+SUPPORT SERVICES – RESEARCH, STUDYING & WRITING 
+ 
+The University of Regina wishes to support all students in achieving academic success while enjoying a 
+full and rewarding university experience. 
+ 
+Student Accessibility upholds the University's commitment to a diverse and inclusive learning environment 
+by providing services and supports for students based on disability, religion, family status, and gender 
+identity. Students who require these services are encouraged to contact Student Accessibility to discuss 
+the possibility of academic accommodations and other supports as early as possible. For further 
+information, please email accessibility@uregina.ca or call (306) 585-4491. 
+ 
+ 
+Each business student may access a faculty academic program advisor, who is a great resource if you 
+have any academic issues or questions. Other U of R services provided are: 
+ 
+The Student Success Centre provides confidential guidance and support to students. 
+Counselling services are also available for students experiencing anxiety, depression, other 
+mental health-related issues, or chronic pain. Please visit 
+https://www.uregina.ca/student/counselling/.Mental Health Wellness Hub. 
+https://www.uregina.ca/mental-wellness/ 
+WINTER 2023 BUS 290 – 003 COURSE 
+4 | P a g e
+ 
+ 
+ 
+ 
+The U of R Library staff are always glad to help to students with research and assignments. 
+Our business librarian, Kate Cushon is available to provide advice on your projects.  
+ 
+ 
+UR International provides free academic and non-academic assistance (e.g., English 
+language services, cultural transition, and new learning environment adjustment) to 
+international students. 
+ 
+PREVENTION OF HARASSMENT POLICY 
+ 
+The University of Regina promotes a learning, working, and living environment that is respectful and 
+free of harassment and discrimination. The University will neither tolerate nor condone any 
+inappropriate or irresponsible conduct including any behaviour, which creates an intimidating, hostile 
+or offensive environment for study through the harassment of and /or discrimination towards an 
+individual or group. The Respectful University Policy may be found at 
+https://www.uregina.ca/policy/browse-policy/policy-GOV-100-015.html. 
+ 
+If you have concerns about any conduct occurring in BUS 290, please discuss this with the Instructor. 
+You may also review the Respectful University Policy Procedures (Revised 2017) at www.uregina.ca 
+or contact Coordinator, Respectful University Services at (306) 585-5400 or respect@uregina.ca. 
+ 
+ACADEMIC MISCONDUCT AND PLAGIARISM 
+ 
+While you are encouraged to interact with and learn from other students in this class, you are expected 
+to do your own work. Copying others’ work constitutes academic misconduct, and other examples of 
+misconduct are: sharing answers during exams, talking during exams, signing other classmates in for 
+attendance purposes, etc. 
+ 
+Although we will not run into this much in this course, using someone else’s words as your own (i.e., 
+plagiarism) includes omitting references, in-text citations, and quotation marks. Be sure you 
+understand Student Code of Conduct and Right to Appeal, contained in the 2022- 23 Academic 
+Calendar https://www.uregina.ca/student/registrar/resources-for-students/academic-calendars-and- 
+schedule/undergraduate-calendar/index.html or ask your Instructor in advance about plagiarism or 
+misconduct. 
+ 
+If you are using someone's words or sharing their ideas, you must give them credit through proper 
+citation or it will be considered plagiarism. In-text citations must be included for all information found 
+through research. This includes anything that was your own previous knowledge or your own personal 
+research and analysis. It must be cited along even if the information is paraphrased. You must cite 
+ideas too, not just the words used. Do not purchase or access student assignments or similar 
+information online. Even if cited, other students’ work may not be used in any course assignments. 
+NOTE: ANY level of plagiarism in the form of ANY missing in-text citations and/or references will be 
+referred to the Associate Dean – Undergraduate Program’s office for investigation of academic 
+misconduct. Do not affect your academic career with plagiarism; cite correctly! 
+ 
+ 
+ 
+WINTER 2023 BUS 290 – 003 COURSE 
+5 | P a g e
+ 
+ 
+ 
+ASSESSMENT SUMMARY 
+ 
+You must complete the required course work to be eligible to write the final exam, AND you 
+must have a passing mark on the three exams combined to pass the course, regardless of 
+other class marks. Class attendance is required. Students that get less than 60% on the first 
+assignments and first mid-term exam may be referred to the Student Success Centre and are 
+encouraged to seek their assistance in improving the students’ academic performance. 
+ 
+GRADING 
+ 
+Students will be evaluated based on the following elements: 
+ 
+DELIVERABLE 
+WEIGHTING 
+DUE DATE 
+     Problem sets
+15%
+  Various
+Mid-term Exam #1
+  20%
+Feb. 8
+Mid-term Exam #2
+  25%
+Mar. 15
+Final Exam  
+ 
+  40% 
+Apr. 26 
+TOTAL 
+   100% 
+ 
+ 
+Grading Guideline: I go by the following guideline in the Academic Calendar: 
+ 
+90-100: An outstanding performance 
+80-89: Very good performance 
+70-79: Above average performance 
+60-69: A generally satisfactory and intellectually adequate performance  
+50-59: A barely acceptable performance 
+0-49: Unacceptable performance 
+ 
+Participant Pool Research Credit: 
+The Participant Pool provides business students with the opportunity to participate in faculty research 
+studies to earn up to 2% bonus marks on participating business classes. These marks will be added 
+to your final grade if you have: 1) passed the final exam and 2) passed the class, before using the 
+bonus. For more information about the participant pool and to sign up, please visit 
+https://www.uregina.ca/business and find Pool of Research Participants under Quick Links. Register 
+using the first part of your U of R email as ID (e.g., for smith23k@uregina.ca, use smith23k as your 
+User ID). 
+ 
+DETAILED COURSE ASSESSMENT 
+ 
+A. Problem Sets 
+ 
+The problem sets are in addition to the chapter practice questions.  
+ 
+I will drop the lowest mark of the problem sets other than the final one on the Capital Asset 
+Pricing Model. This allows a even distribution of 5 marks each for the ones that count. 
+WINTER 2023 BUS 290 – 003 COURSE 
+6 | P a g e
+ 
+ 
+ 
+ 
+If a student is ill for an extended time and cannot submit a PS, the weight for the missed problem 
+set will move evenly to the remaining problem sets, subject to appropriate documentation and 
+timely notice to the instructor, i.e., within three business days from the deadline of a PS. 
+ 
+Note: All submissions are submitted through an Assignment link (on UR Courses) and 
+must include your name in the file name and in the header of the assignment.  
+ 
+The deadline for each problem set is by 11:00 pm on the assigned day.  
+ 
+B. Midterms #1 and #2 
+The first exam will be held on course material covered before the 1st midterm date. Please see 
+the class schedule for the specific topics and chapters to be covered. The second term exam will 
+cover course content from the start of the semester, but with approximately 75% or more 
+weighted on content covered since the first midterm.  The reason there is content from the first 
+third in the second midterm is calculations in the second third depend on things learned in the first 
+third. 
+ 
+C. Late Problem Sets and Missed Exams 
+Late assignments are not accepted and there is no make-up assignment for any class 
+assignments, if missed. A mark of 0% will be given. There are no make-up exams for missed mid-
+term exams.  If there is a legitimate reason (e.g., illness but not vacation or work) that you could 
+not write a midterm exam, the allocated marks will be added to the final exam 
+ 
+D. Final Exam 
+The final exam is comprehensive covering course content from the entire semester with a higher 
+weighting to the last part of the semester. Note: You must achieve a passing grade across 
+the midterms and the final exam to pass the course; failure to do that will earn a NP (not 
+pass) on your course and will affect your grade point average. 
+ 
+If you cannot write the final exam for medical or other legitimate reasons, your final exam may be 
+deferred. However, your Instructor cannot defer the final exam; please contact the Associate Dean – 
+Undergraduate Programs for deferral permission at the aforementioned email address of 
+Hill.Undergrad@uregina.ca. 
+ 
+Exam Resources 
+ 
+Cheat sheet: You are allowed to bring a cheat sheet to all exams under the following conditions: 22 cm x 
+14 cm (1/2 of letter size paper), one side only, and hand-written only. You can write anything you want, 
+but NO formula sheet will be provided. 
+ 
+Calculators: Standard business calculators will be allowed on exams as Excel will not be available.  
+Examples are the Texas Instruments BAII+ or the Sharp EL738XTB.  Make sure that whatever one you 
+have has the time value of money functions PV, FV, N, I/Y, PMT. 
+ 
+ 
+ 
+ 
+WINTER 2023 BUS 290 – 003 COURSE 
+7 | P a g e
+ 
+ 
+ 
+CLASS SCHEDULE 
+The following schedule is subject to change: 
+ 
+CLASS
+DATE
+CLASS TOPIC
+READING
+1 
+Jan. 4 
+Overview and Introduction 
+Ch. 1  
+2 
+Jan. 11 
+Accounting Statements and Cash Flows
+Ch 2 
+3 
+Jan. 18 
+Time Value of Money (TVM) (part 1)
+Ch. 5 
+4 
+Jan. 25 
+Time Value of Money (part 2) 
+Ch 5 
+Due
+Jan. 31
+Problem Set # 1 Time Value of Money – Due before 11:00 p.m.
+5
+Feb. 1
+How to Value Stocks and Bonds
+Ch 6
+6 
+Feb. 8 
+1st Mid-term (written in class time) – all content to-date
+ 
+7 
+Feb. 15 
+Other Investment Rules
+Ch 7 
+Due
+Feb. 17
+Problem Set # 2 – Stocks and Bonds – Due before 11:00 p.m.
+ 
+ 
+Feb. 22 
+No Class – Reading Week 
+ 
+8 
+Mar. 1 
+Capital Budgeting (part 1)
+Ch 8 
+9 
+Mar. 8 
+Capital Budgeting (part 2)
+Ch 8 
+Due 
+Mar. 10
+Problem Set # 3 – Capital Budgeting – Due before 11:00 p.m.
+ 
+10 
+Mar. 15 
+2nd Mid-term (written in class time) – items 7 to 9 primarily
+ 
+11 
+Mar. 22 
+Risk and Return Lessons from History
+Ch 10 
+12
+Mar. 29
+Capital Asset Pricing Model (CAPM) (part 1)
+Ch. 11
+13
+Apr. 5
+Capital Asset Pricing Model (part 2)
+Ch. 11 
+Due
+Apr. .10
+Problem Set # 4 – CAPM – Due before 11:00 p.m.
+ 
+Apr. 26
+Final Exam – Wednesday, Apr. 26 – 7:00 – 10:00 p.m.
+ 
+Suggested Chapter Practice Questions
+ 
+ 
+Ch 2 
+4, 7-9, 17, 19, 20 
+ 
+ 
+Ch 5 
+1-5, 6, 8, 10a, 15-17, 20, 23, 25, 27, 30-31, 36-37, 44, 47, 52, 64, 66-68 
+ 
+ 
+ Ch 6 
+4, 5, 9, 16, 18-20, 22, 24, 27, 34, 37, 38, 41-45, 47, 50 
+ 
+Ch 7
+1, 2, 6, 7, 10, 13, 16, 17, 19, 23-27
+ 
+Ch 8
+1, 2, 4, 5, 9, 12, 16, 18, 20, 22, 23
+ 
+ 
+ Ch 10* 
+1-3, 5, 7-10, 13-15, 17 
+ 
+ 
+ Ch 11 
+4-6, 10, 12, 14, 17, 18, 21-25, 26-33, 35, 36 
+ 
+ 
+ 
+ 
+ 
+ 
+* 
+Q9 add par value of the zero-coupon bond is $1,000 
+ 
+ 
+* 
+Q10 add par value of the preferred stock is $100 
+ 
+ 
+* 
+Q17 assume that the inflation rate was 3.2% annually 
+ 
+ 

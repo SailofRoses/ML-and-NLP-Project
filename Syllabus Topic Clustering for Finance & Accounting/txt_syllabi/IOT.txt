@@ -1,0 +1,220 @@
+Vishwakarma Institute of Technology, Pune                 Issue 01 : Rev No. 1 : Dt. 01/07/18 
+ 
+FF No. : 654 
+Financial Management and Costing 
+Course Prerequisites: 
+Basic concepts of cost, profit, loss, debit and credit. 
+ 
+Course Objectives: 
+Students will be able to: 
+1. Understand, analyze and interpret financial statements 
+2. Understand and concept of financial accounting for analysis of financial statements of a 
+business. 
+3. Develop an ability of decision making about investments. 
+ 
+ Credits: 2                                                        Teaching Scheme Theory: 2 Hours/Week 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+Course Relevance: Basic knowledge of Finance for working in a industry  
+SECTION-1 
+ 
+1. Financial Statement Analysis- Nature and Scope of Finance Function; Financial goal 
+profit vs. wealth, Maximization; Scope and Functions of Financial Management, Financial 
+Planning and Forecasting. Budgets & Budgetary Control: Types of Budget, Preparation of 
+Budgets: Operational & Financial Budgets, Financing and Dividend decisions. Types of 
+accounts, bookkeeping, Profit and Loss Account and Balance Sheet, Cash Flow Statement 
+2. Capital Budgeting and ratio Analysis -Ratio Analysis Classification, Ratio Analysis and 
+its limitations. Types of Ratios, Activity Turnover, Profitability, Liquidity, etc., B: Common 
+Size Statement, Index Statement, Capital Budgeting - Nature of Investment decisions; 
+Investment evaluation criteria - Non-DCF & DCF Techniques, PBP, Discounted PBP, PI, 
+ARR, Annual Worth 
+ 
+3. Working Capital Management - Meaning, significance and types of working capital; 
+calculating operating cycle period and estimation of working capital requirements; sources of 
+working capital, NPV and IRR comparison; Capital rationing. Various committee reports on 
+bank finance; Dimensions of working capital management. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vishwakarma Institute of Technology, Pune                 Issue 01 : Rev No. 1 : Dt. 01/07/18 
+ 
+                                                        SECTION-1I 
+4. Introduction to concept of Cost and Overheads - Cost, Cost Centre, Cost Unit, Elements 
+of Cost: Material Cost. Different methods of pricing of issue of materials Labour Cost: Direct 
+& Indirect cost, Different methods, Direct Expenses: Constituents and Significance, Prime 
+Cost, Classification: Production, Office & Administration, Selling & Distribution. Treatment 
+of Overheads: Collection ,Primary and Secondary Distribution and Absorption of Overheads 
+Machine, Labour hour rate, Under/Over Absorption of Overheads, Preparation of Cost Sheet 
+ 
+5. Costing Methods - Job Costing, Unit Costing, Contract Costing, Process Costing, Activity 
+Based Costing Simple numerical on various methods of costing to enable ascertains cost of 
+product. Standard costing: Concept, Standard Cost, Standard costing. Calculation of Variance 
+Numerical on calculation of variances, Variance – Variance Analysis 
+ 
+6. Marginal Costing and Break Even Analysis - Fixed & Variable (Marginal) Cost, 
+Marginal Cost. Applications of Marginal Costing in Decision-making: Product Mix, Profit 
+Planning, Make or Buy Decisions. Limiting Factor, Cost Volume Profit Analysis, Concept of 
+Break-Even, P/V Ratio and Margin of Safety 
+List of Tutorials: (Any Three) 
+1.Capital financing 
+2.Working capital finance 
+3.Preparation of Journal entries, Ledgers 
+4.Profit and Loss Account and Balance Sheet 
+5.Ratio Analysis  
+6.Investment decisions 
+7.Product Costing 
+9.Service Costing. 
+10.Process Costing 
+List of Practicals: (Any Six) 
+1. Case study on sources of capital and working capital 
+2. Case study on assessment of working capital 
+3. Studying and understanding Financial Statements - Profit and Loss 
+4. Studying and understanding Financial Statements - Balance sheet 
+5. Studying and understanding various financial ratios used in practice 
+6. Studying and understanding various financial ratios for decision making 
+7. Case study on Analysis of published results of an organisation – Manufacturing 
+8. Case study on Analysis of published results of an organisation – Service industry 
+9. Prepare a cost sheet to estimate the cost of any product10. Prepare a cost sheet any process 
+11. Case study on use Marginal Costing to determine Break Even Point and profitability  
+12. Case study on use Marginal Costing to determine profitability 
+Vishwakarma Institute of Technology, Pune                 Issue 01 : Rev No. 1 : Dt. 01/07/18 
+ 
+List of Projects: 
+1.Budgeting including sources of capital financing 
+2.Budgeting including sources of working capital finance 
+3.Preparation of Journal entries, Ledgers 
+4.Preparation Profit and Loss Account and Balance Sheet 
+5.Preparation of Balance Sheet 
+6.Ratio Analysis based on real life data from project on Profit and loss and Balance sheet 
+7.Compare Analysis of published results of organisations to enable investment decision 
+8.Apply Product Costing to estimate cost of any process used in practice 
+9.Apply Service Costing to estimate cost of any process used in practice 
+10.Apply Process Costing to estimate cost of any process used in practice 
+11.Apply Standard Costing to estimate cost of any process used in practice 
+12.Apply Marginal Costing to determine Break Even Point and profitability 
+List of Course Seminar Topics: 
+1.Sources of Capital Financing 
+2.Working Capital Management 
+3.Profit and Loss Account 
+4.Balance Sheet 
+5.Turnover and Ratios 
+6.Taxation 
+7.Product Costing 
+8.Service Costing 
+9.Process Costing 
+10.Investment Decisions 
+List of Course Group Discussion Topics: 
+1.Sources of Capital Financing  - Bank or Investors. 
+2.Working Capital Management - Which is better  - Less or More? 
+3.Profit and Loss Account  
+4.Balance Sheet - Effect on share prices. 
+5.Turnover and Ratios - which should be focused on? 
+6.Taxation - Fair or Unfair in India 
+7.Product Costing - does it drive Profits or Markets? 
+8.Service Costing - Quality or Cost? 
+9.Process Costing - Automation or Manual Labour? 
+10.Investment Decisions - Guts or Statistics? 
+ 
+Vishwakarma Institute of Technology, Pune                 Issue 01 : Rev No. 1 : Dt. 01/07/18 
+ 
+List of Home Assignments: 
+Design: 
+1. 
+Design a cost estimate for running a Shoe Company. 
+2. 
+Design a cost estimate for running a Fabrication Shop. 
+3. 
+Design a cost estimate for running an Online Book Company. 
+4. 
+Design a cost estimate for running a Grocery Company. 
+5. 
+Design a cost estimate for running a Data Science Company. 
+Case Studies : 
+1.Ratio Analysis based on real life data from project on Profit and loss and Balance sheet in 
+any one sector Company ( KPO/BPO, Manufacturing, Pharma,.... 
+2.Compare Analysis of published results of organisations to enable investment decision 
+3.Apply Product Costing to estimate cost of any process used in any one sector Company ( 
+KPO/BPO, Manufacturing, Pharma,.... 
+4.Apply Service Costing to estimate cost of any process used in any one sector Company ( 
+KPO/BPO, Manufacturing, Pharma,.... 
+5.Apply Process Costing to estimate cost of any process used in any one sector Company ( 
+KPO/BPO, Manufacturing, Pharma,.... 
+ 
+Blog 
+1. Taxation 
+2. Product Costing 
+3. Service Costing 
+4. Process Costing 
+5. Investment Decisions 
+ 
+Surveys 
+1. Interest Rates 
+2. Domestic Investment Decisions 
+3. Industrial Investment Decisions 
+4. Government Schemes 
+5. Suggestions about taxation. 
+ 
+ 
+ 
+Text Books: 
+1. Prasanna Chandra, Financial Management – Theory and Practi 
+ce, Edition 8, 2011, Tata McGraw Hill Education, 
+2. B. K. Bhar, Cost Accounting– Methods and Problems, Academi 
+c Publishers,1980 
+3. M.Y. Khan and P K Jain, Financial Management: Text, Proble 
+ms and Cases, Tata McGraw Hill Education 
+4.Amitabha Mukherjee and Mohammed Hani, Modern Accountancy, Edition 2, 2002, Tata 
+McGraw Hill Education 
+ 
+ 
+ 
+Vishwakarma Institute of Technology, Pune                 Issue 01 : Rev No. 1 : Dt. 01/07/18 
+ 
+Reference Books: 
+1. Paresh P. Shah, Financial Management, Reprint No. 2 2011, Biztantra, New Delhi, 
+2. S. N. Maheshwari, Introduction to Accountancy, Edition 11, 2013, Vikas Publishing House 
+3. M. Y. Khan, P. K. Jain, Management Accounting –Text, Problems, Cases, Edition No. 
+Tata McGraw Hill Publishers, 2013 
+Course Outcomes: 
+1.Understand and analyze financial statements and budgeting, interpret accounting ratios 
+2.Understand the concepts of Capital Budgeting and Working Capital management 
+3.Understand the mechanics of financial accounting for preparation of financial statements 
+to ascertain the performance and financial position of a business 
+4.Classify, apply different types of costs and overheads to ascertain costs of a product/ process 
+5.Apply costing methods as per  the suitability for various production processes and services. 
+6.Develop decision making of optimum product mix, profit planning, make or buy decisions 
+CO PO Map  
+CO 1,2,3,4,5,6 -> PO 1,6,7,8,9,10,11,12 
+Job Mapping: 
+Better growth opportunities for higher Management positions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

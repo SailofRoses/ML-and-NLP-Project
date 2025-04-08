@@ -1,0 +1,37 @@
+ 
+21131 
+Course ID 
+Engineering Economy 
+Course Title 
+3 
+Credit Hours/Units 
+Probability Theory & Its Applications 
+Prerequisites/Corequisites  
+Course Content: 
+- Defining Alternatives & Predicating Their Consequences 
+- The Need for Criteria & Analytical Procedures to Make Decisions 
+- Market Interest Rate, Real Interest Rate, Nominal Interest Rate, Effective Interest Rate 
+- Sensitivity Analysis 
+- Equivalence 
+- Time Value of Money 
+- Present Worth Analysis 
+- Equivalent Uniform Annual Worth (EUAW), Equivalent Uniform Annual Benefit (EUAB), 
+Equivalent Uniform Annual Cost (EUAC), Equivalent Annual Cash Flows Analysis 
+- Rate of Return Analysis 
+- Benefit-Cost Ratio Analysis 
+- Depreciation 
+- Income Taxes 
+- Replacement Analysis 
+- Inflation 
+- Uncertainty 
+- Breakeven Analysis 
+- Payback Period Analysis 
+- Probability Applications in Engineering Economics 
+References: 
+- William G Sullivan & Elin M Wicks & C. Patrick Koelling. ENGINEERING ECONOMY 
+- (PEARSON Prentice Hall) 
+- Blank, H.T. & A.J Tarquin. Engineering Economy (New York: McGraw Hill) 
+- Eschenbach, T. G., Lavelle, J. P., Whittaker, J. D., Jones, J. D., Newnan, D. G. Engineering 
+Economic Analysis (Canada: Oxford University Press) 
+  
+- Corporate Decision Making: Choosing Projects
