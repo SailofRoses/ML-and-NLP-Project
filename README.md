@@ -40,6 +40,13 @@ Welcome! This repository showcases a selection of my applied machine learning an
 - **Libraries**: Keras, NLTK, Scikit-learn, XGBoost, Gensim, NumPy, Pandas
 - **Tools**: Jupyter Notebooks, Git, GitHub
 
+
+## 🔐 Access & Usage
+
+This repository is **private** and intended solely for research assistant position coding sample review.
+
+> ⚠️ Academic Integrity Policy:  
+> All code and documentation in this repository are my original work. It is shared for review purposes only. Please do **not** reproduce, distribute, or reuse this code as solutions for coursework or assignments.
 ---
 
 ## 📫 Contact
